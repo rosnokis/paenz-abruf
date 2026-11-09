@@ -1,0 +1,129 @@
+[
+ {
+  "name": "Bilderbuchkino\"Die schönste Laterne der Welt\"",
+  "startDate": "2026-11-12T17:00+1:00",
+  "endDate": "2026-11-13T00:50+1:00",
+  "location": {
+   "name": "Stadtbücherei",
+   "address": "Hauptstraße 250, 51465 Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/familienzeit-bilderbuchkinodie-schoenste-laterne-der-welt/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Bilderbuchkino&quot;Die schönste Laterne der Welt&quot;",
+  "startDate": "2026-11-12T17:00+1:00",
+  "endDate": "2026-11-13T00:50+1:00",
+  "location": {
+   "name": "Stadtbücherei",
+   "address": "Hauptstraße 250, 51465 Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/familienzeit-bilderbuchkinodie-schoenste-laterne-der-welt/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Terre des Hommes Kunstbasar",
+  "startDate": "2026-11-14T11:00+1:00",
+  "endDate": "2026-11-14T23:50+1:00",
+  "location": {
+   "name": "Bürgerhaus Bergischer Löwe",
+   "address": "Konrad-Adenauer-Platz, 51465 Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/terre-des-hommes-kunstbasar/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Terre des Hommes Kunstbasar",
+  "startDate": "2026-11-15T11:00+1:00",
+  "endDate": "2026-11-15T23:50+1:00",
+  "location": {
+   "name": "Bürgerhaus Bergischer Löwe",
+   "address": "Konrad-Adenauer-Platz, 51465 Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/terre-des-hommes-kunstbasar-2/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Kreativ Kwartier",
+  "startDate": "2026-11-21",
+  "endDate": "2026-11-21",
+  "url": "https://in-gl.de/events/kreativ-kwartier/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Spielzeugbörse",
+  "startDate": "2026-11-21T16:00+1:00",
+  "endDate": "2026-11-21T19:00+1:00",
+  "location": {
+   "name": "Kita Heilige Drei Könige",
+   "address": "Hebborner Kirchweg 1, Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/spielzeugboerse/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Eintrittsfreier Museums-Tag für Alle!",
+  "startDate": "2026-11-6T11:00+1:00",
+  "endDate": "2026-11-6T18:00+1:00",
+  "url": "https://in-gl.de/events/eintrittsfreier-museums-tag-fuer-alle-16/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Kindersachen Flohmarkt",
+  "startDate": "2026-11-7T10:00+1:00",
+  "endDate": "2026-11-7T23:50+1:00",
+  "location": {
+   "name": "Gemeindesaal Zum Frieden Gottes",
+   "address": "Martin-Luther-Str. 11, Heidkamp"
+  },
+  "url": "https://in-gl.de/events/kindersachen-flohmarkt-10/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Familiengottesdienst: Franz und die Tiere",
+  "startDate": "2026-11-8T10:00+1:00",
+  "endDate": "2026-11-8T12:50+1:00",
+  "url": "https://in-gl.de/events/familiengottesdienst-franz-und-die-tiere/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Frozen on Ice!",
+  "startDate": "2026-11-8T11:00+1:00",
+  "endDate": "2026-11-8T23:50+1:00",
+  "location": {
+   "name": "Eissporthalle",
+   "address": "Saaler Mühle, Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/frozen-on-ice/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Offenes Angebot: Experimentelles Papierschöpfen für Familien",
+  "startDate": "2026-11-8T12:00+1:00",
+  "endDate": "2026-11-8T15:00+1:00",
+  "url": "https://in-gl.de/events/offenes-angebot-experimentelles-papierschoepfen-fuer-familien/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ }
+]

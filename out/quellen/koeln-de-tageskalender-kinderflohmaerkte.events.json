@@ -1,0 +1,154 @@
+[
+ {
+  "name": "Familienflohmarkt der Kita Kartause",
+  "startDate": "2026-11-14T10:00:00+01:00",
+  "endDate": "2026-11-14T14:00:00+01:00",
+  "url": "https://www.koeln.de/event/familienflohmarkt-der-kita-kartause/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinder- und Familien-Weihnachtsflohmarkt im Kölner Norden",
+  "startDate": "2026-11-15T11:00:00+01:00",
+  "endDate": "2026-11-15T16:00:00+01:00",
+  "location": {
+   "name": "Siehe Beschreibung"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinder-und-familien-weihnachtsflohmarkt-im-koelner-norden/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinderkleidertausch",
+  "startDate": "2026-11-15T12:00:00+01:00",
+  "endDate": "2026-11-15T12:00:00+01:00",
+  "location": {
+   "name": "Siehe Beschreibung"
+  },
+  "offers": [
+   {
+    "price": "0",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinderkleidertausch/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Spielzeugbasar in Worringen",
+  "startDate": "2026-11-15T14:00:00+01:00",
+  "endDate": "2026-11-15T16:00:00+01:00",
+  "url": "https://www.koeln.de/event/spielzeugbasar-in-worringen/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Vorsortierter Second-Hand-Markt für Spielzeug",
+  "startDate": "2026-11-21T10:00:00+01:00",
+  "endDate": "2026-11-21T12:30:00+01:00",
+  "location": {
+   "name": "Christ-König-Kirche Longerich",
+   "address": "Altonaer Straße 65, 50737 Köln"
+  },
+  "url": "https://www.koeln.de/event/kinderflohmarkt-in-longerich/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinderflohmarkt im Krewelshof Lohmar",
+  "startDate": "2026-11-28T09:00:00+01:00",
+  "endDate": "2026-11-28T15:00:00+01:00",
+  "location": {
+   "name": "Krewelshof Lohmar",
+   "address": "Krewelshof 1, 53797 Lohmar"
+  },
+  "offers": [
+   {
+    "price": "0",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinderflohmarkt-im-krewelshof-lohmar-4/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Adventsmarkt und Spielzeugmarkt in Raderthal",
+  "startDate": "2026-11-29T11:00:00+01:00",
+  "endDate": "2026-11-29T17:00:00+01:00",
+  "url": "https://www.koeln.de/event/adventsmarkt-und-spielzeugmarkt-in-raderthal/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinderflohmarkt in Ehrenfeld",
+  "startDate": "2026-11-29T11:00:00+01:00",
+  "endDate": "2026-11-29T14:00:00+01:00",
+  "location": {
+   "name": "Tante Astrid e.V.",
+   "address": "Vogelsanger Str. 282, 50825 Köln"
+  },
+  "offers": [
+   {
+    "price": "0",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-11-29/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinderflohmarkt in Ehrenfeld",
+  "startDate": "2026-12-06T11:00:00+01:00",
+  "endDate": "2026-12-06T14:00:00+01:00",
+  "location": {
+   "name": "Tante Astrid e.V.",
+   "address": "Vogelsanger Str. 282, 50825 Köln"
+  },
+  "offers": [
+   {
+    "price": "0",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-06/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
+  "name": "Kinderflohmarkt in Ehrenfeld",
+  "startDate": "2026-12-13T11:00:00+01:00",
+  "endDate": "2026-12-13T14:00:00+01:00",
+  "location": {
+   "name": "Tante Astrid e.V.",
+   "address": "Vogelsanger Str. 282, 50825 Köln"
+  },
+  "offers": [
+   {
+    "price": "0",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-13/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ }
+]

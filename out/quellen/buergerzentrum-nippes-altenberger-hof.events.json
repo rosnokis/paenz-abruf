@@ -1,0 +1,92 @@
+[
+ {
+  "name": "Michael Frowin &#8211; &#8222;Das wird ein Vorspiel haben&#8220;",
+  "startDate": "2026-11-03",
+  "endDate": "2026-11-03",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "VVK 28,05€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/michael-frowin-das-wird-ein-vorspiel-haben/?occurrence=2026-11-03",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Offene Worte- Die offene Bühne für Texte, Töne und Zwischentöne",
+  "startDate": "2026-11-03",
+  "endDate": "2026-11-03",
+  "location": {
+   "name": "Clubraum"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei - Hut geht rum!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-11-03&",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kindertheater &#8211; Conny kommt",
+  "startDate": "2026-11-04",
+  "endDate": "2026-11-04",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "Gruppentarif für die 10:30 Uhr Vorstellung €",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt/?occurrence=2026-11-04",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kindertheater &#8211; Conny kommt",
+  "startDate": "2026-11-04",
+  "endDate": "2026-11-04",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "Gruppentarif für die 10:30 Uhr Vorstellung €",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt-601/?occurrence=2026-11-04",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Runder Tisch Nippes",
+  "startDate": "2026-11-04",
+  "endDate": "2026-11-04",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "kostenlos",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/runder-tisch-nippes-3-497-885/?occurrence=2026-11-04",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ }
+]
