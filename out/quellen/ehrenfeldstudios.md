@@ -33,6 +33,14 @@ Sa, 05.12.2026 | 20 Uhr
 ★ Für alle ab 16 Jahren
 Fr, 04.12.2026 | 20 Uhr
 [mehr lesen](https://www.ehrenfeldstudios.de/fragil-compania-nomada-es/)
+[MIT UNS! ZWEI | Silke Z.](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)
+ehrenfeldstudios Köln:
+So, 06.12.2026 | 18 Uhr (PREMIERE)
+mit Physical Introduction um 17:30 Uhr
+Tanzgenerator Bonn:
+So, 06.12.2026 | 11:30 Uhr
+Fr, 04.12.2026 | 18 Uhr
+[mehr lesen](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)
 [dernière! | von Caroline Simon](https://www.ehrenfeldstudios.de/derniere-von-caroline-simon/)
 Fr, 11.12.2026 | 20 Uhr (in deutscher Sprache)
 Sa, 12.12.2026 | 20 Uhr (in englischer Sprache)

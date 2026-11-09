@@ -9,10 +9,6 @@ Stadtteil
 ★ [Für Kinder](https://www.rodenkirchen.de/kalender)
 ★ [Jeden Tag einzeln](https://www.rodenkirchen.de/kalender?kinder=1&einzeln=1)
 [Veranstaltungsorte](https://www.rodenkirchen.de/adressen?orte=1)
-Heute, Montag, 9. November 2026
-Mo 9 Nov.
-★ Kinder · 17:15 Uhr [Martinszug Kita St. Pius](https://www.rodenkirchen.de/termin/217-martinszug-kita-st-pius)
-★ Montag, 9. November 2026, Kindergarten St. Pius, Homburger Straße 8a · Raderberg
 Donnerstag, 12. November 2026
 Do 12 Nov.
 ★ Kinder · 17:15 Uhr [Martinszug GGS Nikolausschule](https://www.rodenkirchen.de/termin/218-martinszug-ggs-nikolausschule)
@@ -48,11 +44,21 @@ Samstag, 19. Dezember 2026
 Sa 19 Dez.
 Musik · 14:00 Uhr [Adventssingen im LiZ](https://www.rodenkirchen.de/termin/289-adventssingen-im-liz)
 Samstag, 19. Dezember 2026, LiZ – Lokales Inklusions-Zentrum am Markt, Fronhofstraße 42 · Sürth · kostenlos
-Montag, 15. Februar 2027
-Mo 15 Feb.
+Samstag, 6. Februar 2027
+Sa 6 Feb.
+Karneval · 14:00 Uhr [Weißer Veedelszug](https://www.rodenkirchen.de/termin/313-weisser-veedelszug)
+Samstag, 6. Februar 2027, Strecke (siehe Karte) · Weiß · kostenlos
+Sonntag, 7. Februar 2027
+So 7 Feb.
+Karneval · 11:11 Uhr [Sürther Veedelszug](https://www.rodenkirchen.de/termin/314-suerther-veedelszug)
+Sonntag, 7. Februar 2027, Strecke (siehe Karte) · Sürth · kostenlos
 Karneval · 14:00 Uhr [Karnevalsumzug Rodenkirchen](https://www.rodenkirchen.de/termin/252-karnevalsumzug-rodenkirchen)
-Montag, 15. Februar 2027, Hauptstraße · Rodenkirchen · kostenlos
+Sonntag, 7. Februar 2027, Hauptstraße · Rodenkirchen · kostenlos
+Montag, 8. Februar 2027
+Mo 8 Feb.
+Karneval · 14:30 Uhr [Veedelszoch Rondorf und Hochkirchen](https://www.rodenkirchen.de/termin/315-veedelszoch-rondorf-und-hochkirchen)
+Montag, 8. Februar 2027, Strecke (siehe Karte) · Rondorf · kostenlos
 Termine nach Veedel
-[Bayenthal 2](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 2](https://www.rodenkirchen.de/kalender/immendorf) [Marienburg 1](https://www.rodenkirchen.de/kalender/marienburg) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderberg 3](https://www.rodenkirchen.de/kalender/raderberg) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 113](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 8](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 35](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kal …
+[Bayenthal 2](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 2](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderberg 2](https://www.rodenkirchen.de/kalender/raderberg) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 112](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 5](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 50](https://www.rodenkirchen.de/kalender …
 Termine nach Thema
-★ [Markt 139](https://www.rodenkirchen.de/kalender/markt) [Kultur 15](https://www.rodenkirchen.de/kalender/kultur) [Musik 10](https://www.rodenkirchen.de/kalender/musik) [Kinder 12](https://www.rodenkirchen.de/kalender/kinder) [Senioren 7](https://www.rodenkirchen.de/kalender/senioren) [Karneval 22](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 2](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 7](h …
+★ [Markt 142](https://www.rodenkirchen.de/kalender/markt) [Kultur 14](https://www.rodenkirchen.de/kalender/kultur) [Musik 10](https://www.rodenkirchen.de/kalender/musik) [Kinder 10](https://www.rodenkirchen.de/kalender/kinder) [Senioren 7](https://www.rodenkirchen.de/kalender/senioren) [Karneval 25](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 2](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 7](h …

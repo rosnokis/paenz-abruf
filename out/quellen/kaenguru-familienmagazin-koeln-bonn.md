@@ -9,7 +9,7 @@ Viel Vergnügen!
 ★ [„Radio 350 Hertz" Eine interaktive Musiktheaterperformance als Radioshow für Kinder ab 6 Jahren & ihre Kuscheltiere 09.11.2026, 10:00 Uhr Theater Marabu Bonn, 53225 Bonn](https://www.kaenguru-online.de/kalender/theater/radio-350-hertz/2026-11-09)
 Veranstaltung suchen
 Onlineangebot
-1721 Veranstaltungen gefunden
+1773 Veranstaltungen gefunden
 [Für Teenager](https://www.kaenguru-online.de/kalender/fuer-teenager)
 [„Die Physiker"](https://www.kaenguru-online.de/kalender/fuer-teenager/die-physiker/2026-11-09)
 ★ Komödie von Friedrich Dürrenmatt für Jugendliche ab 12 Jahren

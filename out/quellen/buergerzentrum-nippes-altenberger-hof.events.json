@@ -1,82 +1,82 @@
 [
  {
-  "name": "Michael Frowin &#8211; &#8222;Das wird ein Vorspiel haben&#8220;",
-  "startDate": "2026-11-03",
-  "endDate": "2026-11-03",
+  "name": "der buchladen in der Scheune – Lesung mit Christoph Kramer „Wolkenberührpunkt“",
+  "startDate": "2026-11-09",
+  "endDate": "2026-11-09",
   "location": {
    "name": "Scheune"
   },
   "offers": [
    {
-    "price": "VVK 28,05€",
+    "price": "20€",
     "priceCurrency": "EUR"
    }
   ],
-  "url": "https://buergerzentrum-nippes.de/events/michael-frowin-das-wird-ein-vorspiel-haben/?occurrence=2026-11-03",
+  "url": "https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-christoph-kramer-wolkenberuehrpunkt/?occurrence=2026-11-09",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  },
  {
-  "name": "Offene Worte- Die offene Bühne für Texte, Töne und Zwischentöne",
-  "startDate": "2026-11-03",
-  "endDate": "2026-11-03",
+  "name": "Premiere: Kölner Geschichten Haus &#8211; Systemisch",
+  "startDate": "2026-11-10",
+  "endDate": "2026-11-10",
   "location": {
-   "name": "Clubraum"
+   "name": "Scheune"
   },
   "offers": [
    {
-    "price": "Eintritt frei - Hut geht rum!",
+    "price": "10€/ erm.5€",
     "priceCurrency": "EUR"
    }
   ],
-  "url": "https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-11-03&",
+  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch/?occurrence=2026-11-10",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein",
+  "startDate": "2026-11-12",
+  "endDate": "2026-11-12",
+  "location": {
+   "name": "Herrenhaus"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519/?occurrence=2026-11-12&",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  },
  {
-  "name": "Kindertheater &#8211; Conny kommt",
-  "startDate": "2026-11-04",
-  "endDate": "2026-11-04",
+  "name": "der buchladen in der Scheune: Lesung mit Lutz Geißler &#8211; 111 Brot-Mythen, die sich verkrümeln können",
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-16",
   "location": {
    "name": "Scheune"
   },
   "offers": [
    {
-    "price": "Gruppentarif für die 10:30 Uhr Vorstellung €",
+    "price": "20€",
     "priceCurrency": "EUR"
    }
   ],
-  "url": "https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt/?occurrence=2026-11-04",
+  "url": "https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16",
   "eventStatus": "EventScheduled",
-  "kinder": true,
+  "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  },
  {
-  "name": "Kindertheater &#8211; Conny kommt",
-  "startDate": "2026-11-04",
-  "endDate": "2026-11-04",
+  "name": "Forumtheater &#8222;Gemeinsam Haltung zeigen&#8220;",
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-17",
   "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "Gruppentarif für die 10:30 Uhr Vorstellung €",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt-601/?occurrence=2026-11-04",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "Runder Tisch Nippes",
-  "startDate": "2026-11-04",
-  "endDate": "2026-11-04",
-  "location": {
-   "name": "Scheune"
+   "name": "Feierraum"
   },
   "offers": [
    {
@@ -84,7 +84,7 @@
     "priceCurrency": "EUR"
    }
   ],
-  "url": "https://buergerzentrum-nippes.de/events/runder-tisch-nippes-3-497-885/?occurrence=2026-11-04",
+  "url": "https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"

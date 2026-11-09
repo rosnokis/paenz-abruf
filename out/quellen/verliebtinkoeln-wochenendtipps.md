@@ -3,37 +3,36 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[7 Auto-Kennzeichen, die in Köln verboten sind](https://verliebtinkoeln.com/auto-kennzeichen-die-in-koeln-verboten-sind/)
+In Köln beginnt jedes Autokennzeichen mit einem „K“ – und wer ein bisschen kreativ ist, kann sich danach sein ganz persönliches Wunschkennzeichen zusammenstellen. Aber Vorsicht: Nicht jede Kombination ist erlaubt. Einige Buchstabenfolgen sind in Köln grundsätzlich verboten. Meist, weil sie politisch belastet…
+[Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
+[So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
+09.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
+[7 kölsche Ein-Wort-Sätze – weißt du, was sie bedeuten?](https://verliebtinkoeln.com/koelsche-ein-wort-saetze-quiz/)
+09.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[4 Radiosender, auf denen das ganze Jahr kölsche Musik läuft](https://verliebtinkoeln.com/4-radio-sender-auf-denen-du-das-ganze-jahr-koelsche-musik-hoerst/)
+09.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/)
 [Dat kölsche Sudoku am Montag](https://verliebtinkoeln.com/dat-koelsche-sudoku-am-montag/)
-Montagmorgen, de Kaffeeduft in der Luft – wat fehlt? Richtig: Ein kleines Rätsel für zwischendurch! Unser kölsches Sudoku bringt nicht nur dein Hirn auf Trab, sondern auch ein bisschen Jeföhl in den Alltag. Willkommen beim kölschen Sudoku zum Wochenstart! Ob im Büro,…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 09.11.2026 • 2 Min. Lesedauer
 [Nur Kölner verstehen diese 7 Wörter: Wie viele erkennst du?](https://verliebtinkoeln.com/koelsche-woerter-bedeutung-quiz/)
 08.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [11 Geschenke unter 20 Euro, die jeden Kölner glücklich machen](https://verliebtinkoeln.com/koeln-geschenke/)
 08.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Kölsche Sudoku am Sonntag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-sonntag-hier-kostenlos-am-handy-oder-computer-spielen/)
-07.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Warum nur wenige Kölner Gaststätten Päffgen Kölsch ausschenken](https://verliebtinkoeln.com/warum-nur-wenige-koelner-gaststaette-paeffgen-koelsch-ausschenken/)
-07.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Was kostet eine Wohnung im Kranhaus im Rheinauhafen?](https://verliebtinkoeln.com/kranhaus-rheinauhafen-koeln-wohnung-kaufen-mieten-anzeigen/)
-07.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
-07.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
-In Köln gibt es für viele ganz alltägliche Dinge eigene Wörter. Was für Kölner völlig selbstverständlich klingt, stellt Menschen außerhalb der Stadt manchmal vor ein…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 08.11.2026 • 3 Min. Lesedauer
-Wer ein Geschenk aus Köln sucht, muss dafür nicht viel Geld ausgeben. Ob ein kleines Mitbringsel, eine Aufmerksamkeit zum Geburtstag oder ein Geschenk für jemanden,…
-[Köln](https://verliebtinkoeln.com/category/koeln/) • 08.11.2026 • 5 Min. Lesedauer
+Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein Schlagzeug für…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
+„Dä!“, „Luurens!“ oder „Schakalfööss!“: In Köln braucht man manchmal nur ein einziges Wort, um einen ganzen Satz auszudrücken. Doch verstehst du auch, was damit gemeint…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 09.11.2026 • 2 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
+Kölsche Musik hört man in Köln nicht nur an Karneval. Ob Bläck Fööss, Brings, Höhner, Kasalla oder Cat Ballou: Wer die Lieder aus…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 5 Min. Lesedauer
+[Warum nur wenige Kölner Gaststätten Päffgen Kölsch ausschenken](https://verliebtinkoeln.com/warum-nur-wenige-koelner-gaststaette-paeffgen-koelsch-ausschenken/)
 Päffgen gehört zu den bekanntesten und beliebtesten Kölsch-Sorten in Köln. In einer Umfrage von Verliebt in Köln zu den beliebtesten Kölsch-Marken belegte Päffgen…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 5 Min. Lesedauer
+[Was kostet eine Wohnung im Kranhaus im Rheinauhafen?](https://verliebtinkoeln.com/kranhaus-rheinauhafen-koeln-wohnung-kaufen-mieten-anzeigen/)
 Eine Wohnung im Kranhaus kaufen oder mieten? Die drei Kranhäuser gehören zu den bekanntesten Gebäuden Kölns. Für die einen sind sie ein architektonisches…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 4 Min. Lesedauer
-[9 Songtexte, bei denen jeder Exil-Kölner sofort Heimweh bekommt](https://verliebtinkoeln.com/9-liedzeilen-die-jedem-exil-koelner-aus-der-seele-sprechen/)
-Wer einmal in Köln gewohnt hat, wird diese Stadt so schnell nicht wieder los. Alle Exil-Kölner wissen, wovon wir sprechen. Es gibt viele…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 2 Min. Lesedauer
-[Wie die Römer Köln mit Frischwasser aus der Eifel versorgt haben](https://verliebtinkoeln.com/eifelwasserleitung-koeln/)
-Es war ein Meisterwerk der Ingenieurskunst und die längste Wasserleitung nördlich der Alpen. Und es zeigt auch, wie anspruchsvoll und mit wie viel…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 3 Min. Lesedauer
 [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
+[11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
 Ein Regenschirm ist ein Paraplü, ein Federbett heißt Plümo und wer von einer Mösch spricht, meint einen Spatz. In der kölschen Sprache haben…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 07.11.2026 • 5 Min. Lesedauer
 [11 Möglichkeiten, um Glück in kölscher Sprache auszudrücken](https://verliebtinkoeln.com/glueck-koelsche-sprache/)
@@ -59,13 +58,13 @@ Es war das einst geheimste und teuerste Bauwerk Deutschlands. Die Gänge befinde
 Es bietet einen besonderen Einblick in die Geheimnisse unserer Erde. Vulkane, Lava, ein Brodeln – all das ist viel näher an Köln, als…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 2 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+„Dä!“, „Luurens!“ oder „Schakalfööss!“: In Köln braucht man manchmal nur ein einziges Wort, um einen ganzen Satz auszudrücken. Doch verstehst du auch, was…
 Montagmorgen, de Kaffeeduft in der Luft – wat fehlt? Richtig: Ein kleines Rätsel für zwischendurch! Unser kölsches Sudoku bringt nicht nur dein Hirn…
 In Köln gibt es für viele ganz alltägliche Dinge eigene Wörter. Was für Kölner völlig selbstverständlich klingt, stellt Menschen außerhalb der Stadt manchmal…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 08.11.2026 • 3 Min. Lesedauer
+[Kölsche Sudoku am Sonntag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-sonntag-hier-kostenlos-am-handy-oder-computer-spielen/)
 Willkommen beim kölschen Sudoku am Sonntag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 07.11.2026 • 3, 3 Min. Lesedauer
-[Wie viele Menschen leben wirklich auf der Schäl Sick?](https://verliebtinkoeln.com/wie-viele-menschen-leben-wirklich-auf-der-schael-sick/)
-Die meisten Kölner haben ein Gefühl dafür, wie die Stadt sich zwischen links und rechts vom Rhein verteilt. Aber wie viele Menschen leben…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 06.11.2026 • 2 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 [1. FC Köln nach dem Union-Doppel: Hui oder pfui?](https://verliebtinkoeln.com/fc-union-dreierkette-el-mala-brueder/)
 Ein Punkt in Berlin, ein besonderer Moment für die El-Mala-Brüder – und trotzdem viele Fragen zum Spiel des 1. FC Köln: Nach dem…

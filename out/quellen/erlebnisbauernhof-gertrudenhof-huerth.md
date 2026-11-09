@@ -2,35 +2,36 @@
 
 ## Quelle: http://www.erlebnisbauernhof-gertrudenhof.de
 Vom 09.11. bis 12.11.2026 ist das Erlebnisgelände aufgrund des Umbaus geschlossen!
-Ab dem 13.11.2026 öffnet unser [Gertrudenhof Weihnachtspark](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
+Ab dem 13.11.2026 öffnet unser [Gertrudenhof Hunde-Weihnachtsmarkt](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
 Slide
 WILLKOMMEN AUF DEM
 Gertrudenhof
-Lichterglanz & Winterzauber ✨🎅
-im Gertrudenhof Weihnachtspark vom 13.11.26 – 3.01.27
+13. - 15.11. großer Hunde-Weihnachtsmarkt 🎄 mit Lichterglanz & Winterzauber!
+★ Ab 19.11. Familien-Weihnachtspark mit tollen Highlights✨🎅
 [Tickets sichern →](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
+Lichterglanz & Winterzauber ✨🎅
+im Gertrudenhof Weihnachtspark vom 19.11.26 – 3.01.27
 Willkommen auf dem Gertrudenhof
 Weihnachtspark
 2026
-Unser Weihnachtspark öffnet vom 13.11. bis 03.01.2027 seine Tore – kommt vorbei und lasst euch verzaubern!
 Block
 Erlebnisgelände
 Garantierter Einlass mit Online-Ticket
 Bauernmarkt
 entdecken
-Firmenangebote
-zum Erleben
-Gutscheine
-zum Verschenken
+Gans, Ente & Pute
+vorbestellen
+Weihnachtsbaum
+Verkauf, ab dem 19.11.26
 Heutige Öffnungszeiten
 Montag, 09.11.2026
-10.00 – 19.00 Uhr
+GESCHLOSSEN
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr
 Erlebnis-Gelände auf dem Gertrudenhof
 Geländebereich A
 Gertrudenhof Weihnachts-Park 2026
-Vom 13.11. bis zum 03.01.2027
+Vom 19.11. bis zum 03.01.2027
 [Tickets sichern](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
 ★ Der große Familien-Weihnachtspark – in Hürth bei Köln!
 ★ Freut euch auf einen besonderen Weihnachtsausflug für die ganze Familie! Auf dem über 25.000 m² großen Erlebnisgelände des Gertrudenhofs erwartet euch kein klassischer Weihnachtsmarkt, sondern eine einzigartige Weihnachtswelt voller Erlebnisse:

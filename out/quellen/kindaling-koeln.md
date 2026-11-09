@@ -40,8 +40,8 @@ BELIEBTE KURSE & FERIENANGEBOTE
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)
 ★ [Jetzt buchen](https://www.kindaling.de/kreativcamps/cats-kindermusical-osterferienworkshop/koeln-lindenthal)
 LASS DICH INSPIRIEREN
-★ [Die 10 besten Brettspiele für Kinder ab 6 Jahren](https://www.kindaling.de/magazin/die-10-besten-brettspiele-fuer-kinder-ab-6-jahren)
 [Adventskalender: Die schönsten Türchen für die Vorweihnachtszeit](https://www.kindaling.de/magazin/adventskalender-2026)
+★ [Einfaches Upcycling-Projekt: Baut eure eigene Kinderküche](https://www.kindaling.de/magazin/diy-kinderkueche-upcycling)
 DURCHS MAGAZIN STÖBERN
 ★ [So lernen Kinder effektiv und mit Freude](https://www.kindaling.de/magazin/nachhilfe-fuer-kinder)
 [So macht ihr eure Kids stark fürs Leben](https://www.kindaling.de/magazin/stark-auch-ohne-muckis)

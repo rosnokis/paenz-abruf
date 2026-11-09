@@ -1,57 +1,5 @@
 [
  {
-  "name": "Kinderflohmarkt, Kindertagesstätte St Rochus Overath",
-  "startDate": "2026-11-08T10:00:00+01:00",
-  "endDate": "2026-11-08T13:00:00+01:00",
-  "location": {
-   "name": "Kindertagesstätte St Rochus Overath",
-   "address": "Grüner Weg 14, 51491 Overath"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/overath-bergisches-land/kindertagesstaette-st-rochus-overath-51491-overath-10612/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Kindertrödel im Gemeindehaus der Johannischen Kirche, Gemeindehaus Johannische Kirche",
-  "startDate": "2026-11-08T10:00:00+01:00",
-  "endDate": "2026-11-08T16:00:00+01:00",
-  "location": {
-   "name": "Gemeindehaus Johannische Kirche",
-   "address": "Bruchweg 126, 41564 Kaarst"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/kaarst/gemeindehaus-johannische-kirche-41564-kaarst-1956/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Baby und Kinder Trödelmarkt -vorsortiert-, Familienzentrum Hundert Morgen Wald",
-  "startDate": "2026-11-08T11:00:00+01:00",
-  "endDate": "2026-11-08T14:00:00+01:00",
-  "location": {
-   "name": "Familienzentrum Hundert Morgen Wald",
-   "address": "Am Bauhof 8, 41564 Kaarst"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/kaarst/familienzentrum-hundert-morgen-wald-41564-kaarst-11612/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Spielzeug Basar Kita Hippolytusgarten, Familienzentrum Hippolytusgarten",
-  "startDate": "2026-11-08T13:00:00+01:00",
-  "endDate": "2026-11-08T15:00:00+01:00",
-  "location": {
-   "name": "Familienzentrum Hippolytusgarten",
-   "address": "Hippolytusstraße 49, 53840 Troisdorf"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/troisdorf/familienzentrum-hippolytusgarten-53840-troisdorf-9662/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
   "name": "26. Familien-Flohmarkt-Fest, Katholisches Pfarrheim Bonn-Oberkassel",
   "startDate": "2026-11-14T09:30:00+01:00",
   "endDate": "2026-11-14T13:00:00+01:00",

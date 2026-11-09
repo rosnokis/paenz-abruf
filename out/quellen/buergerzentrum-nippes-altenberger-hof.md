@@ -26,29 +26,34 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Di. 03
+Mo. 09
 November
-20:00 - 22:00
+19:30 - 21:00
 Scheune
-[Michael Frowin – „Das wird ein Vorspiel haben“](https://buergerzentrum-nippes.de/events/michael-frowin-das-wird-ein-vorspiel-haben/?occurrence=2026-11-03)
-Frowin ist lustig. Frowin ist schnell. Frowin ist aktuell. Ohne Zeigefinger. Ohne Besserwisserei. Kein Kabarett von gestern, sondern Polit-Stand-Up von heute. Einfach clever und mit verblüffender Leichtigkeit. Und vor allem richtig komisch. Weil bei Frowin die großen Themen immer im Kleinen stecken. Weil er den Witz in der Wut findet undden Aberwitz im Alltag. Mit […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/michael-frowin-das-wird-ein-vorspiel-haben/?occurrence=2026-11-03)
-Clubraum
-[Offene Worte- Die offene Bühne für Texte, Töne und Zwischentöne](https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-11-03&time=1793736000)
-Das Leben und die Welt sind bunt. Es gibt so viel darüber zu erzählen. Offene Worte ist die neue Veranstaltungsreihe im Altenberger Hof, die Raum für eigene Lieder und Texte geben möchte. Bei “Offene Worte” bekommen Worte und Kreativität eine Bühne. Ob gesungen oder gesprochen, vorgelesen oder frei erzählt. Ein eigenes Lied, ein eigener Text, […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-11-03&time=1793736000)
-Mi. 04
-10:30 - 11:15
-★ [Kindertheater – Conny kommt](https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt/?occurrence=2026-11-04)
-★ Ach so, Mama fährt weg. Oh, für 4 Tage!Alles klappt gut. Nur der Hals piekt. Und die Nase läuft… und es ist so heiß…und…Zum Glück ist Papa da und Mau und Jakob auch.Wieder gesund soll es endlich Pizza geben. Simon, Connis Kindergartenfreund,kann nämlich richtige Pizza backen! Oder nicht? Doch, klar. Mit viel Tatendrang geht es […]...
-★ [Details anzeigen](https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt/?occurrence=2026-11-04)
-16:30 - 17:15
-★ [Kindertheater – Conny kommt](https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt-601/?occurrence=2026-11-04)
-★ [Details anzeigen](https://buergerzentrum-nippes.de/events/kindertheater-conny-kommt-601/?occurrence=2026-11-04)
-19:00 - 20:30
-[Runder Tisch Nippes](https://buergerzentrum-nippes.de/events/runder-tisch-nippes-3-497-885/?occurrence=2026-11-04)
-Alle zwei Monate treffen sich dort Menschen in / von / aus Nippes – engagierte Bürger:innen, Vereine, Institutionen, etc.. Es gibt so viele Ideen, so viele Gruppen oder Initiativen und so viele engagierte Menschen – beim Runden Tisch gibt es die Möglichkeit sich auszutauschen, gegenseitig zu informieren oder eben auch neue Projekte anzuregen. Dieser Runde […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/runder-tisch-nippes-3-497-885/?occurrence=2026-11-04)
+[der buchladen in der Scheune – Lesung mit Christoph Kramer „Wolkenberührpunkt“](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-christoph-kramer-wolkenberuehrpunkt/?occurrence=2026-11-09)
+Die Moderation übernimmt Robby Hunke! »Wolkenberührpunkt« ist ein Roman über zwei auf den ersten Blick sehr unterschiedliche Männer und die eine Frage: Findet das Glück uns erst dann, wenn wir aufhören, jemand sein zu wollen? Christoph Kramers zweites Buch ist ein sensibles Porträt über das, was nur zwischen den Zeilen steht – was unser Leben […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-christoph-kramer-wolkenberuehrpunkt/?occurrence=2026-11-09)
+Di. 10
+20:00 - 21:20
+[Premiere: Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch/?occurrence=2026-11-10)
+★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch/?occurrence=2026-11-10)
+Do. 12
+10:00 - 12:00
+Herrenhaus
+[„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519/?occurrence=2026-11-12&time=1794477600)
+Sie möchten neue Kontakte in Ihrem Viertel knüpfen, Ihren Ruhestand aktiv gestalten, Informationen und Angebote für unsere Generation erhalten? Dann kommen Sie zum Kennenlernen zu unserem „Offenen Treff“. Eine Anmeldung ist notwendig. Mail: [E-Mail] oder Tel.: 0157 – 55718091 Neuinteressierte begrüßen wir ab 09:45 Uhr im Foyer für eine Vorabinformation.Beim „Offenen Treff“ frühstücken wir gemeinsam, […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519/?occurrence=2026-11-12&time=1794477600)
+Mo. 16
+[der buchladen in der Scheune: Lesung mit Lutz Geißler – 111 Brot-Mythen, die sich verkrümeln können](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16)
+Der Brotbackpapst kommt nach Nippes! Brotexperte Lutz Geißler besucht uns in Nippes für eine Lesung zu seinem neuen Buch „111 Brot-Mythen, die sich verkrümeln können“. Die Moderation übernimmt Katharina te Uhle. Sie moderiert „Schöner Morgen“ auf WDR 4 und ist Host des beliebten Podcasts „Hoffentlich schmeckts“. Wir freuen uns auf einen spannenden Abend! Das sagt der Verlag […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16)
+Di. 17
+19:00 - 21:00
+Feierraum
+[Forumtheater „Gemeinsam Haltung zeigen“](https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&time=1794942000)
+Jeder Mensch ist einzigartig und hat seinen Platz in der Welt.Solidarität, Gerechtigkeit, freie Persönlichkeitsentfaltung und ein lebensfrohes Miteinander sind Werte, die wir uns für unser Leben wünschen.Dennoch erleben wir immer wieder Diskriminierung im Alltag. Manchmal sind wir selbst betroffen, manchmal andere.Oft sind wir in den Situationen sprachlos, ärgern uns noch lange über unsere Reaktionen oder […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&time=1794942000)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)

@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 15 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 11 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -17,78 +17,6 @@ großer Beliebtheit ❤️
 ★ Kinderflohmärkte & Kinderbasare im November 2026
 in Köln
 + 50 km
-Sonntag,
-8. November 2026
-★ Spielzeug Basar Kita Hippolytusgarten
-★ Familienzentrum Hippolytusgarten
-53840 Troisdorf
-Datum 08.11.2026 Zeit
-13 - 15 Uhr
-Typ
-★ vorsortierter Basar
-Adresse
-Hippolytusstraße 49,
-★ Spielzeugbasar für Groß & Klein im Familienzentrum Hippolytusgarten Am Sonntag, den 8. November 2026,..
-★ weitere Informationen Spielzeugbasar für Groß & Klein im Familienzentrum Hippolytusgarten
-★ Am Sonntag, den 8. November 2026, von 13:00 bis 15:00 Uhr findet wieder unser Spielzeugbasar im Familienzentrum Hippolytusgarten in Troisdorf statt.
-★ Hier können Familien in entspannter Atmosphäre nach schönen gebrauchten Dingen für Kinder stöbern. Angeboten werden unter anderem Spiele, Puzzle, Bücher, Bastelsachen, Spielzeug und vieles mehr.
-Auch für eine kleine Stärkung ist gesorgt: Unser Förderverein bietet selbstgemachten Kuchen an.
-★ 📍 Familienzentrum Hippolytusgarten
-Hippolytusstraße 49
-🗓 Sonntag, 08.11.2026
-⏰ 13:00–15:00 Uhr
-★ Der Basar wird vom Förderverein Kita Hippolytusgarten Troisdorf e. V. organisiert.
-★ Wir freuen uns auf viele Familien, kleine und große Besucher und einen schönen gemeinsamen Nachmittag. Kommt vorbei, stöbert in Ruhe und entdeckt vielleicht das ein oder andere neue Lieblingsstück für eure Kinder.
-Kontakt mit dem Organisator aufnehmen
-* benötigte Angabe
-dein Name *
-bitte nicht befüllen *
-deine E-Mail-Adresse *
-★ Nachricht an den Organisator des Flohmarktes *
-Newsletter
-★ Ja, ich möchte gern den Kinderflohmarkt.com-Newsletter mit neuen und aktuellen Terminen für meine Region erhalten. Dieser wird höchstens 1x pro Woche versendet und ist jederzeit kündbar.
-Datenschutz
-Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
-★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
-★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/troisdorf/familienzentrum-hippolytusgarten-53840-troisdorf-9662/)
-★ Baby und Kinder Trödelmarkt -vorsortiert
-★ Familienzentrum Hundert Morgen Wald
-41564 Kaarst
-11 - 14 Uhr
-Am Bauhof 8,
-★ Vorsortierter Trödelmarkt mit allem was man rund um das Thema Baby und Kind benötigt. Kleidung und Schuhe von..
-★ weitere Informationen Vorsortierter Trödelmarkt mit allem was man rund um das Thema Baby und Kind benötigt. Kleidung und Schuhe von der kleinsten Größe bis hin zum Teenie werden angeboten, sowie alles mögliche an Spielen, Büchern, Fahrzeugen, etc.
-Für das leibliche Wohl wird ebenfalls gesorgt, da Getränke und Kuchen in der Cafeteria für einen kleinen Taler bereit stehen.
-Ab 10:30Uhr gibt es zudem für Schwangere ein PreShopping-Angebot
-Bezahlung ist per PayPal und bar möglich.
-Kommt gerne alle vorbei!
-Kontakt Anmeldungsphase ist bereits abgeschlossen
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/kaarst/familienzentrum-hundert-morgen-wald-41564-kaarst-11612/)
-★ Kindertrödel im Gemeindehaus der Johannischen Kirche
-Gemeindehaus Johannische Kirche
-41564 Kaarst (Holzbüttgen)
-10 - 16 Uhr
-★ Flohmarkt mit Ständen
-Bruchweg 126,
-★ Kommen und verkaufen kommen und kaufen kommen und genießen Vier Mal im Jahr veranstalten wir einen Kindertr&o..
-weitere Informationen Kommen und verkaufen
-kommen und kaufen
-kommen und genießen
-★ Vier Mal im Jahr veranstalten wir einen Kindertrödelmarkt, der sich inzwischen schon als sehr beliebt herumgesprochen hat. Hier finden Sie
-★ nicht nur modische Schnäppchen für Ihre Klein(st)en, Spielzeug, Kinderfahrzeuge und Babyausstattung, sondern auch für das leibliche Wohl sorgen wir mit leckerem Kuchen, Waffeln oder Herzhaftem vom Grill.
-Info und Anmeldung - falls Sie selbst einen Stand anmieten möchten - unter 0 21 31/795 34 81 oder per Mail über das Kontaktfeld.
-Kommen Sie vorbei - wir freuen uns auf Sie.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/kaarst/gemeindehaus-johannische-kirche-41564-kaarst-1956/)
-★ Kinderflohmarkt
-★ Kindertagesstätte St Rochus Overath
-51491 Overath Heiligenhaus
-10 - 13 Uhr
-Grüner Weg 14,
-★ Vorsortierter Kindersachenbasar. Kleidung, Spielzeug, Schuhe, Bücher passend zur Saison...
-★ weitere Informationen Vorsortierter Kindersachenbasar. Kleidung, Spielzeug, Schuhe, Bücher passend zur Saison.
-★ Kontakt [www.basarlino.de/JY46](https://www.basarlino.de/JY46)
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/overath-bergisches-land/kindertagesstaette-st-rochus-overath-51491-overath-10612/)
 Samstag,
 14. November 2026
 ★ 26. Familien-Flohmarkt-Fest
@@ -96,6 +24,9 @@ Katholisches Pfarrheim Bonn-Oberkassel
 53227 Oberkassel
 Datum 14.11.2026 Zeit
 9:30 - 13 Uhr
+Typ
+★ Flohmarkt mit Ständen
+Adresse
 Kastellstraße 21,
 ★ Unser Herbstflohmarkt ist wieder da! Wir freuen uns auf ein tolles Familien Fest inkl. grossem Kinderflohmarkt. Dies..
 ★ weitere Informationen Unser Herbstflohmarkt ist wieder da!
@@ -108,10 +39,23 @@ Ein Stand kostet 15Euro/Tisch (160x80cm), es muss KEIN Kuchen gebacken werden.
 Kontakt Bitte eine kurze Mail schreiben an:
 [E-Mail]
 Wir melden uns innerhalb von 48 Stunden zurück.
+Kontakt mit dem Organisator aufnehmen
+* benötigte Angabe
+dein Name *
+bitte nicht befüllen *
+deine E-Mail-Adresse *
+★ Nachricht an den Organisator des Flohmarktes *
+Newsletter
+★ Ja, ich möchte gern den Kinderflohmarkt.com-Newsletter mit neuen und aktuellen Terminen für meine Region erhalten. Dieser wird höchstens 1x pro Woche versendet und ist jederzeit kündbar.
+Datenschutz
+Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
+★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
+★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/katholisches-pfarrheim-bonn-oberkassel-53227-oberkassel-7706/)
 ★ Kinderflohmarkt Kita St. Barbara in Ippendorf
 Pfarrheim St.Barbara
 53127 Ippendorf
+11 - 14 Uhr
 Röttgener Str.32,
 ★ Schöner Flohmarkt für Kindersachen mit HotDog- und Kuchenverkauf. Der Flohmarkt findet im Pfarrheim mit angren..
 ★ weitere Informationen Schöner Flohmarkt für Kindersachen mit HotDog- und Kuchenverkauf. Der Flohmarkt findet im Pfarrheim mit angrenzendem Kitagelände statt, sodass neben dem Stöbern für die Kinder viele Spielmöglichkeiten zur Verfügung stehen.
@@ -121,13 +65,16 @@ Kontakt Anmeldung über [E-Mail]
 Grundschule Grünstrasse
 Eingang Mensa
 42551 Velbert
+10 - 13 Uhr
 Grünstr 33,
 ★ Nur Kinderkleidung und Spielzeug Bücher Kuchen und Kaffee verkauf..
 ★ weitere Informationen Nur Kinderkleidung und Spielzeug Bücher
 Kuchen und Kaffee verkauf
 Kontakt Keine Anmeldung mehr möglich
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/velbert/grundschule-gruenstrasse-42551-velbert-11573/)
+Sonntag,
 15. November 2026
+★ Kinderflohmarkt
 ★ AWO Kita Tummelkiste
 50389 Wesseling Berzdorf
 Datum 15.11.2026 Zeit
@@ -142,6 +89,7 @@ Bachstr 20,
 51467 Bergisch Hebborn
 Datum 21.11.2026 Zeit
 16 - 19 Uhr
+★ vorsortierter Basar
 Hebborner Kirchweg 1,
 ★ Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre..
 ★ weitere Informationen Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre
@@ -227,9 +175,13 @@ Seien Sie herzlich willkommen!
 ★ Kinderflohmärkte & Kinderbasare im Mai 2027
 23. Mai 2027
 ★ Vorsortierter Kindersachenflohmarkt Sommer 2027
+★ Familienzentrum Hippolytusgarten
+53840 Troisdorf
 Datum 23.05.2027 Zeit
+Hippolytusstraße 49,
 ★ Wir laden euch herzlich zu unserem beliebten vorsortierten Kindersachenflohmarkt im Familienzentrum Hippolytusgarten ein..
 ★ weitere Informationen Wir laden euch herzlich zu unserem beliebten vorsortierten Kindersachenflohmarkt im Familienzentrum Hippolytusgarten ein. verkauft wird alles rund ums Kind. Es warten tolle Artikel auf Euch. Bereits am Samstag den 22.05.2027 könnt ihr ab 19.00 Uhr zum late night shopping kommen.
+★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/troisdorf/familienzentrum-hippolytusgarten-53840-troisdorf-9662/)
 ★ Du konntest dank unserer Auflistung bereits Schnäppchen ergattern oder auf einem Flohmarkt verkaufen?
 Dann denke gern über eine kleine finanzielle Unterstützung für unsere kostenlose Website nach.
 [Hier findest du unseren Paypal-Link](https://www.paypal.com/donate/?hosted_button_id=3MWH93PXVM7KL&locale.x=de_DE).
@@ -334,7 +286,7 @@ Benachbarte Regionen:
 ★ Du suchst günstige Babysachen oder Kinderkleidung in Köln?
 ★ Auf einem Kinderflohmarkt (auch Kinder- oder Babybasar, Kindertrödelmarkt, Kinderkleiderbasar oder Babyflohmarkt genannt) können in Köln gebrauchte Kindersachen preiswert gekauft oder verkauft werden. Damit ist jedem Geldbeutel geholfen, man schont durch Nachhaltigkeit zusätzlich unsere Umwelt und lernt noch andere Eltern aus der Umgebung kennen.
 ★ Schau doch auf einem der Flohmärkte und Basare in unserer Liste vorbei. Hast Du vielleicht noch gut erhaltene Kleidung und andere Dinge, die nicht mehr benötigt werden. Dann informiere Dich beim jeweiligen Termin über Möglichkeiten des Verkaufs. Andere Eltern freuen sich gewiss über Deine gebrauchten bzw. Secondhand Kindersachen. Die Bandbreite reicht dabei von Umstandsmode über saisonale Kindermode und Schuhe bis hin zu Kinderwagen, Laufgittern, Kinderbetten, Spielzeug und Auto- oder Fahrradzubehör wie Sitze.
-Letzte Aktualisierung: 08.11.2026
+Letzte Aktualisierung: 09.11.2026
 ★ Wo findet heute, morgen und in nächster Zeit in deiner Nähe ein Kinderflohmarkt statt? Wir helfen dir bei der Suche nach Kinderflohmärkten in 2026 & 2027!
 Somit kannst du:
 ★ Kindersachen verkaufen in Köln

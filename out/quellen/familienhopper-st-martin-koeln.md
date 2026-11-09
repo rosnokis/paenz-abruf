@@ -3,34 +3,12 @@
 ## Quelle: https://familienhopper.de/koeln/st-martin/
 ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
 November
-6 NOV
-Fest
-★ [St. Martinszug am RheinEnergieSTADION](https://familienhopper.de/events/st-martinszug-am-rheinenergiestadion-koeln-2026-11-06)
-Fr, 6. Nov. | 16:45 Uhr Köln · RheinEnergieSTADION, Umlauf Nord
-Outdoor
-★ [Martinsfeier im Kölner Dom mit Zug durch die Altstadt](https://familienhopper.de/events/martinsfeier-im-koelner-dom-mit-zug-durch-die-altstadt-koeln-2026-11-06)
-Fr, 6. Nov. | 17 Uhr Köln · Kölner Dom
-★ [Zinter-Mätes-Fest – inklusives Sankt Martinsfest](https://familienhopper.de/events/zinter-maetes-fest-inklusives-sankt-martinsfest-koeln-2026-11-06)
-Fr, 6. Nov. | 17 Uhr Köln · Erzengel-Michael-Kirche / Campus Diakonie Michaelshoven
-Kostenlos Ohne Anmeldung
-★ [St. Martinsumzug in Fühlingen](https://familienhopper.de/events/st-martinsumzug-in-fuehlingen-koeln-2026-11-06)
-★ Ein Umzug mit Laternen zieht durch Fühlingen und endet am Martinsfeuer.
-★ Fr, 6. Nov. | 18 Uhr Köln · Kath. Kindergarten Fühlingen
-★ Familien Outdoor
-7 NOV
-Naturerlebnis
-★ [Familienwanderung: Laternenwanderung auf Gut Leidenhausen](https://familienhopper.de/events/familienwanderung-laternenwanderung-auf-gut-leidenhausen-koeln-2026-11-07)
-★ Durch den dunklen Wald geht es mit Laternen, zum Schluss wird gesungen.
-Sa, 7. Nov. | 17 Uhr Köln · Gut Leidenhausen
-bis 12 Jahre Kostenlos
-8 NOV
-★ [St. Martinszug durch Auweiler](https://familienhopper.de/events/st-martinszug-durch-auweiler-koeln-2026-11-08)
-★ Familien laufen um 18 Uhr mit Laternen vom Doktorshof durch Auweiler.
-So, 8. Nov. | 17:30 Uhr Köln · Doktorshof
 9 NOV
+Fest
 ★ [St. Martinszug der Rheindörfer Langel, Rheinkassel und Kasselberg](https://familienhopper.de/events/st-martinszug-der-rheindoerfer-langel-rheinkassel-und-kasselberg-koeln-2026-11-09)
 ★ Der Laternenzug bringt die Kinder und Familien gemeinsam durch die Straßen.
 Mo, 9. Nov. | 18 Uhr Köln · Rheindörfer im Kölner Norden
+Outdoor
 10 NOV
 ★ [Martinszug der Albert-Schweitzer-Schule in Weiß](https://familienhopper.de/events/martinszug-der-albert-schweitzer-schule-in-weiss-koeln-2026-11-10)
 ★ Mit Laternen ziehen die Teilnehmenden durch die Straßen und singen Lieder.
@@ -52,8 +30,8 @@ Do, 12. Nov. | 17:30 Uhr Köln · Marktplatz Neubrück
 Fr, 13. Nov. | 17:15 Uhr Köln · Holweider Marktplatz
 Kostenlos Outdoor
 ★ [Sankt-Martinszug in Immendorf](https://familienhopper.de/events/sankt-martinszug-in-immendorf-koeln-2026-11-13)
+★ Der Laternenzug zieht durch das Dorf und begeistert die Teilnehmenden.
 Fr, 13. Nov. | 17:30 Uhr Köln · Schulhof der Alten Schule Immendorf
-★ [Alle 14 Termine als Liste](https://familienhopper.de/koeln/st-martin/alle/)
 ★ [Alle Familien-Events in Köln entdecken →](https://familienhopper.de/koeln/)
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/koeln/)
 Über diese Seite
