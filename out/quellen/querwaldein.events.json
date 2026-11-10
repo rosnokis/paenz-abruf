@@ -1,0 +1,59 @@
+[
+ {
+  "name": "Fortbildung: Feuerworkshop",
+  "startDate": "2026-11-13T10:00:00+01:00",
+  "endDate": "2026-11-13T17:00:00+01:00",
+  "location": {
+   "name": "Bonn, Grüne Spielstadt",
+   "address": "An der Schwarzen Brücke, 53121 Bonn"
+  },
+  "offers": [
+   {
+    "price": "135",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.querwaldein.de/events/feuerworkshop-altes-wissen-neu-entdecken-692/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.querwaldein.de/"
+ },
+ {
+  "name": "Fortbildung: Gärtnern mit Kindern &#8211; Traumgarten &#8211; Von der Planung zur Umsetzung",
+  "startDate": "2026-11-14T10:00:00+01:00",
+  "endDate": "2026-11-14T17:00:00+01:00",
+  "location": {
+   "name": "Köln, GartenClub Ossendorf",
+   "address": "Henriette-Ackermann-Straße 26, 50827 Köln"
+  },
+  "offers": [
+   {
+    "price": "145",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.querwaldein.de/events/gaertnern-mit-kindern-traumgarten/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.querwaldein.de/"
+ },
+ {
+  "name": "Fortbildung: Projektvorstellung &#038; Reflexion",
+  "startDate": "2026-11-21T10:00:00+01:00",
+  "endDate": "2026-11-21T17:00:00+01:00",
+  "location": {
+   "name": "Köln, Gut Leidenhausen",
+   "address": "Gut Leidenhausen 1, 51147 Köln"
+  },
+  "offers": [
+   {
+    "price": "145",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.querwaldein.de/"
+ }
+]

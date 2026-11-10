@@ -13,9 +13,14 @@ Trödelmarkt-Termine in Köln, Bonn und der Region:
 17:00 - 19:00 Uhr
 St. Karl Sülz
 Köln
+★ [Familien-Flohmarkt-Fest](https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14)
+★ Familienflohmarkt mit Kinderdisco, Kinderschminken und Bilderbuchkino
+14.11.2026
+09:30 - 13:00 Uhr
+Kath. Pfarrheim Oberkassel
+Bonn
 ★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-1/2026-11-14)
 ★ Kinderflohmarkt des Fördervereins der KiTa Kartause
-14.11.2026
 10:00 - 14:00 Uhr
 Kartäuserkirche
 ★ [Spielzeugbasar](https://www.kaenguru-online.de/kalender/maerkte/spielzeugbasar/2026-11-14)
@@ -26,7 +31,6 @@ Kartäuserkirche
 ★ Im Pfarrheim St. Barbara gibt alles rund ums Kind
 11:00 - 14:00 Uhr
 ★ Kita St. Barbara Bonn
-Bonn
 [Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen](https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-14)
 13:00 - 15:00 Uhr
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15)

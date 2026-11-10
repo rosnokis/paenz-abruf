@@ -311,37 +311,6 @@ Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege
 Kartenauschnitt wurde verändert
-November 2026
-Mo
-Di
-Mi
-Do
-Fr
-Sa
-So
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-Dezember 2026
-31
 Zwecke
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 (633)
@@ -411,3 +380,34 @@ Es werden Werbedienste von Drittanbietern genutzt. Wenn Sie hier zustimmen, werd
 Weitere Informationen
 Drittanbieter
 (737)
+November 2026
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Dezember 2026
+31

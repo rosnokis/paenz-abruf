@@ -59,17 +59,17 @@ Bis
 ★ [Familien-Weihnachtspark 2026/2027](https://familienhopper.de/events/familien-weihnachtspark-2026-2027-koeln-2026-11-19)
 Besucher streicheln auf dem Hof Tiere, dazu leuchten viele Lichter.
 Bis 3. Jan. 2027 Köln · Gertrudenhof
-20 NOV
-★ [Kaspertheater auf dem Weihnachtsmarkt im Stadtgarten](https://familienhopper.de/events/kaspertheater-auf-dem-weihnachtsmarkt-im-stadtgarten-koeln-2026-11-20)
-★ Das Theater SternKundt spielt Kasperlestücke auf dem Weihnachtsmarkt.
-Fr, 20. Nov. | 16:30 Uhr Köln · Stadtgarten
-★ Kinder Kostenlos
 23.12.
 ★ Markt/Flohmarkt
 ★ [Santas Weihnachtsmarkt im MediaPark](https://familienhopper.de/events/santas-weihnachtsmarkt-im-mediapark-koeln-2026-11-19)
 Am See vor dem KölnTower gibt es ein Programm im Elfenhaus zu entdecken.
 Bis 23. Dez. | 14 Uhr Köln · MediaPark, Platz am KölnTower
 Outdoor
+20 NOV
+★ [Kaspertheater auf dem Weihnachtsmarkt im Stadtgarten](https://familienhopper.de/events/kaspertheater-auf-dem-weihnachtsmarkt-im-stadtgarten-koeln-2026-11-20)
+★ Das Theater SternKundt spielt Kasperlestücke auf dem Weihnachtsmarkt.
+Fr, 20. Nov. | 16:30 Uhr Köln · Stadtgarten
+★ Kinder Kostenlos
 21 NOV
 ★ [Weihnachtsparkfest XXL mit Adventsshopping](https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21)
 Abends leuchtet der Hof im Lichterzauber, mit Streichelzoo und Shopping.

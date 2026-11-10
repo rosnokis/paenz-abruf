@@ -4,25 +4,25 @@
  "stand": "2026-11-10",
  "tage": {
   "2026-11-10": {
-   "w": "Regen",
+   "w": "Leichter Regen",
    "i": "regen",
    "max": 9,
-   "min": 2,
-   "mm": 3.2
+   "min": 4,
+   "mm": 2.5
   },
   "2026-11-11": {
    "w": "Regen",
    "i": "regen",
-   "max": 10,
-   "min": 6,
-   "mm": 16.6
+   "max": 11,
+   "min": 5,
+   "mm": 9.6
   },
   "2026-11-12": {
-   "w": "Bewölkt",
-   "i": "wolke",
-   "max": 7,
-   "min": 4,
-   "mm": 0.0
+   "w": "Überwiegend sonnig",
+   "i": "teils",
+   "max": 8,
+   "min": 3,
+   "mm": 0.2
   },
   "2026-11-13": {
    "w": "Sonnig",

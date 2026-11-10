@@ -84,14 +84,14 @@ Eintritt frei
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-299)
 [Workshop Digitales Zeichnen Ein digitaler Zeichen-Workshop zum Programm TagTool, mit dem man eine Glaswand gestalten kann – in der Stadtteilbibliothek Kalk](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/workshop-digitales-zeichnen-42)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-538)
-Treffer 1–20 von 150
+Treffer 1–20 von 161
 [1](https://www.stadt-koeln.de/artikel/73374/index.html?start=0)
 [2](https://www.stadt-koeln.de/artikel/73374/index.html?start=20)
 [3](https://www.stadt-koeln.de/artikel/73374/index.html?start=40)
 [4](https://www.stadt-koeln.de/artikel/73374/index.html?start=60)
 [5](https://www.stadt-koeln.de/artikel/73374/index.html?start=80)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=20)
-[>|](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
+[>|](https://www.stadt-koeln.de/artikel/73374/index.html?start=160)
 15.11. 2026
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-173)
 [Offener Puzzle-Treff Puzzeln für alle mit dem Puzzleverein Deutschland e. V. im Rahmen von "Sonntags in der Bibliothek" im Interim der Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/offener-puzzle-treff-5)
@@ -117,7 +117,7 @@ Treffer 1–20 von 150
 ★ [LeseWelten Heute im Rahmen des Bundesweiten Vorlesetags: Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-535)
 ★ [MINT-Vorlesen und Experimentieren Heute im Rahmen des Bundesweiten Vorlesetags: MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-und-experimentieren-64)
 ★ [Schere, Stift, Papier Bastelaktion für Kinder von 6 bis 10 Jahre in der Stadtteilbibliothek Chorweiler](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schere-stift-papier-33)
-Treffer 21–40 von 150
+Treffer 21–40 von 161
 [|<](https://www.stadt-koeln.de/artikel/73374/index.html?start=0)
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=0)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=40)
@@ -147,7 +147,7 @@ Treffer 21–40 von 150
 ★ [MINT-Vorlesen Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-35)
 ★ [MINT-Vorlesen Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-39)
 [Nippes spielt! Der Brettspielnachmittag für Spielbegeisterte in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-29)
-Treffer 41–60 von 150
+Treffer 41–60 von 161
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=20)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=60)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-536)
@@ -179,7 +179,7 @@ Treffer 41–60 von 150
 ★ [Clown Marco: Ein Nachmittag voller guter Laune Mitmach-Veranstaltung für Groß und Klein im Rahmen von "Sonntags in der Bibliothek" im Interim der Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/clown-marco-ein-nachmittag-voller-guter-laune-3)
 08.12. 2026
 ★ [Spieletester*innen Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spieletesterinnen-41)
-Treffer 61–80 von 150
+Treffer 61–80 von 161
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=40)
 [6](https://www.stadt-koeln.de/artikel/73374/index.html?start=100)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=80)
@@ -208,7 +208,7 @@ Treffer 61–80 von 150
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-546)
 13.12. 2026
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-177)
-Treffer 81–100 von 150
+Treffer 81–100 von 161
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=60)
 [7](https://www.stadt-koeln.de/artikel/73374/index.html?start=120)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=100)
@@ -221,6 +221,7 @@ Treffer 81–100 von 150
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-525)
 16.12. 2026
 [Let's Quiz! – Weihnachtsedition Quizze und Rätsel der besonderen Form – testet euer Wissen in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lets-quiz-weihnachtsedition)
+★ [MINT-Vorlesen und Experimentieren MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-und-experimentieren-65)
 [LeseWelten Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-548)
 ★ [Vorlesezeit für Vorschulkinder Bilderbuchgeschichten für Kinder ab 5 Jahren in der Stadtteilbibliothek Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-fuer-vorschulkinder-5)
 17.12. 2026
@@ -233,11 +234,10 @@ Treffer 81–100 von 150
 ★ [MINT-Vorlesen Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-42)
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Kalk.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-523)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-544)
-★ [MINT-Vorlesen und Experimentieren MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-und-experimentieren-65)
 ★ [Schere, Stift, Papier Bastelaktion für Kinder von 6 bis 10 Jahren in der Stadtteilbibliothek Chorweiler](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schere-stift-papier-34)
 19.12. 2026
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Ehrenfeld.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-533)
-Treffer 101–120 von 150
+Treffer 101–120 von 161
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=80)
 [8](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=120)
@@ -263,7 +263,18 @@ Treffer 101–120 von 150
 06.01. 2027
 ★ [Vorlesezeit mit Bilderbüchern Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-mit-bilderbuechern-8)
 07.01. 2027
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-534)
 ★ [Storytime at the Library Bilderbuchgeschichten auf Englisch für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz. Picture Books for children aged 3 and older in the district library Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/storytime-library-11)
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-281)
+★ [Vorlesen mit dem Kamishibai – Erzähltheater Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Ehrenfeld.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-152)
+08.01. 2027
+★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren – in der Stadtteilbibliothek Mülheim.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-316)
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Sülz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-536)
+Treffer 121–140 von 161
+[<](https://www.stadt-koeln.de/artikel/73374/index.html?start=100)
+[9](https://www.stadt-koeln.de/artikel/73374/index.html?start=160)
+[>](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
+★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-549)
 09.01. 2027
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-312)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-128)
@@ -271,16 +282,20 @@ Treffer 101–120 von 150
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-179)
 12.01. 2027
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-278)
+15.01. 2027
+★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-550)
 16.01. 2027
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-313)
-Treffer 121–140 von 150
-[<](https://www.stadt-koeln.de/artikel/73374/index.html?start=100)
-[>](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-129)
 17.01. 2027
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-180)
 19.01. 2027
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-279)
+21.01. 2027
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-535)
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-282)
+22.01. 2027
+★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-551)
 23.01. 2027
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-314)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-130)
@@ -288,13 +303,18 @@ Treffer 121–140 von 150
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-181)
 26.01. 2027
 ★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-280)
+29.01. 2027
+★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-552)
 30.01. 2027
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-315)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-131)
+Treffer 141–160 von 161
+[<](https://www.stadt-koeln.de/artikel/73374/index.html?start=120)
+[>](https://www.stadt-koeln.de/artikel/73374/index.html?start=160)
 31.01. 2027
 [MINT-Workshop am Sonntag Die fjmk bastelt und programmiert mit euch im Rahmen von "Sonntags in der Bibliothek" im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-182)
-Treffer 141–150 von 150
-[<](https://www.stadt-koeln.de/artikel/73374/index.html?start=120)
-Treffer 161–150 von 150
+Treffer 161–161 von 161
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
-Treffer 181–150 von 150
+Treffer 181–161 von 161
+[<](https://www.stadt-koeln.de/artikel/73374/index.html?start=160)
+Treffer 201–161 von 161

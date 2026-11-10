@@ -1,5 +1,14 @@
 [
  {
+  "name": "Familien-Flohmarkt-Fest",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
+ },
+ {
   "name": "Familienflohmarkt",
   "location": {
    "name": "Köln"

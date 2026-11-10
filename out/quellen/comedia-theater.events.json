@@ -1,0 +1,300 @@
+[
+ {
+  "name": "Titanic",
+  "startDate": "2026-11-10T19:00:00+01:00",
+  "endDate": "2026-11-10T20:05:00+01:00",
+  "location": {
+   "name": "Halle",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Gina Waibel und Annabelle Kwofie: FUN FACTS",
+  "startDate": "2026-11-13T19:00:00+01:00",
+  "endDate": "2026-11-13T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-gina-waibel-und-annabelle-kwofie/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Horst Evers: So gesehen, natürlich lustig",
+  "startDate": "2026-11-13T20:00:00+01:00",
+  "endDate": "2026-11-13T22:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/horst-evers-so-gesehen-natuerlich-lustig/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Impro Köln: Werwölfe - Mörderisch. Gut. Improvisiert.",
+  "startDate": "2026-11-14T19:30:00+01:00",
+  "endDate": "2026-11-14T21:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/impro-koeln-werwoelfe/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Köfte & Karaoke",
+  "startDate": "2026-11-14T20:00:00+01:00",
+  "endDate": "2026-11-14T22:00:00+01:00",
+  "location": {
+   "name": "Halle",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/koefte-karaoke/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Tina Teubner: Protokolle der Sehnsucht",
+  "startDate": "2026-11-15T19:00:00+01:00",
+  "endDate": "2026-11-15T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der fabelhafte Die",
+  "startDate": "2026-11-18T09:00:00+01:00",
+  "endDate": "2026-11-18T11:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-18T10:00:00+01:00",
+  "endDate": "2026-11-18T12:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-18T12:00:00+01:00",
+  "endDate": "2026-11-18T14:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-18T19:00:00+01:00",
+  "endDate": "2026-11-18T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-19T11:00:00+01:00",
+  "endDate": "2026-11-19T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der fabelhafte Die",
+  "startDate": "2026-11-19T12:00:00+01:00",
+  "endDate": "2026-11-19T14:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-19T19:00:00+01:00",
+  "endDate": "2026-11-19T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventCancelled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-20T11:00:00+01:00",
+  "endDate": "2026-11-20T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-20T19:00:00+01:00",
+  "endDate": "2026-11-20T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Lara Ermer: Leicht entflammbar",
+  "startDate": "2026-11-21T20:30:00+01:00",
+  "endDate": "2026-11-21T22:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ }
+]
