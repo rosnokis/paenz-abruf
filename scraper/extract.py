@@ -406,3 +406,19 @@ def links_matching(html: bytes, base_url: str, pattern: re.Pattern) -> list[str]
         if u and pattern.search(u) and u not in out:
             out.append(u)
     return out
+
+
+def button_texts(html: bytes, limit: int = 15) -> list[str]:
+    """Texts of buttons (dropped from the normal text) for the ticket keyword scan."""
+    soup = BeautifulSoup(html, "lxml")
+    out: list[str] = []
+    for b in soup.find_all(["button", "input"]):
+        if b.name == "input" and (b.get("type") or "").lower() not in ("submit", "button"):
+            continue
+        text = " ".join((b.get("value") or "" if b.name == "input" else b.get_text(" ")).split())[:80]
+        line = f"Schaltfläche: {text}"
+        if 2 < len(text) and line not in out:
+            out.append(line)
+        if len(out) >= limit:
+            break
+    return out

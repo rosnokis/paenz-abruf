@@ -387,10 +387,11 @@ quellen:
   url: https://volksbuehne-rudolfplatz.de/
   note: Familienvorstellungen, Kinder-Karneval, Weihnachtsmärchen.
 - id: qultor-kinder
-  name: Qultor – Kinder & Familie (Kölner Kulturportal)
+  name: Qultor – Kölner Kulturportal (freie Szene)
   group: Übersichten
-  url: https://www.qultor.de/kinder
-  note: Ticketportal der freien Kölner Szene mit Kinderkategorie.
+  url: https://www.qultor.de/veranstaltungen
+  note: Ticketportal der freien Kölner Szene; Kindertermine per ★ erkennbar.
+  harvest: true
 - id: cinenova-kinderkino
   name: Cinenova Ehrenfeld
   group: Musik & Bühne
@@ -414,7 +415,7 @@ quellen:
 - id: koelner-zoo-veranstaltungen
   name: Kölner Zoo – Veranstaltungen
   group: Draußen & Höfe
-  url: https://www.koelnerzoo.de/veranstaltungen
+  url: https://www.koelnerzoo.de/
   note: Aktionstage, Laternenumzug, Weihnachtsprogramm im Zoo.
 - id: schokoladenmuseum
   name: Schokoladenmuseum – Familienangebote
@@ -446,30 +447,16 @@ quellen:
   group: Köln-Nord & Veedel
   url: https://www.bueze.de/
   note: Kindertheater, Flohmärkte, Familienfeste in Ehrenfeld.
+  js: true
 - id: buergerzentrum-chorweiler
   name: Bürgerzentrum Chorweiler
   group: Köln-Nord & Veedel
   url: https://www.buergerzentrum-chorweiler.de/
   note: Kindertheater, PhilharmonieVeedel, Familienprogramm im Kölner Norden.
-- id: buergerzentrum-deutz
-  name: Bürgerzentrum Deutz
-  group: Köln-Nord & Veedel
-  url: https://www.buergerzentrum-deutz.de/
-  note: Kinderprogramm und Flohmärkte in Deutz.
-- id: buergerzentrum-engelshof-porz
-  name: Bürgerzentrum Engelshof (Porz)
-  group: Köln-Nord & Veedel
-  url: https://www.engelshof.de/
-  note: Kindertheater und Familienfeste in Porz.
-- id: buergerhaus-stollwerck
-  name: Bürgerhaus Stollwerck (Südstadt)
-  group: Köln-Nord & Veedel
-  url: https://www.buergerhausstollwerck.de/
-  note: Kindertheater, Kindertrödel, Familienprogramm in der Südstadt.
 - id: alte-feuerwache-koeln
   name: Alte Feuerwache (Agnesviertel)
   group: Köln-Nord & Veedel
-  url: https://www.altefeuerwachekoeln.de/
+  url: https://altefeuerwachekoeln.de/gesamtprogramm
   note: Kinderbereich, Flohmärkte, Feste im Agnesviertel (nah an Nippes).
 - id: lutherkirche-nippes
   name: Lutherkirche Nippes – Termine

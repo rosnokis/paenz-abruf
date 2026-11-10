@@ -48,13 +48,15 @@ SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".ics", ".
 
 TICKET_RULES = [  # first match wins, strongest first
     ("ausverkauft", re.compile(r"ausverkauft|ausgebucht|sold\s*out|keine\s+(karten|tickets|plätze)\s+mehr|"
-                               r"restlos\s+vergriffen", re.I)),
+                               r"restlos\s+vergriffen|fully\s+booked|no\s+tickets\s+available", re.I)),
     ("knapp", re.compile(r"warteliste|restkarten|restplätze|wenige\s+(rest)?(karten|tickets|plätze)|"
-                         r"fast\s+ausverkauft|nur\s+noch\s+\d+\s+(karten|tickets|plätze)", re.I)),
+                         r"fast\s+ausverkauft|nur\s+noch\s+\d+\s+(karten|tickets|plätze)|waiting\s+list|"
+                         r"(remaining|few|last)\s+tickets", re.I)),
     ("tageskasse", re.compile(r"nur\s+(an\s+der\s+)?(tages|abend)kasse|kein\s+vorverkauf", re.I)),
     ("verfuegbar", re.compile(r"(tickets?|karten)\s+(kaufen|buchen|bestellen|sichern|verfügbar|erhältlich)|"
                               r"jetzt\s+buchen|in\s+den\s+warenkorb|zum\s+ticketshop|plätze\s+frei|"
-                              r"anmeldung\s+möglich", re.I)),
+                              r"anmeldung\s+möglich|zur\s+anmeldung|ticketlink|tickets:|buy\s+tickets|book\s+(now|tickets)|"
+                              r"add\s+to\s+(cart|basket)", re.I)),
 ]
 
 
@@ -109,6 +111,7 @@ def fetch_page(f, url: str, js: bool = False) -> tuple[list[str] | None, str | N
             lines, _ = extract.pdf_to_lines(r.content)
         else:
             lines, events, _ = extract.html_to_lines(r.content, r.final_url)
+            lines += extract.button_texts(r.content)  # "Ausverkauft" often only sits on a button
             for e in events[:20]:
                 bits = [e.get("startDate"), e.get("name"), (e.get("location") or {}).get("name"),
                         (e.get("location") or {}).get("address")]
@@ -183,7 +186,8 @@ def run_details(f, results: list[dict], sources: dict, out: Path, stand: datetim
         index[url] = {"datei": f"out/details/{name}", "abgerufen": stamp, "von": von, "zeilen": len(lines)}
         s, txt = ticket_status(lines)
         if url in ticket_urls or s != "unklar":
-            tickets[url] = {"s": s, "txt": txt, "geprueft": stamp}
+            tickets[url] = {"s": s, "txt": txt, "geprueft": stamp,
+                            "art": "ticketliste" if url in ticket_urls else "detailseite"}
 
     # 3) prune
     for url in [u for u, v in index.items() if _older(v.get("abgerufen"), PRUNE_DAYS, today)]:

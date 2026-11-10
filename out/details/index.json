@@ -5,6 +5,24 @@
   "von": "muelheimer-freiheit-termine",
   "zeilen": 26
  },
+ "https://shop.example/frei": {
+  "abgerufen": "2026-11-10T04:30",
+  "datei": "out/details/684c6cd46288.md",
+  "von": "tickets.yml",
+  "zeilen": 3
+ },
+ "https://shop.example/voll": {
+  "abgerufen": "2026-11-10T04:30",
+  "datei": "out/details/5a5fa0f58d4b.md",
+  "von": "tickets.yml",
+  "zeilen": 3
+ },
+ "https://tix.example/voll2": {
+  "abgerufen": "2026-11-10T04:30",
+  "datei": "out/details/20a0412e9960.md",
+  "von": "v",
+  "zeilen": 3
+ },
  "https://verliebtinkoeln.com/category/karneval-in-koeln/": {
   "abgerufen": "2026-11-10T10:42",
   "datei": "out/details/0ebdd8d5d035.md",
@@ -160,5 +178,16 @@
   "datei": "out/details/4acd63696e8e.md",
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
   "zeilen": 36
+ },
+ "https://www.venue.example/e1": {
+  "abgerufen": "2026-11-10T04:30",
+  "datei": "out/details/2621c6852632.md",
+  "von": "v",
+  "zeilen": 3
+ },
+ "https://www.venue.example/kaputt": {
+  "abgerufen": "2026-11-10T04:30",
+  "fehler": "HTTP 404",
+  "von": "v"
  }
 }
