@@ -1,0 +1,20 @@
+# Ticket- und Anmeldeseiten, die jede Nacht auf Verfügbarkeit geprüft werden (Ergebnis: out/tickets.json).
+# Nur Seiten zu EINEM Termin eintragen (sonst ist das Stichwort "ausverkauft" nicht eindeutig).
+# Felder: url (Pflicht), note (frei), js: true (Seite braucht JavaScript). Abgelaufene Einträge löschen.
+seiten:
+- url: https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205
+  note: Familienkonzert Weihnachtsoratorium, So 29.11.
+  js: true
+- url: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
+  note: PhilharmonieVeedel Baby Funkelzeit, bis 4.12.
+  js: true
+- url: https://www.horizont-theater.de/produktionen/kuhswantje.html
+  note: Die Kuh Swantje (Krabbeltheater), mehrere Termine
+- url: https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/
+  note: Paulina und der Zirkus Papilotte, Sa 21.11.
+- url: https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren
+  note: Peppa feiert Weihnachten, Sa 28.11.
+- url: https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel
+  note: Gürzenich-Familienkonzert, So 13.12.
+- url: https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html
+  note: Adventmitspielkonzert im Dom, So 6.12. (Anmeldung)

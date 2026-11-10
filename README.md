@@ -14,6 +14,9 @@ committet. Die Git-Historie ist damit das Archiv.
 | `out/quellen/<id>.events.json` | schema.org-Termine (JSON-LD/Microdata), falls die Seite welche hat |
 | `out/status.json` | je Quelle: Status, URLs, HTTP-Status, Bytes, sha256, geändert, Fehler, letzter Erfolg |
 | `out/wetter.json` | 10-Tage-Vorhersage Köln von MET Norway (yr.no) |
+| `out/details/index.json` + `out/details/<hash>.md` | **Detailseiten.** Die in neuen Zeilen/Terminen verlinkten Veranstaltungsseiten, bereinigt als Text (Kopf: `URL`, `ABGERUFEN`, `VON`). `index.json` ordnet URL → Datei zu. Höchstens 60 pro Nacht, 12 je Quelle, dieselbe Seite frühestens nach 3 Tagen erneut, nach 30 Tagen gelöscht. |
+| `out/tickets.json` | **Ticketstatus** je Seite: `s` = `ausverkauft` / `knapp` / `tageskasse` / `verfuegbar` / `unklar`, `txt` = die Fundzeile, `geprueft`. Geprüft werden jede Nacht die Seiten aus `config/tickets.yml` und nebenbei alle geladenen Detailseiten. Reine Stichwortsuche, also ein Hinweis, kein Beweis. |
+| `out/kandidaten.md` | **Veranstalter-Kandidaten:** Domains, die auf Übersichtsquellen (`harvest: true`) in ★-Zeilen verlinkt sind und noch keine Quelle sind. Jede Domain erscheint einmal (`out/kandidaten-gesehen.json`), höchstens 40 pro Nacht. |
 
 Status je Quelle: `ok`, `teilweise` (eine von mehreren URLs fehlgeschlagen, deren alter Stand bleibt),
 `fehler`, `blocked` (robots.txt, HTTP 401/403/429/451 oder Bot-Schutz; wird nicht umgangen), `skip`.
@@ -57,6 +60,12 @@ Lokal testen (Python 3.12):
 pip install -r requirements.txt
 python -m scraper.main --nur mein-theater --ohne-wetter
 ```
+
+Weitere Felder je Quelle: `harvest: true` (Übersichtsseite: fremde Veranstalter-Links landen in
+`out/kandidaten.md`), `details: false` (verlinkte Detailseiten dieser Quelle nicht vorab laden).
+
+Ticketseiten stehen in `config/tickets.yml` (`url`, optional `note`, `js: true`). Nur Seiten zu einem
+einzelnen Termin eintragen und abgelaufene löschen.
 
 ## Selektoren setzen
 

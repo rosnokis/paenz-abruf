@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
-from . import extract, wetter
+from . import details, extract, wetter
 from .fetch import Fetcher
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -267,7 +267,8 @@ def fmt_event(e: dict) -> str:
     return ("- " + extract.MARK if e.get("kinder") else "- ") + line
 
 
-def build_heute(stand: datetime, results: list[dict], wetter_err: str | None, sources: dict) -> str:
+def build_heute(stand: datetime, results: list[dict], wetter_err: str | None, sources: dict,
+                extra: dict | None = None) -> str:
     cnt = {k: sum(1 for r in results if r["status"] == k) for k in ("ok", "teilweise", "fehler", "blocked", "skip")}
     changed = [r for r in results if r.get("geaendert") and r["status"] in ("ok", "teilweise")]
     lines = [
@@ -279,8 +280,13 @@ def build_heute(stand: datetime, results: list[dict], wetter_err: str | None, so
         f"Wetter: {'ok (out/wetter.json)' if not wetter_err else 'FEHLER: ' + wetter_err + ' (alter Stand bleibt)'}",
         f"Legende: {extract.MARK.strip()} = Kleinkind-Stichwort gefunden (nur Markierung, nichts gefiltert). "
         "Volltext je Quelle: out/quellen/<id>.md, Termine: out/quellen/<id>.events.json",
-        "",
     ]
+    if extra:
+        lines.append(
+            f"Detailseiten: {extra.get('details', 0)} neu geladen (out/details/index.json: URL -> Datei) | "
+            f"Ticketstatus: {extra.get('tickets', 0)} Seiten (out/tickets.json) | "
+            f"Veranstalter-Kandidaten: {extra.get('kandidaten', 0)} neu (out/kandidaten.md)")
+    lines.append("")
     if changed:
         lines.append("## Geändert (nur neue Zeilen/Termine gegenüber dem letzten erfolgreichen Abruf)")
         per = max(1200, HEUTE_BUDGET // max(len(changed), 1))
@@ -336,6 +342,7 @@ def main(argv=None) -> int:
     ap.add_argument("--nur", help="nur diese IDs (kommagetrennt), zum Testen")
     ap.add_argument("--commit-msg-file")
     ap.add_argument("--ohne-wetter", action="store_true")
+    ap.add_argument("--ohne-extras", action="store_true", help="keine Detailseiten/Tickets/Kandidaten")
     args = ap.parse_args(argv)
 
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
@@ -348,6 +355,7 @@ def main(argv=None) -> int:
     today = stand.date()
     f = Fetcher()
     results = []
+    extra: dict = {}
     try:
         for sid in ids:
             src = sources[sid]
@@ -436,13 +444,21 @@ def main(argv=None) -> int:
             if w:
                 write_json(OUT / "wetter.json", w)
             print(f"[wetter]  {'ok' if w else wetter_err}")
+
+        if not args.ohne_extras:
+            try:
+                extra.update(details.run_details(f, results, sources, OUT, stand, ROOT))
+                extra.update(details.run_kandidaten(sources, OUT, stand))
+            except Exception as exc:  # extras must never break the main fetch
+                extra["fehler"] = type(exc).__name__
+            print(f"[extras]  {extra}")
     finally:
         f.close()
 
     # keep entries of sources not processed in this run (--nur)
     done = {r["id"] for r in results}
     keep = [v for k, v in old_status.items() if k not in done and k in sources]
-    heute = build_heute(stand, results, wetter_err, sources)
+    heute = build_heute(stand, results, wetter_err, sources, extra)
     (OUT / "heute.md").write_text(heute, encoding="utf-8")
     status_rows = []
     for r in results + keep:

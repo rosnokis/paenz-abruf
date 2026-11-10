@@ -2,6 +2,7 @@
 # Felder: siehe README.md
 quellen:
 - id: freizeitkalender-bezirk-nippes-woechentliches-pdf
+  harvest: true
   name: Freizeitkalender Bezirk Nippes (wöchentliches PDF)
   group: Köln-Nord & Veedel
   url: https://bilderstoeckchen.sozialraumkoordination.koeln/
@@ -115,37 +116,44 @@ quellen:
   url: http://www.erlebnisbauernhof-gertrudenhof.de
   note: Saisonale Events mit Online-Tickets.
 - id: familienhopper-koeln
+  harvest: true
   name: Familienhopper Köln
   group: Übersichten
   url: https://familienhopper.de/koeln/
   note: 'Tagesaktuell: heute, morgen, Wochenende, St. Martin, Flohmarkt. Detailseiten verlinken die Originalquelle.'
 - id: kaenguru-familienmagazin-koeln-bonn
+  harvest: true
   name: KÄNGURU Familienmagazin Köln/Bonn
   group: Übersichten
   url: https://www.kaenguru-online.de/kalender
   note: Kalender und Themenartikel (Halloween, St. Martin, Weihnachtsmärkte).
 - id: koeln-de-tageskalender-kinderflohmaerkte
+  harvest: true
   name: koeln.de Tageskalender & Kinderflohmärkte
   group: Übersichten
   url: https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/
   note: Tagesansicht unter koeln.de/events/JJJJ-MM-TT.
 - id: kindaling-koeln
+  harvest: true
   name: Kindaling Köln
   group: Übersichten
   url: https://www.kindaling.de/koeln
   note: Theater und Flohmärkte mit Altersangaben.
 - id: mvp-de-kinder-events-koeln
+  harvest: true
   name: mvp.de – Kinder-Events Köln
   group: Übersichten
   url: https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/
   note: Viele Theater- und Konzerttermine mit Uhrzeiten.
   js: true
 - id: mit-vergnuegen-koeln-familien-events
+  harvest: true
   name: Mit Vergnügen Köln – Familien-Events
   group: Übersichten
   url: https://koeln.mitvergnuegen.com/2026/events-kinder-familien/
   note: Kuratierte Monatsauswahl.
 - id: verliebtinkoeln-wochenendtipps
+  harvest: true
   name: verliebtinkoeln – Wochenendtipps
   group: Übersichten
   url: https://verliebtinkoeln.com/
@@ -166,22 +174,26 @@ quellen:
   url: https://www.kindaling.de/theater-kinos/cassiopeias-trailerbuehne-puppenspielsommer/koeln-holweide
   note: Puppen- und Musikmärchen, im Sommer als Trailerbühne unterwegs.
 - id: museen-koeln-veranstaltungskalender
+  harvest: true
   name: Museen Köln – Veranstaltungskalender
   group: Übersichten
   url: https://www.museen.koeln/besuchen/veranstaltungen
   note: Nach Datum filterbar. Für unter 4 Jahre aktuell wenig, Familienworkshops meist samstags ab 5.
 - id: stadt-koeln-veranstaltungskalender
+  harvest: true
   name: Stadt Köln – Veranstaltungskalender
   group: Übersichten
   url: https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/
   note: Alle Bibliotheksangebote mit Einzelseite (Alter, Anmeldung). Suche nach „Stadtteilbibliothek Nippes“ bzw.
     „Chorweiler“ lohnt.
 - id: koeln-interaktiv-weihnachtsmaerkte-koeln
+  harvest: true
   name: koeln-interaktiv – Weihnachtsmärkte Köln
   group: Übersichten
   url: https://koeln-interaktiv.de/weihnachtsmaerkte-koeln/
   note: Übersicht mit Zeiträumen und Öffnungszeiten aller großen Märkte.
 - id: kaenguru-maerkte-kalender-kinderflohmaerkte-basare
+  harvest: true
   name: KÄNGURU – Märkte-Kalender (Kinderflohmärkte & Basare)
   group: Übersichten
   url: https://www.kaenguru-online.de/kalender/maerkte
@@ -204,6 +216,7 @@ quellen:
   note: Reisendes Puppentheater mit Theaterzelt (Grüffelo, Rabe Socke, Neinhorn, Ritter Rost). Termine am besten
     über Kindaling, im Winter auch auf Weihnachtsmärkten.
 - id: lust-auf-leverkusen-familie-kinder
+  harvest: true
   name: Lust auf Leverkusen – Familie & Kinder
   group: Übersichten
   url: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
@@ -216,12 +229,14 @@ quellen:
   note: Figurentheater, Kinder-Impro und Familienkonzerte (Rubin Quartett) in Pulheim, meist Sa/So 15 Uhr. Tickets
     über Eventbrite.
 - id: buergerportal-bergisch-gladbach-kinder-familie
+  harvest: true
   name: Bürgerportal Bergisch Gladbach – Kinder & Familie
   group: Übersichten
   url: https://in-gl.de/event-type/kinder-familie/
   note: 'Termine in Bergisch Gladbach: Papiermühle Alte Dombach (freier Museumstag am ersten Freitag), Kita-Flohmärkte,
     Eishalle.'
 - id: kaenguru-kalender-fuer-minis-babys-kleinkinder
+  harvest: true
   name: KÄNGURU – Kalender „Für Minis“ (Babys & Kleinkinder)
   group: Übersichten
   url: https://www.kaenguru-online.de/kalender/fuer-minis
@@ -275,12 +290,14 @@ quellen:
     ab: ^(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) 20\d\d$
   ab: ^(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) 20\d\d$
 - id: familienhopper-st-martin-koeln
+  harvest: true
   name: Familienhopper – St. Martin Köln
   group: Köln-Nord & Veedel
   url: https://familienhopper.de/koeln/st-martin/
   note: Laufend ergänzte Liste öffentlicher Martinszüge und Martinsfeuer nach Stadtteil, mit Links zu Bürgervereinen
     und Gemeinden.
 - id: kaenguru-musik-kalender-kinderkonzerte-musiktheate
+  harvest: true
   name: KÄNGURU – Musik-Kalender (Kinderkonzerte & Musiktheater)
   group: Übersichten
   url: https://www.kaenguru-online.de/kalender/musik
@@ -304,6 +321,7 @@ quellen:
     Abrufe (robots.txt); gelesen wird der Newsletter per Mail.
   skip: robots.txt sperrt; Newsletter wird per Mail gelesen
 - id: rodenkirchen-de-veranstaltungskalender-kinder-fami
+  harvest: true
   name: Rodenkirchen.de – Veranstaltungskalender (Kinder & Familie)
   group: Köln-Nord & Veedel
   url: https://www.rodenkirchen.de/kalender?kinder=1
@@ -319,6 +337,7 @@ quellen:
   url: https://www.weisshaus-kino.de/
   note: Kinder- und Familienfilme, teils ab 0 Jahren.
 - id: eventfrog-koeln-kinder-familie
+  harvest: true
   name: Eventfrog Köln – Kinder & Familie
   group: Übersichten
   url: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html
@@ -335,3 +354,135 @@ quellen:
     ab: Erfasse deinen Event
   - url: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/wochenende.html
     ab: Erfasse deinen Event
+
+# --- ab 10.11.2026 ergänzt (Ausbau nächtlicher Abruf) ---
+- id: metropol-theater-koeln
+  name: Metropol Theater Köln
+  group: Musik & Bühne
+  url: https://www.metropol-theater-koeln.de/spielplan/
+  note: Kinder- und Familienstücke (z. B. Zirkusmärchen ab 3) in der Südstadt.
+- id: zirkusfabrik-dellbrueck
+  name: Die Zirkusfabrik (Dellbrück)
+  group: Musik & Bühne
+  url: https://diezirkusfabrik.com
+  note: Kinderzirkus-Shows, Zirkus Klamauk, Kölsche Tön för Pänz.
+- id: comedia-theater
+  name: COMEDIA Theater (Kinder- und Jugendtheater)
+  group: Musik & Bühne
+  url: https://www.comedia-koeln.de/
+  note: Großes Kindertheater in der Südstadt; viele Stücke ab 2–4 Jahren.
+- id: casamax-theater
+  name: Casamax Theater (Sülz)
+  group: Musik & Bühne
+  url: https://www.casamax-theater.de/
+  note: Kindertheater in Sülz, Stücke ab 3–4 Jahren.
+- id: kinderoper-koeln
+  name: Oper Köln – Kinderoper
+  group: Musik & Bühne
+  url: https://www.oper.koeln/de/kinderoper
+  note: Kinderoper im Staatenhaus; begehrte Karten.
+- id: volksbuehne-am-rudolfplatz
+  name: Volksbühne am Rudolfplatz
+  group: Musik & Bühne
+  url: https://volksbuehne-rudolfplatz.de/
+  note: Familienvorstellungen, Kinder-Karneval, Weihnachtsmärchen.
+- id: qultor-kinder
+  name: Qultor – Kinder & Familie (Kölner Kulturportal)
+  group: Übersichten
+  url: https://www.qultor.de/kinder
+  note: Ticketportal der freien Kölner Szene mit Kinderkategorie.
+- id: cinenova-kinderkino
+  name: Cinenova Ehrenfeld
+  group: Musik & Bühne
+  url: https://www.cinenova.de/
+  note: Kinderkino und Familienvorstellungen in Ehrenfeld.
+- id: koelner-dommusik
+  name: Kölner Dommusik
+  group: Musik & Bühne
+  url: https://www.koelner-dommusik.de/
+  note: Mitsing- und Familienkonzerte im Dom (z. B. Adventmitspielkonzert).
+- id: kunstfreunde-koeln-familie
+  name: Kunstfreunde Köln – Kunst+Kind
+  group: Musik & Bühne
+  url: https://kunstfreunde.koeln/familiekunstfreunde
+  note: Familienführungen und Workshops im Museum Ludwig / Wallraf.
+- id: odysseum-museum-mit-der-maus
+  name: Odysseum – Museum mit der Maus
+  group: Draußen & Höfe
+  url: https://www.odysseum.de/
+  note: Mitmach-Museum in Kalk; Sonderaktionen und Ferienprogramme.
+- id: koelner-zoo-veranstaltungen
+  name: Kölner Zoo – Veranstaltungen
+  group: Draußen & Höfe
+  url: https://www.koelnerzoo.de/veranstaltungen
+  note: Aktionstage, Laternenumzug, Weihnachtsprogramm im Zoo.
+- id: schokoladenmuseum
+  name: Schokoladenmuseum – Familienangebote
+  group: Draußen & Höfe
+  url: https://www.schokoladenmuseum.de/
+  note: Familienführungen und Kinderkurse.
+- id: finkens-garten
+  name: Finkens Garten (Rodenkirchen)
+  group: Draußen & Höfe
+  url: http://www.finkensgarten.org
+  note: Naturerlebnisgarten für Vorschulkinder in Rodenkirchen; Aktionstage.
+- id: querwaldein
+  name: Querwaldein e. V. – Naturerlebnis
+  group: Draußen & Höfe
+  url: https://www.querwaldein.de/
+  note: Waldspielgruppen, Familien-Naturtage, Laternenwanderungen.
+- id: wildpark-duennwald
+  name: Wildpark Dünnwald
+  group: Draußen & Höfe
+  url: http://www.wildpark-duennwald.de/
+  note: Kostenloser Wildpark; gelegentlich Feste und Führungen.
+- id: glessener-muehlenhof
+  name: Glessener Mühlenhof (Bergheim)
+  group: Draußen & Höfe
+  url: https://www.glessener-muehlenhof.de
+  note: Erlebnisbauernhof im Westen; Hoffeste, Kürbis- und Adventszeit.
+- id: bueze-ehrenfeld
+  name: Bürgerzentrum Ehrenfeld (BüZe)
+  group: Köln-Nord & Veedel
+  url: https://www.bueze.de/
+  note: Kindertheater, Flohmärkte, Familienfeste in Ehrenfeld.
+- id: buergerzentrum-chorweiler
+  name: Bürgerzentrum Chorweiler
+  group: Köln-Nord & Veedel
+  url: https://www.buergerzentrum-chorweiler.de/
+  note: Kindertheater, PhilharmonieVeedel, Familienprogramm im Kölner Norden.
+- id: buergerzentrum-deutz
+  name: Bürgerzentrum Deutz
+  group: Köln-Nord & Veedel
+  url: https://www.buergerzentrum-deutz.de/
+  note: Kinderprogramm und Flohmärkte in Deutz.
+- id: buergerzentrum-engelshof-porz
+  name: Bürgerzentrum Engelshof (Porz)
+  group: Köln-Nord & Veedel
+  url: https://www.engelshof.de/
+  note: Kindertheater und Familienfeste in Porz.
+- id: buergerhaus-stollwerck
+  name: Bürgerhaus Stollwerck (Südstadt)
+  group: Köln-Nord & Veedel
+  url: https://www.buergerhausstollwerck.de/
+  note: Kindertheater, Kindertrödel, Familienprogramm in der Südstadt.
+- id: alte-feuerwache-koeln
+  name: Alte Feuerwache (Agnesviertel)
+  group: Köln-Nord & Veedel
+  url: https://www.altefeuerwachekoeln.de/
+  note: Kinderbereich, Flohmärkte, Feste im Agnesviertel (nah an Nippes).
+- id: lutherkirche-nippes
+  name: Lutherkirche Nippes – Termine
+  group: Köln-Nord & Veedel
+  url: https://www.lutherkirche-nippes.de/
+  note: Familiengottesdienste, Kinderkonzerte, Weihnachtsmarkt in Nippes.
+- id: koelner-karneval-kinderkarneval
+  name: Kölner Karneval – Kinderkarneval
+  group: Übersichten
+  url: https://www.koelner-karneval.org/karneval-tipps/kinderkarneval/
+  note: Kindersitzungen und Pänz-Termine der Session.
+- id: koeln-deutz-de-events
+  name: koeln-deutz.de – Veranstaltungen
+  group: Köln-Nord & Veedel
+  url: https://www.koeln-deutz.de/events.html
+  note: Veedelstermine Deutz (Martinszug, Feste).
