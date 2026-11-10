@@ -2,8 +2,11 @@ name: Quellen abrufen
 
 on:
   schedule:
-    # 03:30 UTC = 04:30 (Winter) bzw. 05:30 (Sommer) Europe/Berlin, vor dem Morgenlauf um 06:16
+    # 03:30 UTC = 04:30 (Winter) bzw. 05:30 (Sommer) Europe/Berlin, vor dem Morgenlauf um 06:16.
+    # Zweiter Termin als Auffangnetz, weil GitHub-Cron ausfallen kann (concurrency verhindert Überschneidung;
+    # läuft der erste durch, committet der zweite nur den neuen STAND).
     - cron: "30 3 * * *"
+    - cron: "55 3 * * *"
   workflow_dispatch:
 
 permissions:
