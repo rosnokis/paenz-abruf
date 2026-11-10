@@ -1,27 +1,5 @@
 {
  "seiten": {
-  "https://shop.example/frei": {
-   "art": "ticketliste",
-   "fehler": "robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)",
-   "geprueft": "2026-11-10T04:30",
-   "s": "verfuegbar",
-   "txt": "Tickets kaufen",
-   "versucht": "2026-11-10T10:52"
-  },
-  "https://shop.example/voll": {
-   "art": "ticketliste",
-   "fehler": "robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)",
-   "geprueft": "2026-11-10T04:30",
-   "s": "ausverkauft",
-   "txt": "Leider ausverkauft",
-   "versucht": "2026-11-10T10:52"
-  },
-  "https://tix.example/voll2": {
-   "art": "detailseite",
-   "geprueft": "2026-11-10T04:30",
-   "s": "ausverkauft",
-   "txt": "Leider ausverkauft"
-  },
   "https://verliebtinkoeln.com/category/karneval-in-koeln/": {
    "geprueft": "2026-11-10T10:42",
    "s": "ausverkauft",
@@ -66,12 +44,6 @@
    "geprueft": "2026-11-10T10:42",
    "s": "unklar",
    "txt": ""
-  },
-  "https://www.venue.example/e1": {
-   "art": "detailseite",
-   "geprueft": "2026-11-10T04:30",
-   "s": "verfuegbar",
-   "txt": "Tickets kaufen"
   }
  },
  "stand": "2026-11-10T10:52"
