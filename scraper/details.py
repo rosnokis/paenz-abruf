@@ -231,6 +231,12 @@ def run_details(f, results: list[dict], sources: dict, out: Path, stand: datetim
                     hs, htxt = ticket_status(hop_lines)
                     if hs != "unklar":
                         entry.update(s=hs, txt=htxt, ueber=hop)
+                    else:
+                        entry["folge"] = "auch dort unklar"
+                else:
+                    entry["folge"] = f"Shop-Seite nicht lesbar: {hop_err}"[:120]
+            elif not hop:
+                entry["folge"] = "kein Shop-Link auf der Seite"
         if url in ticket_urls or s != "unklar":
             tickets[url] = entry
 

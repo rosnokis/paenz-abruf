@@ -126,6 +126,14 @@ def _render(node: Tag, base: str, out: list[str]) -> None:
             out.append(" ")
 
 
+SESSION_PARAM = re.compile(r"([?&])(?:nonce|_wpnonce|PHPSESSID|sid|sessionid)=[A-Za-z0-9_-]+(&?)", re.I)
+
+
+def drop_session_params(line: str) -> str:
+    """Per-visit tokens in links (nonce, session id) would make a line look new every night."""
+    return SESSION_PARAM.sub(lambda m: m.group(1) if m.group(2) else "", line)
+
+
 def normalize_lines(text: str, ignore: list[re.Pattern] | None = None) -> list[str]:
     lines, seen = [], set()
     for raw in text.split("\n"):
@@ -135,6 +143,8 @@ def normalize_lines(text: str, ignore: list[re.Pattern] | None = None) -> list[s
         if len(line) < 2 or not re.search(r"\w", line):
             continue
         line = EMAIL.sub("[E-Mail]", line)
+        if "=" in line:
+            line = drop_session_params(line)
         if len(line) > MAX_LINE:
             line = line[:MAX_LINE].rstrip() + " …"
         if ignore and any(p.search(line) for p in ignore):

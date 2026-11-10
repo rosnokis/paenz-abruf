@@ -33,6 +33,7 @@ GLOBAL_IGNORE = [re.compile(p, re.IGNORECASE) for p in (
     r"^(\[)?(X/Twitter|Twitter|Facebook|Instagram|YouTube|WhatsApp|LinkedIn|Pinterest|TikTok|Threads|Mastodon)"
     r"(\]\([^)]*\))?$",
     r"^(Seite\s+)?\d+\s+(von|/)\s+\d+$",
+    r"^(Comments?|Kommentare?|URL|Link|Teilen|Share|Drucken|Print|Weiterlesen|Mehr lesen|Mehr erfahren)$",
     r"^(zuletzt\s+)?(aktualisiert|geändert|Stand)(\s+am)?:?\s+\d{1,2}\.\d{1,2}\.\d{2,4}(\s+\d{1,2}:\d{2}(\s+Uhr)?)?$",
 )]
 RESERVED_HOST = re.compile(r"(^|\.)(example|test|invalid|localhost)$|(^|\.)example\.(com|org|net)$|^localhost$|"

@@ -71,7 +71,7 @@ Zeilen, die sich täglich ändern, ohne etwas zu sagen (Trefferzähler, Namen so
 Ticketseiten stehen in `config/tickets.yml` (`url`, optional `note`, `bis` = letzter Termin, `js: true`).
 Nur Seiten zu einem einzelnen Termin eintragen. Nach `bis` wird eine Seite nicht mehr geprüft und in
 `out/heute.md` als abgelaufen genannt. Bleibt der Status einer Ticketseite unklar, folgt der Scraper
-einmal dem Link zum Shop bzw. zur Anmeldung (Feld `ueber` in `out/tickets.json`). Stehen auf einer Seite
+einmal dem Link zum Shop bzw. zur Anmeldung (Feld `ueber` in `out/tickets.json`; bleibt es unklar, nennt `folge` den Grund). Stehen auf einer Seite
 ausverkaufte und buchbare Termine, lautet der Status `teilweise`.
 
 ## Pflege per Werkzeug
