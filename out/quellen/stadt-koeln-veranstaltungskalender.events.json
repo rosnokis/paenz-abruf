@@ -22,7 +22,7 @@
  },
  {
   "name": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-  "endDate": "2026-11-02T15:00:00+01:00",
+  "endDate": "2026-11-02T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/ausstellung-fernweh-und-heimat-vom-koelner-maler-kreis",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
@@ -42,16 +42,30 @@
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  },
  {
-  "name": "Köln hört zu!",
-  "endDate": "2026-11-09T16:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/koeln-hoert-zu-52",
+  "name": "DMP Online: Kreative Projekte mit dem Lasercutter",
+  "endDate": "2026-11-10T16:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/dmp-online-kreative-projekte-mit-dem-lasercutter",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  },
  {
-  "name": "Schulstunde zum Thema Coding gestalten",
-  "endDate": "2026-11-09T16:30:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/deine-coding-schulstunde-einstieg-mit-apps-robotern-und-analogen-programmieruebungen",
+  "name": "Karrieretag Köln",
+  "endDate": "2026-11-10T17:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/karrieretag-koeln-2",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
+ },
+ {
+  "name": "Spielend neue Welten entdecken",
+  "endDate": "2026-11-10T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spielend-neue-welten-entdecken-18",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
+ },
+ {
+  "name": "(un)sichtbar gemacht: Aromantik und Asexualität",
+  "endDate": "2026-11-10T21:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/unsichtbar-gemacht-aromantik-und-asexualitaet",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  }

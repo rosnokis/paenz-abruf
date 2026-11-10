@@ -2,8 +2,6 @@
 
 ## Quelle: https://www.kindaling.de/koeln
 WAS IST LOS IN KÖLN?
-Montag, 09. November
-★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
 Dienstag, 10. November
 ★ [10:00 Das Elmar-Abenteuer Bonn-Beuel](https://www.kindaling.de/kindertheater-shows/das-elmar-abenteuer/bonn-beuel)
 [10:00 Sicher und entspannt in die Beikost starten - Workshop online](https://www.kindaling.de/ernaehrungsberatung/sicher-und-entspannt-in-die-beikost-starten-workshop/online)
@@ -15,6 +13,7 @@ Donnerstag, 12. November
 [17:00 Antientzündliche Ernährung - Gestärkt im Alltag Köln Innenstadt](https://www.kindaling.de/ernaehrungsberatung/antientzuendliche-ernaehrung-gestaerkt-im-alltag/koeln-innenstadt)
 ★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 13. November
+★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
 ★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Samstag, 14. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
@@ -32,6 +31,7 @@ Sonntag, 15. November
 Montag, 16. November
 Dienstag, 17. November
 ★ [9:30 Die Schnecke und der Buckelwal - Leseinszenierung Köln Kalk](https://www.kindaling.de/kindertheater-shows/die-schnecke-und-der-buckelwal-leseinszenierung/koeln-kalk)
+[18:00 Filterblase Körperbild Köln Ehrenfeld](https://www.kindaling.de/sonstige-veranstaltungen/filterblase-koerperbild/koeln-ehrenfeld)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)

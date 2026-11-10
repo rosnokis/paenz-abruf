@@ -14,22 +14,18 @@ April
 Mai
 Juni
 Juli
-09.11.2026
+10.11.2026
 Heute
-Mo., 20:00
+Di., 20:00
 Kölner Philharmonie
 Sinfoniekonzert
 [Delirium](https://www.guerzenich-orchester.de/de/event-detail/delirium)
 Anastasia Kobekina spielt Schumann
 ab 12,00 €
-[Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26311&language=de)
-10.11.2026
-10.11.
-2026
-Di., 20:00
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26321&language=de)
 15.11.2026
 15.11.
+2026
 So., 11:00
 Kammermusiksaal am Kartäuserwall 40, 50676 Köln
 Kammerkonzert
@@ -74,6 +70,7 @@ Gesprächskonzert zur Mittagszeit
 Ein Gesprächskonzert mit Andrés
 ab 5,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26359&language=de)
+Mo., 20:00
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26312&language=de)
 08.12.2026
 08.12.

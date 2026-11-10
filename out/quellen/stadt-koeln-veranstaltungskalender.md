@@ -4,8 +4,12 @@
 Hinweis:
 Alle Veranstaltungen mit/zu Öffentlichkeitsbeteiligungen in Köln finden Sie auf unserem Beteiligungsportal "Meinung für Köln".
 [Beteiligungsportal "Meinung für Köln"](https://www.meinungfuer.koeln/event-informationen)
-Treffer 1–8 von 8
-Veranstaltungen für Montag, 9. November 2026
+Treffer 1–10 von 15
+[1](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=0)
+[2](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=10)
+[>](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=10)
+[>|](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=10)
+Veranstaltungen für Dienstag, 10. November 2026
 7.10. bis
 13.11.2026
 Montag bis Donnerstag, 9 bis 15 Uhr
@@ -36,8 +40,13 @@ sonn- und feiertags geschlossen
 Vernissage: 7. November 2026, 18 Uhr
 Täglich von 16 bis 18 Uhr
 [Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/retrospektive-perspektive-vater-sohn-fotografie-trifft-auf-pop-art)
-9.11.2026
-14 bis 16:30 Uhr
-[Schulstunde zum Thema Coding gestalten Für Lehrkräfte und pädagogisches Personal der 1. bis 6. Klasse an Kölner Schulen](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/deine-coding-schulstunde-einstieg-mit-apps-robotern-und-analogen-programmieruebungen)
-15 bis 16 Uhr
-[Köln hört zu! Das Projekt "Zuhören draußen" im Interim der Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/koeln-hoert-zu-52)
+10.11.2026
+16 bis 18 Uhr
+[Spielend neue Welten entdecken Das VR-Team auf Erlebnis-Tour. Heute in der Stadtteilbibliothek Mülheim.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spielend-neue-welten-entdecken-18)
+19 Uhr
+Highlight
+[(un)sichtbar gemacht: Aromantik und Asexualität Lesung und Gespräch mit Annika Baumgart und Katharina Kroschel. Im Rahmen unseres Kulturprogramms im Interim der Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/unsichtbar-gemacht-aromantik-und-asexualitaet)
+10 bis 17 Uhr
+[Karrieretag Köln Ihre Jobmesse in Köln – Eintritt frei!](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/karrieretag-koeln-2)
+14:30 bis 16 Uhr
+[DMP Online: Kreative Projekte mit dem Lasercutter Für Lehrkräfte und pädagogisches Personal an Kölner Schulen](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/dmp-online-kreative-projekte-mit-dem-lasercutter)

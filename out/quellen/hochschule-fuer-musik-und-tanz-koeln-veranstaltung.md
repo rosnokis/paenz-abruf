@@ -2,17 +2,12 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-11-2026-big-band-konzert/)
-09.11.2026
-20:00
-Uhr
-Stadtgarten
-Köln
-Big Band Konzert
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-11-2026-lunchtime-konzerte-in-st-kunibert/)
 10.11.2026
 13:30
+Uhr
 St. Kunibert
+Köln
 Lunchtime-Konzerte in St. Kunibert
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-11-2026-gitarrenabend/)
 19:30
@@ -60,6 +55,7 @@ SINFONIEKONZERT IN DER KATHEDRALE VON REIMS
 16.11.2026
 19:00
 [Off Campus - Salsa Combo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-11-2026-off-campus-salsa-combo/)
+20:00
 King Georg
 Off Campus - Salsa Combo
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-lunchtime-konzerte-in-st-kunibert/)
@@ -149,6 +145,7 @@ Dezember 2026
 [Violinenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-violinenabend/)
 Violinenabend
 [Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-big-band-konzert/)
+Big Band Konzert
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-ringvorlesung-kanons-in-der-krise/)
 02.12.2026
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2023-gitarrenabend-1-1-1-1-1-1/)

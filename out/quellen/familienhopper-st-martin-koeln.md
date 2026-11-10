@@ -3,16 +3,12 @@
 ## Quelle: https://familienhopper.de/koeln/st-martin/
 ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
 November
-9 NOV
-Fest
-★ [St. Martinszug der Rheindörfer Langel, Rheinkassel und Kasselberg](https://familienhopper.de/events/st-martinszug-der-rheindoerfer-langel-rheinkassel-und-kasselberg-koeln-2026-11-09)
-★ Der Laternenzug bringt die Kinder und Familien gemeinsam durch die Straßen.
-Mo, 9. Nov. | 18 Uhr Köln · Rheindörfer im Kölner Norden
-Outdoor
 10 NOV
+Fest
 ★ [Martinszug der Albert-Schweitzer-Schule in Weiß](https://familienhopper.de/events/martinszug-der-albert-schweitzer-schule-in-weiss-koeln-2026-11-10)
 ★ Mit Laternen ziehen die Teilnehmenden durch die Straßen und singen Lieder.
 Di, 10. Nov. | 17:15 Uhr Köln · Albert-Schweitzer-Grundschule
+Outdoor
 ★ [Großer St. Martinszug in Deutz](https://familienhopper.de/events/grosser-st-martinszug-in-deutz-koeln-2026-11-10)
 Di, 10. Nov. | 18 Uhr Köln · Deutz
 11 NOV

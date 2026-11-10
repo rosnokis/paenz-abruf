@@ -6,14 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-09)
+[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-10)
 ★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
-09.11.2026
+10.11.2026
 11:30 Uhr
 ★ Kinderoper Köln
 Köln
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-10)
-10.11.2026
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-12)
 12.11.2026
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-13)
@@ -32,8 +30,8 @@ Kölner Domsingschule
 [Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
 ★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
 21.11.2026
-11:00 Uhr
 13:00 Uhr
+11:00 Uhr
 Philharmonie
 [Metal-Tour Heavysaurus](https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21)
 ★ Metal-Konzert mit Dinosauriern und Drachen für Kinder von 3 bis 11 Jahren
@@ -77,3 +75,5 @@ Beethovenhalle Bonn
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
 15:30 Uhr
 16:30 Uhr
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
+02.12.2026

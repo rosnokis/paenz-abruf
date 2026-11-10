@@ -48,34 +48,33 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 90
+1 - 40 von 92
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ Kinderfreundliches Event
-★ Kinderoper, KÖLN
-★ Montag, 9. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-09.11.26 - 02.01.27
-(heute)
-ab
-26,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [PhilharmonieVeedel: Pänz »Der blaue Gartenzaun« - für Kinder ab 2 Jahren - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-der-blaue-gartenzaun-buergerhaus-kalk/)
+★ Kinderfreundliches Event
 Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 10. November 2026 und Dienstag, 10. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Pänz »Der blaue Gartenzaun« - für Kinder ab 2 Jahren
 10.11.2026
-(morgen)
+(heute)
+ab
 4 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-der-blaue-gartenzaun-buergerhaus-kalk/)
+★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderoper, KÖLN
+★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+10.11.26 - 02.01.27
+26,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-10&checkout=2026-11-14&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-11&checkout=2026-11-15&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-10.11. bis 14.11.26
+11.11. bis 15.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-10&checkout=2026-11-14&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-11&checkout=2026-11-15&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere

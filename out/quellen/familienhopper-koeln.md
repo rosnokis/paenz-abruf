@@ -42,6 +42,16 @@ Workshop
 Jugendliche ab 12 gestalten Plakate oder Flyer im Hochdruck.
 Sa, 14. Nov. | 14 Uhr Köln · Kollwitz Museum
 ★ ab 12 Jahren Anmeldung
+2 × 2 Tickets gewinnen
+Weihnachtsparkfest XXL auf dem Gertrudenhof
+Erlebnisbauernhof Gertrudenhof, Hürth · Sa, 21.11.2026
+★ [Newsletter abonnieren & teilnehmen](https://familienhopper.de/index.html) Teilnahmebedingungen
+★ Veranstalter: Familienhopper, Markus Keller. Anschrift und Kontakt findest du im [Impressum](https://familienhopper.de/impressum). Der Gewinn wird von Erlebnisbauernhof Gertrudenhof GmbH bereitgestellt.
+★ Gewinn: Zwei Personen gewinnen je zwei Tickets für das Weihnachtsparkfest XXL mit Adventsshopping, [Erlebnisbauernhof Gertrudenhof Hürth · 21. Nov. 2026 · 18:00 Uhr](https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21). Anreise und weitere Kosten sind nicht enthalten. Keine Barauszahlung.
+★ Teilnahme: Vom 09.11.2026, 00:00 Uhr bis 15.11.2026, 23:59 Uhr, jeweils deutsche Zeit (Europe/Berlin). Teilnahmeberechtigt sind Personen ab 18 Jahren, die sich in diesem Zeitraum erstmals für den Familienhopper-Newsletter anmelden und die Anmeldung bis zum Teilnahmeschluss über den Link in der Bestätigungsmail abschließen. Bereits bestehende Abonnements und erneute Anmeldungen sind ausgeschlossen. Eine Teilnahme pro Person.
+★ Newsletter und Gewinnchance: Die Teilnahme ist mit dem Abonnement des Familienhopper-Newsletters verbunden. Du erhältst jeden Donnerstag ausgewählte Familientipps per E-Mail. Der Newsletter ist jederzeit abbestellbar; eine bereits gültige Gewinnspielteilnahme bleibt davon unberührt.
+★ Auslosung: Nach Teilnahmeschluss werden die Gewinne unter den gültigen Neuanmeldungen zufällig ausgelost. Die Gewinnerinnen und Gewinner werden von Familienhopper per E-Mail benachrichtigt. Bitte antworte innerhalb von sieben Tagen; andernfalls wird erneut ausgelost. Namen werden nicht öffentlich bekanntgegeben.
+★ Deine Daten: Anmeldung und Bestätigung werden über Brevo verarbeitet. Familienhopper verwendet E-Mail-Adresse und Anmeldezeitpunkte für die Prüfung der Teilnahme und die Gewinnerbenachrichtigung. Nur im Gewinnfall werden die für die Einlösung des Gutscheins erforderlichen Angaben nach Abstimmung mit dir an den Veranstaltungspartner übermittelt. Die Teilnehmerliste wird nicht an den Partner weitergegeben. Weitere Informationen zur Newsletter-Verarbeitung und deinen Rechten stehen in der [Datenschutzerklärung](https://familienhopper.de/datenschutz).
 Weihnachtszauber
 10 ausgewählte Veranstaltungen
 Bis
@@ -60,15 +70,15 @@ Fr, 20. Nov. | 16:30 Uhr Köln · Stadtgarten
 Am See vor dem KölnTower gibt es ein Programm im Elfenhaus zu entdecken.
 Bis 23. Dez. | 14 Uhr Köln · MediaPark, Platz am KölnTower
 Outdoor
+21 NOV
+★ [Weihnachtsparkfest XXL mit Adventsshopping](https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21)
+Abends leuchtet der Hof im Lichterzauber, mit Streichelzoo und Shopping.
+Sa, 21. Nov. | 18 Uhr Köln · Gertrudenhof
 22 NOV
 ★ [Weihnachtliches Bio-Plätzchenbacken](https://familienhopper.de/events/weihnachtliches-bio-plaetzchenbacken-koeln-2026-11-22)
 ★ Zum Adventsstart backen Familien bunte Plätzchen und formen Spekulatius.
 So, 22. Nov. | 14 Uhr Köln · Gut Leidenhausen
 Kostenlos
-21 NOV
-★ [Weihnachtsparkfest XXL mit Adventsshopping](https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21)
-Abends leuchtet der Hof im Lichterzauber, mit Streichelzoo und Shopping.
-Sa, 21. Nov. | 18 Uhr Köln · Gertrudenhof
 27 NOV
 Musik/Konzert
 ★ [Vorweihnachtskonzert der Regionalschule Weiden](https://familienhopper.de/events/vorweihnachtskonzert-der-regionalschule-weiden-koeln-2026-11-27)
@@ -177,11 +187,8 @@ ab 6 Anmeldung
 Sa, 14. Nov. | 15 Uhr Köln · fbs Köln – draußen im Beethovenpark
 ★ ab 5 Jahren Outdoor
 Zauber & Bühne — das erste Mal
-9 NOV
-★ [Heribert Schnelle und seine Forelle](https://familienhopper.de/events/heribert-schnelle-und-seine-forelle-koeln-2026-11-09)
-Mo, 9. Nov. | 10 Uhr Köln · KKT. Kölner Künstler:innen Theater
-★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-09)
-★ Mo, 9. Nov. | 11:30 Uhr · 20 weitere bis 02.01. Köln · Kinderoper
+★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-10)
+★ Di, 10. Nov. | 11:30 Uhr · 19 weitere bis 02.01. Köln · Kinderoper
 ★ ab 6 Jahren Tickets
 ★ [Die kleine Eidechse](https://familienhopper.de/events/die-kleine-eidechse-koeln-2026-11-13)
 Fr, 13. Nov. | 11 Uhr · weitere Termine Köln · Horizont Theater
@@ -206,18 +213,20 @@ Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Horizont Theater
 ★ [Der Feuervogel](https://familienhopper.de/events/der-feuervogel-koeln-2026-11-14)
 Das Publikum verfolgt die Reise der Birkenelfe Mimi im Erzähltheater.
 Sa, 14. Nov. | 15 Uhr Köln · Cassiopeia Bühne
+★ [Birkenelfe Mimi und Eduard Nasenmurf in der Cassiopeia Bühne](https://familienhopper.de/events/birkenelfe-mimi-und-eduard-nasenmurf-in-der-cassiopeia-buehne-koeln-2026-11-14)
+Musik und Erzählung begleiten eine kleine Elfe und ihren großnasigen Freund.
 ★ [Die Schöne und das Biest – Kinderstück im Metropol Theater](https://familienhopper.de/events/die-schoene-und-das-biest-kinderstueck-im-metropol-theater-koeln-2026-11-14)
 ★ Das bekannte Märchen kommt als Kinderstück auf die Bühne, ab vier Jahren.
 Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Metropol Theater
 ★ ab 4 Jahren Indoor
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 310 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 306 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [9. Nov. Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-09)
-★ [9. Nov. St. Martinszug der Rheindörfer Langel, Rheinkassel und Kasselberg](https://familienhopper.de/events/st-martinszug-der-rheindoerfer-langel-rheinkassel-und-kasselberg-koeln-2026-11-09)
-★ [9. Nov. ELTERNZEIT – Die Führung für Eltern + Baby](https://familienhopper.de/events/elternzeit-die-fuehrung-fuer-eltern-baby-koeln-2026-11-09)
+★ [10. Nov. Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-10)
+★ [10. Nov. Martinszug der Albert-Schweitzer-Schule in Weiß](https://familienhopper.de/events/martinszug-der-albert-schweitzer-schule-in-weiss-koeln-2026-11-10)
+★ [10. Nov. Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-10)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 ★ [Heute in Köln](https://familienhopper.de/koeln/heute/) · [Am Wochenende in Köln](https://familienhopper.de/koeln/wochenende/)
@@ -232,15 +241,15 @@ Top-Ziele in Köln
 [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise) – Indoorspielplatz
 Häufige Fragen
 ★ Wann sind die St.-Martins-Umzüge in Köln?
-★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 8 Termine, der nächste am 09.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
+★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 7 Termine, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 80 Vorstellungen, der nächste am 09.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 79 Vorstellungen, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 310 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 306 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
 ★ Ja, 80 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?
-★ 242 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
+★ 240 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
 Über diese Seite
 ★ Für Köln bündelt Familienhopper Familien-Events aus städtischen und kulturellen Quellen: Museumstage, Mitmachaktionen, Kinderkultur, Stadtteilfeste und Ferienangebote. Familienhopper zeigt nur belegte Termine – ohne erfundene Empfehlungen und ohne Versprechen, die die Originalseite nicht trägt. Der Kalender ist unabhängig und nicht kommerziell.
 ★ Die Filter oben grenzen die Liste nach Tag, Alter oder Thema ein. So bleibt die Übersicht nutzbar, auch wenn viel im Kalender steht. Wer das Wochenende vorbereiten will, nutzt das [Wochenendprogramm in Köln](https://familienhopper.de/koeln/wochenende/). Kostenlose Termine mit freiem Eintritt sind unter [kostenlosen Familien-Events in Köln](https://familienhopper.de/koeln/kostenlos/) gesammelt.

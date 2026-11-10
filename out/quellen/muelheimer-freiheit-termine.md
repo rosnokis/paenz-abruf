@@ -14,50 +14,21 @@ Leverkusener Jazztage 2026
 Leverkusen - Die Leverkusener Jazztage sind dieses Jahr von Sonntag, den 01. bis Mittwoch, den 25. November 2026. Die Jazztage sind ein international renommiertes Musikfestival und finden seit 1980 jährlich im Herbst statt.
 Das Festival ist eines der größten Jazzereignisse im deutschsprachigen Raum. Die Konzerte verteilen sich auf drei Veranstaltungsorte, das [Forum](https://www.openstreetmap.org/), das [Bayer Erholungshaus](https://www.openstreetmap.org/) und den [Scala Club](https://www.openstreetmap.org/) in Opladen. [(Wikipedia)](http://de.wikipedia.org/wiki/Leverkusener_Jazztage)
 Kommentar: Da sich auch kurzfristige Programmänderungen ergeben können, sollte man nochmal sorgfältig in's Programm schauen, bevor man sich für eine Veranstaltung entscheidet. Viel Vergnügen! (rb/MF)
-Ehemalige Synagoge auf der Mülheimer Freiheit 78. (Rheinisches Bildarchiv)
-[Ein Besuch vor Ort](https://www.ksta.de/koeln/muelheim/koeln-warum-die-ueberreste-der-aeltesten-synagoge-in-einem-garten-stehen-1144711)
-[Reichspogromnacht](https://de.wikipedia.org/wiki/Reichspogromnacht)
-[Synagogen-Gemeinde Köln](https://www.sgk.de/)
-Gedenken an die Pogromnacht 2026
-Mülheim - Die [Geschichtswerkstatt Mülheim](https://www.geschichtswerkstatt-muelheim.de/) lädt zum Treffen am Montag, den 09. November 2026 um 15:00 Uhr vor dem Haus [Mülheimer Freiheit 78](https://www.openstreetmap.org/) ein, wo die Mülheimer [Synagoge](https://www.kuladig.de/Objektansicht/KLD-305447) stand. Am 9. November jähren sich die Novemberpogrome.
-Auch in unserem Veedel wurden in jener Nacht Orte des jüdischen Lebens zerstört. Gemeinsam werden wir im Rahmen eines stillen Gedenkens vorbereitete Lichter auf dem Vordach des heutigen Eingangs aufstellen, um ein Zeichen zu setzen.
-Ein Zeichen gegen das Vergessen und für ein solidarisches Miteinander. Auch mit den [Stolpersteinen](https://koeln-muelheim.de/historie.php?ID=250) erinnern wir in Mülheim an den alten Antisemitismus und warnen vor dem neuen. Wir freuen uns über ihre Teilnahme! (PR)
 Lichtspiele Kalk, Kalk-Mülheimer Straße 130-132, 51103 Köln
 [Lageplan / OSM](http://www.openstreetmap.org/search?query=K%C3%B6ln%2C%20kalk-m%C3%BClheimer%20stra%C3%9Fe%20130)
 [Lichtspiele Kalk](http://www.lichtspiele-kalk.de/)
-Lichtspiele Kalk: Liebhaberinnen
-Kalk - Am Montag, den 09. November 2026 zeigen die Lichtspiele Kalk um 17:30 Uhr den Film [Liebhaberinnen](https://www.filmstarts.de/kritiken/1000021457.html) in der deutschen Originalprachfassung.
+Lichtspiele Kalk: The Killer
+Kalk - Am Dienstag, den 10. November 2026 zeigen die Lichtspiele Kalk um 16:00 Uhr den Film [The Killer](https://www.filmstarts.de/kritiken/290655.html) in der englischen Originalsprachfassung mit deutschen Untertiteln.
 Das letzte Kino, in dem die Lichter für immer ausgingen, waren 1987 die Corso-Lichtspiele. Zeitweise gab es in dem Stadtteil, vor allem zwischen den Weltkriegen, elf Kinos. Nun knüpfen Jennifer Schlieper und Felix Seifert mit den „Lichtspielen Kalk“ an alte Traditionen an.
 Das Haus an der Kalk-Mülheimer Straße 130-132, in dem von 1947-1974 die Union-Lichtspiele waren, eröffnete am Freitag, den 22.12.17 mit "Star Wars - der letzte Jedi" und einer Grusel-Spätvorstellung den Spielbetrieb. (rb/MF)
-Treffpunkt Gaststätte Gross, Neufelder Straße 12, 51067 Köln-Holweide (Bild ADFC)
-[Gaststätte Gross](https://gaststaette-gross.de/)
-[Lageplan / OSM](https://www.openstreetmap.org/)
-Radler-Treff und Stammtisch
-Holweide - Am Montag, den 09. November 2026 ist um 18:30 Uhr wieder unser offener Radlertreff. Er wurde vom ADFC Köln und der Bürgervereinigung Holweide initiiert und ist normalerweise an jedem zweiten Montag im Monat.
-Eingeladen ist jeder aus dem Stadtbezirk Mülheim, der Interesse und Spaß am Fahrradfahren hat und sich gemeinsam mit Gleichgesinnten jeden Alters über Themen rund ums Radfahren austauschen möchte. Wir planen gemeinsame Radtouren.
-Wir stellen auch Radtourismus-Regionen vor. Eine Mitgliedschaft im ADFC oder der Bürgervereinigung ist nicht erforderlich. Sie müssen sich auch nicht anmelden. Wir freuen uns auf alle, die kommen. (ADFC)
-Bezirksrathaus Mülheim, Wiener Platz 2a, 51065 Köln-Mülheim (Grafik Stadt Köln)
-[Sitzungskalender](https://ratsinformation.stadt-koeln.de/si0041.asp?__ctopic=gr&__kgrnr=28)
-[Bezirksvertretung Mülheim](http://www.stadt-koeln.de/politik-und-verwaltung/bezirksvertretungen/bezirksvertretung-muelheim)
-[Bezirksvertretung/ Wikipedia](http://de.wikipedia.org/wiki/Bezirksvertretung)
-Bezirksvertretung Köln-Mülheim
-Mülheim - Am Montag, den 09. November 2026, um 17:00 Uhr, werden in der Sitzung der Bezirksvertretung Mülheim wieder Themen von lokalem Interesse behandelt. Jede Partei und jeder Kölner Bürger kann hier Anträge oder Anfragen stellen.
-Diese werden in einer der nächsten Sitzungen diskutiert und entschieden. In der Regel gibt die Verwaltung eine Entscheidungshilfe in Form einer Beschlussvorlage. Der Bürger kann sein Anliegen zu Beginn der Sitzung persönlich vortragen.
-Alle Bürger mit Interesse für Lokalpolitik sind zu den Sitzungen der Bezirksvertretung eingeladen. Damit die Mindestabstände eingehalten werden können, melden Sie sich bitte vorab bei der Schriftführung an [E-Mail] (rb/MF)
-RheinEnergieStadion, Aachener Straße 999, 50933 Köln (Bild Jugendhilfe Godesheim)
-Karrieretag Köln Herbst 2026
-Müngersdorf - Kommen Sie am Dienstag, den 10. November 2026 zwischen 10:00 Uhr und 17:00 Uhr ins [RheinEnergieStadion](https://www.openstreetmap.org/) und finden Sie Ihren neuen Job: Egal ob Fachkraft, Führungskraft, Absolvent, Schüler, Young Professional oder Quereinsteiger.
-Hier und heute kommen Sie hier direkt mit den Personalverantwortlichen ins Gespräch. Sie können sich in Ruhe über Einstiegsmöglichkeiten informieren und direkt über offene Stellenangebote sprechen. Kostenlos für alle Besucher: CV- und Bewerbungsmappencheck durch erfahrene Profis.
-Ferner bieten wir Bewerbungsfotoshootings mit unserem Fotografen, Coachings durch erfahrene Spezialisten sowie zahlreiche Vorträge rund um die Themen Bewerbung, Job & Karriere. [(Karrieretag.org)](https://www.karrieretag.org/koeln/)
 ★ Gebäude 9, Deutz-Mülheimer Str. 127-29, 51063 Köln-Mülheim (Bilderbuch Köln Nr. 131495)
 [Aktuelle Termine](https://www.gebaeude9.de/programmn25.html)
 [Gebäude 9](https://www.gebaeude9.de/)
+[Lageplan / OSM](https://www.openstreetmap.org/)
 Ghostly Kisses - im Gebäude 9
 Mülheim - Am Dienstag, den 10. November 2026 tritt "Ghostly Kisses" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Ein freie Produzenten-Gemeinschaft betreibt die ehemalige Fabrikhalle. Die gliedert sich in den Club (Gastro und Kleinbühne) und die Halle, den eigentlichen Theaterbereich. Das GEBÄUDE 9 ist durch ein vielfältiges Programm weit über Köln hinaus bekannt.
 Die Konzerte sind hauptsächlich im Independent- und Elektronikbereich angesiedelt. Es gibt multimediale Theater- Produktionen, Super-8 und Underground-Filmveranstaltungen und natürlich auch Parties von Drums 'n bass bis Electro. (PR)
-Lichtspiele Kalk: The Killer
-Kalk - Am Dienstag, den 10. November 2026 zeigen die Lichtspiele Kalk um 16:00 Uhr den Film [The Killer](https://www.filmstarts.de/kritiken/290655.html) in der englischen Originalsprachfassung mit deutschen Untertiteln.
 Essigfabrik, Siegburger Straße 110, 50679 Köln-Deutz (Grafik OSM)
 [Aktuelle Termine](https://essig-fabrik.de/programm/)
 [Essig-Fabrik](https://essig-fabrik.de/)
@@ -67,6 +38,25 @@ Mothers finest in der Essigfabrik
 Deutz - Am Dienstag, den 10. November 2026 ist in der Essigfabrik die scheinbar unkaputtbare Band Mothers Finest auf ihrer "European Tour 2026" zu Gast. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
 Der Name der Veranstaltungshallen rührt von der früheren Nutzung als Standort einer Essigproduktion her, die seit 1913 unter der Firma “Max Spiegelberg” an der Adresse Siegburger Straße 110 in 50679 Köln-Deutz betrieben wurde.
 Die Gebäude liegen am Deutzer Hafen. Das Gelände mit zwei Hallen mit zusammen 850 m² Veranstaltungsfläche fasst maximal 1200 Besucher. Neben Konzerten finden hier auch Feiern, Tagungen und Karnevalsveranstaltungen statt. (PR)
+RheinEnergieStadion, Aachener Straße 999, 50933 Köln (Bild Jugendhilfe Godesheim)
+Karrieretag Köln Herbst 2026
+Müngersdorf - Kommen Sie am Dienstag, den 10. November 2026 zwischen 10:00 Uhr und 17:00 Uhr ins [RheinEnergieStadion](https://www.openstreetmap.org/) und finden Sie Ihren neuen Job: Egal ob Fachkraft, Führungskraft, Absolvent, Schüler, Young Professional oder Quereinsteiger.
+Hier und heute kommen Sie hier direkt mit den Personalverantwortlichen ins Gespräch. Sie können sich in Ruhe über Einstiegsmöglichkeiten informieren und direkt über offene Stellenangebote sprechen. Kostenlos für alle Besucher: CV- und Bewerbungsmappencheck durch erfahrene Profis.
+Ferner bieten wir Bewerbungsfotoshootings mit unserem Fotografen, Coachings durch erfahrene Spezialisten sowie zahlreiche Vorträge rund um die Themen Bewerbung, Job & Karriere. [(Karrieretag.org)](https://www.karrieretag.org/koeln/)
+E-Werk, Köln-Mülheim (Bild HOWi, CC-BY-SA 4.0, Wikipedia)
+[E-Werk](http://www.ewerk-koeln.de/)
+[E-Werk Köln / Wikipedia](http://de.wikipedia.org/wiki/E-Werk_%28K%C3%B6ln%29)
+Against The Current im E-Werk
+Mülheim - Am Mittwoch, den 11. November 2026 ist um 20:00 Uhr Against The Current im E-Werk zu Gast. Einlass ist ab 19:00 Uhr. Das E-Werk in der Schanzenstraße ist ein denkmalgeschütztes ehemaliges Umspannwerk in Gründerzeit-Architektur.
+Ende der 1980er Jahre haben Mitglieder der Kölner Musikgruppe BAP dort einen neuen Veranstaltungsort in Köln aufgebaut. 1991 eröffneten sie mit Partnern der Kölner Unterhaltungsbranche das E-Werk.
+Seit 1991 findet hier die Stunksitzung statt, eine Alternative zu den Prunksitzungen des Kölner Karnevals. Das E-Werk wird heute gemeinsam mit dem benachbarten Palladium von der Köln Event Veranstaltungsgesellschaft mbH betrieben. (rb/MF)
+★ Aussichtsplattform im Wildpark (Bilderbuch Köln, Bild Nr. 291413)
+[Förderverein Wald und Wildpark](http://www.wildpark-duennwald.de/)
+[Wildpark Dünnwald](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/parks/wildpark-duennwald)
+Führung im Wildpark Dünnwald
+Dünnwald - Im Wildpark sehen Sie am Mittwoch, den 11. November 2026 von 14:00 Uhr bis 15:30 Uhr mit fachkundiger Begleitung Wildschweine, Damwild und Muffelwild. Eine Attraktion sind Wisente, die in freier Natur in Deutschland ausgestorben sind.
+Bei den öffentlichen Führungen an jedem 2. Mittwoch im Monat um 14 Uhr erklärt der Förster die Lebensweise der Tiere und den Betrieb eines Wildgeheges. Was zeichnet das Verhalten der verschiedenen Arten aus und welche Besonderheiten gibt es?
+Die Führungen sind kostenlos und die Teilnahme ist ohne Anmeldung möglich. Treffpunkt: Wegweiser am Wildpark, Dünnwalder Mauspfad 230, 51069 Köln-Dünnwald. Haltestellen: Wildpark, KVB Linie 154, Leuchterstraße KVB Linien 4, 154, 155 und 157. (rb/MF)
 © Bild Willi Ostermann Gesellschaft
 [Sicher feiern - Stadt Köln](https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/sicher-feiern-am-1111)
 [Drohnenverbot am 11.11.](https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/keine-drohnen-am-1111)
@@ -75,6 +65,33 @@ Auftakt zur Karnevalssession 2026/27
 Köln - Am Mittwoch, den 11. November 2026 beginnt für die Karnevalisten wieder die 5. Jahreszeit. Die Jecken werden zahlreich die Altstadt, das Viertel rund um die [Zülpicher Straße](https://www.openstreetmap.org/) und den Tanzbrunnen auf der Schäl Sick bevölkern.
 Die Session eröffnet die [Willi-Ostermann-Gesellschaft](https://williostermann.de/) um 11.11 Uhr auf dem [Heumarkt](https://www.openstreetmap.org/). Die [Große Karnevalsgesellschaft von 1823](https://www.dgv-1823.de/) lädt in den [Tanzbrunnen](https://www.openstreetmap.org/) ein. Nutzen Sie Busse und Bahnen und lassen auf dem Heimweg die E-Scooter stehen!
 Wer mit dem Auto anreist: Alle Parkhäuser und Tiefgaragen in der Innenstadt bleiben am 11.11. erreichbar. Um Konflikte zwischen Fußgängern und Autofahrern zu vermeiden, kann es zu Sperrungen von U-Bahnhöfen kommen. (rb/MF)
+Der 11.11. am Tanzbrunnen (Grafik Die Große von 1823)
+[Tanzbrunnen Köln](https://koelncongress.de/locations/tanzbrunnen-koeln/)
+[Veranstalter "Die Große von 1823"](http://www.dgv-1823.de/)
+Der 11.11. im Tanzbrunnen - 2026
+Deutz - Am Mittwoch, den 11. November 2026 wird ab 10:00 Uhr im Tanzbrunnen die Session eröffnet. Einlass ist ab 08:30 Uhr. Karten für das beliebte Event sollte man sich frühzeitig sichern, da sie in der Regel schnell vergriffen sind.
+Normalerweise steht neben der Elite der Kölner Sanges- und Mundartkünstler auch das Musikkorps und die Tanzgruppe der „Die Grosse von 1823“ auf der Bühne und sorgen für gute Laune. Erwartet werden auch Brings, Kasalla, Höhner, Bläck Fööss, Klüngelköpp, Paveier u.v.m..
+Kölns älteste Karnevalsgesellschaft, "Die Große von 1832", etablierte 2012 mit Erfolg ein Gegenangebot zur Sessionseröffnung auf dem Heumarkt. Das rechtsrheinische Gelände hat durch seine besser kontrollierbaren Zugänge große Vorteile. (md/MF)
+Bezirksrathaus Mülheim, Wiener Platz 2a, 51065 Köln-Mülheim
+[Stadtteilbibliothek Mülheim](https://www.stadt-koeln.de/service/adressen/stadtteilbibliothek-muelheim)
+★ Vorlesezeit in der Stadtteilbibliothek
+★ Mülheim - Am Mittwoch, den 11. November 2026, ist von 16:00 Uhr bis 17:00 Uhr die nächste [Vorlesezeit](https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41049/index.html) für Kinder ab 3 Jahren in der Stadtteilbibliothek Köln-Mülheim am Wiener Platz.
+Bekannte Helden wie Findus, Lieselotte und Zilly sind ebenso im Programm wie neue und ungewöhnliche Bilderbücher.
+Bei der gemeinsamen Betrachtung kommen wir ins Gespräch und erleben lustige und spannende Geschichten. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. (Stadtteilbibliothek Mülheim)
+Bild Ökumenischer Hospizdienst Dellbrück / Holweide
+[Aktuelle Termine](http://www.hospizdienst-koeln-dellbrueck-holweide.de/index.php/oeff-veranst)
+[Ökumenischer Hospizdienst Köln-Dellbrück / Holweide e.V.](http://www.hospizdienst-koeln-dellbrueck-holweide.de/)
+Café für Trauernde
+Dellbrück / Holweide - Der ökumenische Hospizdienst bietet am Mittwoch, den 11. November 2026 von 15:00 bis 17:00 Uhr wieder ein Café für Trauernde im Gemeindehaus an der Pauluskirche, Thurner Straße 105, 51069 Köln-Dellbrück an. Eine Anmeldung ist erforderlich.
+Die zentrale Aufgabe des Vereins ist die Hilfe am Lebensende, besonders die Unterstützung der Hinterbliebenen bei der Trauerarbeit. An jedem 4. Donnerstag im Monat sind Trauernde von 16:00 bis 17:30 Uhr zum gemeinsamen Spaziergang eingeladen.
+Zum Angebot gehören auch Vorträge zum Thema, wie z.B. "Therapie am Lebensende - des Guten zuviel?" Die aktuellen Termine entnehmen Sie bitte der Seite des Hospizvereins. Bitte im Hospizbüro anmelden unter Tel. 0221/16 90 64 88 oder 0152 / 03 69 94 07. E-Mail: [E-Mail]. (PR)
+Topos, Hauptstraße 124, 51373 Leverkusen-Wiesdorf (Bild Jazz Lev e.V.)
+[Aktuelle Termine](https://www.jazz-lev.de/vorschau-2026.html)
+[Jazz Leverkusen e.V.](http://www.jazz-lev.de/)
+Bastian Korn im Topos
+Leverkusen - Am Mittwoch, den 11. November 2026 ist Bastian Korn wieder zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
+In unserem Vereinslokal topos bieten wir von Jazz und Blues - Konzerten, Lesungen, Jazzfestivals, Riverboatshuffles, Street Life und dem Leverkusener Kneipenfestival ein vielfältiges Programm an.
+Wir verfolgen auschließlich gemeinnützige Zwecke zur Förderung von Kunst und Kultur, besonders aller live dargestellten Musikrichtungen, um ihren Freunden lebendige Konzerte bieten zu können. (PR)
 ASH - im Gebäude 9
 Mülheim - Am Mittwoch, den 11. November 2026 tritt "ASH" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Aufgrund von Unstimmigkeiten soll jetzt auch bei Brettspielen der Videobeweis eingeführt werden.. (Scherz, rb/MF)
@@ -83,46 +100,18 @@ Et Kapellche e.V. - Spieleabend
 Mülheim - Am Mittwoch, den 11. November 2026 ist ab 18:00 Uhr wieder der beliebte Spieleabend im Kapellchen. Ihr könnt auch gerne Freunde mitbringen, aber nur, wenn ihr sie am Ende des Abends auch wieder mitnehmt..
 Gespielt wird, was gefällt: Skat, Doppelkopf, Rommé, Canasta, Mühle, Dame, Schach, Halma, Mensch-ärgere-dich-nicht und Malefiz sind da. Andere Spiele für vier Personen an einem Tisch können mitgebracht werden.
 Die Teilnahme ist kostenlos und unverbindlich. Eine kleine Spende ist gerne gesehen. Getränke sind im Kapellche vorhanden, eingeheizt wurde auch bereits. Kontakt [E-Mail]. (Et Kapellche e.V.)
-E-Werk, Köln-Mülheim (Bild HOWi, CC-BY-SA 4.0, Wikipedia)
-[E-Werk](http://www.ewerk-koeln.de/)
-[E-Werk Köln / Wikipedia](http://de.wikipedia.org/wiki/E-Werk_%28K%C3%B6ln%29)
-Against The Current im E-Werk
-Mülheim - Am Mittwoch, den 11. November 2026 ist um 20:00 Uhr Against The Current im E-Werk zu Gast. Einlass ist ab 19:00 Uhr. Das E-Werk in der Schanzenstraße ist ein denkmalgeschütztes ehemaliges Umspannwerk in Gründerzeit-Architektur.
-Ende der 1980er Jahre haben Mitglieder der Kölner Musikgruppe BAP dort einen neuen Veranstaltungsort in Köln aufgebaut. 1991 eröffneten sie mit Partnern der Kölner Unterhaltungsbranche das E-Werk.
-Seit 1991 findet hier die Stunksitzung statt, eine Alternative zu den Prunksitzungen des Kölner Karnevals. Das E-Werk wird heute gemeinsam mit dem benachbarten Palladium von der Köln Event Veranstaltungsgesellschaft mbH betrieben. (rb/MF)
-Das Innere des Lokals hat im Laufe der Zeit deutlich dazu gewonnen. (Wildwechsel, Peter-Baum-Weg 25, 51069 Köln)
-[Wildwechsel](https://www.wildwechsel-koeln.de/)
-Die Feuerzangenbowle - Livehörspiel im Wildwechsel
-Dünnwald - Am Mittwoch, den 11. November 2026 wird ab 19:30 Uhr im Wildwechsel das Livehörspiel "Die Feuerzangenbowle", mit Simon Schriefer, Uschi Hansmann, Fabienne Hesse und Jörg Kernbach aufgeführt. Musik: Rosa Bretter. Der Eintritt ist frei. Um Reservierung wird gebeten.
-Das Restaurant Wildwechsel liegt im Naturschutzgebiet neben [Waldbad und Campingplatz](http://waldbad-camping.de/). Der benachbarte [Wildpark](http://www.wildpark-duennwald.de/), der [Höhenfelder See](https://www.seen.de/hoehenfelder-see/), der Wald und die Freilaufwiese am Gänseweiher locken viele Spaziergänger an.
-Neben der Gastronomie sind ein Boule- und ein Minigolf-Platz. Ungenutzt ist zur Zeit das benachbarte Gelände des ehemaligen Görlinger Bildungszentrums. Das Restaurant hieß früher Delphi, dann Trehörn, seit 2015 heißt es Wildwechsel. (rb/MF)
-★ Aussichtsplattform im Wildpark (Bilderbuch Köln, Bild Nr. 291413)
-[Förderverein Wald und Wildpark](http://www.wildpark-duennwald.de/)
-[Wildpark Dünnwald](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/parks/wildpark-duennwald)
-Führung im Wildpark Dünnwald
-Dünnwald - Im Wildpark sehen Sie am Mittwoch, den 11. November 2026 von 14:00 Uhr bis 15:30 Uhr mit fachkundiger Begleitung Wildschweine, Damwild und Muffelwild. Eine Attraktion sind Wisente, die in freier Natur in Deutschland ausgestorben sind.
-Bei den öffentlichen Führungen an jedem 2. Mittwoch im Monat um 14 Uhr erklärt der Förster die Lebensweise der Tiere und den Betrieb eines Wildgeheges. Was zeichnet das Verhalten der verschiedenen Arten aus und welche Besonderheiten gibt es?
-Die Führungen sind kostenlos und die Teilnahme ist ohne Anmeldung möglich. Treffpunkt: Wegweiser am Wildpark, Dünnwalder Mauspfad 230, 51069 Köln-Dünnwald. Haltestellen: Wildpark, KVB Linie 154, Leuchterstraße KVB Linien 4, 154, 155 und 157. (rb/MF)
 Frisch geerntete Birnenquitten in der Naturstation (Bild Naturstation)
 [Naturstation / Facebook](https://www.facebook.com/Naturstation-Stammheimer-Schlosspark-Flittarder-Rheinaue-247960005366772/)
 Naturstation Schlosspark Stammheim - offene Tür
 Stammheim - Die Mitglieder der Naturstation Stammheim treffen sich am Mittwoch, den 11. November 2026 von 14:00 Uhr bis 18:00 Uhr wie jeden Mittwoch in der ehemaligen Unterkunft der Gärtner der Stadt Köln. Man freut sich über interessierten Besuch!
 Die Projektgruppe der Bürgervereine Stammheim und Flittard treibt auf dem ca. 17.000 qm großen Areal Obstanbau und gärtnert fleissig. Etliche Bienenvölker treiben hier ihr Wesen, folglich kann man in begrenzten Mengen Honig erwerben. Über leere Gläser (Originale vom Deutschen Imker Bund) freut sich der Imker.
 Im September wird das Apfelfest gefeiert. Dann arbeitet die Obstpresse mit Hochdruck und man kann die Säfte kaufen, wie auch den hier erzeugten Honig. Helfende Hände sind immer willkommen. Kontakt Günter Seiffert 01735322875 oder über Facebook. (rb/MF)
-Bild Ökumenischer Hospizdienst Dellbrück / Holweide
-[Aktuelle Termine](http://www.hospizdienst-koeln-dellbrueck-holweide.de/index.php/oeff-veranst)
-[Ökumenischer Hospizdienst Köln-Dellbrück / Holweide e.V.](http://www.hospizdienst-koeln-dellbrueck-holweide.de/)
-Café für Trauernde
-Dellbrück / Holweide - Der ökumenische Hospizdienst bietet am Mittwoch, den 11. November 2026 von 15:00 bis 17:00 Uhr wieder ein Café für Trauernde im Gemeindehaus an der Pauluskirche, Thurner Straße 105, 51069 Köln-Dellbrück an. Eine Anmeldung ist erforderlich.
-Die zentrale Aufgabe des Vereins ist die Hilfe am Lebensende, besonders die Unterstützung der Hinterbliebenen bei der Trauerarbeit. An jedem 4. Donnerstag im Monat sind Trauernde von 16:00 bis 17:30 Uhr zum gemeinsamen Spaziergang eingeladen.
-Zum Angebot gehören auch Vorträge zum Thema, wie z.B. "Therapie am Lebensende - des Guten zuviel?" Die aktuellen Termine entnehmen Sie bitte der Seite des Hospizvereins. Bitte im Hospizbüro anmelden unter Tel. 0221/16 90 64 88 oder 0152 / 03 69 94 07. E-Mail: [E-Mail]. (PR)
-Der 11.11. am Tanzbrunnen (Grafik Die Große von 1823)
-[Tanzbrunnen Köln](https://koelncongress.de/locations/tanzbrunnen-koeln/)
-[Veranstalter "Die Große von 1823"](http://www.dgv-1823.de/)
-Der 11.11. im Tanzbrunnen - 2026
-Deutz - Am Mittwoch, den 11. November 2026 wird ab 10:00 Uhr im Tanzbrunnen die Session eröffnet. Einlass ist ab 08:30 Uhr. Karten für das beliebte Event sollte man sich frühzeitig sichern, da sie in der Regel schnell vergriffen sind.
-Normalerweise steht neben der Elite der Kölner Sanges- und Mundartkünstler auch das Musikkorps und die Tanzgruppe der „Die Grosse von 1823“ auf der Bühne und sorgen für gute Laune. Erwartet werden auch Brings, Kasalla, Höhner, Bläck Fööss, Klüngelköpp, Paveier u.v.m..
-Kölns älteste Karnevalsgesellschaft, "Die Große von 1832", etablierte 2012 mit Erfolg ein Gegenangebot zur Sessionseröffnung auf dem Heumarkt. Das rechtsrheinische Gelände hat durch seine besser kontrollierbaren Zugänge große Vorteile. (md/MF)
+Das Innere des Lokals hat im Laufe der Zeit deutlich dazu gewonnen. (Wildwechsel, Peter-Baum-Weg 25, 51069 Köln)
+[Wildwechsel](https://www.wildwechsel-koeln.de/)
+Die Feuerzangenbowle - Livehörspiel im Wildwechsel
+Dünnwald - Am Mittwoch, den 11. November 2026 wird ab 19:30 Uhr im Wildwechsel das Livehörspiel "Die Feuerzangenbowle", mit Simon Schriefer, Uschi Hansmann, Fabienne Hesse und Jörg Kernbach aufgeführt. Musik: Rosa Bretter. Der Eintritt ist frei. Um Reservierung wird gebeten.
+Das Restaurant Wildwechsel liegt im Naturschutzgebiet neben [Waldbad und Campingplatz](http://waldbad-camping.de/). Der benachbarte [Wildpark](http://www.wildpark-duennwald.de/), der [Höhenfelder See](https://www.seen.de/hoehenfelder-see/), der Wald und die Freilaufwiese am Gänseweiher locken viele Spaziergänger an.
+Neben der Gastronomie sind ein Boule- und ein Minigolf-Platz. Ungenutzt ist zur Zeit das benachbarte Gelände des ehemaligen Görlinger Bildungszentrums. Das Restaurant hieß früher Delphi, dann Trehörn, seit 2015 heißt es Wildwechsel. (rb/MF)
 Stadthalle Köln, Jan-Wellem-Straße 2, 51065 Köln (© Stadthalle Köln)
 [Aktuelle Termine](https://stadthalle.koeln/events/)
 [Stadthalle Köln-Mülheim](http://www.stadthalle-koeln-muelheim.de/)
@@ -130,30 +119,11 @@ Danze, singe, schunkele..
 Mülheim - Am 11.11.26 heißt es in der Stadthalle Köln wieder: En unserem Veedel - danze, singe, schunkele. Einlass ist um 11:00 Uhr, Beginn um 12:00 Uhr. Die Müllemer Junge laden auch 2026 alle Jecken zur Sessionseröffnungs-Party ein.
 Was euch erwartet: tolle Live-Acts, unser mega DJ und natürlich die Original Matrosen vum Müllemer Böötche. Auf der Bühne stehen unter anderem King Loui, Klüngelköpp, Paveier, Bläck Fööss und Kasalla – ein Programm, das keine Wünsche offenlässt.
 ★ Kein Schickimicki, kein Gedränge um den besten Platz, mit netten Leuten, kölschen Tön und der Sorte Stimmung, die man nicht planen kann. Bringt mit, wen ihr lieb habt: Familie, Fründe, Nachbarn, Kollegen. Hier ist Platz für alle. [(Stadthalle Köln)](https://stadthalle.koeln/en-unserem-veedel-danze-singe-schunkele/)
-Topos, Hauptstraße 124, 51373 Leverkusen-Wiesdorf (Bild Jazz Lev e.V.)
-[Aktuelle Termine](https://www.jazz-lev.de/vorschau-2026.html)
-[Jazz Leverkusen e.V.](http://www.jazz-lev.de/)
-Bastian Korn im Topos
-Leverkusen - Am Mittwoch, den 11. November 2026 ist Bastian Korn wieder zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
-In unserem Vereinslokal topos bieten wir von Jazz und Blues - Konzerten, Lesungen, Jazzfestivals, Riverboatshuffles, Street Life und dem Leverkusener Kneipenfestival ein vielfältiges Programm an.
-Wir verfolgen auschließlich gemeinnützige Zwecke zur Förderung von Kunst und Kultur, besonders aller live dargestellten Musikrichtungen, um ihren Freunden lebendige Konzerte bieten zu können. (PR)
-Bezirksrathaus Mülheim, Wiener Platz 2a, 51065 Köln-Mülheim
-[Stadtteilbibliothek Mülheim](https://www.stadt-koeln.de/service/adressen/stadtteilbibliothek-muelheim)
-★ Vorlesezeit in der Stadtteilbibliothek
-★ Mülheim - Am Mittwoch, den 11. November 2026, ist von 16:00 Uhr bis 17:00 Uhr die nächste [Vorlesezeit](https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41049/index.html) für Kinder ab 3 Jahren in der Stadtteilbibliothek Köln-Mülheim am Wiener Platz.
-Bekannte Helden wie Findus, Lieselotte und Zilly sind ebenso im Programm wie neue und ungewöhnliche Bilderbücher.
-Bei der gemeinsamen Betrachtung kommen wir ins Gespräch und erleben lustige und spannende Geschichten. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. (Stadtteilbibliothek Mülheim)
 Links Ratssitzung, rechts Stunksitzung. Und jetzt sagen Sie jetzt bitte nicht, das wäre ein Unterschied wie Tag und Nacht.. (rb/MF)
 Ratssitzung Online
 Köln - Am Donnerstag, den 12. November 2026 ab 14:00 Uhr können Sie die Sitzung des Kölner Stadtrats verfolgen. Dazu müssen Sie nicht mal ins Rathaus pilgern. Besonders die FDP setzte sich für eine Liveübertragung im Internet ein.
 Die Bürger sollten für Politik begeistert werden und Anteil nehmen an Entscheidungen, die in ihrem Namen gefällt werden. Nun ist die ["Ratssitzung Online"](https://www.stadt-koeln.de/politik-und-verwaltung/stadtrat/index.html) seit einigen Jahren auf Sendung, aber das Zuschauer- Interesse hält sich in Grenzen.
 Vielleicht fehlt dem Format der Unterhaltungswert? Würde ein Kabarettist wie Jürgen Becker die Übertragung moderieren, wäre der Zuspruch größer. So ist auch das [Amtsblatt](https://www.stadt-koeln.de/politik-und-verwaltung/bekanntmachungen/amtsblatt/index.html) der Stadt kein Medienrenner. Das kann die "Medienstadt" doch besser.. (rb/MF)
-Gaffel im Linkewitz, Niehler Damm 179, 50735 Köln-Niehl (Eigenes Bild)
-[KStA dazu - 25.08.15 (pdf)](https://koeln-muelheim.de/dok/LinkewitzKStA.pdf)
-Kultur & Kleinkunst im Linkewitz - Lesung mit Musik
-Niehl - Am Donnerstag den 12. November 2026 ist um 19:30 Uhr [Gerda Laufenberg](https://rausgegangen.de/events/gerda-laufenberg-die-bizarre-schonheit-der-trummerblumen-0/) zu Gast im Linkewitz und präsentiert "Die bizarre Schönheit der Trümmerblumen"- Lesung - musikalische Begleitung Richard Bargel
-Willkommen in deinem zweiten Wohnzimmer! So begrüßt die [Gaststätte Linkewitz](https://www.gaffel-im-linkewitz.de/) seit vielen Jahren seine Besucher. Die Geschichte des Veedels-Wohnzimmer reicht zurück bis in das Jahr 1790.
-An der alten Adresse Niehler Damm 171 lief der Vertrag aus. Man kaufte das Haus [Niehler Damm 179](https://www.openstreetmap.org/) und zog um. Heute sind dort Kneipe, Restaurant und Hotel und bekannte Kölner Musiker geben Konzerte. (rb/MF)
 ★ Kinderhaus im Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln-Kalk (Bild Matěj Baťha, CC BY-SA 3.0, Wikipedia)
 [Aktuelle Termine](http://www.buergerhauskalk.de/veranstaltungen/?size=698)
 [Bürgerhaus Kalk](http://www.buergerhauskalk.de/)
@@ -161,6 +131,12 @@ Spieletreff im Bürgerhaus Kalk
 ★ Kalk - Am Donnerstag, den 12. November 2026 ist um 18:00 Uhr unser monatlicher Spieletreff. Dann kommen Brett- und Gesellschaftsspiele auf den Tisch. Von Klassikern bis Neuheiten, vom Familien- bis zum Expertenspiel.
 Ob genaues Planspiel oder Kartenspiel, ob kurzweilige Runden oder abendfüllendes Strategiespiel, ob gegeneinander, kooperativ oder im Team gegen das Spiel, was auf den Tisch kommt und wer mit wem oder gegen wen spielt, ist immer offen.
 Eigene Spiele können gerne mitgebracht werden. Das Studium der Spielanleitungen entfällt, die Spiele werden von denen erklärt, die sie schon kennen: Learning by playing, einfach vorbeikommen und mitspielen! Der Eintritt ist frei, keine Anmeldung nötig. (PR)
+Die Marktbeschicker treffen sich zum Gruppenfoto.. (Bild Werbe- und Fördergemeinschaft Schlebusch)
+[Werbe- und Fördergemeinschaft Schlebusch](https://www.schlebusch-online.net/bauernmarkt/)
+Bauernmarkt Schlebusch - am Donnerstag
+Schlebusch - Am Donnerstag, den 12. November 2026 ist von 09:00 Uhr bis 13:00 Uhr der Bauernmarkt auf dem Arkadenplatz und der Fußgängerzone. Hier erhalten Sie frische und lokale Produkte, teils in Bio-Qualität.
+Blumen und Pflanzen, internationale Spezialitäten und Nützliches für den Haushalt ergänzen das frische, regionale und hochwertige Sortiment. Bauernmarkt Schlebusch, alles für Topf und Tafel und das gesunde Leben. Der Markt ist jeweils donnerstags und samstags.
+Wer von Mülheim aus mit dem Rad zum Markt nach Schlebusch möchte, stellt sich auf 10 weitgehend flache Kilometer und je nach Ehrgeiz 30-40 Minuten Fahrzeit ein. Man kann auch mit der Linie 4 bis zur Endhaltestelle Schlebusch fahren und den Rest, ca. 2 km, zu Fuß gehen. (rb/MF)
 Alice im Wunderland
 [Aktuelle Termine](https://koelncongress.de/eventkalender/)
 [Tanzbrunnen / Wikipedia](http://de.wikipedia.org/wiki/Tanzbrunnen)
@@ -178,12 +154,12 @@ Et Kapellche e.V. - Nachbarschaftstreffen
 Mülheim - Am Donnerstag, den 12. November 2026 laden wir euch wieder von 15:00 Uhr bis 17:00 Uhr zum Nachbarschaftstreff in's Kapellchen ein.
 So, wie jeden zweiten Donnerstag im Monat, verbringen wir einen schönen Nachmittag zusammen. T refft eure bekannten Nachbarn oder lernt neue kennen. Kuchenspenden nehmen wir gerne an! Es ist keine Voranmeldung erforderlich.
 Es gibt natürlich auch Kaffee, Kuchen und andere leckere Speisen und dann und wann auch Live-Musik. Das Treffen wird bei gutem Wetter vor dem Kapellche stattfinden. Bei Regen im Innenraum. (rb/MF)
-Die Marktbeschicker treffen sich zum Gruppenfoto.. (Bild Werbe- und Fördergemeinschaft Schlebusch)
-[Werbe- und Fördergemeinschaft Schlebusch](https://www.schlebusch-online.net/bauernmarkt/)
-Bauernmarkt Schlebusch - am Donnerstag
-Schlebusch - Am Donnerstag, den 12. November 2026 ist von 09:00 Uhr bis 13:00 Uhr der Bauernmarkt auf dem Arkadenplatz und der Fußgängerzone. Hier erhalten Sie frische und lokale Produkte, teils in Bio-Qualität.
-Blumen und Pflanzen, internationale Spezialitäten und Nützliches für den Haushalt ergänzen das frische, regionale und hochwertige Sortiment. Bauernmarkt Schlebusch, alles für Topf und Tafel und das gesunde Leben. Der Markt ist jeweils donnerstags und samstags.
-Wer von Mülheim aus mit dem Rad zum Markt nach Schlebusch möchte, stellt sich auf 10 weitgehend flache Kilometer und je nach Ehrgeiz 30-40 Minuten Fahrzeit ein. Man kann auch mit der Linie 4 bis zur Endhaltestelle Schlebusch fahren und den Rest, ca. 2 km, zu Fuß gehen. (rb/MF)
+Gaffel im Linkewitz, Niehler Damm 179, 50735 Köln-Niehl (Eigenes Bild)
+[KStA dazu - 25.08.15 (pdf)](https://koeln-muelheim.de/dok/LinkewitzKStA.pdf)
+Kultur & Kleinkunst im Linkewitz - Lesung mit Musik
+Niehl - Am Donnerstag den 12. November 2026 ist um 19:30 Uhr [Gerda Laufenberg](https://rausgegangen.de/events/gerda-laufenberg-die-bizarre-schonheit-der-trummerblumen-0/) zu Gast im Linkewitz und präsentiert "Die bizarre Schönheit der Trümmerblumen"- Lesung - musikalische Begleitung Richard Bargel
+Willkommen in deinem zweiten Wohnzimmer! So begrüßt die [Gaststätte Linkewitz](https://www.gaffel-im-linkewitz.de/) seit vielen Jahren seine Besucher. Die Geschichte des Veedels-Wohnzimmer reicht zurück bis in das Jahr 1790.
+An der alten Adresse Niehler Damm 171 lief der Vertrag aus. Man kaufte das Haus [Niehler Damm 179](https://www.openstreetmap.org/) und zog um. Heute sind dort Kneipe, Restaurant und Hotel und bekannte Kölner Musiker geben Konzerte. (rb/MF)
 Bürgerzentrum Engelshof, Oberstraße 96, 51149 Porz (Arabsalam CC BY-SA 3.0 Wikipedia)
 [Aktuelle Termine](https://engelshof.net/category/veranstaltungen/)
 [Bürgerzentrum Engelshof](https://engelshof.net/)
@@ -196,32 +172,39 @@ Veranstaltungsort Stadtteilbibliothek Mülheim, Wiener Platz 2a, 51065 Köln - M
 ★ Mülheim - Am Donnerstag, den 12. November 2026 ist von 11:00 Uhr bis 12:00 Uhr in der Stadtteilbibliothek Zeit für die [Bücherbabys](https://www.stadt-koeln.de/artikel/05024/index.html). Im Zentrum der literatischen Krabbelgruppe steht die Sprach- und Sinnesförderung.
 ★ Daüber hinaus wird natürlich vorgelesen und es werden gemeinsam Lieder, Singspiele, Kniereiter und Fingerspiele im Rhythmus der Kinder eingeübt. Anschließend wird eine Bücherkiste mit allen Sinnen entdeckt.
 ★ Danach können sich die Eltern austauschen. Die Gruppe ist für Kinder von 6 bis 24 Monaten. Der Eintritt ist frei, eine Anmeldung über das Buchungssystem der VHS ist erforderlich. (Stadtteilbibliothek Mülheim)
+Die Verlierer - im Gebäude 9
+Mülheim - Am Freitag, den 13. November 2026 tritt "Die Verlierer" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Zirkusvarieté im Kulturbunker Mülheim, Berliner Straße 20, 51063 Köln
 [Kulturbunker Köln-Mülheim](https://www.kulturbunker-muelheim.de)
 What?! …is going on in Circus?
 Mülheim - Zeitgenössisches [Zirkusvarieté](https://kulturbunker-muelheim.de/event/what-zeitgenoessisches-zirkusvariete/) erwartet Besucherinnen und Besucher des Kulturbunkers am Freitag, den 13. November 2026 von 20:00 - 22:00 Uhr. Die Show kommt hier choreographisch, dort musikalisch und manches Mal komisch-absurd daher.
 In den 1960er Jahren wurde das Bunkergebäude als Lagerraum genutzt, danach stand er zwei Jahrzehnte leer. Durch den Trägerverein „Kulturbunker Köln-Mülheim e.V.“, konnte das Bauwerk renoviert werden.
 Seit 1991 wird der Kulturbunker in Trägerschaft durch den Kulturbunker Mülheim e.V. verwaltet. Ziel ist die Förderung von Kunst und Kultur, um die Begegnung sozialer Schichten, Nationalitäten und Altersgruppen zu fördern. [(Wikipedia)](http://de.wikipedia.org/wiki/Kulturbunker_K%C3%B6ln-M%C3%BClheim)
-★ Bild Volkssternwarte Köln im Schiller-Gymnasium, Nikolausstraße 55, 50937 Köln
-[Volkssternwarte Köln](https://www.volkssternwartekoeln.de/)
-Die Sonne - Vortrag
-Sülz - Am Freitag, den 13. November 2026 gibt es in der Volkssternwarte Köln um 21:00 Uhr einen Vortrag zu dem Thema: Die Sonne - Ein gelber Zwerg!
-Die Volkssternwarte Köln im Schiller-Gymnasium ist für das allgemeine Publikum zugänglich. Neben den Himmelskörpern des Sonnensystems und der Galaxis sind auch außergalaktische Himmelsobjekte Ziel der Beobachtungen.
-Ihre Kuppel hat einen Durchmesser von 4 m, ist aus Holz, mit Kupfer verkleidet und mit dem Kölner Brückengrün gestrichen. In der Kuppel finden auf Sitzbänken ca. 20 Personen Platz. Die Termine entnehmen Sie bitte der Homepage. (PR)
-Don Camillo & Peppone - Schützenplatz Köln-Flittard | Pützlachstr. 37 | 51061 Köln
-[Bühne Hubertus e.V.](https://buehne-hubertus.de/)
-Don Camillo & Peppone − Musical
-Flittard - Am Freitag, den 13. November 2026 um 20:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
-★ Die Laienschauspielgruppe St. Hubertus wurde bereits 1998 gegründet. Als erstes Stück entschied sich die Gruppe für "Die Physiker" von Friedrich Dürrenmatt. Es wurde geprobt, diskutiert, auswendig gelernt, Bühnenbild und Dekoration gezimmert, Schminktechniken ausprobiert, und, und, und…
-Seit dem ist viel Zeit vergangen, und die Gruppe hat sich ein wenig verändert. Neue Schauspieler kamen hinzu, andere verließen die Gruppe und die verbliebenen haben sich weiter entwickelt. Seit 2015 sind wir nun ein eingetragener Verein mit mehr als 50 Mitgliedern. (Bühne Hubertus e.V.)
-South West im Topos
-Leverkusen - Am Freitag den 13. November 2026 ist die Band [South West](https://www.jazz-lev.de/13.11.-26-south-west.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
+Die Kraft liegt in der Vielfalt, ein schönes Schulmotto.. (Bild GHS Tiefentalstraße)
+[Bildung und Schule - Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/index.html)
+[Kölner Schulen - Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/schulformen/suche-kolner-schulen)
+[Schulen - weitere Adressen](https://www.koeln-muelheim.de/adressen.php?KatID=104)
+GHS Tiefentalstraße - Tag der offenen Tür 2026
+★ Mülheim - Am Freitag, den 13. November 2026 können Schüler und Eltern von 09:00 Uhr bis 12:00 Uhr am Tag der Offenen Schultür die [Gemeinschafts- Hauptschule](https://ghs-tiefental.de/) in der [Tiefentalstraße](https://www.openstreetmap.org/) besuchen und kennenlernen.
+Die Schule wurde gegenüber der ehemaligen Hacketäuerkaserne erbaut. Die Größe des Grundstücks erlaubte ungewöhnlich ausgerichtete Gebäude. Alle Klassen sind nach Osten gerichtet und so am Morgen gut belichtet.
+Die [Hauptschule](https://de.wikipedia.org/wiki/Hauptschule) ist in der Bundesrepublik Deutschland eine allgemeinbildende weiterführende Schule im Rahmen des gegliederten Schulsystems, die in den 1960er Jahren aus der 8-jährigen Volksschule hervorgegangen ist. (rb/MF)
+Kommentar von Senior am 09.10.2025
+Als ich nach Mülheim zog, erklärte mir ein Einheimischer, der Architekt dieses [Schulgebäudes](https://ghs-tiefental.de/unsere-schule/) wäre von der Silhouette eines [Zweirumpf-Flugzeuges](https://de.wikipedia.org/wiki/North_American_F-82) inspiriert worden. Ist wahrscheinlich Quatsch, aber eine schöne Geschichte..
 Treffpunkt am Nordtor, Lingenbacher Weg (Grafik OSM)
 ★ [Martinsumzug](https://www.lvr.de/freilichtmuseum-lindlar/programm/unsere-feste-und-maerkte-im-jahr/november-martinsumzug/)
 ★ Martinsumzug im Freilichtmuseum 2026
 ★ Lindlar - Am Freitag, den 13. November 2026, reitet St. Martin ab 16:30 Uhr durch das LVR- Freilichtmuseum in Lindlar. Mit Laternen folgen ihm Eltern und Kinder durch das Museumsgelände. Eine Musikkapelle spielt Martinslieder dazu.
 ★ Der Martinszug beginnt gegen 16:30 Uhr am Eingang des Museums. Er endet in der Baugruppe Oberlingenbach, wo St. Martin seinen großen Mantel mit dem armen Bettler teilt.
 ★ Familien, Kindergärten oder Schulklassen sollten sich im Museumsladen unter 02266 471920 anmelden. Taschenlampen und Laternen sowie festes Schuhwerk sind empfehlenswert. (Freilichtmuseum)
+Von links: Info-Veranstaltungen, Heide-Kids, Heide-Spaziergänge, Landschaftspflege. (Alle Bilder BUND)
+[Dellbrücker Heide - Termine](https://www.dellbruecker-heide.net/veranstaltungen.php)
+[BUND Kreisgruppe Köln](http://www.bund-köln.de/)
+[Haltestelle Dellbrück S11](https://www.openstreetmap.org/)
+[Wikipedia](https://de.wikipedia.org/wiki/Bund_f%C3%BCr_Umwelt_und_Naturschutz_Deutschland)
+Naturschutz Aktiv - Dellbrücker Heide
+Dellbrück - Am Freitag, den 13. November 2026 heißt es von 10:00 bis 14:00 Uhr wieder "Naturschutz aktiv" in der Dellbrücker Heide. Jede*r kann hier im Team seinen praktischen Beitrag zum Naturschutz leisten.
+Die Ehrenamtler*innen vor Ort freuen sich über Verstärkung. Treffpunkt ist die Haltestelle Dellbrück der S11, am Kiosk. Die Kreisgruppe des BUND (Bund für Umwelt und Naturschutz Deutschland) engagiert sich für Natur- und Umweltschutz vor Ort.
+★ Der BUND betreut außerdem auch das Naturschutzgebiet am Höhenfelder See. Ebenfalls in der Dellbrücker Heide bietet der BUND die Dellbrücker Heidespaziergänge und die Kinder-Heide-Exkursionen an. (rb/MF)
 Wochenmarkt Berliner Straße (rb/MF)
 [Wochenmärkte / Stadt Köln](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/)
 Wochenmarkt Berliner Straße
@@ -234,6 +217,12 @@ Barockkirche Eckenhagen - Konzert
 Eckenhagen - Am Freitag, den 13. November 2026 um 19:00 Uhr ist das nächste Konzert in der [Eckenhagener Barockkirche](https://barockorgel-eckenhagen.de/konzerte). Hans-Peter Fischer, langjähriger künstlerischer Leiter, hat Michael Bischof als Nachfolger gewinnen können.
 Nach der Orgelrestaurierung 2008 rief Fischer die Konzertreihe ins Leben. Sie konnte ein Stammpublikum gewinnen und dank der Unterstützung der [Evangelischen Gemeinde](https://evk-eckenhagen.de/) und des Kirchenkreises sogar einen Überschuss erwirtschaften.
 Zum Orgelspielschrank über dem Altar führt eine gefährlich steile Treppe, die nicht ohne Grund den Namen Kantorengrab tragen soll. Oben angekommen schwärmt auch Michael Bischof vom Klangreichtum des Eckenhagener Instruments. (PR)
+Auch auf der Hundemesse in Köln-Mülheim war die Tiertafel vertreten (Foto: Tiertafel Köln-Höhenhaus)
+[Tiertafel Köln e.V.](https://tiertafel-koeln.jimdofree.com/)
+Ausgabetermin der Tiertafel
+Gremberg - Am Freitag, den 13. November 2026 von 11:00 - 12:00 Uhr, ist der nächste Ausgabetermin der Tiertafel Köln e.V. in Gremberg. Eine Anmeldung zur Tiertafel ist bei jedem Ausgabetermin ab 11:00 Uhr möglich.
+Da die Tafel noch nicht dauerhaft durch Sponsoren oder Firmen unterstützt wird, ist ein Kostenbeitrag von 2 Euro pro Tier zu entrichten. Von dem eingenommen Geld wird bei Bedarf neues Futter gekauft.
+Zu den jeweiligen Terminen findet man die Tiertafel an der Rolshover Str. 100 in 51105 Köln, erreichbar mit den Buslinien 153 und 159. Die Ausgabestelle Köln-Höhenhaus ist dauerhaft geschlossen. (Tiertafel Köln e.V.)
 Veronikas Zimmer - matchboxtheater e.V., Hitdorfer Straße 169, 51371 Leverkusen-Hitdorf. (Bild Matchbox Theater)
 [Aktuelle Termine](https://www.matchboxtheater.de/programm)
 [Matchbox-Theater](http://www.matchboxtheater.de/)
@@ -242,31 +231,14 @@ Hitdorf - Am Freitag, den 13. November 2026 wird im Matchbox-Theater um 20:00 Uh
 Eine junge Frau wird während ihres ersten Dates von einem älteren Ehepaar angesprochen.
 Sie sei Veronika, wie aus dem Gesicht geschnitten. Aber Veronika ist tot! Sie bitten die junge Frau mitzukommen und kurz in deren Rolle zu schlüpfen, um damit Veronikas totkranker Schwester, die ihren Tod nicht wahrhaben will, eine letzte kleine Freude zu bereiten.
 Lesen Sie auf der Homepage des "Matchbox-Theaters" über die bewegte Vergangenheit der Zündholzfabrik und ihr aktuelles Kulturprogramm. In Hitdorf können Sie mit der Fähre auf die andere Rheinseite wechseln. (rb/MF)
-Auch auf der Hundemesse in Köln-Mülheim war die Tiertafel vertreten (Foto: Tiertafel Köln-Höhenhaus)
-[Tiertafel Köln e.V.](https://tiertafel-koeln.jimdofree.com/)
-Ausgabetermin der Tiertafel
-Gremberg - Am Freitag, den 13. November 2026 von 11:00 - 12:00 Uhr, ist der nächste Ausgabetermin der Tiertafel Köln e.V. in Gremberg. Eine Anmeldung zur Tiertafel ist bei jedem Ausgabetermin ab 11:00 Uhr möglich.
-Da die Tafel noch nicht dauerhaft durch Sponsoren oder Firmen unterstützt wird, ist ein Kostenbeitrag von 2 Euro pro Tier zu entrichten. Von dem eingenommen Geld wird bei Bedarf neues Futter gekauft.
-Zu den jeweiligen Terminen findet man die Tiertafel an der Rolshover Str. 100 in 51105 Köln, erreichbar mit den Buslinien 153 und 159. Die Ausgabestelle Köln-Höhenhaus ist dauerhaft geschlossen. (Tiertafel Köln e.V.)
-Von links: Info-Veranstaltungen, Heide-Kids, Heide-Spaziergänge, Landschaftspflege. (Alle Bilder BUND)
-[Dellbrücker Heide - Termine](https://www.dellbruecker-heide.net/veranstaltungen.php)
-[BUND Kreisgruppe Köln](http://www.bund-köln.de/)
-[Haltestelle Dellbrück S11](https://www.openstreetmap.org/)
-[Wikipedia](https://de.wikipedia.org/wiki/Bund_f%C3%BCr_Umwelt_und_Naturschutz_Deutschland)
-Naturschutz Aktiv - Dellbrücker Heide
-Dellbrück - Am Freitag, den 13. November 2026 heißt es von 10:00 bis 14:00 Uhr wieder "Naturschutz aktiv" in der Dellbrücker Heide. Jede*r kann hier im Team seinen praktischen Beitrag zum Naturschutz leisten.
-Die Ehrenamtler*innen vor Ort freuen sich über Verstärkung. Treffpunkt ist die Haltestelle Dellbrück der S11, am Kiosk. Die Kreisgruppe des BUND (Bund für Umwelt und Naturschutz Deutschland) engagiert sich für Natur- und Umweltschutz vor Ort.
-★ Der BUND betreut außerdem auch das Naturschutzgebiet am Höhenfelder See. Ebenfalls in der Dellbrücker Heide bietet der BUND die Dellbrücker Heidespaziergänge und die Kinder-Heide-Exkursionen an. (rb/MF)
-Die Kraft liegt in der Vielfalt, ein schönes Schulmotto.. (Bild GHS Tiefentalstraße)
-[Bildung und Schule - Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/index.html)
-[Kölner Schulen - Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/schulformen/suche-kolner-schulen)
-[Schulen - weitere Adressen](https://www.koeln-muelheim.de/adressen.php?KatID=104)
-GHS Tiefentalstraße - Tag der offenen Tür 2026
-★ Mülheim - Am Freitag, den 13. November 2026 können Schüler und Eltern von 09:00 Uhr bis 12:00 Uhr am Tag der Offenen Schultür die [Gemeinschafts- Hauptschule](https://ghs-tiefental.de/) in der [Tiefentalstraße](https://www.openstreetmap.org/) besuchen und kennenlernen.
-Die Schule wurde gegenüber der ehemaligen Hacketäuerkaserne erbaut. Die Größe des Grundstücks erlaubte ungewöhnlich ausgerichtete Gebäude. Alle Klassen sind nach Osten gerichtet und so am Morgen gut belichtet.
-Die [Hauptschule](https://de.wikipedia.org/wiki/Hauptschule) ist in der Bundesrepublik Deutschland eine allgemeinbildende weiterführende Schule im Rahmen des gegliederten Schulsystems, die in den 1960er Jahren aus der 8-jährigen Volksschule hervorgegangen ist. (rb/MF)
-Kommentar von Senior am 09.10.2025
-Als ich nach Mülheim zog, erklärte mir ein Einheimischer, der Architekt dieses [Schulgebäudes](https://ghs-tiefental.de/unsere-schule/) wäre von der Silhouette eines [Zweirumpf-Flugzeuges](https://de.wikipedia.org/wiki/North_American_F-82) inspiriert worden. Ist wahrscheinlich Quatsch, aber eine schöne Geschichte..
+Don Camillo & Peppone - Schützenplatz Köln-Flittard | Pützlachstr. 37 | 51061 Köln
+[Bühne Hubertus e.V.](https://buehne-hubertus.de/)
+Don Camillo & Peppone − Musical
+Flittard - Am Freitag, den 13. November 2026 um 20:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
+★ Die Laienschauspielgruppe St. Hubertus wurde bereits 1998 gegründet. Als erstes Stück entschied sich die Gruppe für "Die Physiker" von Friedrich Dürrenmatt. Es wurde geprobt, diskutiert, auswendig gelernt, Bühnenbild und Dekoration gezimmert, Schminktechniken ausprobiert, und, und, und…
+Seit dem ist viel Zeit vergangen, und die Gruppe hat sich ein wenig verändert. Neue Schauspieler kamen hinzu, andere verließen die Gruppe und die verbliebenen haben sich weiter entwickelt. Seit 2015 sind wir nun ein eingetragener Verein mit mehr als 50 Mitgliedern. (Bühne Hubertus e.V.)
+South West im Topos
+Leverkusen - Am Freitag den 13. November 2026 ist die Band [South West](https://www.jazz-lev.de/13.11.-26-south-west.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
 Bosstime spielt im Scala-Club, Uhlandstr. 9, 51379 Leverkusen (Foto: Scala Club)
 [Aktuelle Termine](http://www.scala-leverkusen.de/club/)
 [Scala Leverkusen](http://www.scala-leverkusen.de/club/)
@@ -274,41 +246,46 @@ Bosstime im Scala
 Leverkusen - Am Freitag, den 13. November 2026 ist ab 20:00 Uhr im Scala Club Leverkusen Bosstime, die wohl unumstritten gefragteste Bruce Springsteen Tribute Band Europas, zu Gast.
 Der Scala-Club in Leverkusen hat drei Bereiche: den Club mit Konzerten und Kleinkunst, die Cantina fürs Essen und das Cinema zeigt Filme. Bekannt ist der Scala-Club auch als Spielstätte der Leverkusener Jazztage.
 Werfen Sie einen Blick in den Veranstaltungs- Kalender, Sie könnten überrascht sein. Radler planen für die 13 km eine 3/4 Stunde ein. Die Regionalbahn braucht vom Mülheimer Bahnhof aus bis Bhf Opladen unschlagbare 10 Minuten.. (rb)
+★ Bild Volkssternwarte Köln im Schiller-Gymnasium, Nikolausstraße 55, 50937 Köln
+[Volkssternwarte Köln](https://www.volkssternwartekoeln.de/)
+Die Sonne - Vortrag
+Sülz - Am Freitag, den 13. November 2026 gibt es in der Volkssternwarte Köln um 21:00 Uhr einen Vortrag zu dem Thema: Die Sonne - Ein gelber Zwerg!
+Die Volkssternwarte Köln im Schiller-Gymnasium ist für das allgemeine Publikum zugänglich. Neben den Himmelskörpern des Sonnensystems und der Galaxis sind auch außergalaktische Himmelsobjekte Ziel der Beobachtungen.
+Ihre Kuppel hat einen Durchmesser von 4 m, ist aus Holz, mit Kupfer verkleidet und mit dem Kölner Brückengrün gestrichen. In der Kuppel finden auf Sitzbänken ca. 20 Personen Platz. Die Termine entnehmen Sie bitte der Homepage. (PR)
 ★ Jeden Freitag von 12 bis 14 Uhr Reibekuchen beim Café Kind, Waldecker Straße 35, 51065 Köln-Buchforst (rb/MF)
 ★ [Café Kind](https://cafe-kind.cologne/)
 ★ Café Kind - heiß und fettig!
 ★ Buchforst - Am Freitag, den 13. November 2026, gibt es vor dem Café Kind wieder frische Reibekuchen. Auf dem Weg von Mülheim nach Kalk fahre ich häufig über die Waldecker Straße, bislang ohne besondere Vorkommnisse.
 Aber eines Tages steigt mir beim Vorbeifahren der bekannte und verführerische Duft in die Nase: Kartoffel-Reibekuchen! Ich lange als bekennender Rievkooche-Junkie sofort in die Bremsen und besuche den Reibekuchenstand vor der Bäckerei.
 Die Schlange vor mir ist schnell abgearbeitet. Ich bekomme die gewünschten Reibekuchen, die Verkäuferin spottet: "Wie Sie wollten, hell, nicht zu braun, also nur halb durch.." Aber der Spott stört mich nicht, denn so mag ich sie am liebsten.. (rb/MF)
-Die Verlierer - im Gebäude 9
-Mülheim - Am Freitag, den 13. November 2026 tritt "Die Verlierer" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Neuemühle in Wermelskirchen (Foto: Landschaft und Geschichte e.V.)
 [Landschaft und Geschichte e.V.](https://www.lugev.de/)
 Neuemühle – Geschichte einer Bergischen Mühle
 Wermelskirchen - Am Freitag, den 13. November 2026 lädt der Verein Landschaft und Geschichte um 16:30 Uhr zu einer Führung nach Wermelskirchen ein. Der Titel der Veranstaltung lautet: „Neuemühle – Geschichte einer Bergischen Mühle und ihrer Müller erleben“
 Bernd Kaden führt zu interessanten Stellen in der großen Anlage der denkmalgeschützten und sehenswert restaurierten ehemaligen Kornmühle. Die Mühlentechnik und der riesige Königswinterer Holzbackofen werden mit Fotos und Dokumenten während der Führung erläutert.
 Vor einigen Jahren wieder in Betrieb, bietet man seitdem den Gästen verschiedene Sorten Holzofenbrot an. Sofern für die Gäste der Führung im Anschluss ein Tisch reserviert werden soll, bitte diesen mit Anzahl der Gäste mitbestellen. Kostenbeitrag 7 Euro pro Person. Anmeldung: www.LuGeV.de oder per E-Mail an: [E-Mail] (LuGeV)
-Der Kuppelraum und das Vorführgerät (Bild Ulaanbaatar91, CC BY-SA 4.0, Wikipedia)
-[Aktuelle Termine](http://www.koelner-planetarium.de/veranstaltungen.html)
-[Kölner Planetarium](http://www.koelner-planetarium.de/)
-[Planetarium Köln / Wikipedia](https://de.wikipedia.org/wiki/Planetarium_K%C3%B6ln)
-Polarlichter - Planetarium Köln
-Nippes - Am Samstag, den 14. November 2026 lautet das Thema im Planetarium Köln "Polarlichter - buntes Farbspiel in der Nacht". Einlass ist um 17:30 Uhr. Karten müssen zuvor reserviert werden. Es gibt keine Abendkasse.
-Bereits seit 50 Jahren betreibt der ehemalige Astronomie-Lehrer Hermann Gundermann das Planetarium im Keller des Leonardo-da-Vinci-Gymnasiums auf der Blücherstraße.
-Nicht nur an Samstagen öffnet der Pensionär die Türen, um den Besuchern ferne Galaxien näherzubringen. Auf der Internetseite finden Sie die nächsten Besichtigungstermine, Veranstaltungen und Infos. (KR)
-Wochenmarkt Wupperplatz, Köln-Höhenhaus (Bild Stadt Köln)
-[Marktverwaltung / Stadt Köln](https://www.stadt-koeln.de/service/adressen/marktverwaltung)
-Wochenmarkt in Höhenhaus
-Höhenhaus - Am Samstag, den 14. November 2026, ist von 07:00 Uhr bis 13:00 Uhr [Wochenmarkt](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/hoehenhaus-wupperplatz) in [Höhenhaus](https://www.openstreetmap.org/). Hier finden Sie frisches Obst, Gemüse, Fleisch, Fisch, Blumen und vieles mehr und auch einen Treffpunkt für den Klaaf im Veedel.
-Man kann mit der Stadtbahnlinie 4 oder mit der Bus-Linie 260 bis zu Haltestelle Am Emberg fahren und gelangt zu Fuß weiter zum Wupperplatz. Aber auch das Fahrrad ist bei den Besuchern ein sehr beliebtes Verkehrsmittel.
-Die umgebende Wuppersiedlung vermittelt einen für eine Großstadt erstaunlich dörflichen Charakter. Auf der Seite [Wochenmärkte](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/) der Stadt Köln können Sie nach allen neun Stadtbezirken und Wochentagen nach Märkten suchen. (rb/MF)
-Hitdorf - Am Samstag, den 14. November 2026 wird im Matchbox-Theater um 20:00 Uhr das Stück [Veronikas Zimmer](https://www.matchboxtheater.de/programm/veronikas-zimmer) aufgeführt.
 Kräuter am Wegesrand (Foto: Justus Siebert)
 [Forum Wahner Heide und Königsforst](http://www.wahnerheide-koenigsforst.de/)
 Wildkräuterwanderung rund um Gut Leidenhausen
 Porz - Am Samstag, den 14. November 2026 von 14:30 - 16:30 Uhr, lernen Interessierte bei einer Wanderung vom Portal Gut Leidenhausen aus, die zur Jahreszeit pssenden Wildräuter kennen.
 Kann man Wildkräuter in einen gesunden und nachhaltigen Alltag integrieren? Welche leckeren Rezepte gibt es zu entdecken? Diese und weitere Fragen wollen wir gemeinsam beantworten.
 Anmeldung unter: Tel: 02203 / 9800541 oder E-Mail: [E-Mail]. Veranstaltungsort ist das Portal Gut Leidenhausen, Gut Leidenhausen 1, 51147 Köln-Porz. (Portal Gut Leidenhausen)
+Gebrauchtfahrradmarkt Agneskirche (© Paar)
+[Kauftipps / ADAC](https://www.adac.de/rund-ums-fahrzeug/zweirad/fahrrad-ebike-pedelec/kauf-ausruestung/gebrauchtes-fahrrad-kaufen/)
+[Kölner Gebrauchtfahrradmärkte](http://www.fahrradmarkt-koeln.de/termine/)
+Gebrauchtfahrradmarkt Kalk
+Kalk - Am Samstag, den 14. November 2026 findet von 08:00 bis 16:00 Uhr wieder ein Gebrauchtfahrradmarkt auf dem Ottmar Pohl Platz (Sievers Karree/Sieversstraße) in Köln-Kalk statt.
+Die Kölner Fahrradmärkte sind ein guter Ort für den Gebrauchtrad-Kauf, Probefahrten sind möglich. Trotzdem ist es nicht verkehrt, jemand mitzunehmen, der sich mit der Technik auskennt. Die Optik blendet gelegentlich..
+Die Märkte finden abwechselnd an der Agneskirche, dem Friesenplatz, dem Neptunplatz in Ehrenfeld, dem Severinskirchplatz in der Südstadt und im Bürgerpark in Kalk statt, was für Mülheimer der kürzeste Weg ist. (rb/MF)
+Hitdorf - Am Samstag, den 14. November 2026 wird im Matchbox-Theater um 20:00 Uhr das Stück [Veronikas Zimmer](https://www.matchboxtheater.de/programm/veronikas-zimmer) aufgeführt.
+Planeten - Expedition ins Sonnensystem LWL-Planetarium Münster
+[Aktuelle Termine](https://galileum.ticketfritz.de/Event/Kalender/0/6268?Typ=Stichwort&Wert=%C3%B6ffentlich)
+[Galileum Solingen](http://galileum-solingen.de/)
+[Wikipedia](https://de.wikipedia.org/wiki/Galileum_Solingen)
+Planeten - Expedition ins Sonnensystem
+Solingen - Am Samstag, den 14. November 2026 lädt das Galileum um 18:30 Uhr zu der Planetariumsshow ["Planeten - Expedition ins Sonnensystem"](https://galileum.ticketfritz.de/Event/Kalender/3586/11795?typ=Vorlage) ein. Erleben Sie diese Orte so, wie die Raumfahrer der Zukunft sie sehen werden.
+Im Juli 2019 wurde das Planetarium für's Publikum geöffnet. Viele Jahre sammelte der Verein Walter-Horn-Gesellschaft Geld. Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte.
+Der Leiter der Solinger Sternwarte, Frank Lungenstraß, war begeistert: "Noch nie wurde in einen freistehenden Kugelgas-Behälter ein Planetarium eingebaut.“ Durch zwei nur 4 m große Öffnungen wurde das Bau-Material in die Kugel bugsiert. (WDR)
 Bild Stuzubi
 [Stuzubi - Berufsorientierung](https://www.stuzubi.de/)
 [Stuzubi Digital - Bundesweit](https://stuzubi.de/digital/bundesweit/)
@@ -316,14 +293,12 @@ Karrieremesse Stuzubi digital - Bundesweit
 BRD - Die digitale Ausgabe der [Weiterbildungsmesse Stuzubi](https://stuzubi.de/digital/bundesweit/) findet bundesweit am Samstag, den 14. November 2026 von 11:00 - 15:00 Uhr statt. Nach der Schule haben junge Menschen viele Möglichkeiten, wie es beruflich in ihrem Leben weitergehen kann.
 Da ist es gar nicht so leicht, den Überblick zu behalten und die richtige Entscheidung zu treffen. Was passt zu mir – eine Ausbildung, ein Studium? Was steckt eigentlich hinter einem Dualen Studium? Welche Chancen gibt’s im Ausland?
 ★ Antworten bekommen Schulabgänger auf der Karrieremesse Stuzubi. Hier nimmt man sich Zeit für Fragen, die live im Videochat geklärt werden können. Kostenlose Tickets sind online erhältlich. Am gleichen Tag um 18:30 Uhr findet für alle Eltern ein spezifisches Eltern-Webinar statt. (PR)
-Ferdinand-Lassalle-Straße 59, 51065 Köln-Mülheim (rb/MF)
-[Bildung und Schule / Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/index.html)
-[Ferdinand Lassalle / Wikipedia](https://de.wikipedia.org/wiki/Ferdinand_Lassalle)
-[Schulen in Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/schulformen/suche-kolner-schulen)
-Ferdinand-Lassalle-Realschule - Tag der offenen Tür 2026
-★ Mülheim - Am Samstag, den 14. November 2026 lädt die [Ferdinand-Lassalle-Realschule](https://rs-lassallestrasse.koeln/schule) von 10:00 Uhr bis 13:00 Uhr die Schüler der 4. Klasse und ihre Eltern zum Tag der offenen Türe ein. Nicht nur die Lage am Stadtgarten zeichnet die Schule aus.
-Hier leben Menschen vieler Nationalitäten. Diese kulturelle Vielfalt erleben wir an unserer Schule als Bereicherung und Herausforderung im pädagogischen Alltag. Durch die Öffnung von Schule beziehen wir den Stadtteil in unser Schulleben ein.
-Sei es durch Ausflüge in die Umgebung und die Kontakte zu Arbeitgebern. Unser Engagement im Mülheimer Karneval mit Aufführungen in der Stadthalle und Teilnahme am Karnevalszug hat Tradition! (PR)
+Wochenmarkt Wupperplatz, Köln-Höhenhaus (Bild Stadt Köln)
+[Marktverwaltung / Stadt Köln](https://www.stadt-koeln.de/service/adressen/marktverwaltung)
+Wochenmarkt in Höhenhaus
+Höhenhaus - Am Samstag, den 14. November 2026, ist von 07:00 Uhr bis 13:00 Uhr [Wochenmarkt](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/hoehenhaus-wupperplatz) in [Höhenhaus](https://www.openstreetmap.org/). Hier finden Sie frisches Obst, Gemüse, Fleisch, Fisch, Blumen und vieles mehr und auch einen Treffpunkt für den Klaaf im Veedel.
+Man kann mit der Stadtbahnlinie 4 oder mit der Bus-Linie 260 bis zu Haltestelle Am Emberg fahren und gelangt zu Fuß weiter zum Wupperplatz. Aber auch das Fahrrad ist bei den Besuchern ein sehr beliebtes Verkehrsmittel.
+Die umgebende Wuppersiedlung vermittelt einen für eine Großstadt erstaunlich dörflichen Charakter. Auf der Seite [Wochenmärkte](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/) der Stadt Köln können Sie nach allen neun Stadtbezirken und Wochentagen nach Märkten suchen. (rb/MF)
 Kattwinkel'sche Fabrik (Bistro), Kattwinkelstraße 3, 42929 Wermelskirchen
 [Aktuelle Termine](https://www.kattwinkelsche-fabrik.de/Kultur/Programm/index.php)
 [Kattwinkel'sche Fabrik](http://www.kattwinkelsche-fabrik.de/)
@@ -344,22 +319,6 @@ Das Programm umfasst in Einblicke in das Studienangebot durch Vorträge, Probevo
 ★ Bergisch Gladbach - Am Samstag, den 14. November und am Sonntag, den 15. November 2026 findet im Bergischen Löwen von 11:00 - 18:00 Uhr ein [Kunstbasar](https://www.bergischerloewe.de/programmdetails.aspx?vid=19966dcc-357b-4a06-8661-2122b6487340&datum=14.11.2026) der Organisation "Terre des Hommes" statt.
 1977 wurde der alte Mariensaal abgerissen, und der Kölner Architekt Gottfried Böhm konzipierte einen Neubau des Bergischen Löwen, wie er sich jetzt präsentiert. 1980 wurde das neue Haus eröffnet, der alte Teil in das neue Haus integriert.
 Heute wird das Bürgerhaus durch die Bergischer Löwe GmbH betrieben und für Theater-, Ballett- und Opernaufführungen sowie Kongresse, Konzerte, Märkte usw. genutzt. Der Bergische Löwe ist von Mülheim in wenigen Minuten zu erreichen. (rb/MF)
-De Ramönsche im Topos
-Leverkusen - Am Samstag den 14. November 2026 ist die Band [De Ramönsche](https://www.jazz-lev.de/14.11-26-de-ramoensche.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
-Planeten - Expedition ins Sonnensystem LWL-Planetarium Münster
-[Aktuelle Termine](https://galileum.ticketfritz.de/Event/Kalender/0/6268?Typ=Stichwort&Wert=%C3%B6ffentlich)
-[Galileum Solingen](http://galileum-solingen.de/)
-[Wikipedia](https://de.wikipedia.org/wiki/Galileum_Solingen)
-Planeten - Expedition ins Sonnensystem
-Solingen - Am Samstag, den 14. November 2026 lädt das Galileum um 18:30 Uhr zu der Planetariumsshow ["Planeten - Expedition ins Sonnensystem"](https://galileum.ticketfritz.de/Event/Kalender/3586/11795?typ=Vorlage) ein. Erleben Sie diese Orte so, wie die Raumfahrer der Zukunft sie sehen werden.
-Im Juli 2019 wurde das Planetarium für's Publikum geöffnet. Viele Jahre sammelte der Verein Walter-Horn-Gesellschaft Geld. Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte.
-Der Leiter der Solinger Sternwarte, Frank Lungenstraß, war begeistert: "Noch nie wurde in einen freistehenden Kugelgas-Behälter ein Planetarium eingebaut.“ Durch zwei nur 4 m große Öffnungen wurde das Bau-Material in die Kugel bugsiert. (WDR)
-Friedhof Thurner Straße, 51069 Köln (rb/MF)
-[Flyer zur Veranstaltung](https://www.hospizdienst-koeln-dellbrueck-holweide.de/images/PDF_Dateien/2025-09-05%20Plakat%20Trauerwege%20Friedhofstreff%20Dellbruck%20Thurner%20Str.doc.pdf)
-Trauerwege Friedhofstreff Dellbrück
-Dellbrück - Der Ökumenischer Hospizdienst Köln-Dellbrück/Holweide e.V. bietet am Samstag, den 14. November 2026 um 16:30 Uhr, einen Friedhofstreff auf dem Dellbrücker [Friedhof Thurner Straße](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/friedhoefe/dellbrueck) an. Der Treffpunkt ist am Unterstand in der Mitte des Friedhofs.
-Der Verein lädt Trauernde dazu ein, untereinander Ihre Erfahrungen auszutauschen. Gerne stehen dabei auch geschulte ehrenamtliche MitarbeiterInnen für Gespräche zur Verfügung. Die Teilnahme ist kostenlos. Eine Anmeldung ist nicht erforderlich.
-Wir bieten auch Vorträge zu unterschiedlichen Themen an. Aktuelle Termine entnehmen Sie der Internetseite. Telefonisch ist unser Büro erreichbar unter: 0221/16 90 64 88 oder 0152 / 03 69 94 07. E-Mail: [E-Mail]. (PR)
 Chorkonzert im Kulturbunker Mülheim, Berliner Straße 20, 51063 Köln-Mülheim
 [Kulturbunker Mülheim](https://kulturbunker-muelheim.de/)
 [Kulturbunker Sommerkonzerte (pdf)](https://koeln-muelheim.de/dok/Newsletter_Juli-Sommerkonzerte-2023.pdf)
@@ -367,13 +326,30 @@ Von der Stille zum Klang - Chorkonzert
 Mülheim - Am Samstag, den 14. November 2026 um 19:00 Uhr, präsentiert SunArt e. V. im Kulturbunker das Abschlusskonzert eines vom Landesmusikrat NRW geförderten Musikprojekts
 Amateurkomponist:innen unterschiedlicher Herkunft und Berufe bringen ihre eigenen, bislang ungehörten türkischsprachigen Lieder auf die Bühne.
 Gerade im Zeitalter der KI setzt dieses Projekt ein Zeichen für menschliche Kreativität, echte Emotionen und lebendige Musik. Echte Menschen. Echte Geschichten. Echte Musik. (KuBu)
-Gebrauchtfahrradmarkt Agneskirche (© Paar)
-[Kauftipps / ADAC](https://www.adac.de/rund-ums-fahrzeug/zweirad/fahrrad-ebike-pedelec/kauf-ausruestung/gebrauchtes-fahrrad-kaufen/)
-[Kölner Gebrauchtfahrradmärkte](http://www.fahrradmarkt-koeln.de/termine/)
-Gebrauchtfahrradmarkt Kalk
-Kalk - Am Samstag, den 14. November 2026 findet von 08:00 bis 16:00 Uhr wieder ein Gebrauchtfahrradmarkt auf dem Ottmar Pohl Platz (Sievers Karree/Sieversstraße) in Köln-Kalk statt.
-Die Kölner Fahrradmärkte sind ein guter Ort für den Gebrauchtrad-Kauf, Probefahrten sind möglich. Trotzdem ist es nicht verkehrt, jemand mitzunehmen, der sich mit der Technik auskennt. Die Optik blendet gelegentlich..
-Die Märkte finden abwechselnd an der Agneskirche, dem Friesenplatz, dem Neptunplatz in Ehrenfeld, dem Severinskirchplatz in der Südstadt und im Bürgerpark in Kalk statt, was für Mülheimer der kürzeste Weg ist. (rb/MF)
+Der Kuppelraum und das Vorführgerät (Bild Ulaanbaatar91, CC BY-SA 4.0, Wikipedia)
+[Aktuelle Termine](http://www.koelner-planetarium.de/veranstaltungen.html)
+[Kölner Planetarium](http://www.koelner-planetarium.de/)
+[Planetarium Köln / Wikipedia](https://de.wikipedia.org/wiki/Planetarium_K%C3%B6ln)
+Polarlichter - Planetarium Köln
+Nippes - Am Samstag, den 14. November 2026 lautet das Thema im Planetarium Köln "Polarlichter - buntes Farbspiel in der Nacht". Einlass ist um 17:30 Uhr. Karten müssen zuvor reserviert werden. Es gibt keine Abendkasse.
+Bereits seit 50 Jahren betreibt der ehemalige Astronomie-Lehrer Hermann Gundermann das Planetarium im Keller des Leonardo-da-Vinci-Gymnasiums auf der Blücherstraße.
+Nicht nur an Samstagen öffnet der Pensionär die Türen, um den Besuchern ferne Galaxien näherzubringen. Auf der Internetseite finden Sie die nächsten Besichtigungstermine, Veranstaltungen und Infos. (KR)
+Friedhof Thurner Straße, 51069 Köln (rb/MF)
+[Flyer zur Veranstaltung](https://www.hospizdienst-koeln-dellbrueck-holweide.de/images/PDF_Dateien/2025-09-05%20Plakat%20Trauerwege%20Friedhofstreff%20Dellbruck%20Thurner%20Str.doc.pdf)
+Trauerwege Friedhofstreff Dellbrück
+Dellbrück - Der Ökumenischer Hospizdienst Köln-Dellbrück/Holweide e.V. bietet am Samstag, den 14. November 2026 um 16:30 Uhr, einen Friedhofstreff auf dem Dellbrücker [Friedhof Thurner Straße](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/friedhoefe/dellbrueck) an. Der Treffpunkt ist am Unterstand in der Mitte des Friedhofs.
+Der Verein lädt Trauernde dazu ein, untereinander Ihre Erfahrungen auszutauschen. Gerne stehen dabei auch geschulte ehrenamtliche MitarbeiterInnen für Gespräche zur Verfügung. Die Teilnahme ist kostenlos. Eine Anmeldung ist nicht erforderlich.
+Wir bieten auch Vorträge zu unterschiedlichen Themen an. Aktuelle Termine entnehmen Sie der Internetseite. Telefonisch ist unser Büro erreichbar unter: 0221/16 90 64 88 oder 0152 / 03 69 94 07. E-Mail: [E-Mail]. (PR)
+De Ramönsche im Topos
+Leverkusen - Am Samstag den 14. November 2026 ist die Band [De Ramönsche](https://www.jazz-lev.de/14.11-26-de-ramoensche.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
+Ferdinand-Lassalle-Straße 59, 51065 Köln-Mülheim (rb/MF)
+[Bildung und Schule / Stadt Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/index.html)
+[Ferdinand Lassalle / Wikipedia](https://de.wikipedia.org/wiki/Ferdinand_Lassalle)
+[Schulen in Köln](https://www.stadt-koeln.de/leben-in-koeln/bildung-und-schule/schulformen/suche-kolner-schulen)
+Ferdinand-Lassalle-Realschule - Tag der offenen Tür 2026
+★ Mülheim - Am Samstag, den 14. November 2026 lädt die [Ferdinand-Lassalle-Realschule](https://rs-lassallestrasse.koeln/schule) von 10:00 Uhr bis 13:00 Uhr die Schüler der 4. Klasse und ihre Eltern zum Tag der offenen Türe ein. Nicht nur die Lage am Stadtgarten zeichnet die Schule aus.
+Hier leben Menschen vieler Nationalitäten. Diese kulturelle Vielfalt erleben wir an unserer Schule als Bereicherung und Herausforderung im pädagogischen Alltag. Durch die Öffnung von Schule beziehen wir den Stadtteil in unser Schulleben ein.
+Sei es durch Ausflüge in die Umgebung und die Kontakte zu Arbeitgebern. Unser Engagement im Mülheimer Karneval mit Aufführungen in der Stadthalle und Teilnahme am Karnevalszug hat Tradition! (PR)
 Filmbörse in der Stadthalle Köln, Jan-Wellem-Straße 2, 51065 Köln-Mülheim
 [Filmbörse / Facebook](https://de-de.facebook.com/groups/355730627925083/)
 [Stadthalle Köln](https://www.stadthalle-koeln.de/)
@@ -395,12 +371,12 @@ Volkstrauertag 2026
 Mülheim - Am Sonntag, den 15. November 2026, ist Volkstrauertag. Er ist in Deutschland ein staatlicher Gedenktag und gehört zu den „Stillen Tagen“. Er ist immer zwei Sonntage vor dem ersten Adventssonntag.
 Der Tag soll an die Kriegstoten und Opfer der Gewaltherrschaft aller Nationen erinnern. Ab dem ersten Volkstrauertag 1926 fanden Gedenkfeiern für die deutschen Gefallenen des Ersten Weltkriegs statt.
 Die Nationalsozialisten legten ihn als staatlichen Feiertag fest und benannten ihn 1934 in Heldengedenktag um, der letzte dieser Art war 1945. Seitdem ist "Held" in Deutschland kein besonders angesehener Beruf mehr.. (rb/MF)
+Flittard - Am Sonntag, den 15. November 2026 um 18:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
 Bild © NASA
 Apollo 11 – Die Mondlandung
 Solingen - Am Sonntag, den 15. November 2026 heißt es um 16:30 Uhr im Galileum: [Apollo 11 – Die Mondlandung](https://galileum-solingen.de/shows/apollo-11-die-mondlandung/) Erleben Sie die Reise der Crew: Vom Start der Saturn V Rakete bis zur Wasserung auf der Erde.
 Im Juli 2019 wurde das Planetarium eröffnet. Viele Jahre hat der Verein Walter-Horn-Gesellschaft Geld gesammelt. Jetzt ist das Planetarium fertig. Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte.
 Der Leiter der Solinger Sternwarte, Frank Lungenstraß, ist begeistert: "Noch nie wurde in einen freistehenden Kugelgas-Behälter ein Planetarium eingebaut.“ Die Arbeit in der großen grünen Kugel war aber nicht einfach. (WDR)
-Flittard - Am Sonntag, den 15. November 2026 um 18:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
 DAVID EUGENE EDWARDS - im Gebäude 9
 Mülheim - Am Montag, den 16. November 2026 tritt "DAVID EUGENE EDWARDS" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Gesehen an einem Gebetsweg in Jever.. (© Gregor Heims, CC BY-SA 3.0, Wikipedia)
@@ -410,12 +386,8 @@ Buß- und Bettag 2026
 Mülheim - Am Mittwoch, den 18. November 2026 ist [Buß- und Bettag](https://de.wikipedia.org/wiki/Bu%C3%9F-_und_Bettag). Der einst gesetzliche Feiertag wurde abgeschafft. Man kann bei der Gelegenheit nachfragen, ob der Zweck der Abschaffung auch erreicht wurde.
 1994 wurde beschlossen, den Buß- und Bettag als arbeitsfreien Tag ab 1995 zu streichen, um die Mehrbelastung für die Arbeitgeber durch die Beiträge zur neu eingeführten Pflegeversicherung durch Mehrarbeit der Arbeitnehmer auszugleichen.
 Kritiker der Abschaffung sagen, dass der gewünschte Effekt, die Finanzierung der Pflegeversicherung, anders als die Abschaffung des Feiertages, nicht von dauerhafter Wirkung war und die Beiträge seitdem bereits erhöht wurden. (rb/MF)
-★ Lesung im Familientreff Klamöttchen, Im Weidenbruch 137, 51061 Köln-Höhenhaus
-★ [Pfarrgemeinde Heilige Familie](https://www.heilige-familie-koeln.de/kirchorte/einrichtungen/klamoettchen/index.html)
-Lesung in Köln-Höhenhaus
-★ Höhenhaus - Der Autori Gianni Borsa liest am Mittwoch, 18. November 2026 um 19:30 Uhr, im Familientreff Klamöttchen aus seinem neuen Toskana-Krimi „Schatten über den Chianti-Hügeln“. Einlass ist ab 19:00 Uhr.
-Die ehemalige Kriminalkommissarin Sandra Wolff und Commissario Figallo machen einen Ausflug an die Küste, als sie von den unnatürlichen Todesumständen des Olivenbauern Paolo Fusco erfahren. Figallo übernimmt die Ermittlungen.
-Wer Gianni Borsa kennt, weiß, dass Italien, Kulinarik und Mord eine spannende Krimi-Mischung ergeben. Begleitende Fotos von Karin Achilles geben der Lesung den entsprechenden Rahmen. Der Eintritt für die Lesung ist frei. (PR)
+The Sheepdogs - im Gebäude 9
+Mülheim - Am Mittwoch, den 18. November 2026 tritt "The Sheepdogs" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Das Lokal hat im Laufe der Zeit deutlich dazu gewonnen. (Wildwechsel, Peter-Baum-Weg 25, 51069 Köln)
 Wie angelt man sich einen Millionär? - Livehörspiel mit Musik
 Dünnwald - Am Mittwoch, den 18. November 2026 um 19:30 Uhr, wird es im Restaurant Wildwechsel wieder humorvoll. Geboten wird ein Livehörspiel mit Julia Karl, Rebecca Madita Hundt, Katja Liebing und Jörg Kernbach. Musik: Daniel Sojunow. Der Eintritt ist frei. Um Reservierung wird gebeten.
@@ -426,13 +398,17 @@ Warum wir unsterblich sind
 Bergisch Gladbach - Am Mittwoch, den 18.11.26 ist Dr. Med. Wolfgang Knüll von 19:00 bis 21:30 Uhr im Bestattungshaus Pütz-Roth. Sein Thema: „Bewusstsein – über den Tod hinaus. Warum wir unsterblich sind. Nahtoderfahrungen.“
 Das Bestattungshaus Pütz-Roth ist zum einen bekannt für seinen innovativen Zugang zum Thema Tod und Sterben. Die Hinterbliebenen und die Begräbniskultur als Ganzes erfahren im Bestattungshaus viel Zuwendung.
 Darüber hinaus bietet das Bestattungshaus auch Kleinkunst, Vorträge, Lesungen, Infotage, Trauerbegleitung und Benefiz-Veranstaltungen. Die Homepage von Pütz-Roth informiert über die jeweils aktuellen Termine. (rb/MF)
-The Sheepdogs - im Gebäude 9
-Mülheim - Am Mittwoch, den 18. November 2026 tritt "The Sheepdogs" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Et Kapellche, Holsteinstraße 1, 51065 Köln-Mülheim (Bild BiodanzaMünchenCom)
 Biodanza im Kapellche
 Mülheim - Ab Mittwoch, den 18. November 2026 ist im Kapellche ein Biodanza-Kurs für Menschen jeden Alters, auch mit Bewegungs- Einschränkungen. Es sind keine Tanzvorkenntnisse erforderlich.
 [Biodanza](https://de.wikipedia.org/wiki/Biodanza) heißt: „Tanz des Lebens“. Der Psychologie-Professor Rolando Toro Araneda entwickelte das System in den 60ern, um die Essenz des Lebens zu spüren und sich an der Lust, ein Mensch zu sein, zu freuen.
 Der Biodanza-Kurs ist jeden 1. und 3. Mittwoch von 19 Uhr bis 21 Uhr. Teilnahmegebühr: 15 Euro pro Termin, Mitglieder 12 Euro. Info & Anmeldung: Sabine Bödefeld: 0221/1699979, [E-Mail]. (PR)
+★ Lesung im Familientreff Klamöttchen, Im Weidenbruch 137, 51061 Köln-Höhenhaus
+★ [Pfarrgemeinde Heilige Familie](https://www.heilige-familie-koeln.de/kirchorte/einrichtungen/klamoettchen/index.html)
+Lesung in Köln-Höhenhaus
+★ Höhenhaus - Der Autori Gianni Borsa liest am Mittwoch, 18. November 2026 um 19:30 Uhr, im Familientreff Klamöttchen aus seinem neuen Toskana-Krimi „Schatten über den Chianti-Hügeln“. Einlass ist ab 19:00 Uhr.
+Die ehemalige Kriminalkommissarin Sandra Wolff und Commissario Figallo machen einen Ausflug an die Küste, als sie von den unnatürlichen Todesumständen des Olivenbauern Paolo Fusco erfahren. Figallo übernimmt die Ermittlungen.
+Wer Gianni Borsa kennt, weiß, dass Italien, Kulinarik und Mord eine spannende Krimi-Mischung ergeben. Begleitende Fotos von Karin Achilles geben der Lesung den entsprechenden Rahmen. Der Eintritt für die Lesung ist frei. (PR)
 Eingangsbereich des Eltzhofs (Bild Cordito, CC BY-SA 3.0, Wikipedia)
 [Aktuelle Termine](https://eltzhof-kulturgut.de/kultur-theater/programm-saal)
 [Kulturgut Eltzhof](https://eltzhof-kulturgut.de/kultur-theater/programm-saal)
@@ -440,6 +416,8 @@ Kölsche Weihnacht im Eltzhof
 Porz - Am Donnerstag, den 19. November 2026 heißt es um 20:00 Uhr im Eltzhof wieder "Sidd Hösch, Leev Lück, Sidd Stell". Die "Kölsche Weihnacht" bietet handgemachte Musik mit traditionellen und auch modernen Musikstücken.
 Gefühlvoll, lyrisch, mit einem großen Schuss Poesie wird es wieder Geschichten, Lieder und Erzählungen rund um Christbaum und Weihnachtsfest geben - ein Spagat zwischen Humor und Herzergreifendem!
 Der Eltzhof wurde unter „Paulshof“ erstmals 1735 urkundlich aufgeführt. Heute beherbergt der Hof u.a. ein Theater und eine Brauhaus- Gaststätte, die in den Räumen der ehemaligen Landarbeiter ist. Auf dem geschlossenen Innenhof finden Open Air-Veranstaltungen aller Art statt. (Wikipedia)
+Drei Meter Feldweg + 100 Kilo Herz in der Essigfabrik
+Deutz - Am Donnerstag, den 19. November 2026 sind in der Essigfabrik die Bands Drei Meter Feldweg und 100 Kilo Herz mit ihrem "Double Birthday Bash" zu Gast. Einlass ist um 18:30 Uhr, Konzertbeginn um 19:00 Uhr.
 Repair-Café - Stadtteilbibliothek Mülheim
 Mülheim - Am Donnerstag, den 19. November 2026 von 16:00 Uhr bis 18:30 Uhr wird repariert! Denn zu schnell werden Dinge weggeworfen. Ob der Toaster streikt oder die Stehlampe – oft muss nur eine Kleinigkeit gerichtet werden.
 Beim Repair Café der LeihBar Köln, in der Stadtteilbibliothek Mülheim werden Sie vor Ort dabei unterstützt, kaputten Gegenständen ein zweites Leben einzuhauchen. So lässt sich ihre Lebensdauer verlängern und Müll vermeiden.
@@ -458,25 +436,25 @@ Wochenmarkt in Dellbrück
 Dellbrück - Am Donnerstag, den 19. November 2026, ist von 07:00 Uhr bis 13:00 Uhr [Wochenmarkt](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/dellbrueck-der-kemperwiese) in [Dellbrück](https://www.openstreetmap.org/). Hier finden Sie frisches Obst, Gemüse, Fleisch, Fisch, Blumen und vieles mehr und auch einen Treffpunkt für den Klaaf im Veedel.
 Der Markt ist mit den Stadtbahn-Linien 3 und 18 gut zu erreichen. Die Bus-Linien 154 und 436 halten ebenfalls an der Haltestelle Dellbrück Hauptstraße. Unter der Woche dient die Fläche als Parkplatz, der, wann auch immer, aufgewertet werden soll.
 Er soll Fahrradabstellanlagen, Ladestationen für Elektrofahrzeuge und eine bessere Ausleuchtung bekommen. Auf der Seite [Wochenmärkte](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/) der Stadt Köln können Sie nach allen neun Stadtbezirken und Wochentagen nach Märkten suchen. (rb/MF)
-Drei Meter Feldweg + 100 Kilo Herz in der Essigfabrik
-Deutz - Am Donnerstag, den 19. November 2026 sind in der Essigfabrik die Bands Drei Meter Feldweg und 100 Kilo Herz mit ihrem "Double Birthday Bash" zu Gast. Einlass ist um 18:30 Uhr, Konzertbeginn um 19:00 Uhr.
+Kulturveranstaltungen im Burghaus Bielstein, Burgstraße 9, 51674 Wiehl
+[Aktuelle Termine](https://www.kulturkreis-wiehl.de/veranstaltungen/)
+[Kulturkreis Wiehl](http://kulturkreis-wiehl.de/Default.aspx?Kat=0&Deb=-60)
+Bademeister Schaluppke im Burghaus Wiehl
+Wiehl - Am Freitag, den 20. November 2026, ist um 20:00 Uhr der Comedian Bademeister Schaluppke mit seinem Programm "Spassbad" zu Gast im Burghaus.
+Kultur auf dem Land, das ist für uns eine spannende Angelegenheit. Die mit vielen Locations und Events überversorgten Großstädter neigen schon mal zu Gedankenlosigkeit und Undankbarkeit.
+Es gibt viele Künstler, die gezielt zuerst auf dem Land auftreten, um die Qualität ihres neuen Programms zu testen. Was sagt das über den Kulturgeschmack der Städter aus? Der ist eher ländlich? (rb/MF)
 SeniorenNetzwerk Mülheim, AWO Kreisverband Köln e.V. im August Bebel Haus, Krahnenstr.1, 51063 Köln-Mülheim. (© rb/MF)
 [Seniorennetzwerk Köln-Mülheim](https://seniorennetzwerke-koeln.de/muelheim/)
 Die Fahrradwerkstatt - Neues Angebot!
 Mülheim - Am Freitag, den 20. November 2026, von 15:30 Uhr bis 18.00 Uhr heißt es wieder bei uns: Die Fahrradwerkstatt – Gemeinsam schrauben statt allein verzweifeln! Vorkenntnisse sind nicht erforderlich.
 Das Licht funktioniert nicht, die Bremse macht Probleme oder die Kette quietscht? Dann kommen Sie in unsere Fahrrad-Werkstatt! Hier können Sie unter Anleitung selbst Hand anlegen oder sich bei kleineren Reparaturen helfen lassen.
 Ob ein kurzer Fahrradcheck oder gemeinsames Schrauben – wir bringen Ihr Fahrrad zusammen wieder in Schuss. Ohne Anmeldung – einfach mit dem Fahrrad vorbeikommen. An jedem ersten und dritten Freitag im Monat. (PR)
-The Browning in der Essigfabrik
-Deutz - Am Freitag, den 20. November 2026 ist die Band The Browning auf ihrer "Europe Fall-Tour 2026" in der Essigfabrik zu Gast. Einlass ist um 18:00 Uhr, Konzertbeginn um 18:30 Uhr.
-Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach (Bild Pingsjong / Wikipedia)
-Gerd J. Pohl liest im Bürgerhaus
-Bergisch Gladbach - Am Freitag, den 20. November 2026 ist im Bürgerhaus Bergischer Löwe ab 19:30 Uhr Gerd J. Pohl zu Gast und liest zum Thema [Am Abgrund... und einen Schritt weiter](https://www.bergischerloewe.de/programmdetails.aspx?vid=a45f9461-fd73-4f56-a904-710268b8dfc7&datum=20.11.2026).
-★ Vorlesezeit auf Türkisch in der Stadtteilbibliothek
-★ Mülheim - Am Freitag, den 20. November 2026, ist von 16:00 Uhr bis 17:00 Uhr die nächste [Vorlesezeit](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-auf-tuerkisch-6) für Kinder ab 3 Jahren in der Stadtteilbibliothek Köln-Mülheim am Wiener Platz.
-Eine Mordsfreundin - matchboxtheater e.V., Hitdorfer Straße 169, 51371 Leverkusen-Hitdorf. (Bild Matchbox Theater)
-Eine Mordsfreundin - im Matchbox-Theater
-Hitdorf - Am Freitag, den 20. November 2026 wird im Matchbox-Theater um 20:00 Uhr das Stück [Eine Mordsfreundin](https://www.matchboxtheater.de/programm/eine-mordsfreundin) aufgeführt.
-Im Urlaub lernen Peter und Debbie die exzentrische Elsa aus Denver kennen und versprechen, locker in Kontakt zu bleiben. Monate später jedoch finden Peter und Debbie heraus, dass ihre flüchtige Urlaubsbekanntschaft ein dunkles Geheimnis umgibt.
+Burnhaeart Mockery im Topos
+Leverkusen - Am Freitag den 20. November 2026 ist die Band [Burnhaeart Mockery](https://www.jazz-lev.de/20.11.-26-burnheart-mockery.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
+FEEL IT! // Musik Performance
+Mülheim - Eine Pop(-ulistische) [Musik-Performance](https://kulturbunker-muelheim.de/event/feelit/) erwartet Bersucherinnen und Besucher am Freitag, den 20. November 2026 um 19:00 Uhr im Kulturbunker.
+Pop ist Unterhaltung, Politik ist Performance und Populismus Show – Feelings vs. Facts. Drei Performer:innen aus der Türkei und Deutschland treten in einen Dialog – mit markanten politischen Reden, mit Pop-Songs und mit den eigenen Worten und Biographien
+FEEL IT! verhandelt die Wirkmechanismen von Pop-Events, der politischen Rede und des Populismus und dekonstruiert sie. Jenseits der Inszenierung bleibt doch die Sehnsucht nach einer persönlichen und sachlich objektiven Auseinandersetzung. (PR)
 Händler auf dem Mittelalterlichen Weihnachtsmarkt Siegburg (© Stadtmarketing Siegburg GmbH)
 [Kreisstadt Siegburg](https://siegburg.de/)
 [Mittelalterlicher Markt](https://mittelalterlicher-markt-siegburg.de/)
@@ -486,77 +464,80 @@ Siegburg - Von Freitag, den 20. November bis Dienstag, den 22. Dezember 2026 tau
 Mittelalterliche Marktstände füllen den Platz, Handwerksmeister sind bei der Arbeit, liebliche und derbe Lieder des Mittelalters werden vorgetragen,Gaukelei und Schabernack unterhalten das Publikum auf dem zentral gelegenen Marktplatz. (PR)
 Kommentar von Redaktion am 09.12.2024
 Wir kommen gerne hierher. Die Anfahrt mit der Bahn ist auch vom Mülheimer Bahnhof schnell gemacht, das Auto kann definitiv stehen bleiben. Die Verbindung zwischen Markt und Mittelalter ist stimmig. Die Preise passen, es gibt für jeden Geschmack etwas zu essen. Die Spanferkel am Drehspieß sind sehr beliebt. Unsere Reibekuchen kriegen wir etwas versteckt am Nordrand des Platzes. Auf der Marktübersicht ist der Stand leider nicht drauf. Wer Samstags kommt, freut sich über ein noch breiteres Angebot: Dann ist zusätzlich der Wochenmarkt..
+Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach (Bild Pingsjong / Wikipedia)
+Gerd J. Pohl liest im Bürgerhaus
+Bergisch Gladbach - Am Freitag, den 20. November 2026 ist im Bürgerhaus Bergischer Löwe ab 19:30 Uhr Gerd J. Pohl zu Gast und liest zum Thema [Am Abgrund... und einen Schritt weiter](https://www.bergischerloewe.de/programmdetails.aspx?vid=a45f9461-fd73-4f56-a904-710268b8dfc7&datum=20.11.2026).
+★ Vorlesezeit auf Türkisch in der Stadtteilbibliothek
+★ Mülheim - Am Freitag, den 20. November 2026, ist von 16:00 Uhr bis 17:00 Uhr die nächste [Vorlesezeit](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-auf-tuerkisch-6) für Kinder ab 3 Jahren in der Stadtteilbibliothek Köln-Mülheim am Wiener Platz.
+★ [Café Kind](https://cafe-kind.de/)
+★ Buchforst - Am Freitag, den 20. November 2026, gibt es vor dem Café Kind wieder frische Reibekuchen. Auf dem Weg von Mülheim nach Kalk fahre ich häufig über die Waldecker Straße, bislang ohne besondere Vorkommnisse.
 ★ Schauen Sie zum Vergleich Kindern ins Gesicht, die vor dem Fernseher versacken.. (Bild Vorlesetag)
 ★ [Vorlesetag](http://www.vorlesetag.de/)
 ★ Bundesweiter Vorlesetag 2026
 ★ BRD - Am Freitag, dem 20. November 2026 ist wieder der bundesweite Vorlesetag. Die Initiative von DIE ZEIT, Stiftung Lesen und Deutsche Bahn Stiftung findet jedes Jahr am dritten Freitag im November statt.
 ★ Der Aktionstag will Begeisterung für das Lesen und Vorlesen wecken und Kinder früh damit in Kontakt bringen. Das einfache Konzept: Jeder, der Spaß am Vorlesen hat, liest an diesem Tag anderen vor:
 ★ In Schulen, Kindergärten, Bibliotheken oder Buchhandlungen. Aber auch an ungewöhnlichen Orten wie im Riesenrad, Flugzeug, Tierpark, Museum oder auf einer viel befahrenen Kreuzung - der Fantasie sind keine Grenzen gesetzt. (PR)
-Burnhaeart Mockery im Topos
-Leverkusen - Am Freitag den 20. November 2026 ist die Band [Burnhaeart Mockery](https://www.jazz-lev.de/20.11.-26-burnheart-mockery.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
-Flittard - Am Freitag, den 20. November 2026 um 20:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
-Mittelalterlicher Weihnachtsmarkt der Alexianer in der Kölner Straße 64, 51149 Köln Porz-Ensen (© Foto Alexianer Köln)
-[Alexianer Klostergärtnerei](https://alexianer-klostergaertnerei-koeln.de/)
-Mittelalterlicher Weihnachtsmarkt der Alexianer 2026
-Porz - Am Freitag, den 20. und Samstag, den 21. November 2026 wecken auf dem Mittelalterlichen [Weihnachtsmarkt der Alexianer](https://www.alexianer-koeln.de/unternehmen/aktuelles/termine/termin/mittelalterlicher-alexianer-weihnachtsmarkt-2024) wieder viele schöne Angebote die Vorfreude auf Weihnachten.
-Handgemachte Kleinigkeiten zum Verschenken und Selbstbehalten und Zünftiges vom Grill können mit einer eigenen Weihnachtsmarkt-​Währung an fast 50 Ständen erworben werden. Viele Mitwirkenden tragen mittelalterliche Kleidung.
-★ Vorführungen von Handwerkskünsten, die aus der Zeit gefallen sind, laden zum Verweilen und Mitmachen ein und die Plätze rund um das herrschaftliche Klostergebäude sind in ein weihnachtliches Lichtermeer getaucht. (Alexianer Köln)
 Et Kapellche, Holsteinstraße 1, 51065 Köln-Mülheim (Filmplakat)
 [Et Kapellche e.V.](https://etkapellche.de/)
 The quiet girl - Kino im Kapellche
 Mülheim - Am Freitag, den 20. November 2026 zeigen wir um 19:30 Uhr den Film ["The quit girl".](https://www.filmstarts.de/kritiken/299438.html) Die neunjährige Cáit lebt mit ihren 4 Geschwistern irgendwo auf dem Lande in Irland. Da sie sehr still ist, fällt sie nicht auf.
 ★ Ihr Vater schaut sie nie an, lieber versucht er die Wut auf sein Leben mit fünf Kindern durch Pferdewetten und dunkles Bier runterzuspülen. Ihre Mutter hat ohnehin so viel zu tun, dass kein Fünkchen Aufmerksamkeit mehr übrig ist..
 Die beliebten Filmabende im Kapellche sind in der Regel an jedem dritten Freitag im Monat um 19:30 Uhr. Einlass ist jeweils 30 Minuten vor Filmbeginn. Der Unkostenbeitrag beträgt maximal 1,99 Euro. Für Getränke ist gesorgt.. (rb/MF)
-Galaxis - Reise durch die Milchstraße
-Galaxis - Eine Reise durch die Milchstraße
-Solingen - Am Freitag, den 20. November 2026, machen wir im Galileum ab 20:00 Uhr eine [Reise durch die Milchstraße](https://galileum-solingen.de/shows/galaxis-reise-durch-die-milchstrasse/). Wir starten bei der Sonne, betrachten unsere Galaxis von außen und stürzen uns hinein ins sternenreiche Zentrum.
-Im Juli 2019 wurde das Planetarium das erste Mal für's Publikum geöffnet. Viele Jahre hat der Verein Walter-Horn-Gesellschaft Geld gesammelt. Jetzt ist das Planetarium fertig. Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte.
-Der Leiter der Solinger Sternwarte, Frank Lungenstraß, ist begeistert: "Noch nie wurde in einen freistehenden Kugelgas-Behälter ein Planetarium eingebaut.“ Durch zwei nur 4 m große Öffnungen wurde das gesamte Bau-Material in die Kugel bugsiert. (WDR)
-Kulturveranstaltungen im Burghaus Bielstein, Burgstraße 9, 51674 Wiehl
-[Aktuelle Termine](https://www.kulturkreis-wiehl.de/veranstaltungen/)
-[Kulturkreis Wiehl](http://kulturkreis-wiehl.de/Default.aspx?Kat=0&Deb=-60)
-Bademeister Schaluppke im Burghaus Wiehl
-Wiehl - Am Freitag, den 20. November 2026, ist um 20:00 Uhr der Comedian Bademeister Schaluppke mit seinem Programm "Spassbad" zu Gast im Burghaus.
-Kultur auf dem Land, das ist für uns eine spannende Angelegenheit. Die mit vielen Locations und Events überversorgten Großstädter neigen schon mal zu Gedankenlosigkeit und Undankbarkeit.
-Es gibt viele Künstler, die gezielt zuerst auf dem Land auftreten, um die Qualität ihres neuen Programms zu testen. Was sagt das über den Kulturgeschmack der Städter aus? Der ist eher ländlich? (rb/MF)
-Guildo Horn & die Orthopädischen Strümpfe im Scala-Club, Uhlandstr. 9, 51379 Leverkusen
-Guildo Horn & die Orthopädischen Strümpfe
-Leverkusen - Am Freitag, den 20. November 2026 um 20:00 Uhr sind im Scala Guildo Horn & die Orthopädischen Strümpfe zu Gast. Der Titel der Show lautet "Weihnachten mit Guildo".
+Hermanos Gutiérrez im Palladium
+Mülheim - Am Freitag, den 20. November 2026 um 20:00 Uhr, ist Hermanos Gutiérrez zu Gast im Palladium. Einlass ist um 18:30 Uhr. Das Gebäude wurde 1899 als Maschinenbauhalle gebaut und dient seit 1998 als Veranstaltungsort, hauptsächlich für Konzerte.
+Mittelalterlicher Weihnachtsmarkt der Alexianer in der Kölner Straße 64, 51149 Köln Porz-Ensen (© Foto Alexianer Köln)
+[Alexianer Klostergärtnerei](https://alexianer-klostergaertnerei-koeln.de/)
+Mittelalterlicher Weihnachtsmarkt der Alexianer 2026
+Porz - Am Freitag, den 20. und Samstag, den 21. November 2026 wecken auf dem Mittelalterlichen [Weihnachtsmarkt der Alexianer](https://www.alexianer-koeln.de/unternehmen/aktuelles/termine/termin/mittelalterlicher-alexianer-weihnachtsmarkt-2024) wieder viele schöne Angebote die Vorfreude auf Weihnachten.
+Handgemachte Kleinigkeiten zum Verschenken und Selbstbehalten und Zünftiges vom Grill können mit einer eigenen Weihnachtsmarkt-​Währung an fast 50 Ständen erworben werden. Viele Mitwirkenden tragen mittelalterliche Kleidung.
+★ Vorführungen von Handwerkskünsten, die aus der Zeit gefallen sind, laden zum Verweilen und Mitmachen ein und die Plätze rund um das herrschaftliche Klostergebäude sind in ein weihnachtliches Lichtermeer getaucht. (Alexianer Köln)
+The Browning in der Essigfabrik
+Deutz - Am Freitag, den 20. November 2026 ist die Band The Browning auf ihrer "Europe Fall-Tour 2026" in der Essigfabrik zu Gast. Einlass ist um 18:00 Uhr, Konzertbeginn um 18:30 Uhr.
 [Aktuelle Termine](https://pretix.eu/volkssternwartekoeln.de/)
 Der Mond - Unser Begleiter
 Sülz - Am Freitag, den 20. November 2026 gibt es in der Volkssternwarte Köln um 20:00 Uhr einen Vortrag zu dem Thema: "Der Mond - Unser Begleiter voller Überraschungen".
+Eine Mordsfreundin - matchboxtheater e.V., Hitdorfer Straße 169, 51371 Leverkusen-Hitdorf. (Bild Matchbox Theater)
+Eine Mordsfreundin - im Matchbox-Theater
+Hitdorf - Am Freitag, den 20. November 2026 wird im Matchbox-Theater um 20:00 Uhr das Stück [Eine Mordsfreundin](https://www.matchboxtheater.de/programm/eine-mordsfreundin) aufgeführt.
+Im Urlaub lernen Peter und Debbie die exzentrische Elsa aus Denver kennen und versprechen, locker in Kontakt zu bleiben. Monate später jedoch finden Peter und Debbie heraus, dass ihre flüchtige Urlaubsbekanntschaft ein dunkles Geheimnis umgibt.
+Flittard - Am Freitag, den 20. November 2026 um 20:00 Uhr, präsentiert die Theatergruppe St. Hubertus das Musical [Don](https://buehne-hubertus.de/unser-aktuelles-stueck/) [Camillo & Peppone](https://buehne-hubertus.de/unser-aktuelles-stueck/). Einlass ist eine Stunde vor Aufführungsbeginn.
+Guildo Horn & die Orthopädischen Strümpfe im Scala-Club, Uhlandstr. 9, 51379 Leverkusen
+Guildo Horn & die Orthopädischen Strümpfe
+Leverkusen - Am Freitag, den 20. November 2026 um 20:00 Uhr sind im Scala Guildo Horn & die Orthopädischen Strümpfe zu Gast. Der Titel der Show lautet "Weihnachten mit Guildo".
 Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln-Kalk (Eingang über den Hof)
 downstairsdeluxe im Bürgerhaus Kalk
 Kalk - Am Freitag, den 20. November 2026 ist ab 20:00 Uhr wieder die Pop-Up-Disko im Bürgerhaus Kalk. Wechselnde Plattenkünstler*innen oder Kalker Kollektive sind hierbei die Co-Hosts und laden zum Tanzen und Feiern in den Keller ein.
 downstairsdeluxe ist eine öffentliche WG-Party, für Frühaufsteher*innen, Softies und alle, die nicht erst um 23.00 Uhr rausgehen wollen und vor allem auch eines - gerne in Kalk bleiben möchten.
 Diesmal heißt es DSD featuring DJ Sum 1. An diesem Freitagabend kredenzt er uns ein Vinyl Menu aus HipHop, Breakbeats, frischem Funk und elysischem Elektro. [(Bürgerhaus Kalk)](https://www.buergerhauskalk.de/veranstaltungen/?no_cache=1)
-★ [Café Kind](https://cafe-kind.de/)
-★ Buchforst - Am Freitag, den 20. November 2026, gibt es vor dem Café Kind wieder frische Reibekuchen. Auf dem Weg von Mülheim nach Kalk fahre ich häufig über die Waldecker Straße, bislang ohne besondere Vorkommnisse.
-FEEL IT! // Musik Performance
-Mülheim - Eine Pop(-ulistische) [Musik-Performance](https://kulturbunker-muelheim.de/event/feelit/) erwartet Bersucherinnen und Besucher am Freitag, den 20. November 2026 um 19:00 Uhr im Kulturbunker.
-Pop ist Unterhaltung, Politik ist Performance und Populismus Show – Feelings vs. Facts. Drei Performer:innen aus der Türkei und Deutschland treten in einen Dialog – mit markanten politischen Reden, mit Pop-Songs und mit den eigenen Worten und Biographien
-FEEL IT! verhandelt die Wirkmechanismen von Pop-Events, der politischen Rede und des Populismus und dekonstruiert sie. Jenseits der Inszenierung bleibt doch die Sehnsucht nach einer persönlichen und sachlich objektiven Auseinandersetzung. (PR)
-Hermanos Gutiérrez im Palladium
-Mülheim - Am Freitag, den 20. November 2026 um 20:00 Uhr, ist Hermanos Gutiérrez zu Gast im Palladium. Einlass ist um 18:30 Uhr. Das Gebäude wurde 1899 als Maschinenbauhalle gebaut und dient seit 1998 als Veranstaltungsort, hauptsächlich für Konzerte.
+Galaxis - Reise durch die Milchstraße
+Galaxis - Eine Reise durch die Milchstraße
+Solingen - Am Freitag, den 20. November 2026, machen wir im Galileum ab 20:00 Uhr eine [Reise durch die Milchstraße](https://galileum-solingen.de/shows/galaxis-reise-durch-die-milchstrasse/). Wir starten bei der Sonne, betrachten unsere Galaxis von außen und stürzen uns hinein ins sternenreiche Zentrum.
+Im Juli 2019 wurde das Planetarium das erste Mal für's Publikum geöffnet. Viele Jahre hat der Verein Walter-Horn-Gesellschaft Geld gesammelt. Jetzt ist das Planetarium fertig. Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte.
+Der Leiter der Solinger Sternwarte, Frank Lungenstraß, ist begeistert: "Noch nie wurde in einen freistehenden Kugelgas-Behälter ein Planetarium eingebaut.“ Durch zwei nur 4 m große Öffnungen wurde das gesamte Bau-Material in die Kugel bugsiert. (WDR)
 Mülheim - Eine Pop(-ulistische) [Musik-Performance](https://kulturbunker-muelheim.de/event/feelit/) erwartet Bersucherinnen und Besucher am Sonntag, den 22. November 2026 um 19:00 Uhr im Kulturbunker.
-Elly-Heuss-Knapp-Realschule, Jan-Wellem-Straße 25, 51065 Köln-Mülheim (rb/MF)
-[Elly Heuss-Knapp / Wikipedia](https://de.wikipedia.org/wiki/Elly_Heuss-Knapp)
-Elly-Heuss-Knapp-Realschule Köln - Tag der offenen Tür 2026
-★ Mülheim - Am Samstag, den 21. November 2026 lädt die [Elly-Heuss-Knapp-Realschule](https://ehk-koeln.de/einladung-zum-tag-der-offenen-tuer-am-21-11-2026/) alle Schüler der 4. Klasse und ihre Eltern von 10:00 Uhr bis 13:00 Uhr zum Tag der offenen Türe ein. Die Realschule ist eine Schulform der [Sekundarstufe I](https://de.wikipedia.org/wiki/Sekundarstufe_I) und umfasst die Klassen 5 bis 10.
-Hier werden Praxis und Theorie gleichermaßen gefördert. Die Schüler können nach Abschluss der 10. Klasse in eine berufliche Ausbildung oder in die Bildungsgänge der [Sekundarstufe II](https://de.wikipedia.org/wiki/Sekundarstufe_II) wechseln.
-In der 6. Klasse wird Unterricht in einer zweiten modernen Fremdsprache erteilt, ab Klasse 7 wird zusätzlich ein sozialwissenschaftlicher und ein musikalisch-künstlerischer Schwerpunkt gebildet. (PR)
+Bild © Rheinisches Bildarchiv Köln/Britta Schlier
+Wochenmarkt in Holweide
+Holweide – Am Samstag, den 21. November 2026 ist wieder der Holweider [Wochenmarkt](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/holweide-bergisch-gladbacher-strasse) auf dem Marktplatz an der [Bergisch Gladbacher Straße](https://www.openstreetmap.org/), gegenüber der Kirche Maria Himmelfahrt.
+Er findet immer samstags statt und ist von 07:00 Uhr bis 13:00 Uhr geöffnet. Der Aufbau ist ab 06:00 Uhr, Abbau bis 14:00 Uhr. Zu erreichen mit den Stadtbahn-Linien 3 und 18 der KVB, [Haltestelle Maria Himmelfahrt](https://www.openstreetmap.org/).
+Frühstückslektüre finden Sie im Bücherschrank am Marktplatz. Im Bezirk Mülheim sind Wochenmärkte in Buchforst, Dellbrück, Flittard, Mülheim und Stammheim. In Köln gibt es 66 Wochenmärkte an 39 und [Ökomärkte](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/koelner-oekomaerkte) an 4 Standorten. [(Stadt Köln)](https://www.stadt-koeln.de/wirtschaft/maerkte/wochenmaerkte/)
+Rhein-Gymnasium, Düsseldorfer Straße 13, 51063 Köln-Mülheim
+[Rhein-Gymnasium Köln](https://www.rhein-gymnasium-koeln.de/)
+Rhein-Gymnasium - Tag der offenen Tür 2026
+Mülheim - Das Rhein-Gymnasium öffnet seine Türen und stellt sich am Samstag, den 21. November 2026, von 09:00 Uhr bis 13:00 Uhr mit seinen Besonderheiten, Profilen, Lehrkräften und pädagogischen Konzepten vor.
+★ Am Tag der offenen Tür finden Führungen, Stände, Mitmachaktionen und Schnupperunterricht für alle statt. Die gebundene Ganztagsschule zeichnet sich auch durch seine schöne Lage am Rheinufer aus.
+Vor allem bieten wir den Schülern einen motivierenden Lern- und Lebensraum und eine adäquate Förderung. So werden sie auf die Zukunft kompetent vorbereitet und das Lernen wird zu einem sinnstiftenden Prozess. (PR)
 Stadthalle Mülheim, Jan-Wellem-Straße 2, 51065 Köln-Mülheim
 [Stadthalle Köln](https://stadthalle.koeln/)
 Frau Höpker bittet zum Gesang!
 Mülheim - Am Samstag, den 21. November 2026, bittet Frau Höpker um 20:00 Uhr zum Gesang. Das beliebte Mitsingkonzert hat seinen Weg auch in die Stadthalle Köln gefunden. Einlass ist ab 18:30 Uhr.
 Die ehemalige Stadthalle Mülheim hat einen neuen Betreiber. Das Gastro-Ehepaar Reja und Daniel Rabe bringen in den Veranstaltungskalender frischen Wind. Dabei hat die Stadthalle eine bemerkenswerte Vergangenheit.
 The Cure, Mother's Finest und Klaus Lage traten hier auf, im Dezember 1984 auch Metallica. Die Rabes übernahmen die Halle zum 1. November 2022 vom bisherigen Betreiber Marco Jülich, der seine Anteile verkaufte. (rb/MF)
-Planetarium Köln, Blücherstraße 15-17, 50733 Köln-Nippes (Kuppelraum und Vorführgerät, Bild Ulaanbaatar91, CC BY-SA 4.0, Wikipedia)
-[Planetarium Köln](http://www.koelner-planetarium.de/)
-Der Sternenhimmel im November - Planetarium Köln
-Nippes - Am Samstag, den 21. November 2026 ist im Planetarium Köln Zeit für Astronomie für alle. Das Thema der allgemeinen Führung lautet: Der Sternenhimmel im Oktober. Einlass ist um 17:30 Uhr, Beginn um 18:00 Uhr. Ein späterer Einlass ist leider nicht möglich.
-Das Planetarium im Keller des Leonardo-da-Vinci-Gymnasiums auf der Blücherstraße 15-17 ist schon seit 50 Jahren im Betrieb. Hier projiziert das Zeiss ZKP-1 den Sternenhimmel an die Decke des ehemaligen Heizungskellers.
-Im Planetarium wird den Besuchern das Weltall und ferne Galaxien näher gebracht. Auf der Internetseite finden Sie die nächsten Besichtigungstermine und Informationsveranstaltungen. Live long and prosper! würde Mister Spock jetzt sagen..(rb/MF)
+Grafik © Pink Floyd
+Pink Floyd - The dark side of the moon
+Solingen - Am Samstag, den 21. Nov ember 2026 ist um 21:30 Uhr die nächste Vorführung: Zum 50-jährigen Jubiläums von Pink Floyds Album „The Dark Side Of The Moon“ wurde eine phantastische [Planetariumsshow](https://galileum.ticketfritz.de/Event/Kalender/13342/33817?typ=Vorlage) produziert.
+Das Planetarium ist ein passender Ort, dieses Jubiläum zu feiern und zu erleben. Mit moderner Technik wurde eine Show mit atemberaubenden Ausblicken auf das Sonnensystem und etwa 45 Minuten Musik in Surround-Sound umgesetzt.
+Die Show wurde von der Band autorisiert. Einige Songs blicken futuristisch nach vorne und andere sind eine Retro-Anerkennung der visuellen Geschichte von Pink Floyd, die sich alle auf ein Zeit- und Raumerlebnis beziehen. (PR)
+Hitdorf - Am Samstag, den 21. November 2026 wird im Matchbox-Theater um 20:00 Uhr das Stück [Eine Mordsfreundin](https://www.matchboxtheater.de/programm/eine-mordsfreundin) aufgeführt.
 Genoveva-Gymnasium, Genovevastraße 58-62, 51063 Köln-Mülheim (Bild Geno)
 [Genoveva-Gymnasium](https://www.genoveva-gymnasium.de/)
 [Wikipedia](https://de.wikipedia.org/wiki/Genoveva-Gymnasium)
@@ -565,6 +546,19 @@ Genoveva-Gymnasium - Tag der offenen Tür 2026
 ★ Mülheim - Liebe Mädchen und Jungen aus der 4. Klasse, wir laden euch und eure Eltern herzlich zum Tag der offenen Tür am Samstag, den 21. November 2026 von 10 bis 13 Uhr ein. Ihr könnt mit euren Eltern durch das Schulgebäude spazieren.
 ★ Ihr dürft im Unterricht mit dabei sitzen. In spannenden Mitmachaktionen könnt ihr neue Fächer kennen lernen. Für die Eltern von 4-Klässlern gab es darüber hinaus noch zwei Infoabende in der Aula des Genoveva-Gymnasiums Köln.
 Für unsere Schule steht der Lernerfolg des Schülers im Mittelpunkt. Es geht um die Kernkompetenzen Studierfähigkeit, Allgemeinbildung und Belastbarkeit, die für den Lebens- und Karriereweg wichtig sind. Übrigens wurde unsere Schule 1876 als städtische höhere Mädchenschule gegründet. (PR)
+Bergisches Museum, Burggraben 9–21, 51429 Bergisch-Gladbach (Bild Bergisches Museum)
+Lichterfest im Bergischen Museum
+Bensberg - Zum Lichterfest im Bergischen Museum am Samstag, den 21. November 2026 von 15:00 - 20:00 Uhr, lässt Lichterglanz das Außengelände des Museums erstrahlen.
+Stimmen Sie sich auf eine besinnliche Adventszeit ein. Das Bergische Museum für Bergbau, Handwerk und Gewerbe widmet sich dem Erzbergbau im Bensberger Erzrevier und dem handwerklich-ländlichen Leben der Bevölkerung.
+Der Schwerpunkt liegt auf dem 19. und frühen 20. Jhdt. In Handwerker- Vorführungen wird geschmiedet, gebacken und gesponnen. Es gibt Schulunterricht wie zu Kaisers Zeiten und Führungen durch die Bergbauabteilung. (rb)
+Gesamtschule Holweide, Burgwiesenstraße 125, 51067 Köln-Holweide (rb/MF)
+[Gesamtschule / Wikipedia](http://de.wikipedia.org/wiki/Gesamtschule)
+[Gesamtschule Holweide](https://www.gehw.de/)
+[Gesamtschulen / Stadt Köln](https://www.stadt-koeln.de/artikel/20064/index.html)
+Gesamtschule Holweide - Tag der offenen Tür 2026
+★ Holweide - Am Samstag, den 21. November 2026 ist von 09:00 Uhr bis 13:00 Uhr Tag der offenen Tür in der Gesamtschule Holweide. Kinder und Eltern des vierten Schuljahres sind herzlich eingeladen:
+Sie können an diesem Tag am Unterricht teilnehmen, die vielseitigen Angebote einer Ganztagsschule kennenlernen, an Führungen durch das Schulgebäude teilnehmen und sich mit Schüler*innen und Lehrer*innen austauschen.
+★ Es gelten die zu dem Zeitpunkt gültigen Corona-Schutzbestimmungen. Kinderbetreuung ist gewährleistet. Wir freuen uns auf Ihren Besuch! Mit freundlichen Grüßen von der Schulleitung!
 Bitte alle Felder ausfüllen
 Name
 Name2

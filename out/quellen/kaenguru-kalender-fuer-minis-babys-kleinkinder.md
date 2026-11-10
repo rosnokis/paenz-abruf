@@ -6,17 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Baby-Massage](https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-09)
-Kostenfreier Kurs im Rahmen der „Frühen HIlfen"
-09.11.2026
-10:30 - 11:30 Uhr
-Generationenhaus Hennef
-Hennef
-★ [Elternzeit](https://www.kaenguru-online.de/kalender/fuer-minis/elternzeit/2026-11-09)
-★ Führung für Eltern mit Baby
-11:00 - 12:30 Uhr
-Kollwitz Museum Köln
-Köln
 ★ [Mit Baby ins Museum](https://www.kaenguru-online.de/kalender/fuer-minis/mit-baby-ins-museum-2/2026-11-10)
 ★ Führung und Gespräche über Kunst für Eltern mit Kindern bis 1 Jahr
 10.11.2026
@@ -25,9 +14,10 @@ Kunstmuseum Villa Zanders Berg. Gladbach
 Bergisch Gladbach
 ★ [PhilharmonieVeedel Pänz „Der blaue Gartenzaun“](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-paenz-der-blaue-gartenzaun-4/2026-11-10)
 ★ In diesem Konzert führt Nadja Karasjew durch die Geschichte mit Musik von Hajo Wiesemann – Konzert für Familien mit Kindern von 2 bis 6 Jahren
-10:30 Uhr
 15:00 Uhr
+10:30 Uhr
 Bürgerhaus Kalk
+Köln
 ★ [Bastelwerkstatt](https://www.kaenguru-online.de/kalender/fuer-minis/bastelwerkstatt/2026-11-10)
 ★ Kreative Bastelwerkstatt für Kinder von 3 bis 6 Jahren
 15:30 - 17:00 Uhr
@@ -42,6 +32,8 @@ Leverkusen
 ★ Kostenfreier Austausch für Schwangere und frisch gebackene Eltern
 13.11.2026
 10:00 - 11:30 Uhr
+Generationenhaus Hennef
+Hennef
 ★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13)
 Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
 11:00 Uhr
@@ -87,3 +79,8 @@ Cinenova
 12:00 Uhr
 Von der Heydt-Museum
 Wuppertal
+★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21)
+21.11.2026
+★ [„Paulina und der Zirkus Papilotte"](https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21)
+★ Ein Zirkusmärchen für Zuschauer ab 3 Jahren
+Metropol Theater

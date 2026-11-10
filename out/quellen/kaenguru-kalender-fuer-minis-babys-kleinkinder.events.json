@@ -1,14 +1,5 @@
 [
  {
-  "name": "Baby-Massage",
-  "location": {
-   "name": "Hennef"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-09",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Babys in Bewegung",
   "location": {
    "name": "Hennef"
@@ -24,15 +15,6 @@
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/bastelwerkstatt/2026-11-10",
   "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "Elternzeit",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/elternzeit/2026-11-09",
-  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
@@ -171,11 +153,29 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "„Die Kuh Swantje\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„Die kleine Eidechse\"",
   "location": {
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Paulina und der Zirkus Papilotte\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  }

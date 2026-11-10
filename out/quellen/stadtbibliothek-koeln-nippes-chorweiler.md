@@ -57,7 +57,7 @@ Rund um die Bibliothek
 
 ## Quelle: https://www.stadt-koeln.de/artikel/73374/index.html
 ★ Entdecke das vielfältige Kinder- und Jugendprogramm der Stadtbibliothek Köln. Egal ob Kreativität, Leseförderung, Ferienprogramm, Gaming oder MINT-Workshops: bei uns ist für jedes Alter etwas dabei. Schau mal rein – wir freuen uns auf dich!
-Veranstaltungen für Montag, 9. November 2026 bis Dienstag, 9. Februar 2027
+Veranstaltungen für Dienstag, 10. November 2026 bis Mittwoch, 10. Februar 2027
 10.11. 2026
 [Spielend neue Welten entdecken Das VR-Team auf Erlebnis-Tour. Heute in der Stadtteilbibliothek Mülheim.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spielend-neue-welten-entdecken-18)
 Eintritt frei
