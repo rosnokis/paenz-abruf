@@ -52,7 +52,6 @@ Festmesse: 900 Jahre Dünnwald
 Der Gottesdienst wurde vom Domradio live übertragen. Wer sich bei dem Schneetreiben nicht raus getraut hat, der kann den gesamten Gottesdienst noch mal unter:
 [domradio.de](https://www.domradio.de/video/festmesse-zum-abschluss-des-jubilaeumsjahrs-900-jahre-duennwald) ankucken. (Die Überreichung des Textheftes ist ab 43:38 zu sehen)
 Wir danken sowohl dem Weihbischof für die Segnung als auch Pater Ralf für den tollen Abschlussgottesdienst. Ein besonderer Dank geht auch an alle Vereine und lieben Menschen die sich in Dünnwald ehrenamtlich engagieren und gerade in diesem Jahr so viele tolle Projekte möglich gemacht haben!!!
-Seite 1 von 4
 Start
 Zurück
 [2](https://www.wildpark-duennwald.de/?start=10)
