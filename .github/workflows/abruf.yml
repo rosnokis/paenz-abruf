@@ -74,6 +74,6 @@ jobs:
           for i in 1 2 3; do
             git push && exit 0
             sleep $((i * 5))
-            git pull --rebase -q
+            git pull --rebase --autostash -q
           done
           exit 1
