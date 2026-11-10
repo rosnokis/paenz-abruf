@@ -6,17 +6,20 @@
    "txt": "Wer am 11.11. in Köln Karneval feiern möchte, muss sich vielerorts schon Wochen vorher um Eintrittskarten kümmern. Zahlreiche Partys sind bereits vor dem Sessio"
   },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
-   "geprueft": "2026-11-10T10:42",
-   "s": "unklar",
-   "txt": ""
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
-   "geprueft": "2026-11-10T10:42",
-   "s": "unklar",
-   "txt": ""
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
+   "s": "knapp",
+   "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
   },
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
-   "geprueft": "2026-11-10T10:42",
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
    "s": "unklar",
    "txt": ""
   },
@@ -26,25 +29,53 @@
    "txt": "[Jetzt buchen*](https://littlemindsstudio.de)"
   },
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
-   "geprueft": "2026-11-10T10:42",
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
    "s": "unklar",
    "txt": ""
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
-   "geprueft": "2026-11-10T10:42",
-   "s": "unklar",
-   "txt": ""
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
+   "s": "ausverkauft",
+   "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
-   "geprueft": "2026-11-10T10:42",
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
-   "geprueft": "2026-11-10T10:42",
-   "s": "unklar",
-   "txt": ""
+   "art": "ticketliste",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-516": {
+   "art": "detailseite",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=B%C3%BCcherbabys)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-520": {
+   "art": "detailseite",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbabys)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-174": {
+   "art": "detailseite",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?filter_category=14)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/monstermaessige-vorlesezeit": {
+   "art": "detailseite",
+   "geprueft": "2026-11-10T11:01",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/monstermaessige-vorlesezeit-event-5873)"
   }
  },
- "stand": "2026-11-10T10:52"
+ "stand": "2026-11-10T11:01"
 }

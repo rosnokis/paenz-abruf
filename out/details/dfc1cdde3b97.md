@@ -1,5 +1,5 @@
 URL: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
-ABGERUFEN: 2026-11-10T10:42
+ABGERUFEN: 2026-11-10T11:01
 VON: tickets.yml
 
 Fri 11:00
@@ -73,4 +73,17 @@ Bürgerzentrum Chorweiler
 Fri
 04.12.2026
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9535)
+Schaltfläche: Agree
+Schaltfläche: Decline
+Schaltfläche: Change settings
+Schaltfläche: Add to favorites
+Schaltfläche: Soldout
+Schaltfläche: Close overlay
+Schaltfläche: Add to calender
+Schaltfläche: Share
+Schaltfläche: Copy link
+Schaltfläche: Show more
+Schaltfläche: Show less
+Schaltfläche: Send
+Schaltfläche: To the top
 Termin (strukturiert): 2026-12-04T11:00:00+01:00 | PhilharmonieVeedel Baby | Bürgerzentrum Nippes – Altenberger Hof | Mauenheimer Str. 92, 50733 Köln | 4.00 EUR | 8.00 EUR | EventScheduled

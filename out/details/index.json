@@ -77,6 +77,36 @@
   "von": "alte-feuerwache-koeln",
   "zeilen": 17
  },
+ "https://in-gl.de/export-events/379867_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/380808_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/380810_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/381285_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/381741_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/381860_0/?nonce=760809b70b": {
+  "abgerufen": "2026-11-10T11:01",
+  "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
  "https://verliebtinkoeln.com/category/karneval-in-koeln/": {
   "abgerufen": "2026-11-10T10:42",
   "datei": "out/details/0ebdd8d5d035.md",
@@ -108,19 +138,19 @@
   "zeilen": 35
  },
  "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/c88ff38ce713.md",
   "von": "tickets.yml",
-  "zeilen": 56
+  "zeilen": 67
  },
  "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/9b6478364708.md",
   "von": "tickets.yml",
-  "zeilen": 35
+  "zeilen": 37
  },
  "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/bc9b1ca4dd28.md",
   "von": "tickets.yml",
   "zeilen": 12
@@ -138,28 +168,28 @@
   "zeilen": 91
  },
  "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/b66348129e57.md",
   "von": "tickets.yml",
-  "zeilen": 78
+  "zeilen": 90
  },
  "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/dfc1cdde3b97.md",
   "von": "tickets.yml",
-  "zeilen": 72
+  "zeilen": 85
  },
  "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/7d7880f15f3c.md",
   "von": "tickets.yml",
   "zeilen": 13
  },
  "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
-  "abgerufen": "2026-11-10T10:42",
+  "abgerufen": "2026-11-10T11:01",
   "datei": "out/details/8c31cf396e5c.md",
   "von": "tickets.yml",
-  "zeilen": 94
+  "zeilen": 108
  },
  "https://www.stadt-koeln.de/artikel/73374/index.html?start=160": {
   "abgerufen": "2026-11-10T10:42",
@@ -179,6 +209,24 @@
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
   "zeilen": 43
  },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-514": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/35307899dadc.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 35
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-516": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/e8fee16db32a.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 38
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-520": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/1f24c3a16757.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 40
+ },
  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-534": {
   "abgerufen": "2026-11-10T10:42",
   "datei": "out/details/530d824b4c00.md",
@@ -196,6 +244,18 @@
   "datei": "out/details/b67e0672c396.md",
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
   "zeilen": 39
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/fang-den-boesen-41": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/2c0d37a93b4f.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 39
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-539": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/6e1672aabf0f.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 37
  },
  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-549": {
   "abgerufen": "2026-11-10T10:42",
@@ -221,11 +281,53 @@
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
   "zeilen": 44
  },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lets-quiz-unter-wasser": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/8e561c77422e.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 41
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-174": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/21988dbd5b13.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 46
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/monstermaessige-vorlesezeit": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/23ee1f129a32.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 39
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spieletesterinnen-39": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/651a2001dd5a.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 53
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-149": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/300eb26384af.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 41
+ },
  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-152": {
   "abgerufen": "2026-11-10T10:42",
   "datei": "out/details/ee0938d3bc7a.md",
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
   "zeilen": 35
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-300": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/df6f8fa85daf.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 39
+ },
+ "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-304": {
+  "abgerufen": "2026-11-10T11:01",
+  "datei": "out/details/2af82c0b1596.md",
+  "von": "stadtbibliothek-koeln-nippes-chorweiler",
+  "zeilen": 38
  },
  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-316": {
   "abgerufen": "2026-11-10T10:42",
