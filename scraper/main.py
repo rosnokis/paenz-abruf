@@ -20,15 +20,28 @@ from . import details, extract, wetter
 from .fetch import Fetcher
 
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = ROOT / "config" / "quellen.yml"
-OUT = ROOT / "out"
-QDIR = OUT / "quellen"
 TZ = ZoneInfo("Europe/Berlin")
 SECTION = re.compile(r"^## Quelle: (\S+)\s*$")
 HEUTE_BUDGET = 26_000  # bytes for the "changed" part of heute.md
 MONATE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober",
           "November", "Dezember"]
 WOCHENTAG = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+DAUERFEHLER_TAGE = 3  # a source failing this many days in a row is listed separately
+# Lines that change daily on many sites without carrying information (applied to every source).
+GLOBAL_IGNORE = [re.compile(p, re.IGNORECASE) for p in (
+    r"^\d[\d.]*\s+(Veranstaltungen|Events|Termine|Ergebnisse|Treffer|Einträge)(\s+gefunden)?\.?$",
+    r"^(\[)?(X/Twitter|Twitter|Facebook|Instagram|YouTube|WhatsApp|LinkedIn|Pinterest|TikTok|Threads|Mastodon)"
+    r"(\]\([^)]*\))?$",
+    r"^(Seite\s+)?\d+\s+(von|/)\s+\d+$",
+    r"^(zuletzt\s+)?(aktualisiert|geändert|Stand)(\s+am)?:?\s+\d{1,2}\.\d{1,2}\.\d{2,4}(\s+\d{1,2}:\d{2}(\s+Uhr)?)?$",
+)]
+RESERVED_HOST = re.compile(r"(^|\.)(example|test|invalid|localhost)$|(^|\.)example\.(com|org|net)$|^localhost$|"
+                           r"^\d+\.\d+\.\d+\.\d+$", re.IGNORECASE)
+
+
+def is_placeholder(url: str) -> bool:
+    """Test/placeholder addresses must never be fetched by the real run."""
+    return bool(RESERVED_HOST.search((urlsplit(url).hostname or "")))
 
 
 # ======================================================================= helpers
@@ -103,7 +116,7 @@ class Section:
 
 
 def compile_ignore(src: dict) -> list[re.Pattern]:
-    return [re.compile(p, re.IGNORECASE) for p in src.get("ignoriere", []) or []]
+    return GLOBAL_IGNORE + [re.compile(p, re.IGNORECASE) for p in src.get("ignoriere", []) or []]
 
 
 def fetch_one(f: Fetcher, url: str, opts: dict, ignore) -> Section:
@@ -286,11 +299,21 @@ def build_heute(stand: datetime, results: list[dict], wetter_err: str | None, so
             f"Detailseiten: {extra.get('details', 0)} neu geladen (out/details/index.json: URL -> Datei) | "
             f"Ticketstatus: {extra.get('tickets', 0)} Seiten (out/tickets.json) | "
             f"Veranstalter-Kandidaten: {extra.get('kandidaten', 0)} neu (out/kandidaten.md)")
+        if extra.get("tickets_abgelaufen"):
+            lines.append("Abgelaufene Ticketseiten (nicht mehr geprüft, bitte aus config/tickets.yml entfernen): "
+                         + ", ".join(extra["tickets_abgelaufen"]))
+        if extra.get("fehler"):
+            lines.append(f"Zusatzschritte abgebrochen: {extra['fehler']}")
     lines.append("")
     if changed:
         lines.append("## Geändert (nur neue Zeilen/Termine gegenüber dem letzten erfolgreichen Abruf)")
-        per = max(1200, HEUTE_BUDGET // max(len(changed), 1))
-        for r in changed:
+        quiet = [r for r in changed if not r.get("erstabruf") and not r.get("neue_termine")
+                 and not r.get("neue_zeilen") and not r.get("hinweis")]
+        loud = [r for r in changed if r not in quiet]
+        per = max(1200, HEUTE_BUDGET // max(len(loud), 1))
+        if quiet:
+            lines += ["Nur Zeilen entfallen oder umsortiert, nichts Neues: " + ", ".join(r["id"] for r in quiet), ""]
+        for r in loud:
             block = [f"### {sources[r['id']]['name']} (`{r['id']}`)"]
             if r.get("erstabruf"):
                 block.append(f"Erstabruf: {r['zeilen']} Zeilen, {r['termine']} Termine (kein Vergleich möglich).")
@@ -329,9 +352,17 @@ def build_heute(stand: datetime, results: list[dict], wetter_err: str | None, so
     if probs or hints:
         lines.append("## Fehler, Sperren, Hinweise")
         for r in probs:
-            lines.append(f"- `{r['id']}`: {r['status']} – {r.get('fehler') or r.get('hinweis') or ''}".rstrip(" –"))
+            seit = f" (seit {r['fehler_seit']})" if r.get("fehler_seit") else ""
+            lines.append(f"- `{r['id']}`: {r['status']}{seit} – {r.get('fehler') or r.get('hinweis') or ''}".rstrip(" –"))
         for r in hints:
             lines.append(f"- `{r['id']}`: Hinweis – {r['hinweis']}")
+        lines.append("")
+    dauer = [r for r in results if (r.get("fehler_tage") or 0) >= DAUERFEHLER_TAGE]
+    if dauer:
+        lines.append(f"## Dauerfehler (mindestens {DAUERFEHLER_TAGE} Tage in Folge ohne Erfolg)")
+        for r in dauer:
+            neu = " – NEU" if r["fehler_tage"] == DAUERFEHLER_TAGE else ""
+            lines.append(f"- `{r['id']}`: {r['fehler_tage']} Tage, seit {r['fehler_seit']}{neu}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
@@ -343,7 +374,15 @@ def main(argv=None) -> int:
     ap.add_argument("--commit-msg-file")
     ap.add_argument("--ohne-wetter", action="store_true")
     ap.add_argument("--ohne-extras", action="store_true", help="keine Detailseiten/Tickets/Kandidaten")
+    ap.add_argument("--root", help="Arbeitsordner mit config/ und out/ (für Tests; Standard: das Repo)")
     args = ap.parse_args(argv)
+    return run(args, Fetcher())
+
+
+def run(args, f, stand: datetime | None = None) -> int:
+    root = Path(args.root).resolve() if args.root else ROOT
+    CONFIG, OUT = root / "config" / "quellen.yml", root / "out"
+    QDIR = OUT / "quellen"
 
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
     sources = {s["id"]: s for s in cfg["quellen"]}
@@ -351,9 +390,8 @@ def main(argv=None) -> int:
     QDIR.mkdir(parents=True, exist_ok=True)
     old_status = {r["id"]: r for r in read_json(OUT / "status.json", {}).get("quellen", [])}
 
-    stand = now_local()
+    stand = stand or now_local()
     today = stand.date()
-    f = Fetcher()
     results = []
     extra: dict = {}
     try:
@@ -363,8 +401,10 @@ def main(argv=None) -> int:
             r = {"id": sid, "url": src["url"], "abgerufen_um": f"{now_local():%Y-%m-%dT%H:%M}",
                  "letzter_erfolg": prev.get("letzter_erfolg"), "sha256": prev.get("sha256"),
                  "geaendert": False, "fehler": None}
-            if src.get("skip"):
-                r.update(status="skip", hinweis=str(src["skip"]), http_status=None, bytes=0)
+            all_urls = [src["url"]] + [e if isinstance(e, str) else e["url"] for e in src.get("urls", []) or []]
+            if src.get("skip") or any(is_placeholder(u) for u in all_urls):
+                r.update(status="skip", hinweis=str(src.get("skip") or "Platzhalter-Adresse, nicht abgerufen"),
+                         http_status=None, bytes=0)
                 results.append(r)
                 print(f"[skip]    {sid}")
                 continue
@@ -447,13 +487,22 @@ def main(argv=None) -> int:
 
         if not args.ohne_extras:
             try:
-                extra.update(details.run_details(f, results, sources, OUT, stand, ROOT))
+                extra.update(details.run_details(f, results, sources, OUT, stand, root))
                 extra.update(details.run_kandidaten(sources, OUT, stand))
             except Exception as exc:  # extras must never break the main fetch
                 extra["fehler"] = type(exc).__name__
             print(f"[extras]  {extra}")
     finally:
         f.close()
+
+    for r in results:  # how long has a source been failing?
+        prev = old_status.get(r["id"], {})
+        if r["status"] in ("fehler", "blocked"):
+            r["fehler_seit"] = prev.get("fehler_seit") or today.isoformat()
+            try:
+                r["fehler_tage"] = (today - date.fromisoformat(r["fehler_seit"])).days + 1
+            except ValueError:
+                r["fehler_seit"], r["fehler_tage"] = today.isoformat(), 1
 
     # keep entries of sources not processed in this run (--nur)
     done = {r["id"] for r in results}

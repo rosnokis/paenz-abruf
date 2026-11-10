@@ -64,8 +64,46 @@ python -m scraper.main --nur mein-theater --ohne-wetter
 Weitere Felder je Quelle: `harvest: true` (Übersichtsseite: fremde Veranstalter-Links landen in
 `out/kandidaten.md`), `details: false` (verlinkte Detailseiten dieser Quelle nicht vorab laden).
 
-Ticketseiten stehen in `config/tickets.yml` (`url`, optional `note`, `js: true`). Nur Seiten zu einem
-einzelnen Termin eintragen und abgelaufene löschen.
+Zeilen, die sich täglich ändern, ohne etwas zu sagen (Trefferzähler, Namen sozialer Netzwerke,
+„Seite 2 von 9“, „Stand: 10.11.2026“), werden bei allen Quellen verworfen (`GLOBAL_IGNORE` in
+`scraper/main.py`); Besonderheiten einer Quelle kommen in deren `ignoriere`.
+
+Ticketseiten stehen in `config/tickets.yml` (`url`, optional `note`, `bis` = letzter Termin, `js: true`).
+Nur Seiten zu einem einzelnen Termin eintragen. Nach `bis` wird eine Seite nicht mehr geprüft und in
+`out/heute.md` als abgelaufen genannt. Bleibt der Status einer Ticketseite unklar, folgt der Scraper
+einmal dem Link zum Shop bzw. zur Anmeldung (Feld `ueber` in `out/tickets.json`). Stehen auf einer Seite
+ausverkaufte und buchbare Termine, lautet der Status `teilweise`.
+
+## Pflege per Werkzeug
+
+`python -m scraper.pflege` ist der einzige Weg, auf dem der automatische Morgenlauf dieses Repository
+ändert, und zwar nur `config/tickets.yml` und `config/quellen.yml`:
+
+```bash
+python -m scraper.pflege ticket https://… --note "Titel, Datum" --bis 2026-12-06 [--js]
+python -m scraper.pflege quelle --name "Name" --url https://… [--group "…"] [--note "…"] [--harvest] [--js]
+python -m scraper.pflege aufraeumen   # abgelaufene Ticketseiten entfernen
+python -m scraper.pflege pruefe       # beide Dateien prüfen
+```
+
+Das Werkzeug erzwingt: nur https, keine Platzhalter-Adressen, keine Dubletten, kurze Notizen ohne
+Adressen, höchstens 6 Ticketseiten und 4 Quellen pro Tag. Die nächtliche Action prüft die Konfiguration
+vor dem Abruf und nimmt bei einem Fehler den letzten gültigen Stand.
+
+## Fehler und Ausfälle
+
+`out/status.json` führt je Quelle `fehler_seit` und `fehler_tage`. Ab drei Tagen ohne Erfolg steht die
+Quelle in `out/heute.md` unter „Dauerfehler“ (am dritten Tag mit dem Zusatz NEU).
+
+## Tests
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Die Tests arbeiten mit einem Attrappen-Abruf in einem Temp-Ordner (`--root`), nie in `config/` oder
+`out/`. Der echte Abruf weigert sich, Platzhalter-Adressen (`.example`, `localhost` …) abzurufen, und
+ein Test schlägt fehl, wenn solche Adressen in `out/` oder `config/` stehen.
 
 ## Selektoren setzen
 

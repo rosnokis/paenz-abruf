@@ -46,6 +46,10 @@ NO_KANDIDAT = (
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".ics", ".mp3", ".mp4", ".doc",
             ".docx", ".xls", ".xlsx")
 
+SHOP_TEXT = re.compile(r"tickets?|karten|anmeld|buchen|buchung|reservier|vorverkauf|buy|book|register", re.I)
+RESERVED_HOST = re.compile(r"(^|\.)(example|test|invalid|localhost)$|(^|\.)example\.(com|org|net)$|^localhost$|"
+                           r"^\d+\.\d+\.\d+\.\d+$")
+
 TICKET_RULES = [  # first match wins, strongest first
     ("ausverkauft", re.compile(r"ausverkauft|ausgebucht|sold\s*out|keine\s+(karten|tickets|plätze)\s+mehr|"
                                r"restlos\s+vergriffen|fully\s+booked|no\s+tickets\s+available", re.I)),
@@ -93,11 +97,36 @@ def _older(stamp: str | None, days: int, today: date) -> bool:
 
 
 def ticket_status(lines: list[str]) -> tuple[str, str]:
+    hits: dict[str, str] = {}
     for status, pat in TICKET_RULES:
         for l in lines:
             if pat.search(l):
-                return status, l.removeprefix(extract.MARK)[:160]
+                hits[status] = l.removeprefix(extract.MARK)[:160]
+                break
+    if "ausverkauft" in hits and "verfuegbar" in hits:
+        # several dates on one page: some sold out, some bookable
+        return "teilweise", f"{hits['ausverkauft']} / {hits['verfuegbar']}"[:200]
+    for status, _ in TICKET_RULES:
+        if status in hits:
+            return status, hits[status]
     return "unklar", ""
+
+
+def is_placeholder(url: str) -> bool:
+    host = (urlsplit(url).hostname or "").lower()
+    return bool(RESERVED_HOST.search(host))
+
+
+def shop_link(lines: list[str], page_url: str) -> str | None:
+    """The first link on a ticket page that looks like the way into the shop or sign-up form."""
+    for text, url, _ in links_in(lines):
+        if url.split("#")[0] == page_url.split("#")[0] or _in(domain(url), SKIP_DOMAINS) or is_placeholder(url):
+            continue
+        if urlsplit(url).path.lower().endswith(SKIP_EXT + (".pdf",)):
+            continue
+        if SHOP_TEXT.search(text):
+            return url
+    return None
 
 
 def fetch_page(f, url: str, js: bool = False) -> tuple[list[str] | None, str | None]:
@@ -149,8 +178,13 @@ def run_details(f, results: list[dict], sources: dict, out: Path, stand: datetim
         tcfg = yaml.safe_load((root / "config" / "tickets.yml").read_text(encoding="utf-8")) or {}
     except OSError:
         tcfg = {}
-    ticket_urls = [t["url"] if isinstance(t, dict) else t for t in tcfg.get("seiten", []) or []]
-    js_urls = {t["url"] for t in tcfg.get("seiten", []) or [] if isinstance(t, dict) and t.get("js")}
+    entries = [t if isinstance(t, dict) else {"url": t} for t in tcfg.get("seiten", []) or []]
+    entries = [t for t in entries if isinstance(t.get("url"), str) and t["url"].startswith("https://")
+               and not is_placeholder(t["url"])]
+    expired = [t["url"] for t in entries if t.get("bis") and str(t["bis"])[:10] < today.isoformat()]
+    entries = [t for t in entries if t["url"] not in expired]
+    ticket_urls = [t["url"] for t in entries]
+    js_urls = {t["url"] for t in entries if t.get("js")}
     queue += [(u, "tickets.yml") for u in ticket_urls]
     for r in results:
         if not r.get("geaendert") or r.get("erstabruf") or sources[r["id"]].get("details") is False:
@@ -159,7 +193,7 @@ def run_details(f, results: list[dict], sources: dict, out: Path, stand: datetim
         urls += [u for _, u, _ in links_in(r.get("neue_zeilen", []))]
         picked = []
         for u in urls:
-            if u not in picked and wanted(u):
+            if u not in picked and wanted(u) and not is_placeholder(u):
                 picked.append(u)
         queue += [(u, r["id"]) for u in picked[:MAX_PER_SOURCE]]
 
@@ -185,21 +219,34 @@ def run_details(f, results: list[dict], sources: dict, out: Path, stand: datetim
                                  encoding="utf-8")
         index[url] = {"datei": f"out/details/{name}", "abgerufen": stamp, "von": von, "zeilen": len(lines)}
         s, txt = ticket_status(lines)
+        entry = {"s": s, "txt": txt, "geprueft": stamp,
+                 "art": "ticketliste" if url in ticket_urls else "detailseite"}
+        if url in ticket_urls and s == "unklar":
+            # one step further: the status often only shows in the linked shop / sign-up form
+            hop = shop_link(lines, url)
+            if hop and hop not in seen:
+                seen.add(hop)
+                hop_lines, hop_err = fetch_page(f, hop, False)
+                if hop_lines:
+                    hs, htxt = ticket_status(hop_lines)
+                    if hs != "unklar":
+                        entry.update(s=hs, txt=htxt, ueber=hop)
         if url in ticket_urls or s != "unklar":
-            tickets[url] = {"s": s, "txt": txt, "geprueft": stamp,
-                            "art": "ticketliste" if url in ticket_urls else "detailseite"}
+            tickets[url] = entry
 
     # 3) prune
     for url in [u for u, v in index.items() if _older(v.get("abgerufen"), PRUNE_DAYS, today)]:
         datei = index.pop(url).get("datei")
         if datei and (root / datei).exists():
             (root / datei).unlink()
+    for url in [u for u in tickets if u in expired or is_placeholder(u)]:
+        tickets.pop(url)
     for url in [u for u, v in tickets.items()
                 if u not in ticket_urls and _older(v.get("geprueft") or v.get("versucht"), TICKET_PRUNE_DAYS, today)]:
         tickets.pop(url)
     _write(ddir / "index.json", index)
     _write(out / "tickets.json", {"stand": stamp, "seiten": tickets})
-    return {"details": fetched, "details_fehler": failed, "tickets": len(tickets)}
+    return {"details": fetched, "details_fehler": failed, "tickets": len(tickets), "tickets_abgelaufen": expired}
 
 
 # ======================================================================= kandidaten

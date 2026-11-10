@@ -22,6 +22,8 @@ jobs:
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 20
 
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
@@ -40,6 +42,21 @@ jobs:
           else
             echo "Keine JS-Quelle, Playwright wird nicht installiert."
           fi
+
+      - name: Konfiguration prüfen (bei Fehler den letzten gültigen Stand nehmen)
+        run: |
+          for back in 0 1 2 3 4 5 6 7 8; do
+            if [ "$back" != 0 ]; then
+              echo "::warning::config ungültig, versuche Stand von vor $back Commit(s)"
+              git checkout -q "HEAD~$back" -- config || break
+            fi
+            if python -m scraper.pflege pruefe; then
+              git reset -q -- config   # nur für diesen Lauf, wird nicht committet
+              exit 0
+            fi
+          done
+          echo "::error::Keine gültige Konfiguration in den letzten Commits gefunden."
+          exit 1
 
       - name: Quellen abrufen
         run: python -m scraper.main --commit-msg-file "$RUNNER_TEMP/commit-msg.txt"
