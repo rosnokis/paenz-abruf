@@ -5,15 +5,89 @@
   "von": "muelheimer-freiheit-termine",
   "zeilen": 26
  },
+ "https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-29/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/22e3cc064527.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 17
+ },
+ "https://altefeuerwachekoeln.de/programm/collageworkshop-fuer-flinta/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/47134b65ee8a.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 23
+ },
+ "https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-6/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/54e88ee62ba1.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 19
+ },
+ "https://altefeuerwachekoeln.de/programm/gitarre-lernen-3/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/7a630b88de0e.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 15
+ },
+ "https://altefeuerwachekoeln.de/programm/horus-selbsthilfegruppe-3/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/38a3505375af.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 16
+ },
+ "https://altefeuerwachekoeln.de/programm/lernfoerderung-3/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/c5dd04fec2ea.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 17
+ },
+ "https://altefeuerwachekoeln.de/programm/mosaik-kurs-fuer-anfaengerinnen-und-fortgeschrittene-2/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/02eac9e17aaf.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 19
+ },
+ "https://altefeuerwachekoeln.de/programm/offener-jugendtreff-10/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/6bcfc4f04a19.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 19
+ },
+ "https://altefeuerwachekoeln.de/programm/singen1-6/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/72289320055a.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 19
+ },
+ "https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-7/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/914be3daa088.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 18
+ },
+ "https://altefeuerwachekoeln.de/programm/toepfer-werkstatt/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/b37af7f12dfd.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 20
+ },
+ "https://altefeuerwachekoeln.de/programm/yoga-fuer-frauen-dako-e-v-6/": {
+  "abgerufen": "2026-11-10T10:52",
+  "datei": "out/details/efae635b9e36.md",
+  "von": "alte-feuerwache-koeln",
+  "zeilen": 17
+ },
  "https://shop.example/frei": {
-  "abgerufen": "2026-11-10T04:30",
+  "abgerufen": "2026-11-10T10:52",
   "datei": "out/details/684c6cd46288.md",
+  "fehler": "robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)",
   "von": "tickets.yml",
   "zeilen": 3
  },
  "https://shop.example/voll": {
-  "abgerufen": "2026-11-10T04:30",
+  "abgerufen": "2026-11-10T10:52",
   "datei": "out/details/5a5fa0f58d4b.md",
+  "fehler": "robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)",
   "von": "tickets.yml",
   "zeilen": 3
  },

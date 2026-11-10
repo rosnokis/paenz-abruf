@@ -9,7 +9,7 @@ Besucherin vor der Arbeit von Mechtild Frisch, Halbkreis, rot, 2003, Acryl auf K
 ★ [Mit Baby ins Museum Führung und Gespräche über Kunst für Eltern mit Kindern bis 1 Jahr 10.11.2026, 10:30 Uhr bis 12:00 Uhr Kunstmuseum Villa Zanders Berg. Gladbach, 51465 Bergisch Gladbach](https://www.kaenguru-online.de/kalender/fuer-minis/mit-baby-ins-museum-2/2026-11-10)
 Veranstaltung suchen
 Onlineangebot
-1803 Veranstaltungen gefunden
+1810 Veranstaltungen gefunden
 [Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
 [Fundsachenversteigerung](https://www.kaenguru-online.de/kalender/dies-und-das/fundsachenversteigerung/2026-11-10)
 Im Versteigerungssaal des Fundbüros auf Parkdeck 1

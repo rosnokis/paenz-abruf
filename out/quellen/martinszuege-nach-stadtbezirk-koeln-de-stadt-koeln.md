@@ -58,7 +58,7 @@ Datum | Veranstalter | Abmarsch | Aufstellort | Quelle
 ★ 13.11.2026 | Martinsspiel/Martinsfeuer der Bürgervereinigung Holweide | 17:15 Uhr | Marktplatz Holweide | [holweide-bv.de](https://www.holweide-bv.de/index.php/fuenftes-st-martinsfeuer-in-holweide-tradition-musik-und-gemeinschaft/)
 Fehlt ein Termin? Schickt uns gerne eine Info über das folgende Formular.
 ★ Dein Terminvorschlag für Martinszüge
-Comments
+X/Twitter
 Dieses Feld dient zur Validierung und sollte nicht verändert werden.
 ★ Veranstalter/Titel des Martinszuges (erforderlich)
 Startdatum (erforderlich)
