@@ -7,7 +7,7 @@
    "w": "Leichter Regen",
    "i": "regen",
    "max": 9,
-   "min": 4,
+   "min": 5,
    "mm": 2.5
   },
   "2026-11-11": {
@@ -28,50 +28,50 @@
    "w": "Sonnig",
    "i": "sonne",
    "max": 8,
-   "min": 2,
+   "min": 1,
    "mm": 0.0
   },
   "2026-11-14": {
-   "w": "Sonnig",
-   "i": "sonne",
-   "max": 7,
+   "w": "Überwiegend sonnig",
+   "i": "teils",
+   "max": 6,
    "min": 0,
    "mm": 0.0
   },
   "2026-11-15": {
-   "w": "Leichter Regen",
-   "i": "regen",
-   "max": 9,
-   "min": 1,
-   "mm": 6.0
-  },
-  "2026-11-16": {
-   "w": "Leichter Regen",
-   "i": "regen",
-   "max": 9,
-   "min": 7,
-   "mm": 3.2
-  },
-  "2026-11-17": {
    "w": "Bewölkt",
    "i": "wolke",
    "max": 9,
-   "min": 4,
-   "mm": 0.2
+   "min": 2,
+   "mm": 0.8
+  },
+  "2026-11-16": {
+   "w": "Leichte Regenschauer",
+   "i": "regen",
+   "max": 10,
+   "min": 7,
+   "mm": 1.9
+  },
+  "2026-11-17": {
+   "w": "Leichter Regen",
+   "i": "regen",
+   "max": 12,
+   "min": 9,
+   "mm": 7.2
   },
   "2026-11-18": {
-   "w": "Regen",
+   "w": "Leichter Regen",
    "i": "regen",
-   "max": 13,
-   "min": 9,
-   "mm": 4.3
+   "max": 16,
+   "min": 13,
+   "mm": 4.5
   },
   "2026-11-19": {
-   "w": "Teilweise bewölkt",
+   "w": "Überwiegend sonnig",
    "i": "teils",
    "max": 13,
    "min": 9,
-   "mm": 0.3
+   "mm": 0.2
   }
  }
 }

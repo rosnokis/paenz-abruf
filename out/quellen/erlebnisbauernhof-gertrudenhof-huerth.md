@@ -53,7 +53,7 @@ Unsere nächsten Events auf dem Erlebnis-Gelände
 Gertrudenhof Hundeweihnachtsmarkt
 🗓️ am 13./14./15. November 2026
 Weihnachtspark 2026
-🎄 vom 13.11.26 bis 03.01.27 Weihnachtszauber erleben
+🎄 vom 19.11.26 bis 03.01.27 Weihnachtszauber erleben
 Weihnachtszauber erleben
 🗓️ am Sa 21.11.2026 von 18:00 - 21:00 Uhr
 Gertrudenhof After Work Glühwein mit Radio Erft live

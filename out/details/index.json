@@ -77,9 +77,56 @@
   "von": "alte-feuerwache-koeln",
   "zeilen": 17
  },
+ "https://familienhopper.de/events/kinderhausmusik-singen-im-advent-im-buergerhaus-kalk-koeln-2026-12-01": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/281f171ef385.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 18
+ },
+ "https://familienhopper.de/koeln/alle/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/97a4193448a4.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 314
+ },
+ "https://familienhopper.de/koeln/indoor/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/64c0d9417814.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 141
+ },
+ "https://familienhopper.de/koeln/kindertheater/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/27b578ff67a4.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 243
+ },
+ "https://familienhopper.de/koeln/kostenlos/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/9bb91dfddbc1.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 137
+ },
+ "https://familienhopper.de/koeln/wochenende/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/973859666b33.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 141
+ },
+ "https://in-gl.de/events/familienzeit-bilderbuchkinodie-schoenste-laterne-der-welt/": {
+  "abgerufen": "2026-11-10T12:39",
+  "datei": "out/details/22ab3ff3528a.md",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie",
+  "zeilen": 43
+ },
  "https://in-gl.de/export-events/379867_0/?nonce=760809b70b": {
   "abgerufen": "2026-11-10T11:01",
   "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/379867_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
  "https://in-gl.de/export-events/380808_0/?nonce=760809b70b": {
@@ -87,9 +134,19 @@
   "fehler": "HTTP 500",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
+ "https://in-gl.de/export-events/380808_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
  "https://in-gl.de/export-events/380810_0/?nonce=760809b70b": {
   "abgerufen": "2026-11-10T11:01",
   "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/380810_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
  "https://in-gl.de/export-events/381285_0/?nonce=760809b70b": {
@@ -97,14 +154,29 @@
   "fehler": "HTTP 500",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
+ "https://in-gl.de/export-events/381285_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
  "https://in-gl.de/export-events/381741_0/?nonce=760809b70b": {
   "abgerufen": "2026-11-10T11:01",
   "fehler": "HTTP 500",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
+ "https://in-gl.de/export-events/381741_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
  "https://in-gl.de/export-events/381860_0/?nonce=760809b70b": {
   "abgerufen": "2026-11-10T11:01",
   "fehler": "HTTP 500",
+  "von": "buergerportal-bergisch-gladbach-kinder-familie"
+ },
+ "https://in-gl.de/export-events/381860_0/?nonce=bf26cacaa8": {
+  "abgerufen": "2026-11-10T12:39",
+  "fehler": "unerwarteter Inhaltstyp: text/calendar",
   "von": "buergerportal-bergisch-gladbach-kinder-familie"
  },
  "https://verliebtinkoeln.com/category/karneval-in-koeln/": {
@@ -138,19 +210,19 @@
   "zeilen": 35
  },
  "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/c88ff38ce713.md",
   "von": "tickets.yml",
-  "zeilen": 67
+  "zeilen": 66
  },
  "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/9b6478364708.md",
   "von": "tickets.yml",
   "zeilen": 37
  },
  "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/bc9b1ca4dd28.md",
   "von": "tickets.yml",
   "zeilen": 12
@@ -168,25 +240,25 @@
   "zeilen": 91
  },
  "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/b66348129e57.md",
   "von": "tickets.yml",
-  "zeilen": 90
+  "zeilen": 88
  },
  "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/dfc1cdde3b97.md",
   "von": "tickets.yml",
   "zeilen": 85
  },
  "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/7d7880f15f3c.md",
   "von": "tickets.yml",
   "zeilen": 13
  },
  "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
-  "abgerufen": "2026-11-10T11:01",
+  "abgerufen": "2026-11-10T12:39",
   "datei": "out/details/8c31cf396e5c.md",
   "von": "tickets.yml",
   "zeilen": 108

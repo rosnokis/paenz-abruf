@@ -94,9 +94,10 @@ So, 29. Nov. | 15 Uhr · weitere Termine Köln · KKT. Kölner Künstler:innen T
 29 NOV
 ★ [Weihnachtsmatinee des Symphonischen Jugendblasorchesters](https://familienhopper.de/events/weihnachtsmatinee-des-symphonischen-jugendblasorchesters-koeln-2026-11-29)
 So, 29. Nov. | 11 Uhr Köln · Flora
-2 DEZ
-★ [KUNST+KIND Madonnen, Engel, Christkind – Advent Special](https://familienhopper.de/events/kunst-kind-madonnen-engel-christkind-advent-special-koeln-2026-12-02)
-Mi, 2. Dez. | 11 Uhr Köln · Museum Schnütgen
+1 DEZ
+★ [KinderHausMusik „Singen im Advent“ im Bürgerhaus Kalk](https://familienhopper.de/events/kinderhausmusik-singen-im-advent-im-buergerhaus-kalk-koeln-2026-12-01)
+Di, 1. Dez. | 15:30 Uhr Köln · Bürgerhaus Kalk, Glashaus (Eingang über den Hof)
+★ 4–8 Jahre Kostenlos
 Hier entsteht etwas zum Mitnehmen
 12 NOV
 ★ [Kuscheltier-Übernachtung](https://familienhopper.de/events/kuscheltier-uebernachtung-koeln-2026-11-12)
@@ -142,7 +143,6 @@ Di, 10. Nov. | 15 Uhr · 13 weitere bis 22.12. Köln · Stadtteilbibliothek Kalk
 Kostenlos Ohne Anmeldung
 ★ [MINT-Vorlesen](https://familienhopper.de/events/mint-vorlesen-koeln-2026-11-13)
 Fr, 13. Nov. | 16:30 Uhr · 3 weitere bis 18.12. Köln · Stadtteilbibliothek Sülz
-★ 4–8 Jahre Kostenlos
 ★ [Die Photo-Spürnasen auf Entdeckungstour durch die Ausstellung: „AUGUST SANDER – ZUM 150. GEBURTSTAG“](https://familienhopper.de/events/die-photo-spuernasen-auf-entdeckungstour-durch-die-ausstellung-august-sander-zum-150-geburtstag-koeln-2026-11-14)
 ★ Bei der Führung lösen Kinder ab 6 Suchaufgaben in der Fotoausstellung.
 Sa, 14. Nov. | 15 Uhr · 1 weitere bis 19.12. Köln · Die Photographische Sammlung/Stiftung Kultur
@@ -220,7 +220,7 @@ Musik und Erzählung begleiten eine kleine Elfe und ihren großnasigen Freund.
 Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Metropol Theater
 ★ ab 4 Jahren Indoor
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 306 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 311 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
@@ -243,13 +243,13 @@ Häufige Fragen
 ★ Wann sind die St.-Martins-Umzüge in Köln?
 ★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 7 Termine, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 79 Vorstellungen, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 82 Vorstellungen, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 306 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 311 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
-★ Ja, 80 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
+★ Ja, 81 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?
-★ 240 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
+★ 244 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
 Über diese Seite
 ★ Für Köln bündelt Familienhopper Familien-Events aus städtischen und kulturellen Quellen: Museumstage, Mitmachaktionen, Kinderkultur, Stadtteilfeste und Ferienangebote. Familienhopper zeigt nur belegte Termine – ohne erfundene Empfehlungen und ohne Versprechen, die die Originalseite nicht trägt. Der Kalender ist unabhängig und nicht kommerziell.
 ★ Die Filter oben grenzen die Liste nach Tag, Alter oder Thema ein. So bleibt die Übersicht nutzbar, auch wenn viel im Kalender steht. Wer das Wochenende vorbereiten will, nutzt das [Wochenendprogramm in Köln](https://familienhopper.de/koeln/wochenende/). Kostenlose Termine mit freiem Eintritt sind unter [kostenlosen Familien-Events in Köln](https://familienhopper.de/koeln/kostenlos/) gesammelt.
