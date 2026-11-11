@@ -473,3 +473,15 @@ quellen:
   group: Köln-Nord & Veedel
   url: https://www.koeln-deutz.de/events.html
   note: Veedelstermine Deutz (Martinszug, Feste).
+- id: theater-wolkenstein
+  name: Theater Wolkenstein
+  group: Musik & Bühne
+  url: https://www.wolkenstein-theater.de/
+  note: Kleinkindertheater ab 2 in Rodenkirchen (Barnes Crossing)
+  seit: '2026-11-11'
+- id: museum-ludwig-familienprogramm
+  name: Museum Ludwig Familienprogramm
+  group: Musik & Bühne
+  url: https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen
+  note: Familientage und Familienführungen
+  seit: '2026-11-11'

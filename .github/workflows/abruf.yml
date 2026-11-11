@@ -2,11 +2,15 @@ name: Quellen abrufen
 
 on:
   schedule:
-    # 03:30 UTC = 04:30 (Winter) bzw. 05:30 (Sommer) Europe/Berlin, vor dem Morgenlauf um 06:16.
-    # Zweiter Termin als Auffangnetz, weil GitHub-Cron ausfallen kann (concurrency verhindert Überschneidung;
-    # läuft der erste durch, committet der zweite nur den neuen STAND).
-    - cron: "30 3 * * *"
-    - cron: "55 3 * * *"
+    # Ziel: fertig vor dem Morgenlauf um 06:16 Europe/Berlin (05:16 UTC im Winter).
+    # GitHub startet geplante Läufe oft stark verspätet oder gar nicht, deshalb mehrere Termine zu
+    # ungeraden Minuten. Der erste, der durchläuft, zählt; spätere am selben Tag brechen sofort ab
+    # (Schritt "Heute schon abgerufen?"), die Quellen werden also nur einmal pro Nacht besucht.
+    - cron: "17 1 * * *"
+    - cron: "23 2 * * *"
+    - cron: "11 3 * * *"
+    - cron: "41 3 * * *"
+    - cron: "7 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,16 +29,28 @@ jobs:
         with:
           fetch-depth: 20
 
+      - name: Heute schon abgerufen?
+        id: heute
+        run: |
+          heute=$(TZ=Europe/Berlin date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && head -1 out/heute.md | grep -q "^STAND: $heute"; then
+            echo "Abruf von heute liegt schon vor, nichts zu tun."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        if: steps.heute.outputs.skip != 'true'
         with:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: requirements*.txt
 
       - name: Pakete installieren
+        if: steps.heute.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Playwright (nur wenn eine Quelle js true hat)
+        if: steps.heute.outputs.skip != 'true'
         run: |
           if grep -qE '^\s*js:\s*true' config/quellen.yml; then
             pip install -r requirements-js.txt
@@ -44,6 +60,7 @@ jobs:
           fi
 
       - name: Konfiguration prüfen (bei Fehler den letzten gültigen Stand nehmen)
+        if: steps.heute.outputs.skip != 'true'
         run: |
           for back in 0 1 2 3 4 5 6 7 8; do
             if [ "$back" != 0 ]; then
@@ -59,9 +76,11 @@ jobs:
           exit 1
 
       - name: Quellen abrufen
+        if: steps.heute.outputs.skip != 'true'
         run: python -m scraper.main --commit-msg-file "$RUNNER_TEMP/commit-msg.txt"
 
       - name: Ergebnis committen
+        if: steps.heute.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
