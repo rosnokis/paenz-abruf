@@ -405,8 +405,11 @@ def run(args, f, stand: datetime | None = None) -> int:
                  "letzter_erfolg": prev.get("letzter_erfolg"), "sha256": prev.get("sha256"),
                  "geaendert": False, "fehler": None}
             all_urls = [src["url"]] + [e if isinstance(e, str) else e["url"] for e in src.get("urls", []) or []]
-            if src.get("skip") or any(is_placeholder(u) for u in all_urls):
-                r.update(status="skip", hinweis=str(src.get("skip") or "Platzhalter-Adresse, nicht abgerufen"),
+            # "selten": known to be locked out; noted, but only tried again on Mondays
+            ruht = src.get("selten") and today.weekday() != 0
+            if src.get("skip") or ruht or any(is_placeholder(u) for u in all_urls):
+                r.update(status="skip", hinweis=str(src.get("skip") or (ruht and f"{src['selten']}; wird montags erneut geprüft")
+                                                    or "Platzhalter-Adresse, nicht abgerufen"),
                          http_status=None, bytes=0)
                 results.append(r)
                 print(f"[skip]    {sid}")

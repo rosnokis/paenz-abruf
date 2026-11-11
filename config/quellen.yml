@@ -163,6 +163,7 @@ quellen:
   group: Übersichten
   url: https://rausgegangen.de/
   note: Location-Seiten zeigen Spielpläne kleiner Bühnen.
+  selten: robots.txt verbietet den Abruf
 - id: haenneschen-puppenspiele-der-stadt-koeln
   name: Hänneschen – Puppenspiele der Stadt Köln
   group: Musik & Bühne
@@ -267,6 +268,7 @@ quellen:
   url: https://www.tusnippes.de/
   note: Turnverein mit Eltern-Kind-Turnen in Niehl (GGS Nesselrodestraße) und Nippes (Osterather Str., Kretzerstr.),
     jeweils 16–18 Uhr. Hinweise auf Hallenausfälle stehen auf der Startseite. Probestunde nur nach Anmeldung.
+  selten: Seite sperrt automatische Abrufe (HTTP 403)
 - id: disdance-project-tanztheater-fuer-familien-alte-wu
   name: disdance project – Tanztheater für Familien (Alte Wursterei)
   group: Musik & Bühne
@@ -412,6 +414,7 @@ quellen:
   group: Draußen & Höfe
   url: https://www.odysseum.de/
   note: Mitmach-Museum in Kalk; Sonderaktionen und Ferienprogramme.
+  selten: Seite antwortet nicht auf automatische Abrufe
 - id: koelner-zoo-veranstaltungen
   name: Kölner Zoo – Veranstaltungen
   group: Draußen & Höfe

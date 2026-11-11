@@ -92,6 +92,9 @@ vor dem Abruf und nimmt bei einem Fehler den letzten gültigen Stand.
 
 ## Fehler und Ausfälle
 
+Dauerhaft gesperrte Quellen bekommen in `config/quellen.yml` das Feld `selten: <Grund>`. Sie bleiben notiert,
+werden aber nur montags erneut versucht und stehen an den übrigen Tagen als übersprungen in `out/heute.md`.
+
 `out/status.json` führt je Quelle `fehler_seit` und `fehler_tage`. Ab drei Tagen ohne Erfolg steht die
 Quelle in `out/heute.md` unter „Dauerfehler“ (am dritten Tag mit dem Zusatz NEU).
 
