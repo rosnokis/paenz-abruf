@@ -24,7 +24,7 @@ vorbestellen
 Weihnachtsbaum
 Verkauf, ab dem 19.11.26
 Heutige Öffnungszeiten
-Dienstag, 10.11.2026
+Mittwoch, 11.11.2026
 GESCHLOSSEN
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr
@@ -60,7 +60,7 @@ Gertrudenhof After Work Glühwein mit Radio Erft live
 🗓️ immer donnerstags im Weihnachtspark
 Weihnachtspark Take your Bestie Night
 🗓️ immer freitags im Weihnachtspark, von 18 - 21 Uhr
-Bauernmarkt-Gelände auf dem Gertrudenhof
+Weihnachtshof auf dem Bauernmarkt-Gelände
 Geländebereich B
 Unser 1200 m² großes Bauernmarktgelände ist täglich & ohne Ticket frei zugänglich
 Frisch & regional einkaufen:

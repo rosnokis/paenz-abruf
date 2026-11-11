@@ -161,7 +161,6 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjExMjhUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 29
 30
-10. November 2026
 11. November 2026
 12. November 2026
 13. November 2026
@@ -195,6 +194,20 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 7. Dezember 2026
 8. Dezember 2026
 9. Dezember 2026
+10. Dezember 2026
+★ Naturtag für Kinder und Familien: Nachtwanderung "Glühwürmchen"
+10. Dezember 2026 15:30 - 18:00
+★ Ihr möchtet als Familie gemeinsam etwas Schönes unternehmen und etwas über Natur und Umwelt lernen? Mit der Naturtrainerin Necibe Dumanoğlu (Muslimisches Familienbildungswerk Köln) geht es auf die Entdeckungstour "Glühwürmchen Nachtwanderung" in unsere direkte Nachbarschaft. Seid dabei!
+Treffpunkt ist das Liebig257, Liebigstraße 257, 50739 Köln
+15:30 Uhr: Kennenlernen und Kakao
+★ 16:00 Uhr: Start der Entdeckungstour für Familien
+18:00 Uhr: Zurück am Liebig257
+Teilnahme: kostenfrei - begrenzte Plätze
+★ ideal für Kinder zwischen 4 und 8 Jahren
+★ Anmeldung unter Angabe des Alters der Kinder persönlich im Liebig257, unter 0157-30040165 oder per E-Mail an [E-Mail]
+Gefördert von:
+★ Rheinenergie Stiftung Familie
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=M2hzZzNzbWZmMHVoamFtOG9oMGY4YmRuYmEgZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
 Mehr anzeigen
 Liebigquartier
 Das Liebigquartier ist eines der wohl spannendsten Stadtentwicklungsgebiete in Köln. Die ca. 300.000m² Entwicklungsfläche zwischen Ehrenfeld und Nippes bieten viel Raum, um Projekte und Ideen umzusetzen, damit Köln 2035 klimaneutral versorgt werden kann, die 15 Minuten Stadt Realität wird und Kultur und Soziales Raum in der Stadt findet.

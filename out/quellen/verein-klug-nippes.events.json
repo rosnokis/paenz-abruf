@@ -11,17 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Umzugscafé",
-  "startDate": "2026-11-10T12:00:00+01:00",
-  "endDate": "2026-11-10T18:00:00+01:00",
-  "location": {
-   "name": "Umzugscafé",
-   "address": "Umzugscafé"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "KLuG e.V. intern im Quartiersbüro",
   "startDate": "2026-11-11T18:00:00+01:00",
   "endDate": "2026-11-11T20:00:00+01:00",
@@ -239,6 +228,17 @@
    "address": "Offene Fahrradwerkstatt"
   },
   "kinder": false,
+  "quelle": "https://klugev.de"
+ },
+ {
+  "name": "Naturtag für Kinder und Familien: Nachtwanderung \"Glühwürmchen\"",
+  "startDate": "2026-12-10T15:30:00+01:00",
+  "endDate": "2026-12-10T18:00:00+01:00",
+  "location": {
+   "name": "Naturtag für Kinder und Familien: Nachtwanderung \"Glühwürmchen\"",
+   "address": "Naturtag für Kinder und Familien: Nachtwanderung \"Glühwürmchen\""
+  },
+  "kinder": true,
   "quelle": "https://klugev.de"
  }
 ]

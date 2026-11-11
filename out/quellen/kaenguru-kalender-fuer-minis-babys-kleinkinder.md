@@ -6,22 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Mit Baby ins Museum](https://www.kaenguru-online.de/kalender/fuer-minis/mit-baby-ins-museum-2/2026-11-10)
-★ Führung und Gespräche über Kunst für Eltern mit Kindern bis 1 Jahr
-10.11.2026
-10:30 - 12:00 Uhr
-Kunstmuseum Villa Zanders Berg. Gladbach
-Bergisch Gladbach
-★ [PhilharmonieVeedel Pänz „Der blaue Gartenzaun“](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-paenz-der-blaue-gartenzaun-4/2026-11-10)
-★ In diesem Konzert führt Nadja Karasjew durch die Geschichte mit Musik von Hajo Wiesemann – Konzert für Familien mit Kindern von 2 bis 6 Jahren
-15:00 Uhr
-10:30 Uhr
-Bürgerhaus Kalk
-Köln
-★ [Bastelwerkstatt](https://www.kaenguru-online.de/kalender/fuer-minis/bastelwerkstatt/2026-11-10)
-★ Kreative Bastelwerkstatt für Kinder von 3 bis 6 Jahren
-15:30 - 17:00 Uhr
-★ Kindernöte e.V.
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-11)
 ★ Mit Kleinkindern ins Museum Morsbroich
 11.11.2026
@@ -38,6 +22,7 @@ Hennef
 Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
 11:00 Uhr
 Horizont Theater
+Köln
 ★ [„Der fliegende Koffer"](https://www.kaenguru-online.de/kalender/fuer-minis/der-fliegende-koffer/2026-11-14)
 ★ Ein Krabbeltheater-Stück für Kinder ab 2 Jahren nach Hans C. Andersen
 14.11.2026
@@ -56,6 +41,7 @@ Bonn
 KKT Kölner Künstler:innen Theater
 ★ [„Das kleine Zottel Mottel und das Bergwuschel"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-und-das-bergwuschel/2026-11-15)
 15.11.2026
+15:00 Uhr
 ★ [„Das kleine Zottel Mottel"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel/2026-11-16)
 ★ Ein Stück über die Begegnung mit dem Ich und dem Anderen für Kinder ab 3 Jahren
 16.11.2026
@@ -65,6 +51,8 @@ KKT Kölner Künstler:innen Theater
 ★ [Spieletreff](https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17)
 ★ Spieletreff für Kinder von 3 bis 6 Jahren
 17.11.2026
+15:30 - 17:00 Uhr
+★ Kindernöte e.V.
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-18)
 18.11.2026
 ★ [KUNST+KIND: Mit Baby ins Ludwig](https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-ins-ludwig-1/2026-11-18)
@@ -84,3 +72,12 @@ Wuppertal
 ★ [„Paulina und der Zirkus Papilotte"](https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21)
 ★ Ein Zirkusmärchen für Zuschauer ab 3 Jahren
 Metropol Theater
+★ [„Die Schnecke und der Buckelwal"](https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21)
+★ Aufführung vom Luk Puppentheater für Kinder ab 4 Jahren
+Studio11
+★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21)
+★ Lustiges Abenteuer für Theaterstarter ab 3 Jahren und ihre Eltern
+Cassiopeia Bühne
+★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch/2026-11-21)
+★ Eine Entdeckungsreise für Kinder ab 2 Jahren vom Wolkenstein Theater
+Theater Wolkenstein bei Barnes Crossing

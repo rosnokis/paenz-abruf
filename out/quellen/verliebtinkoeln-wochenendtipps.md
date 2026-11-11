@@ -3,27 +3,30 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
+Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf dem Smartphone spielen. Kölsches Sudoku: Das Ziel Hinweise zum Suduko Bei Bedarf Notizen Viel Spaß beim Rätseln…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
+[Ballermann-Star Ikke Hüftgold will mit „Kölsche Maid“ im Karneval Fuß fassen](https://verliebtinkoeln.com/ikke-hueftgold-koelsche-maid/)
+10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
+[1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
+10.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[11.11.2026 in Köln: Das TV- und Radio-Programm zur Sessionseröffnung im Überblick](https://verliebtinkoeln.com/11-11-koeln-tv-programm-wdr-radio/)
+10.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [9 kölsche Karnevalswörter, die nicht jeder versteht – wie viele kennst du?](https://verliebtinkoeln.com/koelsche-woerter-karneval/)
-Was ist eigentlich ein Pluutemann? Wer wird in Köln als Muuzepuckel bezeichnet? Und was machen die Roten Funken beim Stippeföttche? Im Kölner Karneval gibt es viele besondere Wörter, deren Bedeutung längst nicht jeder kennt. Wir haben neun Begriffe aus dem kölschen Karneval…
-[Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 4 Min. Lesedauer
+10.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
 10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [7 Auto-Kennzeichen, die in Köln verboten sind](https://verliebtinkoeln.com/auto-kennzeichen-die-in-koeln-verboten-sind/)
 09.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
-[So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
-09.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[7 kölsche Ein-Wort-Sätze – weißt du, was sie bedeuten?](https://verliebtinkoeln.com/koelsche-ein-wort-saetze-quiz/)
-09.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[4 Radiosender, auf denen das ganze Jahr kölsche Musik läuft](https://verliebtinkoeln.com/4-radio-sender-auf-denen-du-das-ganze-jahr-koelsche-musik-hoerst/)
-09.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Dat kölsche Sudoku am Montag](https://verliebtinkoeln.com/dat-koelsche-sudoku-am-montag/)
-Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel lösen kannst.…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2 Min. Lesedauer
-In Köln beginnt jedes Autokennzeichen mit einem „K“ – und wer ein bisschen kreativ ist, kann sich danach sein ganz persönliches Wunschkennzeichen zusammenstellen. Aber Vorsicht:…
-[Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
+Ein Ballermann-Star will im kölschen Karneval mitmischen: Ikke Hüftgold hat gemeinsam mit Calvin Kleinen und den Rabaue den Song „Kölsche Maid“ veröffentlicht. Die Single erschien…
+[Köln](https://verliebtinkoeln.com/category/koeln/) • 10.11.2026 • 2 Min. Lesedauer
+Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die Durchschlagskraft und…
+[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 10.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+[So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
 Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
+[4 Radiosender, auf denen das ganze Jahr kölsche Musik läuft](https://verliebtinkoeln.com/4-radio-sender-auf-denen-du-das-ganze-jahr-koelsche-musik-hoerst/)
 Kölsche Musik hört man in Köln nicht nur an Karneval. Ob Bläck Fööss, Brings, Höhner, Kasalla oder Cat Ballou: Wer die Lieder aus…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 5 Min. Lesedauer
 [Warum nur wenige Kölner Gaststätten Päffgen Kölsch ausschenken](https://verliebtinkoeln.com/warum-nur-wenige-koelner-gaststaette-paeffgen-koelsch-ausschenken/)
@@ -59,12 +62,16 @@ Es war das einst geheimste und teuerste Bauwerk Deutschlands. Die Gänge befinde
 Es bietet einen besonderen Einblick in die Geheimnisse unserer Erde. Vulkane, Lava, ein Brodeln – all das ist viel näher an Köln, als…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 2 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 Was ist eigentlich ein Pluutemann? Wer wird in Köln als Muuzepuckel bezeichnet? Und was machen die Roten Funken beim Stippeföttche? Im Kölner Karneval…
+[Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 4 Min. Lesedauer
 Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2 Min. Lesedauer
+[7 kölsche Ein-Wort-Sätze – weißt du, was sie bedeuten?](https://verliebtinkoeln.com/koelsche-ein-wort-saetze-quiz/)
 „Dä!“, „Luurens!“ oder „Schakalfööss!“: In Köln braucht man manchmal nur ein einziges Wort, um einen ganzen Satz auszudrücken. Doch verstehst du auch, was…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 09.11.2026 • 2 Min. Lesedauer
-Montagmorgen, de Kaffeeduft in der Luft – wat fehlt? Richtig: Ein kleines Rätsel für zwischendurch! Unser kölsches Sudoku bringt nicht nur dein Hirn…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
+Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…
 [1. FC Köln nach dem Union-Doppel: Hui oder pfui?](https://verliebtinkoeln.com/fc-union-dreierkette-el-mala-brueder/)
 Ein Punkt in Berlin, ein besonderer Moment für die El-Mala-Brüder – und trotzdem viele Fragen zum Spiel des 1. FC Köln: Nach dem…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 02.11.2026 • 3 Min. Lesedauer
@@ -74,9 +81,6 @@ Ein gemeinsamer Bundesliga-Einsatz und gleich ein entscheidendes Tor: Malek El M
 [„Alles falsch gemacht“: Kritik an René Wagner im FC-Podcast Dreierkette Köln](https://verliebtinkoeln.com/alles-falsch-gemacht-kritik-an-rene-wagner-in-der-fc-podcast-dreierkette-koeln/)
 Die Stimmung beim 1. FC Köln ist nach dem 0:0 gegen den FC Schalke 04 auf dem Tiefpunkt. Der 2:1 Derbysieg gegen Gladbach…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 27.10.2026 • 2 Min. Lesedauer
-[Ist René Wagner der richtige Trainer – bekommt aber die falsche Unterstützung?](https://verliebtinkoeln.com/fc-koeln-vor-schalke-rene-wagner-dreierkette-koeln/)
-Derbysieg gut, alles gut? Von wegen. Die Niederlage bei Eintracht Frankfurt hat beim 1. FC Köln erneut Diskussionen ausgelöst. Dabei geht es nicht…
-[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 20.10.2026 • 4 Min. Lesedauer
 [Kölsche Witze](https://verliebtinkoeln.com/category/koeln-witze-koelsche-tuennes-schael-duesseldorf/)
 [Kölsche Witze: Was passiert, wenn ein Kölner 40 Kölsch in 20 Minuten trinken soll?](https://verliebtinkoeln.com/ein-duesseldorfer-wettet-kann-ein-koelner-40-koelsch-in-20-minuten-trinken-witze-op-koelsch/)
 Kommt ein Düsseldorfer in Köln in eine Kneipe und sagt:„Hey, ich hab gehört, ihr Kölner könnt so viel trinken?“ „Ich wette keiner von…

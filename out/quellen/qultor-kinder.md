@@ -6,15 +6,10 @@ Der Kulturkalender bietet gleichzeitig Vielfalt und Nische! Das geballte Angebot
 Aber was bietet gerade eine spezielle Sparte? Was findet genau heute, morgen oder am Wochenende statt?
 Finde es heraus und filtere das breite Angebot genau nach deinen Interessen!
 Schnellauswahl:
-Dienstag, 10. November 2026
-Comedia Theater
-[Titanic Eine Komödie über schöne Menschen, die große Gefühle spielen Jack und Rose, das tragisch schönste Paar der Filmgeschichte! Finden jedenfalls Elliot und Alberta zwei Kellner*innen in ihren Mittdreißigern, deren größte Leidenschaft der Kultfilmklassiker Titanic i... 19:00 Uhr Theater Halle | Köln](https://www.qultor.de/veranstaltungen/titanic)
-Tickets
-Theater der Keller
-[NOCH IST POLEN NICHT VERLOREN Von Jürgen Hofmann nach Melchior Lengyel Wie man die Gestapo mit den Mitteln des Theaters reinlegt – eine Komödie nach dem Filmklassiker ‘Sein oder Nichtsein’ von Ernst Lubitsch 20:00 Uhr Theater Theater der Keller | Köln](https://www.qultor.de/veranstaltungen/noch-ist-polen-nicht-verloren)
 Mittwoch, 11. November 2026
 Futur3
 [Wiederaufnahme Glotzt nicht so romantisch! #rhein #schön #landschaft #nierengulasch #ideologie Seit der Romantik, als die ersten Reisenden aus England das Mittelrheintal touristisch entdeckten, werden der Rhein und seine Ufer in Gedichten, Sagen und Bildern auf Wirtschaft, Politik und Gesellsch... 20:00 Uhr Theater Alte Feuerwache - Bühne | Köln](https://www.qultor.de/veranstaltungen/glotzt-nicht-so-romantisch)
+Tickets
 Lutherkirche Südstadt
 [ALI DOĞAN GÖNÜLTAŞ Der anatolische Sänger singt und spielt Tembur und Akustikgitarre. Die Emotion seiner ausdrucksstarken Stimme, die verträumten Melodien seiner Kompositionen und sein profunder Hintergrund haben schon... 20:00 Uhr Konzert Lutherkirche Südstadt | Köln](https://www.qultor.de/veranstaltungen/ali-dogan-goenueltas)
 [Ticketlink](https://lutherkirche.ticket.io)
@@ -57,6 +52,7 @@ KKT Kölner Künstler:innen Theater
 Odonien
 ★ [6+ ROBODONIEN LEUCHTET 2026 Roboter-Licht-Kunst-Festival Zum dritten Mal erstrahlt Odonien im November! Hier verschwimmen die Grenzen zwischen Mensch, Maschine und Kunst: Roboterwesen, Feuerinstallationen und Performances begegnen faszinierenden Lichtwelten... 18:00 Uhr Familientag Odonien | Köln](https://www.qultor.de/veranstaltungen/robodonien-leuchtet-2026)
 [Ticketlink](https://rausgegangen.de/events/robodonien-leuchtet-23/)
+Comedia Theater
 [Gina Waibel und Annabelle Kwofie: FUN FACTS An diesem Abend präsentieren Gina Waibel und Belle live vor Publikum die aktuelle Ausgabe von FUN FACTS. FUN FACTS ist ein neues, tägliches, fünfzehnminütiges Nachrichtenformat mit Humor. Facts, but f... 19:00 Uhr Comedy und Kabarett Comedia Theater (Grüner Saal) | Köln](https://www.qultor.de/veranstaltungen/gina-waibel-und-annabelle-kwofie-fun-facts)
 [8+ Zeit für Zirkus 2026 99 Grammi Compagnia Lupa Eine zeitgenössische Jonglageshow, die dem Bedürfnis entspringt, den Erfolgsdruck und den Wert von Reisen und Begegnungen zu hinterfragen. 19:00 Uhr Zeitgenössischer Zirkus CCCC - Kreationszentrum Zeitgenössischer Zirkus | Köln](https://www.qultor.de/veranstaltungen/99-grammi)
 Kabarett A-Z
@@ -64,4 +60,9 @@ Kabarett A-Z
 [Ticketlink](https://kabarett-a-z.de/start/karten/)
 [Horst Evers: So gesehen, natürlich lustig Reden wir nicht drumrum. Die Welt ist ein Jammertal. Ständig passiert etwas, das uns müde, ratlos, wütend macht. Oder alles vier zusammen. So gesehen ist es fast erstaunlich, wieviel sehr Lustiges tro... 20:00 Uhr Comedy und Kabarett Comedia Theater (Roter Saal) | Köln](https://www.qultor.de/veranstaltungen/horst-evers-so-gesehen-natuerlich-lustig)
 [Traudl Junge Im Schatten des Bösen Daniel Breitfelder spielt Hitlers Sekretärin. 20:00 Uhr Theater Theater der Keller | Köln](https://www.qultor.de/veranstaltungen/traudl-junge)
+Entfällt
 [Eine Produktion des Prinz Regent Theater Bochum Laios Von Roland Schimmelpfennig Roland Schimmelpfennigs Monolog ist einer der größten Theatererfolge der letzten Jahre und wurde 2024 von THEATER HEUTE zum Stück des Jahres gekürt. 20:00 Uhr Theater Theater im Bauturm | Köln Mit Nachgespräch](https://www.qultor.de/veranstaltungen/laios)
+Overhead Project
+[12+ Zeit für Zirkus Köln/Bonn 2026 Overhead Project: Beasts & Bodies Hier geht es nicht um Monster. Oder doch? Eine Einladung, jenen flüchtigen Gestalten zu begegnen, die ­mal leise, mal lautstark ­in uns auftauchen, wenn Nähe an ihre Grenzen stößt. 20:00 Uhr neuer Zirkus Theater im Ballsaal | Bonn](https://www.qultor.de/veranstaltungen/beasts-bodies)
+[Ticketlink](https://www.bonnticket.de/event/beasts-and-bodies-overhead-project-theater-im-ballsaal-theater-im-ballsaal-22127638/?affiliate=5BT)
+[Wiederaufnahme Glotzt nicht so romantisch! #rhein #schön #landschaft #nierengulasch #ideologie Seit der Romantik, als die ersten Reisenden aus England das Mittelrheintal touristisch entdeckten, werden der Rhein und seine Ufer in Gedichten, Sagen und Bildern auf Wirtschaft, Politik und Gesellsch... 20:00 Uhr Theater Alte Feuerwache - Bühne | Köln im Anschluss Nachgespräch mit den Künstler*innen](https://www.qultor.de/veranstaltungen/glotzt-nicht-so-romantisch)

@@ -4,21 +4,12 @@
 ★ PhilharmonieVeedel Pänz
 Concerts for children aged 2 and above
 ★ Here you'll find music for families and nursery groups! Right in the neighbourhood, musical journeys of discovery invite you to join in, marvel and dream. There's something for every taste: exciting jazz grooves, wistful melodies from faraway lands and thrilling ensemble music from yesterday and today.
-Cancelled
-Tue
-10.11.2026
+Thu
+11.02.2027
 10:30
 [2-6 years](https://www.koelner-philharmonie.de/en/events?tags=45)
 [Family](https://www.koelner-philharmonie.de/en/events?tags=26)
 [Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
-Bürgerhaus Kalk
-★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9527)
-»Der blaue Gartenzaun«
-15:00
-★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9528)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8121&language=en)
-Thu
-11.02.2027
 Bürgerzentrum Chorweiler
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9536)
 »So bin ich«
@@ -33,6 +24,8 @@ Bürgerzentrum Nippes – Altenberger Hof
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8142&language=en)
 Sat
 13.02.2027
+15:00
+Bürgerhaus Kalk
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9539)
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8143&language=en)
 Sun
@@ -73,27 +66,17 @@ Bürgerzentrum Engelshof e. V.
 26.06.2027
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9567)
 »Überraschung«
-Print
+★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9568)
+27.06.2027
+★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9569)
 
 ## Quelle: https://www.koelner-philharmonie.de/en/events?tags=26
 Concerts
-Cancelled
-Tue
-10.11.2026
-10:30
-[2-6 years](https://www.koelner-philharmonie.de/en/events?tags=45)
-[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
-[Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
-Bürgerhaus Kalk
-★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9527)
-»Der blaue Gartenzaun«
-15:00
-★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9528)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8121&language=en)
 Sat
 21.11.2026
 11:00
 [4-8 years](https://www.koelner-philharmonie.de/en/events?tags=59)
+[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
 [Participate](https://www.koelner-philharmonie.de/en/events?tags=12)
 ★ [Familienworkshop »Im Zauberwald«](https://www.koelner-philharmonie.de/en/events/familienworkshop-im-zauberwald/9327)
 ★ For children ages 4 to 8 and their families
@@ -101,8 +84,12 @@ Sat
 13:00
 ★ [Familienworkshop »Im Zauberwald«](https://www.koelner-philharmonie.de/en/events/familienworkshop-im-zauberwald/9329)
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8126&language=en)
+Tue
 24.11.2026
+15:00
 [0-2 years](https://www.koelner-philharmonie.de/en/events?tags=46)
+[Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
+Bürgerhaus Kalk
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9529)
 »Funkelzeit«
 Sun
@@ -124,3 +111,11 @@ Wed
 02.12.2026
 Bürgerzentrum Ehrenfeld (BüzE)
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9532)
+Thu
+03.12.2026
+Bürgerzentrum Chorweiler
+★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9533)
+Fri
+04.12.2026
+Bürgerzentrum Nippes – Altenberger Hof
+★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534)

@@ -14,25 +14,17 @@
 [downstairs deluxe feat.](https://www.buergerhauskalk.de/veranstaltungen/downstairs-deluxe-feat/?no_cache=1)
 [Video-Archiv](https://www.buergerhauskalk.de/veranstaltungen/video-archiv/?no_cache=1)
 Dienstag,
-10.11.2026
-15:00 Uhr
-Der blaue Gartenzaun
-★ Philharmonie Veedel Pänz
-Klicken, um Details einzublenden.
-Schnecke Schlurfis Gartenzaun braucht dringend einen neuen Anstrich. Höchste Zeit, auf der Brombeerlichtung blaue Farbe zu ernten. Mit den Freunden Käfer Karl und Hummel Hui beginnt ein abenteuerlicher Ausflug. Vorbei an vorwitzigen Forellen, einem aufgeregten Froschchor und einem spannungsreichen Ameisenwettrennen. Ein Erzählkonzert über den abenteuerlichen Ausflug drei tierischer Freunde. Belibt nur die Frage, wie sie ihren Weg im Dunkeln nach Hause finden!?
-★ 8,00 € | Kinder unter 2 Jahre: € 4,00, für Kitagruppen € 5,00 pro Kind. Pro 4 KiTakinder ist eine Begleitperson frei.
-Karten sind NUR über KölnMusik Ticket erhältlich - (0221 204 08 204) oder
-https://tickets.koelner-philharmonie.de/webshop/webticket.
-Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
-Bürgerhaus Kalk, [E-Mail]
 17.11.2026
 09:30 Uhr
 & 11:00 Uhr
 Die Schnecke und der Buckelwal
 ★ Leseinszenierung und Puppenspiel
+Klicken, um Details einzublenden.
 ★ Reisen macht Spaß. Auf geht’s und los, die Welt ist groß. Schön ist es auf dem Buckelwal-Floß. Da sitzt die kleine Seeschnecke, während sie die Wunder dieser Welt erlebt. Doch, wie man weiß, steckt die Welt auch voller Gefahren, auch für den Wal. Und da ist es nur gut, wenn man einen Freund hat, der einen in höchster Not rettet - selbst wenn der so klein ist wie eine Seeschnecke…. Lustige Leseinszenierung mit Puppenspiel zum Mitreimen und Mitschleimen. Von den Machern des „Grüffelo und eine Eigenproduktion vom Bürgerhaus Kalk und dem LUK-Puppentheater.
 ★ Alter: ab 3 Jahren | Eintritt: 5,00 € pro Kind
 Anmeldung unter: [E-Mail]
+Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
+Bürgerhaus Kalk, [E-Mail]
 Samstag,
 21.11.2026
 12:00 Uhr
@@ -76,6 +68,7 @@ KALK ALAAF!
 ★ Erwachsenen-Ticket 15 € und ein Pänz-Ticket 9 €
 Ermäßigungen für KölnPass-Inhaber:innen
 24.11.2026
+15:00 Uhr
 Funkelzeit
 ★ Philharmonie Veedel Baby
 Wenn es draußen kälter wird und der Winter die Welt in leise Töne hüllt, wird es drinnen umso gemütlicher. In dieser magischen Zeit laden wir dazu ein, gemeinsam bekannten und unbekannten Winterliedern zu lauschen. Melodien werden zu Sonnenstrahlen und bunten Farben, die graue Tage verzaubern. Hier darf mitgesummt, mitgebrummt, mitgewippt und mitgesungen werden! Gefördert vom Kuratorium KölnMusik e.V..

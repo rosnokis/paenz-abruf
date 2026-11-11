@@ -1,28 +1,10 @@
 [
  {
-  "name": "Bastelwerkstatt",
+  "name": "Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/bastelwerkstatt/2026-11-10",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Brabbeln und anderes erlaubt",
-  "location": {
-   "name": "Bochum"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/brabbeln-und-anderes-erlaubt/2026-11-10",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Fundsachenversteigerung",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/fundsachenversteigerung/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -32,15 +14,6 @@
    "name": "Troisdorf"
   },
   "url": "https://www.kaenguru-online.de/kalender/sport/martinsueberraschung/2026-11-11",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Mit Baby ins Museum",
-  "location": {
-   "name": "Bergisch Gladbach"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/mit-baby-ins-museum-2/2026-11-10",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -63,29 +36,11 @@
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "PhilharmonieVeedel Pänz „Der blaue Gartenzaun“",
+  "name": "SPIELARTEN 26 „du und ich\"",
   "location": {
-   "name": "Köln"
+   "name": "Pulheim"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-paenz-der-blaue-gartenzaun-4/2026-11-10",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Spiel & Spaß für Pänz",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/spiel-spass-fuer-paenz/2026-11-10",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Das Elmar-Abenteuer\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/das-elmar-abenteuer/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/theater/spielarten-26-du-und-ich/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -99,29 +54,47 @@
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
+  "name": "„Der Bär, der nicht da war\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/der-baer-der-nicht-da-war/2026-11-12",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
   "name": "„Der König verschenkt was\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Mogli. Wölfe weinen nicht\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/mogli-woelfe-weinen-nicht/2026-11-10",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Radio 350 Hertz\"",
+  "name": "„Die Welle\"",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/radio-350-hertz/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/die-welle/2026-11-12",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Emil und die Detektive“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-8/2026-11-11",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Emil und die Detektive“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -139,7 +112,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-2/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-2/2026-11-11",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -148,7 +121,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-11",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-9/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -157,16 +139,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-5/2026-11-10",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Titanic\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/titanic/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -175,7 +148,34 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood/2026-11-10",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood/2026-11-11",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-12",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-1/2026-11-12",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-3/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

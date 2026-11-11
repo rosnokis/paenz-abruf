@@ -1,24 +1,5 @@
 [
  {
-  "name": "Titanic",
-  "startDate": "2026-11-10T19:00:00+01:00",
-  "endDate": "2026-11-10T20:05:00+01:00",
-  "location": {
-   "name": "Halle",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
   "name": "Gina Waibel und Annabelle Kwofie: FUN FACTS",
   "startDate": "2026-11-13T19:00:00+01:00",
   "endDate": "2026-11-13T21:00:00+01:00",
@@ -293,6 +274,25 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Marco Pogo: Lost & Found",
+  "startDate": "2026-11-21T20:31:00+01:00",
+  "endDate": "2026-11-21T22:31:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

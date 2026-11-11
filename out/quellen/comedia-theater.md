@@ -42,12 +42,6 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-10.11.
-Di 19:00 Uhr
-[Titanic »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
-Eine Komödie über schöne Menschen, die große Gefühle spielen
-Halle
-[Tickets](https://api.qultor.de/titanic/titanic-2026-11-10-1900/tickets)
 12.11.
 Do 19:00 Uhr
 [Hera Lind: Erhobenen Hauptes »](https://comedia-koeln.de/programm/unsere-gaeste/hera-lind-erhobenen-hauptes/)
@@ -68,6 +62,7 @@ Sa 19:30 Uhr
 Sa 20:00 Uhr
 [Köfte & Karaoke »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/koefte-karaoke/)
 Late Night Koch- und Unterhaltugsshow mit Kübra Sekin und Gäst*innen
+Halle
 Ausverkauft
 15.11.
 So 13:00 Uhr
@@ -109,5 +104,8 @@ Live in der Halle!
 Sa 20:30 Uhr
 [Lara Ermer: Leicht entflammbar »](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
 [Tickets](https://api.qultor.de/lara-ermer-leicht-entflammbar/lara-ermer-leicht-entflammbar-2026-11-21-2000/tickets)
+Sa 20:31 Uhr
+[Marco Pogo: Lost & Found »](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
+[Tickets](https://api.qultor.de/marco-pogo-lost-found/marco-pogo-lost-found-2026-11-21-2030/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

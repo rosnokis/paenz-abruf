@@ -229,16 +229,15 @@ Diese Woche besonders interessant
 ★ [10. Nov. Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-10)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
-★ [Heute in Köln](https://familienhopper.de/koeln/heute/) · [Am Wochenende in Köln](https://familienhopper.de/koeln/wochenende/)
 Top-Ziele in Köln
-[Kölner Zoo](https://koelnerzoo.de/besuch/) – Zoo & Tierpark
-[Wildpark Dünnwald](https://www.wildpark-duennwald.de/haeufig-gestellte-fragen) – Zoo & Tierpark
-[Schokoladenmuseum](https://www.schokoladenmuseum.de/besuch-planen/) – Museum
-[Rautenstrauch-Joest-Museum](https://www.museen.koeln/besuchen/museen/rautenstrauch-joest-museum-kulturen-der-welt) – Museum
-[Eishalle Lentpark](https://koelnbaeder.de/baeder/eishalle-lentpark-3/)
-★ [Heinzels Wintermärchen – Eisbahn am Heumarkt](https://www.heinzels-wintermaerchen.de/eislaufen/)
-[Jackelino Safari Godorf](https://www.jackelino-safari.de/preise-und-zeiten/) – Indoorspielplatz
-[Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise) – Indoorspielplatz
+Zoo & Tierpark [Kölner Zoo](https://koelnerzoo.de/besuch/)
+Zoo & Tierpark [Wildpark Dünnwald](https://www.wildpark-duennwald.de/haeufig-gestellte-fragen)
+Museum [Schokoladenmuseum](https://www.schokoladenmuseum.de/besuch-planen/)
+Museum [Rautenstrauch-Joest-Museum](https://www.museen.koeln/besuchen/museen/rautenstrauch-joest-museum-kulturen-der-welt)
+Eislaufen [Eishalle Lentpark](https://koelnbaeder.de/baeder/eishalle-lentpark-3/)
+★ Eislaufen [Heinzels Wintermärchen – Eisbahn am Heumarkt](https://www.heinzels-wintermaerchen.de/eislaufen/)
+Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preise-und-zeiten/)
+Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
 ★ Wann sind die St.-Martins-Umzüge in Köln?
 ★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 7 Termine, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)

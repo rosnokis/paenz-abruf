@@ -9,15 +9,9 @@ Große Abenteuer für kleine Entdecker in ganz Leverkusen
 Aktuell laufend (0)
 Veranstaltungen
 (63)
-10
-Nov
-[Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
-★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-Di
-17:00 Uhr
-[Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-11-10-17-00/)
-★ [AWO-Familienseminar](https://lust-auf-leverkusen.de/veranstaltungsort/awo-familienseminar/)
 11
+Nov
+★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
 [Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
 Mi
 09:30 Uhr
@@ -48,10 +42,14 @@ Abgesagt
 ★ [KStA Medien FAMILIENZEIT. Gemeinsam Patchworken.](https://lust-auf-leverkusen.de/veranstaltung/ksta-medien-familienzeit-gemeinsam-patchworken/)
 [Probierwerk](https://lust-auf-leverkusen.de/veranstaltungsort/probierwerk/)
 17
+Di
 [Lara hört zu!](https://lust-auf-leverkusen.de/veranstaltung/lara-hoert-zu/2026-11-17-16-00/)
 16:30 Uhr
 ★ [Die Schlossgespenster. Der Kunstklub für Kinder.](https://lust-auf-leverkusen.de/veranstaltung/schlossgespenster/2026-11-17-16-30/)
+[Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
+17:00 Uhr
 [Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-11-17-17-00/)
+★ [AWO-Familienseminar](https://lust-auf-leverkusen.de/veranstaltungsort/awo-familienseminar/)
 18
 ★ [Die Museumsflöhe. Mit Kleinkindern ins Museum Morsbroich.](https://lust-auf-leverkusen.de/veranstaltung/museumsfloehe/2026-11-18-09-30/)
 [Tickets](https://ophoven.recras.nl/onlineboeking?package=1316)
@@ -64,6 +62,10 @@ Abgesagt
 Sa
 11:00 Uhr
 ★ [Weltkindertag](https://lust-auf-leverkusen.de/veranstaltung/weltkindertag/)
+22
+[Theater & Schauspiel](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/theater-schauspiel/)
+★ [Tickets](https://www.kindertheater-papiermond.de/ticketreservierung)
+★ [Kasperletheater](https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/)
 24
 [Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-11-24-17-00/)
 25

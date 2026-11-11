@@ -14,15 +14,6 @@ April
 Mai
 Juni
 Juli
-10.11.2026
-Heute
-Di., 20:00
-Kölner Philharmonie
-Sinfoniekonzert
-[Delirium](https://www.guerzenich-orchester.de/de/event-detail/delirium)
-Anastasia Kobekina spielt Schumann
-ab 12,00 €
-[Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26321&language=de)
 15.11.2026
 15.11.
 2026
@@ -36,8 +27,11 @@ ab 18,00 €
 20.11.2026
 20.11.
 Fr., 19:00
+Kölner Philharmonie
+Sinfoniekonzert
 [Kronberg Academy](https://www.guerzenich-orchester.de/de/event-detail/kronberg-academy-26-27)
 Werke von Béla Bartók, Joseph Haydn, Camille Saint-Saëns und Richard Strauss
+ab 12,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26331&language=de)
 22.11.2026
 22.11.
@@ -74,6 +68,7 @@ Mo., 20:00
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26312&language=de)
 08.12.2026
 08.12.
+Di., 20:00
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26322&language=de)
 13.12.2026
 13.12.

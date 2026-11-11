@@ -29,7 +29,7 @@ Foto: IMAGO / Eibner
 13. Dezember 2026
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-13/)
 ★ Ich kenne noch einen Kinderflohmarkt:
-URL
+Email
 Dieses Feld dient zur Validierung und sollte nicht verändert werden.
 Name (erforderlich)
 Name

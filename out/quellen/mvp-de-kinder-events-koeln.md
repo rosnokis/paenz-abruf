@@ -48,39 +48,20 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 92
+1 - 40 von 91
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [PhilharmonieVeedel: Pänz »Der blaue Gartenzaun« - für Kinder ab 2 Jahren - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-der-blaue-gartenzaun-buergerhaus-kalk/)
-★ Kinderfreundliches Event
-Bürgerhaus Kalk, KÖLN
-★ Dienstag, 10. November 2026 und Dienstag, 10. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Pänz »Der blaue Gartenzaun« - für Kinder ab 2 Jahren
-10.11.2026
-(heute)
-ab
-4 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-der-blaue-gartenzaun-buergerhaus-kalk/)
 ★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderfreundliches Event
 ★ Kinderoper, KÖLN
 ★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-10.11.26 - 02.01.27
+12.11.26 - 02.01.27
+(morgen)
+ab
 26,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-11&checkout=2026-11-15&q=koeln&label=ms4)
-freie Objekte in Köln bei casamundo.de
-Deine Reisedaten:
-11.11. bis 15.11.26
-ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-11&checkout=2026-11-15&q=koeln&label=ms4)
-Hier ist noch ein Plätzchen frei
-So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
-aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
-Anzeigen zu einer Pause.
-[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
-Anzeigen finanzieren dieses Portal.
 ★ [Alice im Wunderland - Circus Show für die ganze Familie - Köln](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
 ★ Zirkus, Varieté & Artistik, Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater am Tanzbrunnen, Köln
@@ -89,6 +70,19 @@ Theater am Tanzbrunnen, Köln
 61,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2429419)
+Anzeige
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-12&checkout=2026-11-16&q=koeln&label=ms4)
+freie Objekte in Köln bei casamundo.de
+Deine Reisedaten:
+12.11. bis 16.11.26
+ändern
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-12&checkout=2026-11-16&q=koeln&label=ms4)
+Hier ist noch ein Plätzchen frei
+So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
+aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
+Anzeigen zu einer Pause.
+[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
+Anzeigen finanzieren dieses Portal.
 [Du und Ich](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/du-und-ich-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
@@ -102,16 +96,16 @@ Senftöpfchen-Theater, Köln
 15.11.26 - 30.01.27
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Der Geräuschehändler - Pulheim](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 KULTUR- UND MEDIENZENTRUM | Kleiner Saal, Pulheim
 Montag, 16. November 2026 - KULTUR- UND MEDIENZENTRUM | Kleiner Saal - Pulheim - Der Geräuschehändler - Toboso Theater - SPIELARTEN
 16.11.2026
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Into it](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 Dienstag, 17. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Into it - performing group - SPIELARTEN
 17.11.2026
@@ -136,17 +130,11 @@ Kölner Philharmonie, KÖLN
 21.11.2026
 9 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
-★ [Wir waren zwei Königskinder mit Daniela Bosenius & Marco Seypelt - Wir waren zwei Königskinder](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/wir-waren-zwei-koenigskinder-mit-daniela-bosenius-marco-seypelt-pulheim/)
-★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
-Theater im Walzwerk, Pulheim
-★ Sonntag, 22. November 2026 - Theater im Walzwerk - Pulheim - Wir waren zwei Königskinder mit Daniela Bosenius & Marco Seypelt - Wir waren zwei Königskinder
-22.11.2026
-27,95 €
-★ [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/wir-waren-zwei-koenigskinder-mit-daniela-bosenius-marco-seypelt-pulheim/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2618712)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
+Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
 24.11.2026
+4 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/22057649/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 [random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
@@ -156,6 +144,8 @@ Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabaret
 24 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 ★ [Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
+★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
+Theater im Walzwerk, Pulheim
 ★ Samstag, 28. November 2026 - Theater im Walzwerk - Pulheim - Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle
 28.11.2026
 14,75 €
@@ -307,6 +297,17 @@ LANXESS arena, KÖLN
 09.01. bis 16.01.27
 25,90 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/lachende-paenzarena-2027-lanxess-arena-koeln/)
+★ [Familienspecial YouTuber Matthias Berger Uncut – keine Kameratricks - Familienspecial YouTuber Matthias Berger Uncut – keine Kameratricks](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/familienspecial-youtuber-matthias-berger-uncut-keine-kameratricks-pulheim/)
+★ Sonntag, 10. Januar 2027 - Theater im Walzwerk - Pulheim - Familienspecial YouTuber Matthias Berger Uncut – keine Kameratricks - Familienspecial YouTuber Matthias...
+10.01.2027
+44,45 €
+★ [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/familienspecial-youtuber-matthias-berger-uncut-keine-kameratricks-pulheim/)
+[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2620760)
+★ [Ensembleproduktion: Puppensitzung 2027](https://www.mvp.de/koeln/veranstaltungen/ensembleproduktion-puppensitzung-2027/)
+★ Mittwoch, 13. Januar 2027 bis Samstag, 6. Februar 2027 - Puppenspiele der Stadt Köln - Ensembleproduktion: Puppensitzung 2027
+13.01. bis 06.02.27
+39 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/ensembleproduktion-puppensitzung-2027/)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege

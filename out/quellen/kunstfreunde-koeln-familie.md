@@ -75,7 +75,7 @@ Max Ernst: Au rendez-vous des amis (Das Rendezvous der Freunde), 1922. Köln, Mu
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.
-Museum Ludwig, Wallraf, Unterwegs
+Unterwegs, Museum Ludwig, Wallraf
 [einfach schöne Kunsterlebnisse verschenken](https://kunstfreunde.koeln/events/gutschein-fuer-kunstkind/)
 ★ Du kennst bereits unsere Kunst+Kind-Führungen? Möchtest diese aber Deinen Freund*innen oder Bekannten mit Babys schmackhaft machen?
 Dafür haben wir schön gestaltete Geschenkgutscheine im Angebot.

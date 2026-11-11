@@ -1,5 +1,5 @@
 URL: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
-ABGERUFEN: 2026-11-10T13:14
+ABGERUFEN: 2026-11-11T06:59
 VON: tickets.yml
 
 Fri 11:00

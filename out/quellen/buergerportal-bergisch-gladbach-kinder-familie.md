@@ -903,7 +903,7 @@ Zeit
 ★ [Papiermuseum Alte Dombach](https://in-gl.de/event-location/kindergartenmuseum/)
 [LVR Industriemuseum](https://in-gl.de/event-organizer/lvr-industriemuseum/)
 www.industriemuseum.lvr.de
-[Kalender](https://in-gl.de/export-events/380808_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&dates=20261106T100000Z/20261106T170000Z&ctz=Africa/Abidjan&details=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&location=Papiermuseum+Alte+Dombach)
+[Kalender](https://in-gl.de/export-events/380808_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&dates=20261106T100000Z/20261106T170000Z&ctz=Africa/Abidjan&details=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&location=Papiermuseum+Alte+Dombach)
 ★ Gemeindesaal Zum Frieden Gottes Martin-Luther-Str. 11, Heidkamp
 ★ 07 Nov 10:00 Kindersachen Flohmarkt im Gemeindesaal zum Frieden Gottes
 ★ Die evangelische Kita zum Frieden Gottes (der evangelischen Kirchengemeinde in Heidkamp) veranstaltet am 07.11.2026 von 10.00 bis 13.00 Uhr einen Kindersachenflohmarkt. Es gibt Spielzeug, Kinderkleidung, Umstands- und Stillmode
@@ -915,7 +915,7 @@ Anmeldungen für einen eigenen Verkaufsstand an [E-Mail]
 7. November 2026 10:00 (GMT+01:00)
 ★ Martin-Luther-Str. 11, Heidkamp
 ★ [KiTa Zum Frieden Gottes](https://in-gl.de/event-organizer/kita-zum-frieden-gottes/)
-★ [Kalender](https://in-gl.de/export-events/379867_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Kindersachen+Flohmarkt&dates=20261107T090000Z/20261107T225000Z&ctz=Europe/Berlin&details=Kindersachen+Flohmarkt&location=Gemeindesaal+Zum+Frieden+GottesMartin-Luther-Str.+11%2C+Heidkamp)
+★ [Kalender](https://in-gl.de/export-events/379867_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Kindersachen+Flohmarkt&dates=20261107T090000Z/20261107T225000Z&ctz=Europe/Berlin&details=Kindersachen+Flohmarkt&location=Gemeindesaal+Zum+Frieden+GottesMartin-Luther-Str.+11%2C+Heidkamp)
 ★ [08 Nov 10:00 12:50 Familiengottesdienst: Franz und die Tiere Kulturtage der Kirchengemeinde](https://in-gl.de/?p=381129)
 Eissporthalle Saaler Mühle, Bergisch Gladbach
 08 Nov 11:00 Frozen on Ice! Für Frozen-Fans und angehende Eishockey-Stars
@@ -935,14 +935,14 @@ Eissportarena Bergisch Gladbach, Saaler Strasse 100
 [Eissporthalle](https://in-gl.de/event-location/eissporthalle/)
 [Saaler Mühle, Bergisch Gladbach](https://in-gl.de/event-location/eissporthalle/)
 [Eissportverein RealStars](https://in-gl.de/event-organizer/eissportverein-realstars/)
-[Kalender](https://in-gl.de/export-events/381285_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Frozen+on+Ice%21&dates=20261108T100000Z/20261108T225000Z&ctz=Europe/Berlin&details=Frozen+on+Ice%21&location=EissporthalleSaaler+M%C3%BChle%2C+Bergisch+Gladbach)
+[Kalender](https://in-gl.de/export-events/381285_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Frozen+on+Ice%21&dates=20261108T100000Z/20261108T225000Z&ctz=Europe/Berlin&details=Frozen+on+Ice%21&location=EissporthalleSaaler+M%C3%BChle%2C+Bergisch+Gladbach)
 ★ 08 Nov 11:00 14:00 Offenes Angebot: Experimentelles Papierschöpfen für Familien
 ★ Zum Abschluss der gelungenen Wechselausstellung PAPIER! könnt ihr in unserer offenen Werkstatt als Einzelperson oder gemeinsam als Familie Papier schöpfen und gestalten.
 Wie wird eigentlich
 Wie wird eigentlich Papier gemacht – und was lässt sich alles daraus erschaffen? Hier könnt ihr schöpfen und kreativ experimentieren. Am Ende nehmt ihr euer ganz persönliches, selbst geschöpftes Kunstwerk mit nach Hause.
 ★ Das Angebot ist kostenlos für Kinder und Jugendliche. Erwachsene ab 18 Jahren zahlen den regulären Museumseintritt. Keine Anmeldung nötig.
 8. November 2026 11:00 - 14:00 (GMT+00:00)
-★ [Kalender](https://in-gl.de/export-events/380810_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Offenes+Angebot%3A+Experimentelles+Papiersch%C3%B6pfen+f%C3%BCr+Familien&dates=20261108T110000Z/20261108T140000Z&ctz=Africa/Abidjan&details=Offenes+Angebot%3A+Experimentelles+Papiersch%C3%B6pfen+f%C3%BCr+Familien&location=Papiermuseum+Alte+Dombach)
+★ [Kalender](https://in-gl.de/export-events/380810_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Offenes+Angebot%3A+Experimentelles+Papiersch%C3%B6pfen+f%C3%BCr+Familien&dates=20261108T110000Z/20261108T140000Z&ctz=Africa/Abidjan&details=Offenes+Angebot%3A+Experimentelles+Papiersch%C3%B6pfen+f%C3%BCr+Familien&location=Papiermuseum+Alte+Dombach)
 Stadtbücherei Hauptstraße 250, 51465 Bergisch Gladbach
 ★ 12 Nov 16:00 "Die schönste Laterne der Welt" Bilderbuchkino
 ★ Laternenumzug mit Hindernissen.Anton freut sich schon seit Tagen auf den Laternenumzug im Kindergarten. Aber dann läuft gar nichts so, wie es soll: Erst bastelt Anton versehentlich eine Monsterfanten-Laterne,
@@ -958,7 +958,7 @@ Der Zugang zum Veranstaltungsraum ist rollstuhlgerecht.
 [Hauptstraße 250, 51465 Bergisch Gladbach](https://in-gl.de/event-location/stadtbuecherei/)
 [Stadtbücherei](https://in-gl.de/event-organizer/stadtbuecherei/)
 Hauptstr. 250, Bergisch Gladbach
-★ [Kalender](https://in-gl.de/export-events/381741_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=%22Die+sch%C3%B6nste+Laterne+der+Welt%22&dates=20261112T160000Z/20261112T235000Z&ctz=UTC&details=%22Die+sch%C3%B6nste+Laterne+der+Welt%22&location=Stadtb%C3%BCchereiHauptstra%C3%9Fe+250%2C+51465+Bergisch+Gladbach)
+★ [Kalender](https://in-gl.de/export-events/381741_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=%22Die+sch%C3%B6nste+Laterne+der+Welt%22&dates=20261112T160000Z/20261112T235000Z&ctz=UTC&details=%22Die+sch%C3%B6nste+Laterne+der+Welt%22&location=Stadtb%C3%BCchereiHauptstra%C3%9Fe+250%2C+51465+Bergisch+Gladbach)
 Bürgerhaus Bergischer Löwe Konrad-Adenauer-Platz, 51465 Bergisch Gladbach
 ★ [14 Nov 11:00 Terre des Hommes Kunstbasar Bürgerhaus Bergischer Löwe](https://in-gl.de/?p=380491)
 ★ [15 Nov 11:00 Terre des Hommes Kunstbasar Bürgerhaus Bergischer Löwe](https://in-gl.de/?p=380491)
@@ -972,4 +972,4 @@ Vorsortierte Spielzeugbörse.
 ★ [Kita Heilige Drei Könige](https://in-gl.de/event-location/kita-heilige-drei-koenige/)
 ★ [Hebborner Kirchweg 1, Bergisch Gladbach](https://in-gl.de/event-location/kita-heilige-drei-koenige/)
 ★ [Kita Heilige Drei Könige](https://in-gl.de/event-organizer/kita-heilige-drei-koenige/)
-★ [Kalender](https://in-gl.de/export-events/381860_0/?nonce=d4547d9e84) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Spielzeugb%C3%B6rse&dates=20261121T150000Z/20261121T180000Z&ctz=Europe/Berlin&details=Spielzeugb%C3%B6rse&location=Kita+Heilige+Drei+K%C3%B6nigeHebborner+Kirchweg+1%2C+Bergisch+Gladbach)
+★ [Kalender](https://in-gl.de/export-events/381860_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Spielzeugb%C3%B6rse&dates=20261121T150000Z/20261121T180000Z&ctz=Europe/Berlin&details=Spielzeugb%C3%B6rse&location=Kita+Heilige+Drei+K%C3%B6nigeHebborner+Kirchweg+1%2C+Bergisch+Gladbach)

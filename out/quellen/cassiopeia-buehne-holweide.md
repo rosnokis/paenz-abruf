@@ -57,4 +57,3 @@ am 09. Oktober 2018
 ★ Das richtige für Kinder. Heutiges Stück "Kleiner Drache, wie heisst du?" ging 60 Minuten und gefiel den Kindern. Die Inhaberin spielte alle 4 Spielpuppen selber und verlieh diesen Leben. Extra für die Kinder gibt es vorne Sitzkissen. Kaffee 2 Euro.
 Von T. H.
 am 09. September 2017
-★ [0 - 5 J](https://www.kindaling.de/indoorspielplaetze/freies-spiel-mitmachtheater-kreative-workshops/koeln-nippes)

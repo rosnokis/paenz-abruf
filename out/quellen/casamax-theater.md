@@ -30,7 +30,6 @@ Große Freude über die Nominierung des neuen Stücks!
 "HEUREKA!" ausgezeichnet mit dem Goldenen Pinguin auf dem Penguin's Days Festival 2025
 [Reingehört!](https://www.casamax-theater.de/reingehoert/)
 Ein neuer Podcast über "Mein Freund, der Baum, sieht rot" im CASAMAX Theater
-0 Veranstaltungen gefunden.
 Veranstaltungen
 Hinweis
 Es sind keine anstehenden Veranstaltungen vorhanden.

@@ -9,17 +9,7 @@ MI
 DO
 FR
 SA
-DI 10.11.
-[Frauen, TINAQ+ und Queers Collageworkshop 18:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/collageworkshop-fuer-flinta/)
-[DI 10.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-29/)
-★ [DI 10.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-3/)
-★ [DI 10.11. Töpfer-Werkstatt 16:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/toepfer-werkstatt/)
-[DI 10.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-7/)
-[DI 10.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-10/)
-[DI 10.11. Mosaik-Kurs für Anfänger*innen und Fortgeschrittene 16:30 Mosaik-Werkstatt | Steigeturm](https://altefeuerwachekoeln.de/programm/mosaik-kurs-fuer-anfaengerinnen-und-fortgeschrittene-2/)
-[DI 10.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-3/)
-[DI 10.11. Horus - Selbsthilfegruppe 18:00 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/horus-selbsthilfegruppe-3/)
-[DI 10.11. SINGEN1 19:00 Säulenraum | Südtrakt](https://altefeuerwachekoeln.de/programm/singen1-6/)
+10
 MI 11.11.
 [Kultur Futur3: Glotzt nicht so romantisch 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-6/)
 [MI 11.11. Yoga für Frauen - DAKO e.V. 08:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-fuer-frauen-dako-e-v-6/)

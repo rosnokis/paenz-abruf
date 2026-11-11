@@ -1,5 +1,14 @@
 [
  {
+  "name": "Bilderbuchkonzert „Im Winterschlaf\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "Im Zauberwald",
   "location": {
    "name": "Köln"
@@ -68,15 +77,6 @@
    "name": "Bonn"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-30",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Der König verschenkt was\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-10",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },

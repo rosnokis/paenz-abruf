@@ -9,15 +9,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Bastelwerkstatt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/bastelwerkstatt/2026-11-10",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Frühstückstreff für Schwangere und frisch gebackene Eltern",
   "location": {
    "name": "Hennef"
@@ -63,15 +54,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Mit Baby ins Museum",
-  "location": {
-   "name": "Bergisch Gladbach"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/mit-baby-ins-museum-2/2026-11-10",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Museumsflöhe",
   "location": {
    "name": "Leverkusen"
@@ -87,15 +69,6 @@
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-18",
   "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "PhilharmonieVeedel Pänz „Der blaue Gartenzaun“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-paenz-der-blaue-gartenzaun-4/2026-11-10",
-  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
@@ -162,6 +135,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "„Die Schnecke und der Buckelwal\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„Die kleine Eidechse\"",
   "location": {
    "name": "Köln"
@@ -171,11 +153,29 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "„Kleiner Drache, wünsch dir was\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„Paulina und der Zirkus Papilotte\"",
   "location": {
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Zu Besuch in meinem Buch\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch/2026-11-21",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  }

@@ -2,26 +2,16 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-11-2026-lunchtime-konzerte-in-st-kunibert/)
-10.11.2026
-13:30
-Uhr
-St. Kunibert
-Köln
-Lunchtime-Konzerte in St. Kunibert
-[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-11-2026-gitarrenabend/)
-19:30
-Kammermusiksaal
-Gitarrenabend
-[SPITZENTÖNE 2026 - IMPULS-RESPONS](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-11-2026-spitzentoene-2026-impuls-respons/)
-Konzertsaal
-SPITZENTÖNE 2026 - IMPULS-RESPONS
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-11-2026-ringvorlesung-kanons-in-der-krise/)
 11.11.2026
 18:00
+Uhr
+Kammermusiksaal
+Köln
 Ringvorlesung - KANONS IN DER KRISE
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2023-klavierabend-1-1-1-2-1-2-2-1/)
 13.11.2026
+19:30
 Konzertsaal Wuppertal
 Wuppertal
 Klavierabend
@@ -31,6 +21,7 @@ Aachen
 Violinenabend im Büchelmuseum
 [Herbstkonzert - Kölner Orchestergesellschaft](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-herbstkonzert-koelner-orchestergesellschaft/)
 14.11.2026
+Konzertsaal
 Herbstkonzert - Kölner Orchestergesellschaft
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2023-violinabend-1-3-2-1-1-1/)
 Violinabend
@@ -60,6 +51,9 @@ King Georg
 Off Campus - Salsa Combo
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-lunchtime-konzerte-in-st-kunibert/)
 17.11.2026
+13:30
+St. Kunibert
+Lunchtime-Konzerte in St. Kunibert
 [DEUTSCHLANDFUNK – HÖRPROBE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-deutschlandfunk-hoerprobe/)
 DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
@@ -111,6 +105,7 @@ Violaabend
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
 25.11.2026
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
+Gitarrenabend
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2024-violinabend-1-1-1-1-2-2-1/)
 [STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-stop-vilence-ein-zeichen-gegen-gewalt-an-frauen/)
 STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen
