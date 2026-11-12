@@ -11,10 +11,6 @@ ab jetzt für euch geöffnet
 Bauchgefühl 2026, Bittertropfen Series
 Ausstellung: Kamalanetra Hung
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/ausstellung-bauchgefuehl-2026-bittertropfen-series/)
-15+
-Titanic
-Schöne Menschen spielen große Gefühle von Bettina Hamel, Tobias Krechel, Birte Schrein, Stefan A. Schulz, Julia Wieninger
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
 Hera Lind: Erhobenen Hauptes
 Hera Lind stellt neuen Roman über die Holocaust-Überlebende Tamar Dreifuß vor
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/hera-lind-erhobenen-hauptes/)
@@ -28,6 +24,12 @@ Premiere
 Köfte & Karaoke
 von und mit Kübra Sekin
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/koefte-karaoke/)
+Hallenmarkt
+★ Flohmarkt in der Halle
+★ [Mehr erfahren](https://comedia-koeln.de/magazin/flohmarkt-in-der-halle/)
+Tina Teubner:
+Protokoll der Sehnsucht
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/)
 Willkommen
 Willkommen in der HALLE
 Ausstellung
@@ -35,6 +37,7 @@ Hera Lind
 Gina Waibel
 Horst Evers
 Impro Köln
+Tina Teubner
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/barrierefreiheit/)
 COMEDIA
 Theater

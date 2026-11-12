@@ -2,18 +2,15 @@
 
 ## Quelle: https://www.kindaling.de/koeln
 WAS IST LOS IN KÖLN?
-Mittwoch, 11. November
-★ [9:00 Das Elmar-Abenteuer Bonn-Beuel](https://www.kindaling.de/kindertheater-shows/das-elmar-abenteuer/bonn-beuel)
-★ [19:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Donnerstag, 12. November
 [17:00 Antientzündliche Ernährung - Gestärkt im Alltag Köln Innenstadt](https://www.kindaling.de/ernaehrungsberatung/antientzuendliche-ernaehrung-gestaerkt-im-alltag/koeln-innenstadt)
 ★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 13. November
 ★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
-[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 ★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Samstag, 14. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
+[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 ★ [10:00 Betongießen für Kinder Frechen](https://www.kindaling.de/malen-basteln/betongiessen-fuer-kinder/frechen)
 ★ [10:00 Familienflohmart in den schönen Räumen der Kartause Südstadt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/familienflohmart-in-den-schoenen-raeumen-der-kartause-suedstadt/koeln-innenstadt)
 ★ [11:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
@@ -29,14 +26,19 @@ Montag, 16. November
 Dienstag, 17. November
 ★ [9:30 Die Schnecke und der Buckelwal - Leseinszenierung Köln Kalk](https://www.kindaling.de/kindertheater-shows/die-schnecke-und-der-buckelwal-leseinszenierung/koeln-kalk)
 [18:00 Filterblase Körperbild Köln Ehrenfeld](https://www.kindaling.de/sonstige-veranstaltungen/filterblase-koerperbild/koeln-ehrenfeld)
+★ [19:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Mittwoch, 18. November
 ★ [19:00 Wie schütze ich mein Kind vor Gewalt? online](https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online)
+Donnerstag, 19. November
+Freitag, 20. November
+★ [15:00 Baby-Kind-Erste-Hilfe-Seminar Köln Innenstadt](https://www.kindaling.de/sonstige-veranstaltungen/baby-kind-erste-hilfe-seminar/koeln-innenstadt)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
+[Jetzt buchen](https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl)
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
-[Jetzt buchen](https://www.kindaling.de/programmiercamps/code-camp-dein-eigenes-spiel-mit-python-alter-12-15-duesseldorf-lohhausen-flughafen/duesseldorf-lohhausen-flughafen)
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)
 ★ [Jetzt buchen](https://www.kindaling.de/babyschwimmen-kinderschwimmen/kleinkindschwimmen-bad-muenstereifel-eifelbad/bad-muenstereifel)
+[Jetzt buchen](https://www.kindaling.de/programmiercamps/code-camp-dein-eigenes-spiel-mit-python-alter-12-15-duesseldorf-lohhausen-flughafen/duesseldorf-lohhausen-flughafen)
 ★ [Jetzt buchen](https://www.kindaling.de/kreativcamps/cats-kindermusical-osterferienworkshop/koeln-lindenthal)
 LASS DICH INSPIRIEREN
 [Adventskalender: Die schönsten Türchen für die Vorweihnachtszeit](https://www.kindaling.de/magazin/adventskalender-2026)

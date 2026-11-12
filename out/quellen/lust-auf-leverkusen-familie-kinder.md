@@ -3,28 +3,21 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-63 kommende Veranstaltungen in dieser Kategorie
+61 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(63)
-11
+(61)
+12
 Nov
+[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
 ★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
 [Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
-Mi
-09:30 Uhr
-★ [Die Museumsflöhe. Mit Kleinkindern ins Museum Morsbroich.](https://lust-auf-leverkusen.de/veranstaltung/museumsfloehe/2026-11-11-09-30/)
-[Museum Morsbroich](https://lust-auf-leverkusen.de/veranstaltungsort/schloss-morsbroich/)
-15:00 Uhr
-★ [Tommi Kindersoftwarepreis Kita](https://lust-auf-leverkusen.de/veranstaltung/tommi-kindersoftwarepreis-kita/2026-11-11-15-00/)
-[Stadtbibliothek Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/stadtbibliothek/)
-12
-[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
 Do
 16:00 Uhr
 [Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-11-12-16-00/)
+[Stadtbibliothek Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/stadtbibliothek/)
 13
 [Sport & Spiel](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/sport-spiel/)
 Fr
@@ -46,11 +39,14 @@ Di
 [Lara hört zu!](https://lust-auf-leverkusen.de/veranstaltung/lara-hoert-zu/2026-11-17-16-00/)
 16:30 Uhr
 ★ [Die Schlossgespenster. Der Kunstklub für Kinder.](https://lust-auf-leverkusen.de/veranstaltung/schlossgespenster/2026-11-17-16-30/)
+[Museum Morsbroich](https://lust-auf-leverkusen.de/veranstaltungsort/schloss-morsbroich/)
 [Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
 17:00 Uhr
 [Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-11-17-17-00/)
 ★ [AWO-Familienseminar](https://lust-auf-leverkusen.de/veranstaltungsort/awo-familienseminar/)
 18
+Mi
+09:30 Uhr
 ★ [Die Museumsflöhe. Mit Kleinkindern ins Museum Morsbroich.](https://lust-auf-leverkusen.de/veranstaltung/museumsfloehe/2026-11-18-09-30/)
 [Tickets](https://ophoven.recras.nl/onlineboeking?package=1316)
 15:30 Uhr
@@ -76,3 +72,9 @@ Sa
 [Advent & Weihnachten](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/advent-weihnachten/)
 [Basteln im Advent für Groß und Klein](https://lust-auf-leverkusen.de/veranstaltung/basteln-im-advent-fuer-gross-und-klein/)
 [Petruskirche](https://lust-auf-leverkusen.de/veranstaltungsort/petruskirche/)
+01
+Dez
+Ausverkauft
+[Olaf, der Elch](https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-09-30/)
+[Forum Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/forum/)
+[Olaf, der Elch](https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-11-00/)

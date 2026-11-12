@@ -2,16 +2,10 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-11-2026-ringvorlesung-kanons-in-der-krise/)
-11.11.2026
-18:00
-Uhr
-Kammermusiksaal
-Köln
-Ringvorlesung - KANONS IN DER KRISE
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2023-klavierabend-1-1-1-2-1-2-2-1/)
 13.11.2026
 19:30
+Uhr
 Konzertsaal Wuppertal
 Wuppertal
 Klavierabend
@@ -21,7 +15,9 @@ Aachen
 Violinenabend im Büchelmuseum
 [Herbstkonzert - Kölner Orchestergesellschaft](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-herbstkonzert-koelner-orchestergesellschaft/)
 14.11.2026
+18:00
 Konzertsaal
+Köln
 Herbstkonzert - Kölner Orchestergesellschaft
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2023-violinabend-1-3-2-1-1-1/)
 Violinabend
@@ -39,6 +35,7 @@ Rösrath
 The Next Generation
 [Hornabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-hornabend/)
 18:30
+Kammermusiksaal
 Hornabend
 [SINFONIEKONZERT IN DER KATHEDRALE VON REIMS](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-sinfoniekonzert-im-aachener-dom/)
 SINFONIEKONZERT IN DER KATHEDRALE VON REIMS
@@ -58,6 +55,7 @@ Lunchtime-Konzerte in St. Kunibert
 DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
 18.11.2026
+Ringvorlesung - KANONS IN DER KRISE
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-1-2-2/)
 Flötenabend
 [Blechbläserabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-02-2024-blechblaeserabend-2-1-2-2-2/)
@@ -197,6 +195,8 @@ WDR3 CAMPUS KONZERT
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-lunchtime-konzerte-in-st-kunibert/)
 15.12.2026
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/27-06-2025-klavierabend-1-2-3/)
+[Ensembleabend Fagott](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-ensembleabend-fagott/)
+Ensembleabend Fagott
 [SPITZENTÖNE 2026 - AVE MARIA](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-spitzentoene-2026-ave-maria/)
 SPITZENTÖNE 2026 - AVE MARIA
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-ringvorlesung-kanons-in-der-krise/)

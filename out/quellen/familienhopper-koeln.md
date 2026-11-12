@@ -2,7 +2,7 @@
 
 ## Quelle: https://familienhopper.de/koeln/
 ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
-Hier besonders oft angesehen
+Highlights fürs Wochenende
 7 ausgewählte Veranstaltungen
 14 NOV
 Tiererlebnis
@@ -137,20 +137,23 @@ Spielen/Entdecken
 Do, 26. Nov. | 16:30 Uhr Köln · Stadtteilbibliothek Porz
 ★ ab 4 Jahren Kostenlos
 Kleine Forscher
-10 NOV
-★ [Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-10)
-Di, 10. Nov. | 15 Uhr · 13 weitere bis 22.12. Köln · Stadtteilbibliothek Kalk
-Kostenlos Ohne Anmeldung
 ★ [MINT-Vorlesen](https://familienhopper.de/events/mint-vorlesen-koeln-2026-11-13)
 Fr, 13. Nov. | 16:30 Uhr · 3 weitere bis 18.12. Köln · Stadtteilbibliothek Sülz
 ★ [Die Photo-Spürnasen auf Entdeckungstour durch die Ausstellung: „AUGUST SANDER – ZUM 150. GEBURTSTAG“](https://familienhopper.de/events/die-photo-spuernasen-auf-entdeckungstour-durch-die-ausstellung-august-sander-zum-150-geburtstag-koeln-2026-11-14)
 ★ Bei der Führung lösen Kinder ab 6 Suchaufgaben in der Fotoausstellung.
 Sa, 14. Nov. | 15 Uhr · 1 weitere bis 19.12. Köln · Die Photographische Sammlung/Stiftung Kultur
 ★ Kinder 6 bis 10 Indoor
+★ [Naturworkshop: Heimische Tiere im Winter](https://familienhopper.de/events/naturworkshop-heimische-tiere-im-winter-koeln-2026-11-14)
+★ Draußen erkunden Eltern und Kinder, wie Eichhörnchen und Frosch überwintern.
+Sa, 14. Nov. | 15 Uhr Köln · fbs Köln – draußen im Beethovenpark
+★ ab 5 Jahren Outdoor
 ★ [Kleine Schoko-Schule öffentliche Familien-Führung](https://familienhopper.de/events/kleine-schoko-schule-oeffentliche-familien-fuehrung-koeln-2026-11-14)
 ★ Familien probieren Vorprodukte, schälen eine Kakaobohne und sehen die Fabrik.
 Sa, 14. Nov. | 10:30 Uhr · weitere Termine Köln · Schokoladenmuseum
 ★ ab 4 Jahren Anmeldung
+★ [Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-17)
+Di, 17. Nov. | 15 Uhr · 11 weitere bis 22.12. Köln · Stadtteilbibliothek Kalk
+Kostenlos Ohne Anmeldung
 19 NOV
 ★ [Neue Tricks für NAO](https://familienhopper.de/events/neue-tricks-fuer-nao-koeln-2026-11-19)
 Do, 19. Nov. | 16:30 Uhr · 1 weitere bis 19.12. Köln · Interim Zentralbibliothek
@@ -160,7 +163,7 @@ Fr, 20. Nov. | 16:30 Uhr Köln · Stadtteilbibliothek Ehrenfeld
 ★ ab 5 Jahren Kostenlos
 ★ [MINT-Vorlesen und Experimentieren](https://familienhopper.de/events/mint-vorlesen-und-experimentieren-koeln-2026-11-20)
 ★ Kinder von 6 bis 8 hören Geschichten und experimentieren danach selbst.
-Fr, 20. Nov. | 16 Uhr Köln · Stadtteilbibliothek Rodenkirchen
+Fr, 20. Nov. | 16 Uhr · 1 weitere bis 16.12. Köln · Stadtteilbibliothek Rodenkirchen
 ★ 6–8 Jahre Anmeldung
 ★ [MINT-Workshop am Sonntag](https://familienhopper.de/events/mint-workshop-am-sonntag-koeln-2026-11-22)
 Beim Basteln und Programmieren entstehen eigene Projekte mit Technik.
@@ -170,25 +173,9 @@ So, 22. Nov. | 14 Uhr · 4 weitere bis 24.01. Köln · Interim Zentralbibliothek
 ★ [Let's Quiz! – Unter Wasser](https://familienhopper.de/events/let-s-quiz-unter-wasser-koeln-2026-11-25)
 Mi, 25. Nov. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
 ★ ab 7 Jahren Anmeldung
-★ [Code and Create](https://familienhopper.de/events/code-and-create-koeln-2026-11-26)
-Do, 26. Nov. | 16 Uhr · 1 weitere bis 10.12. Köln · Stadtteilbibliothek Chorweiler
-Tieren ganz nah
-3 ausgewählte Veranstaltungen
-11 NOV
-★ [Lesehund Albert](https://familienhopper.de/events/lesehund-albert-koeln-2026-11-11)
-Zweit- und Drittklässler lesen einem Hund vor und üben das laute Lesen.
-Mi, 11. Nov. | 17 Uhr Köln · Stadtteilbibliothek Kalk
-★ Für Kinder in der 2. und 3. Klasse Anmeldung
-★ [Taschenlampen-Expedition für Familien](https://familienhopper.de/events/taschenlampen-expedition-fuer-familien-koeln-2026-11-13)
-Fr, 13. Nov. | 18:30 Uhr · 3 weitere bis 11.12. Köln · Kölner Zoo
-ab 6 Anmeldung
-★ [Naturworkshop: Heimische Tiere im Winter](https://familienhopper.de/events/naturworkshop-heimische-tiere-im-winter-koeln-2026-11-14)
-★ Draußen erkunden Eltern und Kinder, wie Eichhörnchen und Frosch überwintern.
-Sa, 14. Nov. | 15 Uhr Köln · fbs Köln – draußen im Beethovenpark
-★ ab 5 Jahren Outdoor
 Zauber & Bühne — das erste Mal
-★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-10)
-★ Di, 10. Nov. | 11:30 Uhr · 19 weitere bis 02.01. Köln · Kinderoper
+★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12)
+★ Do, 12. Nov. | 11:30 Uhr · 18 weitere bis 02.01. Köln · Kinderoper
 ★ ab 6 Jahren Tickets
 ★ [Die kleine Eidechse](https://familienhopper.de/events/die-kleine-eidechse-koeln-2026-11-13)
 Fr, 13. Nov. | 11 Uhr · weitere Termine Köln · Horizont Theater
@@ -213,20 +200,20 @@ Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Horizont Theater
 ★ [Der Feuervogel](https://familienhopper.de/events/der-feuervogel-koeln-2026-11-14)
 Das Publikum verfolgt die Reise der Birkenelfe Mimi im Erzähltheater.
 Sa, 14. Nov. | 15 Uhr Köln · Cassiopeia Bühne
-★ [Birkenelfe Mimi und Eduard Nasenmurf in der Cassiopeia Bühne](https://familienhopper.de/events/birkenelfe-mimi-und-eduard-nasenmurf-in-der-cassiopeia-buehne-koeln-2026-11-14)
-Musik und Erzählung begleiten eine kleine Elfe und ihren großnasigen Freund.
 ★ [Die Schöne und das Biest – Kinderstück im Metropol Theater](https://familienhopper.de/events/die-schoene-und-das-biest-kinderstueck-im-metropol-theater-koeln-2026-11-14)
 ★ Das bekannte Märchen kommt als Kinderstück auf die Bühne, ab vier Jahren.
 Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Metropol Theater
 ★ ab 4 Jahren Indoor
+★ [Birkenelfe Mimi und Eduard Nasenmurf in der Cassiopeia Bühne](https://familienhopper.de/events/birkenelfe-mimi-und-eduard-nasenmurf-in-der-cassiopeia-buehne-koeln-2026-11-14)
+Musik und Erzählung begleiten eine kleine Elfe und ihren großnasigen Freund.
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 311 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 309 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [10. Nov. Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-10)
-★ [10. Nov. Martinszug der Albert-Schweitzer-Schule in Weiß](https://familienhopper.de/events/martinszug-der-albert-schweitzer-schule-in-weiss-koeln-2026-11-10)
-★ [10. Nov. Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-10)
+★ [12. Nov. Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12)
+★ [12. Nov. Martinszug der GGS Manderscheider Platz im Beethovenpark](https://familienhopper.de/events/martinszug-der-ggs-manderscheider-platz-im-beethovenpark-koeln-2026-11-12)
+★ [12. Nov. Kuscheltier-Übernachtung](https://familienhopper.de/events/kuscheltier-uebernachtung-koeln-2026-11-12)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 Top-Ziele in Köln
@@ -240,15 +227,15 @@ Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preis
 Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
 ★ Wann sind die St.-Martins-Umzüge in Köln?
-★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 7 Termine, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
+★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 4 Termine, der nächste am 12.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 82 Vorstellungen, der nächste am 10.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 82 Vorstellungen, der nächste am 12.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 311 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 309 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
-★ Ja, 81 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
+★ Ja, 82 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?
-★ 244 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
+★ 245 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
 Über diese Seite
 ★ Für Köln bündelt Familienhopper Familien-Events aus städtischen und kulturellen Quellen: Museumstage, Mitmachaktionen, Kinderkultur, Stadtteilfeste und Ferienangebote. Familienhopper zeigt nur belegte Termine – ohne erfundene Empfehlungen und ohne Versprechen, die die Originalseite nicht trägt. Der Kalender ist unabhängig und nicht kommerziell.
 ★ Die Filter oben grenzen die Liste nach Tag, Alter oder Thema ein. So bleibt die Übersicht nutzbar, auch wenn viel im Kalender steht. Wer das Wochenende vorbereiten will, nutzt das [Wochenendprogramm in Köln](https://familienhopper.de/koeln/wochenende/). Kostenlose Termine mit freiem Eintritt sind unter [kostenlosen Familien-Events in Köln](https://familienhopper.de/koeln/kostenlos/) gesammelt.

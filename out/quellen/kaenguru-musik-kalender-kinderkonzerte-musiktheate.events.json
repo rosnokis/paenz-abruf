@@ -1,14 +1,5 @@
 [
  {
-  "name": "Bilderbuchkonzert „Im Winterschlaf\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
   "name": "Im Zauberwald",
   "location": {
    "name": "Köln"
@@ -23,15 +14,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/kinder-singen-hier-jetzt-1/2026-11-28",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "KinderHausMusik: Singen im Advent",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
@@ -81,6 +63,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
+  "name": "„Das Schäfchen und der Stern\"",
+  "location": {
+   "name": "Pulheim"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/das-schaefchen-und-der-stern-1/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "„Der König verschenkt was\"",
   "location": {
    "name": "Köln"
@@ -113,6 +104,24 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Der Nussknacker\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-14",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Der Nussknacker\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
@@ -167,15 +176,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Marla, die Maifliege\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  }

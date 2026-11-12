@@ -4,10 +4,6 @@
 Previous
 Next
 Aktuelle Termine
-11. Nov. 2026
-Mi.., 09:45 Uhr | [DiakoniePunkt: Gemeinsames Frühstück für Senior*innen](https://www.lutherkirche-nippes.de/termin/seniorenfruehstueck-2611-2/)
-DiakoniePunkt Nippes
-Café | Senior*innen
 12. Nov. 2026
 ★ Do.., 08:45 Uhr | [Stolpersteinverlegung – Gedenken an Familie Goslar](https://www.lutherkirche-nippes.de/termin/stolpersteine/)
 Lutherkirche Nippes
@@ -17,6 +13,10 @@ So.., 11:00 Uhr | [Gottesdienst](https://www.lutherkirche-nippes.de/termin/gotte
 Gottesdienst
 So.., 17:00 Uhr | [Because Chor Köln](https://www.lutherkirche-nippes.de/termin/because-chor-2611/)
 Chor | Gedenken | Konzert
+22. Nov. 2026
+So.., 08:55 Uhr | [Sonntagskirche im WDR 4](https://www.lutherkirche-nippes.de/termin/kirche-wdr4-261122/)
+WDR4 | Radio
+Dialog | Online
 [Alle Termine](https://www.lutherkirche-nippes.de/termine/)
 [Gottes­dienste](https://www.lutherkirche-nippes.de/lutherkirche/gottesdienste/)
 Podcasts unserer Gemeinde

@@ -4,8 +4,12 @@
 Hinweis:
 Alle Veranstaltungen mit/zu Öffentlichkeitsbeteiligungen in Köln finden Sie auf unserem Beteiligungsportal "Meinung für Köln".
 [Beteiligungsportal "Meinung für Köln"](https://www.meinungfuer.koeln/event-informationen)
-Treffer 1–9 von 9
-Veranstaltungen für Mittwoch, 11. November 2026
+[1](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=0)
+[2](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=10)
+[3](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=20)
+[>](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=10)
+[>|](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender?start=20)
+Veranstaltungen für Donnerstag, 12. November 2026
 7.10. bis
 13.11.2026
 Montag bis Donnerstag, 9 bis 15 Uhr
@@ -36,15 +40,12 @@ sonn- und feiertags geschlossen
 Vernissage: 7. November 2026, 18 Uhr
 Täglich von 16 bis 18 Uhr
 [Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/retrospektive-perspektive-vater-sohn-fotografie-trifft-auf-pop-art)
-11.11.2026
-16 bis 17 Uhr
-★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-302)
-10:15 bis 10:45 Uhr
-★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-513)
-17 bis 18 Uhr
-Folgetermine:
-18. November
-25. November
-2. Dezember
-9. Dezember
-★ [Lesehund Albert Lesetraining für Kinder der zweiten und dritten Klasse mit Begleitung eines Hundes in der Stadtteilbibliothek Kalk.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesehund-albert-4)
+12.11.2026
+19 Uhr
+Highlight
+[Lesung mit Agnieszka Lessmann und Frank Olbert Buchpremiere von "Schieferbruchverse" und "Das verschwundene Viertel" – im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesung-mit-agnieszka-lessmann-und-frank-olbert)
+11 bis 12 Uhr
+[Köln hört zu! Das Projekt "Zuhören draußen" im Interim der Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/koeln-hoert-zu-55)
+★ [Bücherbabys – die literarische Krabbelgruppe Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Mülheim.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-515)
+16 bis 18 Uhr
+★ [Bücherbande-Treff Ein Nachmittag mit Lieblingsbüchern und anderen lesebegeisterten Kindern im Interim der Zentralbibliothek](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff)

@@ -2,11 +2,11 @@
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 311 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 49 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 310 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe bis Nov 16 Barber‘s Puppentheater für Kinder gastiert in Köln 6 Events JugendPark, Köln (DE)](https://eventfrog.de/de/p/gruppen/barbers-puppentheater-fuer-kinder-gastiert-in-koeln-7516148052643565036.html)
 ★ [Nov 13 St. Martinsfest in Holweide Freitag, 13. November, 17:15 Holweider Marktplatz, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/st-martinsfest-in-holweide-koeln-7518687396331820080.html)
-★ [Tickets Nov 14 Tages-Workshop,,Zirkus total" in der Zirkusfabrik Samstag, 14. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html)
+★ [Wenige Tickets Nov 14 Tages-Workshop,,Zirkus total" in der Zirkusfabrik Samstag, 14. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html)
 ★ [Tickets Eventgruppe bis Dez 13 KLAMAUK - Kinder- und Jugendzirkus 2 Events Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/gruppen/klamauk-kinder-und-jugendzirkus-7435670043910763364.html)
 ★ [Wenige Tickets Nov 21 Tages-Workshop Luftakrobatik in der Zirkusfabrik Samstag, 21. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-luftakrobatik-in-der-zirkusfabrik-koeln-7436721133666221188.html)
 [Eventgruppe bis Dez 6 Mut, Resilienz & Stärke: Der Zukunfthelden-Workshop für Kids 2 Events Unsere Zukunftshelden Workshops, Köln (DE)](https://eventfrog.de/de/p/gruppen/mut-resilienz-staerke-der-zukunfthelden-workshop-fuer-kids-7505297765397752291.html)
@@ -27,25 +27,27 @@ Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Ve
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/heute.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 311 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 310 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 49 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/morgen.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 311 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
-★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 49 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 310 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Eventgruppe bis Nov 16 Barber‘s Puppentheater für Kinder gastiert in Köln 6 Events JugendPark, Köln (DE)](https://eventfrog.de/de/p/gruppen/barbers-puppentheater-fuer-kinder-gastiert-in-koeln-7516148052643565036.html)
+★ [Nov 13 St. Martinsfest in Holweide Freitag, 13. November, 17:15 Holweider Marktplatz, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/st-martinsfest-in-holweide-koeln-7518687396331820080.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/wochenende.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 311 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 310 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe bis Nov 16 Barber‘s Puppentheater für Kinder gastiert in Köln 6 Events JugendPark, Köln (DE)](https://eventfrog.de/de/p/gruppen/barbers-puppentheater-fuer-kinder-gastiert-in-koeln-7516148052643565036.html)
 ★ [Nov 13 St. Martinsfest in Holweide Freitag, 13. November, 17:15 Holweider Marktplatz, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/st-martinsfest-in-holweide-koeln-7518687396331820080.html)
-★ [Tickets Nov 14 Tages-Workshop,,Zirkus total" in der Zirkusfabrik Samstag, 14. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html)
+★ [Wenige Tickets Nov 14 Tages-Workshop,,Zirkus total" in der Zirkusfabrik Samstag, 14. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html)
 ★ [Tickets Eventgruppe bis Dez 13 KLAMAUK - Kinder- und Jugendzirkus 2 Events Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/gruppen/klamauk-kinder-und-jugendzirkus-7435670043910763364.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.

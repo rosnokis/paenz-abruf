@@ -21,15 +21,22 @@ Die Kölner Domsingschule in Köln-Lindenthal öffnet ihre Türen
 14.11.2026
 11:00 - 13:00 Uhr
 Kölner Domsingschule
+[„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-14)
+★ Klassisches Weihnachtsballett mit Tschaikowskis Musik für die ganze Familie
+15:00 Uhr
+Beethovenhalle Bonn
+Bonn
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-15)
 15.11.2026
+[„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15)
+14:00 Uhr
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
 19.11.2026
 [Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
 ★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
 21.11.2026
-13:00 Uhr
 11:00 Uhr
+13:00 Uhr
 Philharmonie
 [Metal-Tour Heavysaurus](https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21)
 ★ Metal-Konzert mit Dinosauriern und Drachen für Kinder von 3 bis 11 Jahren
@@ -44,7 +51,6 @@ Hochschule für Musik und Tanz
 ★ Opernklassiker für Familien ab 6 Jahren
 18:00 Uhr
 Oper Bonn
-Bonn
 [„Der Wintertroll“](https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25)
 ★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
 25.11.2026
@@ -58,24 +64,16 @@ Bürgerhaus Kalk
 28.11.2026
 11:00 - 12:00 Uhr
 Paul-Gerhardt-Kirche Lindenthal
+[„Das Schäfchen und der Stern"](https://www.kaenguru-online.de/kalender/musik/das-schaefchen-und-der-stern-1/2026-11-28)
+★ Kinderkonzert
+Abtei Brauweiler
+Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
-14:00 Uhr
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
-Beethovenhalle Bonn
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-30)
 30.11.2026
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01)
 01.12.2026
-★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
-★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-15:30 Uhr
-16:30 Uhr
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
-02.12.2026
-★ [Bilderbuchkonzert „Im Winterschlaf"](https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02)
-★ Bilderbuchkonzert für Kinder von 3 bis 6 Jahren
-16:00 - 16:45 Uhr
-★ Kindernöte e.V.

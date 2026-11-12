@@ -58,7 +58,6 @@ Mi 11:00
 Führung
 Pablo Picasso, Nu couche a l’oiseau, (Liegender Akt mit Vogel), 1968, Öl auf Leinwand, 130 x 195 cm, Museum Ludwig, Köln, Inv.-Nr. ML 01422, © VG Bild-Kunst, Bonn 2026, rba_c005108. Das Werk wird Bestandteil der Führung sein.
 Entdeckt die faszinierende Welt Pablo Picassos und die Vielfalt seiner künstlerischen Ausdrucksformen. Gemeinsam folgen wir den Spuren seiner kreativen Entwicklung und den Frauen, die sein Werk geprägt haben.
-→ Anmelden
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
 02.12.
 Unterwegs
@@ -67,11 +66,12 @@ Unterwegs
 Führung, Kooperationen, kunstfreunde besuchen
 Anbetung der Heiligen Drei Könige, Skulpturen vom Hochaltar des Kölner Doms, um 1310, ca. 38-42 x 34-41 x 9 cm, Inv.-Nr. K210a, 2102. 210m, © Rheinisches Bildarchiv
 ★ Zwischen Engeln, Königen und kostbaren Kunstwerken entdecken wir die Ursprünge unserer Weihnachtsbilder. Eine stimmungsvolle Führung für Erwachsene mit Baby durch die weihnachtliche Sammlung des Museums Schnütgen.
+→ Anmelden
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/madonnen-engel-christkind-advent-special/)
 16.12.
 [Surrealismus – Traumhaft verrückt](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 ★ [Kunst+Kind. Mit Baby ins Museum Ludwig](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
-Max Ernst: Au rendez-vous des amis (Das Rendezvous der Freunde), 1922. Köln, Museum Ludwig, Inv.-Nr. ML 76/3219, Öl auf Leinwand, 130 x 195 cm. Foto: © VG Bild-Kunst, Bonn 2026
+Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Museum Ludwig, Inv.-Nr. ML 10056, Öl auf Leinwand, 196 x 130 cm. Foto: © VG Bild-Kunst, Bonn 2026. Das Bild wird Bestandteil der Führung sein.
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.

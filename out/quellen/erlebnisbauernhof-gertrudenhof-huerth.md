@@ -24,7 +24,7 @@ vorbestellen
 Weihnachtsbaum
 Verkauf, ab dem 19.11.26
 Heutige Öffnungszeiten
-Mittwoch, 11.11.2026
+Donnerstag, 12.11.2026
 GESCHLOSSEN
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr

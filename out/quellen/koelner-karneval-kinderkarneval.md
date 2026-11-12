@@ -5,7 +5,7 @@ Service
 ★ Kinderkarneval Köln: Die besten Sitzungen, Umzüge und Tipps für Familien
 ★ Der Kinderkarneval in Köln ist für viele Familien der schönste Teil der Session. Kinder können sich verkleiden, tanzen, Kamelle sammeln und echte kölsche Tradition erleben – ohne bis spät in die Nacht auf einer Erwachsenensitzung bleiben zu müssen.
 ★ Vom kleinen Kostümfest im Veedel über Kindersitzungen der Karnevalsgesellschaften bis zu den Schull- und Veedelszöch gibt es zahlreiche Möglichkeiten. Dieser Artikel zeigt, welche Veranstaltungen sich lohnen, wann sie stattfinden und worauf Eltern bei Tickets, Anreise und Sicherheit achten sollten.
-[Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 99 Aufrufe • 0 Kommentare
+[Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 101 Aufrufe • 0 Kommentare
 ★ Wichtige [alle Kindersitzungen und Familienveranstaltungen](https://www.koelner-karneval.org/termine/) der Session 2027: Die Proklamation des Kölner Kinderdreigestirns findet am 10. Januar statt. Die Lachende [Lachende PÄNZarena am 16. Januar 2027](https://www.koelner-karneval.org/termin/lachende-paenzarena-2027-am-16-01-2027-lanxess-arena/) ist für den 9. und 16. Januar geplant. Die [Veedelszüge für Familien](https://www.koelner-karneval.org/veedelszoch/) und Veedelszöch ziehen am 7. Februar 2027 ab 11:11 Uhr durch Köln.
 ★ 1. Was ist Kinderkarneval in Köln?
 ★ Kinderkarneval umfasst alle Veranstaltungen, die speziell auf Kinder, Jugendliche und Familien zugeschnitten sind. Dazu gehören Kindersitzungen, Kostümfeste, Schulsitzungen, Familienpartys, Puppentheater und Straßenumzüge.
@@ -165,12 +165,12 @@ Neben der Innenstadt gibt es Angebote unter anderem in Nippes, Lindenthal, Ehren
 ★ Wetterfeste Kleidung, bequeme Schuhe, Getränke, Snacks, Taschentücher, ein vollgeladenes Handy, eine Kontaktkarte für das Kind und einen vereinbarten Treffpunkt.
 [Als bevorzugte Quelle bei Google merken](https://www.google.com/preferences/source?q=koelner-karneval.org)
 Das könnte dich auch interessieren
+[Wer kümmert sich um die Kamelle? Eine Anlaufstelle für Vereine in Hürth](https://www.koelner-karneval.org/karneval-tipps/kamelle-wurfmaterial-huerth-kamellebud/)
 [11.11. in Köln: Petrus droht mit einer feuchtfröhlichen Sessionseröffnung!](https://www.koelner-karneval.org/karneval-tipps/11-11-in-koeln-petrus-droht-mit-einer-feuchtfroehlichen-sessionseroeffnung/)
 [Lachende Kölnarena 2027: Termine, Programm und Tipps](https://www.koelner-karneval.org/karneval-tipps/lachende-koelnarena-sitzung/)
 [150 Jahre Willi Ostermann: Heumarkt startet in die Session](https://www.koelner-karneval.org/karneval-tipps/sessionseroeffnung/)
-[Stadt Köln: Hier gibt’s alle Infos zum 11.11.](https://www.koelner-karneval.org/karneval-tipps/stadt-koeln-hier-gibts-alle-infos-zum-11-11/)
 Wie gefällt dir dieser Beitrag?
-99 Aufrufe
+101 Aufrufe
 0 Kommentare
 Diskutiere mit
 Sachlich & mit kölschem Herz
@@ -186,7 +186,7 @@ Vorname
 E-Mail-Adresse
 Ich möchte den Newsletter von koelner-karneval.org erhalten. Meine Einwilligung kann ich jederzeit widerrufen.
 [Alle Beiträge](https://www.koelner-karneval.org/category/karneval-tipps/)
+Anzeige
+11. Nov. 2026
 9. Nov. 2026
 Hintergrund
-Nachricht
-5. Nov. 2026

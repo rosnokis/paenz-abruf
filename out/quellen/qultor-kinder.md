@@ -6,16 +6,10 @@ Der Kulturkalender bietet gleichzeitig Vielfalt und Nische! Das geballte Angebot
 Aber was bietet gerade eine spezielle Sparte? Was findet genau heute, morgen oder am Wochenende statt?
 Finde es heraus und filtere das breite Angebot genau nach deinen Interessen!
 Schnellauswahl:
-Mittwoch, 11. November 2026
-Futur3
-[Wiederaufnahme Glotzt nicht so romantisch! #rhein #schön #landschaft #nierengulasch #ideologie Seit der Romantik, als die ersten Reisenden aus England das Mittelrheintal touristisch entdeckten, werden der Rhein und seine Ufer in Gedichten, Sagen und Bildern auf Wirtschaft, Politik und Gesellsch... 20:00 Uhr Theater Alte Feuerwache - Bühne | Köln](https://www.qultor.de/veranstaltungen/glotzt-nicht-so-romantisch)
-Tickets
-Lutherkirche Südstadt
-[ALI DOĞAN GÖNÜLTAŞ Der anatolische Sänger singt und spielt Tembur und Akustikgitarre. Die Emotion seiner ausdrucksstarken Stimme, die verträumten Melodien seiner Kompositionen und sein profunder Hintergrund haben schon... 20:00 Uhr Konzert Lutherkirche Südstadt | Köln](https://www.qultor.de/veranstaltungen/ali-dogan-goenueltas)
-[Ticketlink](https://lutherkirche.ticket.io)
 Donnerstag, 12. November 2026
 CCCC
 ★ [12+ Zeit für Zirkus 2026 Relaxed Performance Reineke Fuchs – (k)ein Stück für Kinder? Angels Aerials Reineke Fuchs im Flugtheater ist eine Fabel darüber, wie unsere Welt zu werden droht. Eine Fabel über Wahrheit, Täuschung und eine Welt, deren Schwerkraft aus den Fugen geraten ist. 10:00 Uhr Flugtheater CCCC - Kreationszentrum Zeitgenössischer Zirkus | Köln](https://www.qultor.de/veranstaltungen/reineke-fuchs-k-ein-stueck-fuer-kinder)
+Tickets
 [Zeit für Zirkus 2026 mit allen Künstler:innen des Wochenendes: Eröffnung ZEIT FÜR ZIRKUS Festival Köln Kurzweilige, trailerartige Live-Snippets der unterschiedlichen, in Köln zu sehenden Stücke – ideal, um einen Eindruck zu gewinnen und eure Auswahl fürs Wochenende zu treffen! 19:00 Uhr Zeitgenössischer Zirkus CCCC - Kreationszentrum Zeitgenössischer Zirkus | Köln](https://www.qultor.de/veranstaltungen/eroeffnung-zeit-fuer-zirkus-festival-koeln)
 Eintritt frei
 Erzengel-Michael-Kirche
@@ -32,6 +26,8 @@ Comoedia Mundi e.V.
 [Ticketlink](https://rausgegangen.de/events/atlas-interwoven-realities-1/)
 Freies Werkstatt Theater
 [16+ Nominiert für den Kölner Theaterpreis 2026 Von Caren Jeß: DIE KATZE ELEONORE Inszenierung: S. Rudat Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist. 20:00 Uhr Schauspiel Freies Werkstatt Theater Bühne Kellergeschoss | Köln](https://www.qultor.de/veranstaltungen/die-katze-eleonore)
+Futur3
+[Wiederaufnahme Glotzt nicht so romantisch! #rhein #schön #landschaft #nierengulasch #ideologie Seit der Romantik, als die ersten Reisenden aus England das Mittelrheintal touristisch entdeckten, werden der Rhein und seine Ufer in Gedichten, Sagen und Bildern auf Wirtschaft, Politik und Gesellsch... 20:00 Uhr Theater Alte Feuerwache - Bühne | Köln](https://www.qultor.de/veranstaltungen/glotzt-nicht-so-romantisch)
 Theater im Bauturm
 [Uraufführung Faust 1 und 2 von Johann Wolfgang von Goethe Von Kieran Joel In seinem ersten Solo als Performer begibt sich Kieran Joel mutig in das Spiegelkabinett des meistzitierten und gleichzeitig gefürchtetsten Textes der deutschen Literatur! 20:00 Uhr Schauspiel Theater im Bauturm | Köln](https://www.qultor.de/veranstaltungen/faust-1-und-2-von-johann-wolfgang-von-goethe)
 Orangerie Theater
@@ -66,3 +62,6 @@ Overhead Project
 [12+ Zeit für Zirkus Köln/Bonn 2026 Overhead Project: Beasts & Bodies Hier geht es nicht um Monster. Oder doch? Eine Einladung, jenen flüchtigen Gestalten zu begegnen, die ­mal leise, mal lautstark ­in uns auftauchen, wenn Nähe an ihre Grenzen stößt. 20:00 Uhr neuer Zirkus Theater im Ballsaal | Bonn](https://www.qultor.de/veranstaltungen/beasts-bodies)
 [Ticketlink](https://www.bonnticket.de/event/beasts-and-bodies-overhead-project-theater-im-ballsaal-theater-im-ballsaal-22127638/?affiliate=5BT)
 [Wiederaufnahme Glotzt nicht so romantisch! #rhein #schön #landschaft #nierengulasch #ideologie Seit der Romantik, als die ersten Reisenden aus England das Mittelrheintal touristisch entdeckten, werden der Rhein und seine Ufer in Gedichten, Sagen und Bildern auf Wirtschaft, Politik und Gesellsch... 20:00 Uhr Theater Alte Feuerwache - Bühne | Köln im Anschluss Nachgespräch mit den Künstler*innen](https://www.qultor.de/veranstaltungen/glotzt-nicht-so-romantisch)
+[8+ Zeit für Zirkus 2026 Less Kuerdas – drift Im CCCC zeigt Less Kuerdas die Performance „drift“: Zeitgenössischer Zirkus am Luftseil trifft auf atmosphärische Live-Musik. 20:00 Uhr Zeitgenössischer Zirkus CCCC - Kreationszentrum Zeitgenössischer Zirkus | Köln](https://www.qultor.de/veranstaltungen/less-kuerdas-drift)
+[Themenreihe FOCUS ON: TIPPING POINTS Premiere TELLER IM TOPF Von Marlin de Haan Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher... 20:00 Uhr Performance Freies Werkstatt Theater Bühne Erdgeschoss | Köln DGS Mit Publikumsgespräch nach der Vorstellung](https://www.qultor.de/veranstaltungen/teller-im-topf)
+Hinweis

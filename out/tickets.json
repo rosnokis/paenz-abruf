@@ -1,5 +1,17 @@
 {
  "seiten": {
+  "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "Tickets: Tickets kaufen für Tages-Workshop,,Zirkus total\" in der Zirkusfabrik, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
+  },
+  "https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "🎫 Tickets: [online](https://shop.oper.koeln/webshop/webticket/bestseatselect?eventId=2228)"
+  },
   "https://familienhopper.de/koeln/indoor/": {
    "art": "detailseite",
    "geprueft": "2026-11-10T12:39",
@@ -24,6 +36,18 @@
    "s": "verfuegbar",
    "txt": "[Jetzt Tickets sichern Tickets](https://www.kindertheater-papiermond.de/ticketreservierung)"
   },
+  "https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-09-30/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
+  },
+  "https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-11-00/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
+  },
   "https://lust-auf-leverkusen.de/veranstaltungen/kategorie/theater-schauspiel/": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
@@ -41,16 +65,34 @@
    "s": "ausverkauft",
    "txt": "Wer am 11.11. in Köln Karneval feiern möchte, muss sich vielerorts schon Wochen vorher um Eintrittskarten kümmern. Zahlreiche Partys sind bereits vor dem Sessio"
   },
+  "https://volksbuehne-rudolfplatz.de/programm/exit-das-spiel-10-jahre-exit-die-jubilaeumstour-2026-11-14/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-12/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-13/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
   },
@@ -63,7 +105,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -78,10 +120,28 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://littlemindsstudio.de)"
   },
+  "https://www.kindaling.de/kindertheater-shows/birkenelfe-mimi-und-eduard-nasenmurf-koeln-holweide/koeln-holweide": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://www.cassiopeia-buehne.de)"
+  },
+  "https://www.kindaling.de/kindertheater-shows/der-feuervogel-koeln-holweide/koeln-holweide": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://www.cassiopeia-buehne.de)"
+  },
+  "https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/66804/bookings/new)"
+  },
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -93,13 +153,13 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -117,7 +177,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-11T06:59",
+   "geprueft": "2026-11-12T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -126,6 +186,18 @@
    "geprueft": "2026-11-11T06:59",
    "s": "knapp",
    "txt": "Tickets für Führungen buchst du am besten direkt mit deinem Online-Ticket vor deinem Besuch über unseren über unseren Online- [Webshop](https://shop.schokoladen"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-14": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=Bilderbuchkreativ)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-515": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbabys)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-516": {
    "art": "detailseite",
@@ -139,11 +211,35 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbabys)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbande-treff)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff-2": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbande-treff)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesehund-albert-4": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
    "s": "verfuegbar",
    "txt": "[zur Anmeldung](https://stadt-koeln.easy2book.de/lesehund-albert-event-5845)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesung-mit-agnieszka-lessmann-und-frank-olbert": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "knapp",
+   "txt": "Karten erhalten Sie im Vorverkauf über kölnticket. Restkarten gibt es gegebenenfalls an der Abendkasse."
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-44": {
+   "art": "detailseite",
+   "geprueft": "2026-11-12T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-174": {
    "art": "detailseite",
@@ -158,5 +254,5 @@
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/monstermaessige-vorlesezeit-event-5873)"
   }
  },
- "stand": "2026-11-11T06:59"
+ "stand": "2026-11-12T05:26"
 }

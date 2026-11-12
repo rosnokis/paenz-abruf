@@ -53,36 +53,16 @@ Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ Kinderfreundliches Event
-★ Kinderoper, KÖLN
-★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-12.11.26 - 02.01.27
-(morgen)
-ab
-26,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [Alice im Wunderland - Circus Show für die ganze Familie - Köln](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
 ★ Zirkus, Varieté & Artistik, Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater am Tanzbrunnen, Köln
 ★ Donnerstag, 12. November 2026 - Theater am Tanzbrunnen - Köln - Alice im Wunderland - Circus Show für die ganze Familie
 12.11.2026
+(heute)
+ab
 61,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2429419)
-Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-12&checkout=2026-11-16&q=koeln&label=ms4)
-freie Objekte in Köln bei casamundo.de
-Deine Reisedaten:
-12.11. bis 16.11.26
-ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-12&checkout=2026-11-16&q=koeln&label=ms4)
-Hier ist noch ein Plätzchen frei
-So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
-aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
-Anzeigen zu einer Pause.
-[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
-Anzeigen finanzieren dieses Portal.
 [Du und Ich](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/du-und-ich-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
@@ -90,6 +70,26 @@ Donnerstag, 12. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal
 0 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/du-und-ich-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596883)
+Anzeige
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-13&checkout=2026-11-17&q=koeln&label=ms4)
+freie Objekte in Köln bei casamundo.de
+Deine Reisedaten:
+13.11. bis 17.11.26
+ändern
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-13&checkout=2026-11-17&q=koeln&label=ms4)
+Hier ist noch ein Plätzchen frei
+So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
+aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
+Anzeigen zu einer Pause.
+[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
+Anzeigen finanzieren dieses Portal.
+★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderfreundliches Event
+★ Kinderoper, KÖLN
+★ Donnerstag, 12. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+12.11.26 - 02.01.27
+26,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Senftöpfchen-Theater, Köln
 ★ Sonntag, 15. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren

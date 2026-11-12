@@ -3,9 +3,11 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Erste Bilanz zum 11.11. in Köln: Viele Verstöße bei Jugendschutzkontrollen](https://verliebtinkoeln.com/11-11-2026-koeln-bilanz-jugendschutz-verstoesse/)
+Tausende Menschen haben am Mittwoch, 11. November 2026, in Köln den Beginn der neuen Karnevalssession gefeiert. Besonders im Kwartier Latäng, in der Südstadt und in der Altstadt waren zahlreiche Jecken unterwegs. Das Ordnungsamt kontrollierte vor allem den Verkauf und Konsum von Alkohol…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 11.11.2026 • 3 Min. Lesedauer
 [Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
-Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf dem Smartphone spielen. Kölsches Sudoku: Das Ziel Hinweise zum Suduko Bei Bedarf Notizen Viel Spaß beim Rätseln…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
+10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Ballermann-Star Ikke Hüftgold will mit „Kölsche Maid“ im Karneval Fuß fassen](https://verliebtinkoeln.com/ikke-hueftgold-koelsche-maid/)
 10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
 [1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
@@ -15,13 +17,10 @@ Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das köl
 [9 kölsche Karnevalswörter, die nicht jeder versteht – wie viele kennst du?](https://verliebtinkoeln.com/koelsche-woerter-karneval/)
 10.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[7 Auto-Kennzeichen, die in Köln verboten sind](https://verliebtinkoeln.com/auto-kennzeichen-die-in-koeln-verboten-sind/)
-09.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
+Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
 Ein Ballermann-Star will im kölschen Karneval mitmischen: Ikke Hüftgold hat gemeinsam mit Calvin Kleinen und den Rabaue den Song „Kölsche Maid“ veröffentlicht. Die Single erschien…
 [Köln](https://verliebtinkoeln.com/category/koeln/) • 10.11.2026 • 2 Min. Lesedauer
-Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die Durchschlagskraft und…
-[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 10.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
 [So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
 Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
@@ -72,6 +71,7 @@ Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos 
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 09.11.2026 • 2 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…
+[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 10.11.2026 • 3 Min. Lesedauer
 [1. FC Köln nach dem Union-Doppel: Hui oder pfui?](https://verliebtinkoeln.com/fc-union-dreierkette-el-mala-brueder/)
 Ein Punkt in Berlin, ein besonderer Moment für die El-Mala-Brüder – und trotzdem viele Fragen zum Spiel des 1. FC Köln: Nach dem…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 02.11.2026 • 3 Min. Lesedauer

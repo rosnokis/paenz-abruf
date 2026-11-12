@@ -10,16 +10,7 @@ DO
 FR
 SA
 10
-MI 11.11.
-[Kultur Futur3: Glotzt nicht so romantisch 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-6/)
-[MI 11.11. Yoga für Frauen - DAKO e.V. 08:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-fuer-frauen-dako-e-v-6/)
-[MI 11.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-30/)
-★ [MI 11.11. Eltern-Kind-Gruppe 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-gruppe-2/)
-[MI 11.11. Seniorinnen-Treff - DAKO e.V. 09:30 Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/seniorinnen-treff-dako-e-v-6/)
-[MI 11.11. Naehen mit Paula 18:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/naehen-mit-paula-6/)
-[MI 11.11. LIVING COLOURS 19:30 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/living-colours-6/)
-[MI 11.11. Anonyme Alkoholiker (Englisch) 20:00 Raum 1 | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-englisch-6/)
-[MI 11.11. CHORILLAS 20:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chorillas-6/)
+11
 DO 12.11.
 [Politik & Gesellschaft CAFEFAMILIA 15:30 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/cafefamilia-2/)
 [Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-2/)

@@ -45,13 +45,7 @@ Mi.
 Eine kleine Geschichte zur Weihnachtszeit! Neu im Programm des Seifenblasen-Figurentheaters.Der kleine Hund Tobi ist…
 ★ [Tickets](https://www.eventbrite.de/e/1100-familien-weihnachtsspecial-tobis-kleines-weihnachtswunder-tickets-2002282891027)
 Januar 2027
-Fr.
 Jan.
-08
-19:30
-[Der Zauberer von Oz](https://www.eventbrite.de/e/der-zauberer-von-oz-tickets-2003764642987)
-Dorothys abenteuerliche Reise durch Oz – als interaktives Live-Hörspiel mit Stimmen, Geräuschen und viel…
-[Tickets](https://www.eventbrite.de/e/der-zauberer-von-oz-tickets-2003764642987)
 17
 [Ein Koffer voll Dornröschen](https://www.eventbrite.de/e/ein-koffer-voll-dornroschen-tickets-2003790796212)
 ★ Ein alter Koffer öffnet sich – und mit ihm eine kleine Welt aus Märchen und Theater. Gespielt vom Seifenblasen…

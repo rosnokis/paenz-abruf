@@ -22,7 +22,7 @@
  },
  {
   "name": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-  "endDate": "2026-11-02T12:00:00+01:00",
+  "endDate": "2026-11-02T15:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/ausstellung-fernweh-und-heimat-vom-koelner-maler-kreis",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
@@ -43,23 +43,30 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-11-11T10:45:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-513",
+  "endDate": "2026-11-12T12:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-515",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  },
  {
-  "name": "Vorlesezeit",
-  "endDate": "2026-11-11T17:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-302",
+  "name": "Köln hört zu!",
+  "endDate": "2026-11-12T12:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/koeln-hoert-zu-55",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
+ },
+ {
+  "name": "Bücherbande-Treff",
+  "endDate": "2026-11-12T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  },
  {
-  "name": "Lesehund Albert",
-  "endDate": "2026-11-11T18:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesehund-albert-4",
-  "kinder": true,
+  "name": "Lesung mit Agnieszka Lessmann und Frank Olbert",
+  "endDate": "2026-11-12T21:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesung-mit-agnieszka-lessmann-und-frank-olbert",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/"
  }
 ]
