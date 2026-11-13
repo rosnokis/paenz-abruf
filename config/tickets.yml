@@ -1,27 +1,31 @@
 # Ticket- und Anmeldeseiten, die jede Nacht auf Verfügbarkeit geprüft werden (Ergebnis: out/tickets.json).
 # Nur Seiten zu EINEM Termin eintragen (sonst ist das Stichwort "ausverkauft" nicht eindeutig).
 # Felder: url (Pflicht), note (frei), bis (letzter Termin, JJJJ-MM-TT; danach wird die Seite nicht mehr geprüft),
-# js: true (Seite braucht JavaScript). Pflege per Werkzeug: python -m scraper.pflege (siehe README).
+# js: true (Seite braucht JavaScript), seit (Tag der Aufnahme). Pflege per Werkzeug: python -m scraper.pflege
 seiten:
 - url: https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205
   note: Familienkonzert Weihnachtsoratorium, So 29.11.
-  bis: 2026-11-29
+  bis: '2026-11-29'
   js: true
 - url: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
   note: PhilharmonieVeedel Baby Funkelzeit, bis 4.12.
-  bis: 2026-12-04
+  bis: '2026-12-04'
   js: true
 - url: https://www.horizont-theater.de/produktionen/kuhswantje.html
   note: Die Kuh Swantje (Krabbeltheater), mehrere Termine
 - url: https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/
   note: Paulina und der Zirkus Papilotte, Sa 21.11.
-  bis: 2026-11-21
+  bis: '2026-11-21'
 - url: https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren
   note: Peppa feiert Weihnachten, Sa 28.11.
-  bis: 2026-11-28
+  bis: '2026-11-28'
 - url: https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel
   note: Gürzenich-Familienkonzert, So 13.12.
-  bis: 2026-12-13
+  bis: '2026-12-13'
 - url: https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html
   note: Adventmitspielkonzert im Dom, So 6.12. (Anmeldung)
-  bis: 2026-12-06
+  bis: '2026-12-06'
+- url: https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html
+  note: Offener Kreativraum ab 1 Jahr, Do 17 Uhr ab 19.11.2026
+  bis: '2026-12-24'
+  seit: '2026-11-13'
