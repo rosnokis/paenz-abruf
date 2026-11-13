@@ -161,7 +161,6 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjExMjhUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 29
 30
-12. November 2026
 13. November 2026
 14. November 2026
 15. November 2026
@@ -208,6 +207,11 @@ Gefördert von:
 ★ Rheinenergie Stiftung Familie
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=M2hzZzNzbWZmMHVoamFtOG9oMGY4YmRuYmEgZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
 11. Dezember 2026
+12. Dezember 2026
+12. Dezember 2026 10:00 - 20:00
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NDR2dWRlY29zYjRqaWVhaWhyY2Y0NzZodTEgZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
+12. Dezember 2026 12:00 - 17:00
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjEyMTJUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 Mehr anzeigen
 Liebigquartier
 Das Liebigquartier ist eines der wohl spannendsten Stadtentwicklungsgebiete in Köln. Die ca. 300.000m² Entwicklungsfläche zwischen Ehrenfeld und Nippes bieten viel Raum, um Projekte und Ideen umzusetzen, damit Köln 2035 klimaneutral versorgt werden kann, die 15 Minuten Stadt Realität wird und Kultur und Soziales Raum in der Stadt findet.

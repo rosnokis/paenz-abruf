@@ -12,6 +12,12 @@
    "s": "verfuegbar",
    "txt": "🎫 Tickets: [online](https://shop.oper.koeln/webshop/webticket/bestseatselect?eventId=2228)"
   },
+  "https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-15": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "🎫 Tickets: [online](https://shop.oper.koeln/webshop/webticket/bestseatselect?eventId=2229)"
+  },
   "https://familienhopper.de/koeln/indoor/": {
    "art": "detailseite",
    "geprueft": "2026-11-10T12:39",
@@ -29,6 +35,12 @@
    "geprueft": "2026-11-10T12:39",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
+  },
+  "https://galileum-solingen.de/shows/stars-of-classic/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://galileum.ticketfritz.de/Event/Detail?Event=7028)"
   },
   "https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/": {
    "art": "detailseite",
@@ -65,6 +77,12 @@
    "s": "ausverkauft",
    "txt": "Wer am 11.11. in Köln Karneval feiern möchte, muss sich vielerorts schon Wochen vorher um Eintrittskarten kümmern. Zahlreiche Partys sind bereits vor dem Sessio"
   },
+  "https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "ausverkauft",
+   "txt": "Die Lange Nacht kann regulär besucht werden. Lediglich die gesonderten Führungen hinter die Kulissen sind bereits ausgebucht."
+  },
   "https://volksbuehne-rudolfplatz.de/programm/exit-das-spiel-10-jahre-exit-die-jubilaeumstour-2026-11-14/": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -83,16 +101,22 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-nachmittagsveranstaltung-2026-11-14/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
   },
@@ -105,9 +129,15 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "unklar",
    "txt": ""
+  },
+  "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-13": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "Wegen der großen Nachfrage ist die Teilnahme am Kindertreff nur nach telefonischer Anmeldung möglich."
   },
   "https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online": {
    "art": "detailseite",
@@ -141,7 +171,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -153,13 +183,13 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -169,17 +199,41 @@
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.eventim.de/noapp/event/21696665/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)"
   },
+  "https://www.mvp.de/koeln/veranstaltungen/paenzparty-im-foyer-puppenspiele-der-stadt-koeln/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://www.eventim.de/noapp/event/21434443/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)"
+  },
+  "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/das-schaefchen-und-der-stern-kita-familienkonzert-frechen/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2570624)"
+  },
   "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/familienspecial-youtuber-matthias-berger-uncut-keine-kameratricks-pulheim/": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2620760)"
   },
+  "https://www.qultor.de/veranstaltungen/ich-1": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://orangerie-theater.reservix.de/p/reservix/group/552984)"
+  },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-12T05:26",
+   "geprueft": "2026-11-13T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
+  },
+  "https://www.qultor.de/veranstaltungen/what-zeitgenoessisches-zirkusvariete": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "ausverkauft",
+   "txt": "What?! …is going on in Circus? Das Zeitgenössische Zirkus-Varieté schafft ein Abbild aus unterschiedlichen Zirkuskünsten und Stilen. Die Show kommt hier choreog"
   },
   "https://www.schokoladenmuseum.de/besuch-planen/": {
    "art": "detailseite",
@@ -241,6 +295,18 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-45": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-46": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-174": {
    "art": "detailseite",
    "geprueft": "2026-11-10T11:01",
@@ -252,7 +318,13 @@
    "geprueft": "2026-11-10T11:01",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/monstermaessige-vorlesezeit-event-5873)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/parolen-paroli": {
+   "art": "detailseite",
+   "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/parolen-paroli-event-5846)"
   }
  },
- "stand": "2026-11-12T05:26"
+ "stand": "2026-11-13T05:26"
 }

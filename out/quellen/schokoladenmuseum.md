@@ -26,7 +26,7 @@ Schon ab dem 13. November 2026 geöffnet. Mit dem Kölner Riesenrad genießt du 
 [Weiterlesen](https://www.schokoladenmuseum.de/news/hafenweihnachtsmarkt-am-schokoladenmuseum/)
 [Weihnachtsferien Programm](https://www.schokoladenmuseum.de/news/weihnachtsferien-programm/)
 02.10.2026
-★ Unser Programm in den Herbstferien für die ganze Familie. Für Kinder gibt es große Schokoladenpakete zu gewinnen! Sichere Dir jetzt deine Online-Tickets und vermeide so Wartezeiten.
+★ Unser Programm in den Weihnachtsferien für die ganze Familie. Für Kinder gibt es große Schokoladenpakete zu gewinnen! Sichere Dir jetzt deine Online-Tickets und vermeide so Wartezeiten.
 [Weiterlesen](https://www.schokoladenmuseum.de/news/weihnachtsferien-programm/)
 [Nachts im Museum: Öffentliche Führung](https://www.schokoladenmuseum.de/news/nachts-im-museum-oeffentliche-fuehrung/)
 04.11.2026

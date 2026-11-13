@@ -11,26 +11,7 @@ FR
 SA
 10
 11
-DO 12.11.
-[Politik & Gesellschaft CAFEFAMILIA 15:30 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/cafefamilia-2/)
-[Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-2/)
-[DO 12.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-31/)
-★ [DO 12.11. Sprachförderung 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/sprachfoerderung-3/)
-★ [DO 12.11. Offener Kindertreff 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/off-2/)
-[DO 12.11. Lernförderung 15:00 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/lernfoerderung-15/)
-[DO 12.11. Saz spielen lernen 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/saz-spielen-lernen-3/)
-[DO 12.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-11/)
-[DO 12.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-4/)
-[DO 12.11. CHOR GOOD VIBES 17:40 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-good-vibes-7/)
-[DO 12.11. DJ-Angebot 18:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/dj-angebot-2/)
-[DO 12.11. Himmel un AAD – Angehörige von Bipolar Erkrankten 18:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/himmel-un-aad-angehoerige-von-bipolar-erkrankten-2/)
-[DO 12.11. QUEER BIPOC SPACE 18:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/queer-bipoc-space-7/)
-[DO 12.11. SHGD HANSARING - SELBSTHILFE DEPRESSIONEN 18:00 Alte Feuerwache Köln](https://altefeuerwachekoeln.de/programm/shgd-hansaring-selbsthilfe-depressionen-7/)
-[DO 12.11. Anonyme Alkoholiker (lesbisch/schwul) 19:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-lesbisch-schwul-7/)
-[DO 12.11. BRASILIANISCHE TANZE - SAMBA DE GAFIEIRA 19:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/brassilianische-tanze-samba-de-gafieira-7/)
-[DO 12.11. Der Chor der Donnerstags probt 19:15 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/der-chor-der-donnerstags-probt-7/)
-[DO 12.11. ANTONS ERBEN | Improvisationstheater 19:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/antons-erben-improvisationstheater-7/)
-[DO 12.11. Folklore Balkan-Tänze 20:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/folklore-balkan-taenze-7/)
+12
 FR 13.11.
 [Politik & Gesellschaft Das Ringen um Menschenrechte und Umweltschutz 15:00 · Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/das-ringen-um-menschenrechte-und-umweltschutz/)
 [Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-3/)

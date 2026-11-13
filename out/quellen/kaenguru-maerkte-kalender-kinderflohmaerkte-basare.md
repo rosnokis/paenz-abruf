@@ -7,12 +7,6 @@
 ★ Wenn ihr hier nicht fündig werdet, schaut doch mal in unsere [Übersicht der Baby & Kinder Second Hand Läden in Köln und Bonn](https://www.kaenguru-online.de/themen/familienleben/secondhand-kaufen). Auch hier gibt es tolle Secondhand Sachen und das fast jeden Tag.
 Trödelmarkt-Termine in Köln, Bonn und der Region:
 [Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-[Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen](https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-12)
-★ Nachhaltige Tauschaktion für übrig gebliebene Süßigkeiten rund um St. Martin
-12.11.2026
-17:00 - 19:00 Uhr
-St. Karl Sülz
-Köln
 ★ [Familien-Flohmarkt-Fest](https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14)
 ★ Familienflohmarkt mit Kinderdisco, Kinderschminken und Bilderbuchkino
 14.11.2026
@@ -23,6 +17,7 @@ Bonn
 ★ Kinderflohmarkt des Fördervereins der KiTa Kartause
 10:00 - 14:00 Uhr
 Kartäuserkirche
+Köln
 ★ [Spielzeugbasar](https://www.kaenguru-online.de/kalender/maerkte/spielzeugbasar/2026-11-14)
 ★ Spiele, Bücher, Kinderfahrzeuge aller Art
 11:00 - 12:30 Uhr
@@ -32,7 +27,9 @@ Kartäuserkirche
 11:00 - 14:00 Uhr
 ★ Kita St. Barbara Bonn
 [Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen](https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-14)
+★ Nachhaltige Tauschaktion für übrig gebliebene Süßigkeiten rund um St. Martin
 13:00 - 15:00 Uhr
+St. Karl Sülz
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15)
 ★ Kinderbasar
 15.11.2026

@@ -18,6 +18,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
+  "name": "KinderHausMusik: Singen im Advent",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "Metal-Tour Heavysaurus",
   "location": {
    "name": "Bergheim"
@@ -68,15 +77,6 @@
    "name": "Pulheim"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/das-schaefchen-und-der-stern-1/2026-11-28",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Der König verschenkt was\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },

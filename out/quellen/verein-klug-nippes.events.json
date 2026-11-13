@@ -11,28 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Stöckchen besetzt - pack mit an!",
-  "startDate": "2026-11-12T09:00:00+01:00",
-  "endDate": "2026-11-12T16:00:00+01:00",
-  "location": {
-   "name": "Stöckchen besetzt - pack mit an!",
-   "address": "Stöckchen besetzt - pack mit an!"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "Pop-Up-Café im Stöckchen",
-  "startDate": "2026-11-12T14:00:00+01:00",
-  "endDate": "2026-11-12T17:00:00+01:00",
-  "location": {
-   "name": "Escher Straße 160",
-   "address": "Escher Straße 160"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "Pop-Up-Café im Stöckchen",
   "startDate": "2026-11-13T14:00:00+01:00",
   "endDate": "2026-11-13T17:00:00+01:00",
@@ -228,6 +206,28 @@
    "address": "Naturtag für Kinder und Familien: Nachtwanderung \"Glühwürmchen\""
   },
   "kinder": true,
+  "quelle": "https://klugev.de"
+ },
+ {
+  "name": "GROßER MITMACHTAG im Stöckchen",
+  "startDate": "2026-12-12T10:00:00+01:00",
+  "endDate": "2026-12-12T20:00:00+01:00",
+  "location": {
+   "name": "GROßER MITMACHTAG im Stöckchen",
+   "address": "GROßER MITMACHTAG im Stöckchen"
+  },
+  "kinder": true,
+  "quelle": "https://klugev.de"
+ },
+ {
+  "name": "Offene Fahrradwerkstatt",
+  "startDate": "2026-12-12T12:00:00+01:00",
+  "endDate": "2026-12-12T17:00:00+01:00",
+  "location": {
+   "name": "Offene Fahrradwerkstatt",
+   "address": "Offene Fahrradwerkstatt"
+  },
+  "kinder": false,
   "quelle": "https://klugev.de"
  }
 ]

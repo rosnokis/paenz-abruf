@@ -4,12 +4,9 @@
 Previous
 Next
 Aktuelle Termine
-12. Nov. 2026
-★ Do.., 08:45 Uhr | [Stolpersteinverlegung – Gedenken an Familie Goslar](https://www.lutherkirche-nippes.de/termin/stolpersteine/)
-Lutherkirche Nippes
-Dokumentation | Gedenken
 15. Nov. 2026
 So.., 11:00 Uhr | [Gottesdienst](https://www.lutherkirche-nippes.de/termin/gottesdienst-261115/)
+Lutherkirche Nippes
 Gottesdienst
 So.., 17:00 Uhr | [Because Chor Köln](https://www.lutherkirche-nippes.de/termin/because-chor-2611/)
 Chor | Gedenken | Konzert
@@ -17,6 +14,8 @@ Chor | Gedenken | Konzert
 So.., 08:55 Uhr | [Sonntagskirche im WDR 4](https://www.lutherkirche-nippes.de/termin/kirche-wdr4-261122/)
 WDR4 | Radio
 Dialog | Online
+So.., 11:00 Uhr | [Gottesdienst zum Ewigkeitssonntag mit Violinistin Ariadne Daskalakis](https://www.lutherkirche-nippes.de/termin/ewigkeit-2026/)
+Gedenken | Gottesdienst | Konzert | Kultur | Vielfalt
 [Alle Termine](https://www.lutherkirche-nippes.de/termine/)
 [Gottes­dienste](https://www.lutherkirche-nippes.de/lutherkirche/gottesdienste/)
 Podcasts unserer Gemeinde

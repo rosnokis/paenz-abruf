@@ -9,24 +9,23 @@ Große Abenteuer für kleine Entdecker in ganz Leverkusen
 Aktuell laufend (0)
 Veranstaltungen
 (61)
-12
-Nov
-[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
-★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-[Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
-Do
-16:00 Uhr
-[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-11-12-16-00/)
-[Stadtbibliothek Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/stadtbibliothek/)
 13
+Nov
+★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
 [Sport & Spiel](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/sport-spiel/)
+[Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
 Fr
+16:00 Uhr
 [Tag der Mitmenschlichkeit. HerzMutTag.](https://lust-auf-leverkusen.de/veranstaltung/tag-der-mitmenschlichkeit-herzmuttag/)
 [NaturGut Ophoven. Standort Stauffenbergstraße.](https://lust-auf-leverkusen.de/veranstaltungsort/naturgut-ophoven-standort-stauffenbergstrasse/)
 15
 So
 13:30 Uhr
 ★ [MutReiferei und Mitmachbaustelle: DoppelSpaß an einem Tag](https://lust-auf-leverkusen.de/veranstaltung/mutreiferei-und-mitmachbaustelle-doppelspass-an-einem-tag-2/)
+[Feste & Brauchtum](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/feste-brauchtum/)
+14:00 Uhr
+★ [Kinder Gala Leverkusen](https://lust-auf-leverkusen.de/veranstaltung/kinder-gala-leverkusen/)
+[Jugendhaus Lindenhof](https://lust-auf-leverkusen.de/veranstaltungsort/jugendhaus-lindenhof/)
 16
 [Rat & Tat](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/rat-tat/)
 Mo
@@ -37,6 +36,7 @@ Abgesagt
 17
 Di
 [Lara hört zu!](https://lust-auf-leverkusen.de/veranstaltung/lara-hoert-zu/2026-11-17-16-00/)
+[Stadtbibliothek Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/stadtbibliothek/)
 16:30 Uhr
 ★ [Die Schlossgespenster. Der Kunstklub für Kinder.](https://lust-auf-leverkusen.de/veranstaltung/schlossgespenster/2026-11-17-16-30/)
 [Museum Morsbroich](https://lust-auf-leverkusen.de/veranstaltungsort/schloss-morsbroich/)
@@ -53,6 +53,8 @@ Mi
 [Frederick – unterwegs mit dem kleinen Mäuserich](https://lust-auf-leverkusen.de/veranstaltung/frederick-unterwegs-mit-dem-kleinen-maeuserich/)
 [NaturGut Ophoven. Standort Talstraße.](https://lust-auf-leverkusen.de/veranstaltungsort/naturgut-ophoven/)
 19
+[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
+Do
 [Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-11-19-16-00/)
 21
 Sa

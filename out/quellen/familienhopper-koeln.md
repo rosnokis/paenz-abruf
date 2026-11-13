@@ -99,11 +99,6 @@ So, 29. Nov. | 11 Uhr Köln · Flora
 Di, 1. Dez. | 15:30 Uhr Köln · Bürgerhaus Kalk, Glashaus (Eingang über den Hof)
 ★ 4–8 Jahre Kostenlos
 Hier entsteht etwas zum Mitnehmen
-12 NOV
-★ [Kuscheltier-Übernachtung](https://familienhopper.de/events/kuscheltier-uebernachtung-koeln-2026-11-12)
-★ Kinder basteln, danach feiern ihre Stofftiere eine Party in der Bibliothek.
-Do, 12. Nov. | 16 Uhr Köln · Stadtteilbibliothek Bocklemünd/Mengenich
-Anmeldung Kostenlos
 ★ [Deine Schokoladentafel](https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-13)
 Fr, 13. Nov. | 15:45 Uhr · 17 weitere bis 20.12. Köln · Schokoladenmuseum
 8–10 Jahre Tickets
@@ -136,6 +131,9 @@ Spielen/Entdecken
 ★ [Bilderbuchkino](https://familienhopper.de/events/bilderbuchkino-koeln-2026-11-26)
 Do, 26. Nov. | 16:30 Uhr Köln · Stadtteilbibliothek Porz
 ★ ab 4 Jahren Kostenlos
+5 DEZ
+★ [Spielen wie die Römer](https://familienhopper.de/events/spielen-wie-die-roemer-koeln-2026-12-05)
+Sa, 5. Dez. | 14 Uhr Köln · Römisch-Germanisches Museum
 Kleine Forscher
 ★ [MINT-Vorlesen](https://familienhopper.de/events/mint-vorlesen-koeln-2026-11-13)
 Fr, 13. Nov. | 16:30 Uhr · 3 weitere bis 18.12. Köln · Stadtteilbibliothek Sülz
@@ -174,9 +172,6 @@ So, 22. Nov. | 14 Uhr · 4 weitere bis 24.01. Köln · Interim Zentralbibliothek
 Mi, 25. Nov. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
 ★ ab 7 Jahren Anmeldung
 Zauber & Bühne — das erste Mal
-★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12)
-★ Do, 12. Nov. | 11:30 Uhr · 18 weitere bis 02.01. Köln · Kinderoper
-★ ab 6 Jahren Tickets
 ★ [Die kleine Eidechse](https://familienhopper.de/events/die-kleine-eidechse-koeln-2026-11-13)
 Fr, 13. Nov. | 11 Uhr · weitere Termine Köln · Horizont Theater
 Kino
@@ -206,14 +201,18 @@ Sa, 14. Nov. | 14 Uhr · weitere Termine Köln · Metropol Theater
 ★ ab 4 Jahren Indoor
 ★ [Birkenelfe Mimi und Eduard Nasenmurf in der Cassiopeia Bühne](https://familienhopper.de/events/birkenelfe-mimi-und-eduard-nasenmurf-in-der-cassiopeia-buehne-koeln-2026-11-14)
 Musik und Erzählung begleiten eine kleine Elfe und ihren großnasigen Freund.
+★ [Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-15)
+Wegen eines Rings streiten drei Geschwister in der Oper um die Krone.
+★ So, 15. Nov. | 11:30 Uhr · 17 weitere bis 02.01. Köln · Kinderoper
+★ ab 6 Jahren Tickets
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 309 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 307 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [12. Nov. Der König verschenkt was](https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12)
-★ [12. Nov. Martinszug der GGS Manderscheider Platz im Beethovenpark](https://familienhopper.de/events/martinszug-der-ggs-manderscheider-platz-im-beethovenpark-koeln-2026-11-12)
-★ [12. Nov. Kuscheltier-Übernachtung](https://familienhopper.de/events/kuscheltier-uebernachtung-koeln-2026-11-12)
+★ [13. Nov. Taschenlampen-Expedition für Familien](https://familienhopper.de/events/taschenlampen-expedition-fuer-familien-koeln-2026-11-13)
+★ [13. Nov. Robodonien leuchtet: Roboter-Licht-Kunst-Festival in Odonien](https://familienhopper.de/events/robodonien-leuchtet-roboter-licht-kunst-festival-in-odonien-koeln-2026-11-13)
+★ [13. Nov. Die kleine Eidechse](https://familienhopper.de/events/die-kleine-eidechse-koeln-2026-11-13)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 Top-Ziele in Köln
@@ -226,12 +225,10 @@ Eislaufen [Eishalle Lentpark](https://koelnbaeder.de/baeder/eishalle-lentpark-3/
 Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preise-und-zeiten/)
 Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
-★ Wann sind die St.-Martins-Umzüge in Köln?
-★ Auf unserer Seite „St. Martin 2026 in Köln“ stehen aktuell 4 Termine, der nächste am 12.11.. Alle Angaben mit Link zur Originalquelle. [St. Martin 2026 in Köln ansehen](https://familienhopper.de/koeln/st-martin/)
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 82 Vorstellungen, der nächste am 12.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 82 Vorstellungen, der nächste am 13.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 309 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 307 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
 ★ Ja, 82 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?

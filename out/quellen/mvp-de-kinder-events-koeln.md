@@ -48,65 +48,48 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 91
+1 - 40 von 92
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Alice im Wunderland - Circus Show für die ganze Familie - Köln](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
-★ Zirkus, Varieté & Artistik, Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
-Theater am Tanzbrunnen, Köln
-★ Donnerstag, 12. November 2026 - Theater am Tanzbrunnen - Köln - Alice im Wunderland - Circus Show für die ganze Familie
-12.11.2026
-(heute)
+★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderfreundliches Event
+★ Kinderoper, KÖLN
+★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+15.11.26 - 02.01.27
 ab
-61,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/alice-im-wunderland-circus-show-fuer-die-ganze-familie-koeln/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2429419)
-[Du und Ich](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/du-und-ich-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
+26,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
-Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
-Donnerstag, 12. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Du und Ich - Helios Theater - SPIELARTEN
-0 €
-[zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/du-und-ich-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596883)
+Senftöpfchen-Theater, Köln
+★ Sonntag, 15. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
+15.11.26 - 30.01.27
+18,70 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-13&checkout=2026-11-17&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-14&checkout=2026-11-18&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-13.11. bis 17.11.26
+14.11. bis 18.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-13&checkout=2026-11-17&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-14&checkout=2026-11-18&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ Kinderfreundliches Event
-★ Kinderoper, KÖLN
-★ Donnerstag, 12. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-12.11.26 - 02.01.27
-26,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-Senftöpfchen-Theater, Köln
-★ Sonntag, 15. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
-15.11.26 - 30.01.27
-18,70 €
-[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 [Der Geräuschehändler - Pulheim](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 KULTUR- UND MEDIENZENTRUM | Kleiner Saal, Pulheim
 Montag, 16. November 2026 - KULTUR- UND MEDIENZENTRUM | Kleiner Saal - Pulheim - Der Geräuschehändler - Toboso Theater - SPIELARTEN
 16.11.2026
+0 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Into it](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
+Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
 Dienstag, 17. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Into it - performing group - SPIELARTEN
 17.11.2026
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
@@ -118,6 +101,10 @@ Dienstag, 17. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal -
 19.11. bis 20.12.26
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Der Riss](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
 Donnerstag, 19. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Der Riss - pulk fiktion - SPIELARTEN
@@ -231,6 +218,13 @@ Donnerstag, 10. Dezember 2026 bis Sonntag, 13. Dezember 2026 - Brunosaal - KÖLN
 10.12. bis 13.12.26
 22,56 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/drache-kokosnuss-feiert-weihnachten-brunosaal-koeln-klettenberg/)
+★ [Das Schäfchen und der Stern - KiTA / Familienkonzert](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/das-schaefchen-und-der-stern-kita-familienkonzert-frechen/)
+Stadtsaal, Frechen
+★ Freitag, 11. Dezember 2026 - Stadtsaal - Frechen - Das Schäfchen und der Stern - KiTA / Familienkonzert - Rubin Quartett und Schauspielerin Stephanie Jost
+11.12.2026
+7,25 €
+★ [zum Konzert](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/das-schaefchen-und-der-stern-kita-familienkonzert-frechen/)
+[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2570624)
 [Der kleine Drache Kokosnuss - reist um die Welt - Ingo Siegner - BERGISCH GLADBACH](https://www.mvp.de/bergisch-gladbach/veranstaltungen/ingo-siegner-der-kleine-drache-kokosnuss-bergisch-gladbach/)
 Bürgerhaus Bergischer Löwe, BERGISCH GLADBACH
 Sonntag, 13. Dezember 2026 - Bürgerhaus Bergischer Löwe - BERGISCH GLADBACH - Der kleine Drache Kokosnuss - reist um die Welt - Ingo Siegner
@@ -259,7 +253,7 @@ Sonntag, 13. Dezember 2026 - Bürgerhaus Hürth - Pippi Langstrumpf - Pippi Lang
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/pippi-langstrumpf-buergerhaus-huerth-huerth/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/20914613/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 ★ [Kokosnuss feiert Weihnachten - Familientag](https://www.mvp.de/koeln/veranstaltungen/kokosnuss-feiert-weihnachten-familientag-brunosaal-koeln-klettenberg/)
-★ Montag, 14. Dezember 2026 - Brunosaal - KÖLN-KLETTENBERG - Kokosnuss feiert Weihnachten - Familientag - Drache Kokosnuss feiert Weihnachten - Brunosaal Köln-Klettenberg
+★ Montag, 14. Dezember 2026 - Brunosaal - KÖLN-KLETTENBERG - Kokosnuss feiert Weihnachten - Familientag - Drache Kokosnuss feiert Weihnachten - Kammerpuppenspiele Bielefeld
 14.12.2026
 16,88 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/kokosnuss-feiert-weihnachten-familientag-brunosaal-koeln-klettenberg/)
@@ -308,41 +302,14 @@ LANXESS arena, KÖLN
 13.01. bis 06.02.27
 39 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/ensembleproduktion-puppensitzung-2027/)
+★ [PänzParty im Foyer](https://www.mvp.de/koeln/veranstaltungen/paenzparty-im-foyer-puppenspiele-der-stadt-koeln/)
+★ Freitag, 15. Januar 2027 bis Freitag, 29. Januar 2027 - Puppenspiele der Stadt Köln - PänzParty im Foyer
+15.01. bis 29.01.27
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/paenzparty-im-foyer-puppenspiele-der-stadt-koeln/)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege
 Kartenauschnitt wurde verändert
-November 2026
-Mo
-Di
-Mi
-Do
-Fr
-Sa
-So
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-Dezember 2026
-31
 Zwecke
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 (633)
@@ -412,3 +379,34 @@ Es werden Werbedienste von Drittanbietern genutzt. Wenn Sie hier zustimmen, werd
 Weitere Informationen
 Drittanbieter
 (737)
+November 2026
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Dezember 2026
+31

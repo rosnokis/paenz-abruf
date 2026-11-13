@@ -3,24 +3,24 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
-[Erste Bilanz zum 11.11. in Köln: Viele Verstöße bei Jugendschutzkontrollen](https://verliebtinkoeln.com/11-11-2026-koeln-bilanz-jugendschutz-verstoesse/)
-Tausende Menschen haben am Mittwoch, 11. November 2026, in Köln den Beginn der neuen Karnevalssession gefeiert. Besonders im Kwartier Latäng, in der Südstadt und in der Altstadt waren zahlreiche Jecken unterwegs. Das Ordnungsamt kontrollierte vor allem den Verkauf und Konsum von Alkohol…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 11.11.2026 • 3 Min. Lesedauer
-[Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
-10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Ballermann-Star Ikke Hüftgold will mit „Kölsche Maid“ im Karneval Fuß fassen](https://verliebtinkoeln.com/ikke-hueftgold-koelsche-maid/)
-10.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
-[1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
-10.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[11.11.2026 in Köln: Das TV- und Radio-Programm zur Sessionseröffnung im Überblick](https://verliebtinkoeln.com/11-11-koeln-tv-programm-wdr-radio/)
-10.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[9 kölsche Karnevalswörter, die nicht jeder versteht – wie viele kennst du?](https://verliebtinkoeln.com/koelsche-woerter-karneval/)
-10.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
-Ein Ballermann-Star will im kölschen Karneval mitmischen: Ikke Hüftgold hat gemeinsam mit Calvin Kleinen und den Rabaue den Song „Kölsche Maid“ veröffentlicht. Die Single erschien…
-[Köln](https://verliebtinkoeln.com/category/koeln/) • 10.11.2026 • 2 Min. Lesedauer
+[Was versteckt sich am Kölner Dom? 7 Fragen zu seinen ungewöhnlichen Figuren](https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/)
+Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche ungewöhnliche Figuren entdecken. Einige sind erst in den vergangenen Jahrzehnten entstanden. Andere erzählen Geschichten, die selbst viele Kölner nicht…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 4 Min. Lesedauer
+[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
+13.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Wo gibt es das beste Wiener Schnitzel in Köln? Diese 5 Restaurants empfehlen unsere Leser](https://verliebtinkoeln.com/bestes-wiener-schnitzel-koeln/)
+12.11.2026 • [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[1,64 Milliarden Euro für den WDR: Wofür gibt der Sender sein Geld aus?](https://verliebtinkoeln.com/wdr-haushalt-kosten-ausgaben-2026/)
+12.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[Köln dieses Wochenende: Die große Übersicht mit allen Tipps](https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/)
+12.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[12 kostenlose Ausflugsziele in Köln und Umgebung, die sich wirklich lohnen](https://verliebtinkoeln.com/ausfluege-koeln-kostenlos/)
+12.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/)
+[Melatenfriedhof: Wer liegt wo? 9 Tipps für Gräber von Prominenten](https://verliebtinkoeln.com/melatenfriedhof-koeln-willi-herren-millowitsch-dirk-bach-9-graeber-von-prominenten-und-wo-sie-liegen/)
+Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 3 Min. Lesedauer
+Außen knusprig, innen zart und am besten mit einem guten Kartoffelsalat serviert: Ein Wiener Schnitzel gehört zu den Klassikern der österreichischen Küche. Doch wo bekommt…
+[Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 5 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
 [So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
 Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
@@ -48,28 +48,26 @@ Wenn die Tage kälter werden, kommt auch wieder die Zeit der Frostbeulen. Kalte 
 Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stück Prummetaat. An Latein denken dabei wohl die wenigsten. Dabei reicht die…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
-[5 Weihnachtsmärkte auf Schlössern und Burgen rund um Köln 2026](https://verliebtinkoeln.com/5-weihnachtsmaerkte-auf-schloesser-und-burgen-im-koelner-umland/)
-Rund um Köln gibt es auch 2026 wieder Weihnachtsmärkte in besonderer Kulisse: vor historischen Wasserschlössern, in alten Burghöfen und zwischen festlich beleuchteten Mauern.…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 5 Min. Lesedauer
-[Costa Colonia: Neue Seenplatte bei Köln wird Realität](https://verliebtinkoeln.com/costa-colonia-neue-seenplatte-bei-koeln-wird-realitaet/)
-Müssen wir von Köln bald gar nicht mehr nach Holland in den Urlaub fahren? Wenige Kilometer westlich von Köln entsteht in Zukunft eine…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 07.11.2026 • 3 Min. Lesedauer
-[Dieser Regierungsbunker der BRD ist heute ein Ausflugstipp](https://verliebtinkoeln.com/regierungsbunker-im-ahrtal-das-geheimste-bauwerk-deutschlands/)
-Es war das einst geheimste und teuerste Bauwerk Deutschlands. Die Gänge befinden sich bis zu 100 Meter tief unter den Bergen des Ahrtals.…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 3 Min. Lesedauer
-[Das Vulkan-Museum mit Lava-Keller eine Stunde von Köln](https://verliebtinkoeln.com/lava-keller-mendig/)
-Es bietet einen besonderen Einblick in die Geheimnisse unserer Erde. Vulkane, Lava, ein Brodeln – all das ist viel näher an Köln, als…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 2 Min. Lesedauer
+Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtkunst, die ersten Weihnachtsmärkte, Konzerte, Ausstellungen und ein Heimspiel…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 7 Min. Lesedauer
+Ein schöner Ausflug muss nicht viel Geld kosten. In Köln und der Umgebung gibt es zahlreiche Ausflugsziele, die man besuchen kann, ohne Eintritt…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 7 Min. Lesedauer
+Der Melatenfriedhof in Köln ist die letzte Ruhestätte für tausende Menschen aus den vergangenen Jahrhunderten. Er erzählt zugleich auch ein Stück Kölner Stadt…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 4 Min. Lesedauer
+[Neuer Weihnachtsmarkt im Mediapark: Schlitten soll in 50 Metern Höhe schweben](https://verliebtinkoeln.com/weihnachtsmarkt-mediapark-koeln/)
+Köln bekommt 2026 einen neuen Weihnachtsmarkt: Am 19. November eröffnet „Santas Weihnachtsmarkt“ im Mediapark. Der Eintritt ist kostenlos. Rund 80 Stände, ein Weihnachtsrestaurant…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 3 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche…
+Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
 Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
+[9 kölsche Karnevalswörter, die nicht jeder versteht – wie viele kennst du?](https://verliebtinkoeln.com/koelsche-woerter-karneval/)
 Was ist eigentlich ein Pluutemann? Wer wird in Köln als Muuzepuckel bezeichnet? Und was machen die Roten Funken beim Stippeföttche? Im Kölner Karneval…
 [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 4 Min. Lesedauer
-Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2 Min. Lesedauer
-[7 kölsche Ein-Wort-Sätze – weißt du, was sie bedeuten?](https://verliebtinkoeln.com/koelsche-ein-wort-saetze-quiz/)
-„Dä!“, „Luurens!“ oder „Schakalfööss!“: In Köln braucht man manchmal nur ein einziges Wort, um einen ganzen Satz auszudrücken. Doch verstehst du auch, was…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 09.11.2026 • 2 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
+[1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
 Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 10.11.2026 • 3 Min. Lesedauer
 [1. FC Köln nach dem Union-Doppel: Hui oder pfui?](https://verliebtinkoeln.com/fc-union-dreierkette-el-mala-brueder/)

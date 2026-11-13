@@ -3,11 +3,10 @@
 ## Quelle: https://www.k-k-t.de
 Herzlich willkommen!
 Liebes Publikum,
-habt ihr schonmal von der Geschichte mit dem Jungen gehört, der nie erwachsen wird?
-Am 7. und 8. November könnt ihr mit [Peter Pan](https://k-k-t.de/ganzjungestheater) mit Schauspiel, Schattenspiel 👤 und Luftakrobatik in das fantastische Nimmerland 🏴‍☠️ fliegen.
-★ Am 13. November ist das Festival Zeit für Zirkus bei uns zu Gast. Die Kompanie Silent Shout aus Berlin und das Kölner Duo CHIMERA teilen sich die Bühne für [2 x 2 Zirkus-Kurzstücke](https://k-k-t.de/stuecke/double-bill) und lassen euch staunen. Ein virtuoser Abend für die ganze Familie!
+★ wir freuen uns! Am 13. November ist das Festival Zeit für Zirkus bei uns zu Gast. Die Kompanie Silent Shout aus Berlin und das Kölner Duo CHIMERA teilen sich die Bühne für [2 x 2 Zirkus-Kurzstücke](https://k-k-t.de/stuecke/double-bill) und lassen euch staunen. Ein virtuoser Abend für die ganze Familie!
 [Die anderen Anderen/ Öteki Ötekiler](https://k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend) feiert Premiere am 18. November. Drei Jugendliche haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Und sie können sich nicht ausstehen!
 ★ Verpasst nicht unser neues Jugendstück für alle ab 14 Jahre!
+Und nach einer langen Pause machen sich Udine und Paul ab 21. November wieder mutig auf den Weg. Im [Winternachtstraum](https://k-k-t.de/stuecke/winternachtstraum) lösen sie das Rätsel um die Königsgeschwister und wundersame Knollentrolle, Linge und Elfen helfen ihnen dabei.
 Weitere Termine für die Spielzeit 26/27 findet ihr in unserem [SPIELPLAN](https://www.k-k-t.de/spielplan).
 Wir freuen uns auf euch! 🧡
 Euer KKT - das Theater der Vielfalt in Ehrenfeld

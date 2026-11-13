@@ -38,7 +38,7 @@ Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
 Do, 20:00 Uhr
 Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
 NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2026
-[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-11&tx_calendarize_calendar%5BstartDate%5D=2026-11-11&cHash=80b17afb8b50f16616d930acdbb9c4d2) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-11&tx_calendarize_calendar%5BstartDate%5D=2026-11-11&cHash=80b17afb8b50f16616d930acdbb9c4d2)
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-12&tx_calendarize_calendar%5BstartDate%5D=2026-11-12&cHash=cd105677c549b1cbf9e3069d52980377) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-12&tx_calendarize_calendar%5BstartDate%5D=2026-11-12&cHash=cd105677c549b1cbf9e3069d52980377)
 [Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-12-2000)
 13.11.2026
 Fr, 20:00 Uhr

@@ -9,11 +9,7 @@ Stadtteil
 ★ [Für Kinder](https://www.rodenkirchen.de/kalender)
 ★ [Jeden Tag einzeln](https://www.rodenkirchen.de/kalender?kinder=1&einzeln=1)
 [Veranstaltungsorte](https://www.rodenkirchen.de/adressen?orte=1)
-Heute, Donnerstag, 12. November 2026
-Do 12 Nov.
-★ Kinder · 17:15 Uhr [Martinszug GGS Nikolausschule](https://www.rodenkirchen.de/termin/218-martinszug-ggs-nikolausschule)
-★ Donnerstag, 12. November 2026, Sankt-Nikolaus-Schule Städt. Gemeinschaftsgrundschule, Bernkasteler Str. 9 · Raderberg
-Morgen, Freitag, 13. November 2026
+Heute, Freitag, 13. November 2026
 Fr 13 Nov.
 ★ Kinder · 18:00 Uhr [Martinszug in Immendorf](https://www.rodenkirchen.de/termin/221-martinszug-in-immendorf)
 Freitag, 13. November 2026, Alte Schule Godorfer Str. 2 · Immendorf
@@ -59,6 +55,6 @@ Mo 8 Feb.
 Karneval · 14:30 Uhr [Veedelszoch Rondorf und Hochkirchen](https://www.rodenkirchen.de/termin/315-veedelszoch-rondorf-und-hochkirchen)
 Montag, 8. Februar 2027, Strecke (siehe Karte) · Rondorf · kostenlos
 Termine nach Veedel
-[Bayenthal 2](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 2](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 3](https://www.rodenkirchen.de/kalender/meschenich) [Raderberg 1](https://www.rodenkirchen.de/kalender/raderberg) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 107](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 50](https://www.rodenkirchen.de/kalender …
+[Bayenthal 2](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 2](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 104](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 49](https://www.rodenkirchen.de/kalender/zollstock)
 Termine nach Thema
-★ [Markt 140](https://www.rodenkirchen.de/kalender/markt) [Kultur 13](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 8](https://www.rodenkirchen.de/kalender/kinder) [Senioren 7](https://www.rodenkirchen.de/kalender/senioren) [Karneval 25](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 2](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 7](htt …
+★ [Markt 138](https://www.rodenkirchen.de/kalender/markt) [Kultur 12](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 5](https://www.rodenkirchen.de/kalender/kinder) [Senioren 7](https://www.rodenkirchen.de/kalender/senioren) [Karneval 25](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 2](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 7](htt …

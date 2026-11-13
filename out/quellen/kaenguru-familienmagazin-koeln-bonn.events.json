@@ -18,21 +18,21 @@
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen",
+  "name": "Gläserne Tannenbäumchen",
   "location": {
-   "name": "Köln"
+   "name": "Linnich"
   },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/museum/glaeserne-tannenbaeumchen/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "SPIELARTEN 26 „du und ich\"",
+  "name": "KinderTreff",
   "location": {
-   "name": "Pulheim"
+   "name": "Hennef"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/spielarten-26-du-und-ich/2026-11-12",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-13",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
@@ -45,11 +45,11 @@
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Bär, der nicht da war\"",
+  "name": "„Coyote vs. Acme“",
   "location": {
-   "name": "Bonn"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-baer-der-nicht-da-war/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/kino/coyote-vs-acme-2/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -59,24 +59,6 @@
    "name": "Bonn"
   },
   "url": "https://www.kaenguru-online.de/kalender/theater/der-baer-der-nicht-da-war/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der König verschenkt was\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-12",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Die Welle\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/die-welle/2026-11-12",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -101,18 +83,36 @@
  {
   "name": "„Emil und die Detektive“",
   "location": {
-   "name": "Bonn"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-2/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
   "name": "„Emil und die Detektive“",
   "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Festtagsspaß mit Peppa\"",
+  "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-2/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Festtagsspaß mit Peppa\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -126,11 +126,38 @@
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
+  "name": "„Nie mehr Oma-Lina-Tag\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/literatur/nie-mehr-oma-lina-tag/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-5/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-13",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
   "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-9/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-9/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -139,43 +166,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Wildwood“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-12",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wildwood“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-1/2026-11-12",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wildwood“",
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-3/2026-11-12",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wildwood“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood/2026-11-12",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-2/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

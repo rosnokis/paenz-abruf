@@ -95,7 +95,7 @@ Entdecke die besten Restaurants, Bars und Plätze in deiner Nähe.
 [Zur neuen Karte!](https://koeln.mitvergnuegen.com/tipps/)
 Diese Artikel könnten dich interessieren
 ★ [21 Ausflüge mit Kindern in und um Köln](https://koeln.mitvergnuegen.com/2026/ausfluege-mit-kindern/)
+[Von alternativ bis traditionell: 21 Weihnachtsmärkte in Köln](https://koeln.mitvergnuegen.com/2026/weihnachtsmaerkte/)
+[11 Ausstellungen in Köln, die ihr nicht verpassen solltet](https://koeln.mitvergnuegen.com/2026/ausstellungen/)
 [11 coole Partys, auf denen ihr den 11.11. feiern könnt](https://koeln.mitvergnuegen.com/2026/11-11-partys-karneval/)
-[11 Dinge, die ihr an einem Sonntag im November machen könnt](https://koeln.mitvergnuegen.com/2026/sonntag-november/)
-[21 Dinge, die ihr in Sülz machen könnt](https://koeln.mitvergnuegen.com/2026/suelz/)
 [Zurück zur Startseite](https://koeln.mitvergnuegen.com)

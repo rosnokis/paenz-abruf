@@ -1,7 +1,7 @@
 # Glessener Mühlenhof (Bergheim) (glessener-muehlenhof)
 
 ## Quelle: https://www.glessener-muehlenhof.de
-00_Glessener Mühlenhof [peterschlich](https://glessener-muehlenhof.de/author/peterschlich/) 2026-03-05T12:48:50+00:00
+00_Glessener Mühlenhof [peterschlich](https://glessener-muehlenhof.de/author/peterschlich/) 2026-11-12T11:58:04+00:00
 Aktuelles
 ★ Kindergeburtstage
 Bauernhoferlebnis
@@ -11,6 +11,7 @@ Homepage vom
 Glessener Mühlenhof
 Glessener Mühlenhof – Das Bauernhoferlebnis
 Öffnungszeiten dienstags – sonntags von 09:00 bis 18:00 Uhr
+Vom 21.12.2026 – 09.02.2027 ist der Glessener Mühlenhof geschlossen (Winterpause!)
 Tickets hier: [im Onlineshop](https://shop.glessener-muehlenhof.de/) oder vor Ort an der Eingangskasse.
 Spielen, lernen, toben in der Natur
 Auf dem Glessener Mühlenhof ist genügend Platz für viele Gäste und verschiedenste Aktivitäten. Überzeugen Sie sich selbst.
