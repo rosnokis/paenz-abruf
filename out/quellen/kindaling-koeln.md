@@ -2,16 +2,13 @@
 
 ## Quelle: https://www.kindaling.de/koeln
 WAS IST LOS IN KÖLN?
-Freitag, 13. November
-★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
-★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Samstag, 14. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
 ★ [10:00 Familienflohmart in den schönen Räumen der Kartause Südstadt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/familienflohmart-in-den-schoenen-raeumen-der-kartause-suedstadt/koeln-innenstadt)
 ★ [10:00 Betongießen für Kinder Frechen](https://www.kindaling.de/malen-basteln/betongiessen-fuer-kinder/frechen)
-[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 ★ [11:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
 [13:00 Regelmäßige Naturerlebnisse Köln Sülz](https://www.kindaling.de/natur/regelmaessige-naturerlebnisse/koeln-suelz)
+[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 ★ [15:00 Offene Kinderwerkstatt Brühl](https://www.kindaling.de/kreatives/offene-kinderwerkstatt/bruehl)
 Sonntag, 15. November
 ★ [10:00 Wie schütze ich mein Kind vor Gewalt? online](https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online)
@@ -20,6 +17,7 @@ Sonntag, 15. November
 ★ [15:00 Lars - der kleine Eisbär Solingen](https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen)
 ★ [18:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Montag, 16. November
+★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
 Dienstag, 17. November
 ★ [9:30 Die Schnecke und der Buckelwal - Leseinszenierung Köln Kalk](https://www.kindaling.de/kindertheater-shows/die-schnecke-und-der-buckelwal-leseinszenierung/koeln-kalk)
 [18:00 Filterblase Körperbild Köln Ehrenfeld](https://www.kindaling.de/sonstige-veranstaltungen/filterblase-koerperbild/koeln-ehrenfeld)
@@ -30,7 +28,9 @@ Donnerstag, 19. November
 ★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 20. November
 ★ [15:00 Baby-Kind-Erste-Hilfe-Seminar Köln Innenstadt](https://www.kindaling.de/sonstige-veranstaltungen/baby-kind-erste-hilfe-seminar/koeln-innenstadt)
+★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Samstag, 21. November
+[10:00 Schule der magischen Tiere Köln Lindenthal](https://www.kindaling.de/schauspiel-theaterkurse/schule-der-magischen-tiere/koeln-lindenthal)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
 [Jetzt buchen](https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl)

@@ -56,8 +56,9 @@ Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
 ★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ Kinderfreundliches Event
 ★ Kinderoper, KÖLN
-★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+★ Sonntag, 15. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
 15.11.26 - 02.01.27
+(morgen)
 ab
 26,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
@@ -69,19 +70,19 @@ Senftöpfchen-Theater, Köln
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-14&checkout=2026-11-18&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-15&checkout=2026-11-19&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-14.11. bis 18.11.26
+15.11. bis 19.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-14&checkout=2026-11-18&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-15&checkout=2026-11-19&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-[Der Geräuschehändler - Pulheim](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
+[Der Geräuschehändler](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 KULTUR- UND MEDIENZENTRUM | Kleiner Saal, Pulheim
 Montag, 16. November 2026 - KULTUR- UND MEDIENZENTRUM | Kleiner Saal - Pulheim - Der Geräuschehändler - Toboso Theater - SPIELARTEN
 16.11.2026
@@ -310,6 +311,37 @@ Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege
 Kartenauschnitt wurde verändert
+November 2026
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Dezember 2026
+31
 Zwecke
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 (633)
@@ -379,34 +411,3 @@ Es werden Werbedienste von Drittanbietern genutzt. Wenn Sie hier zustimmen, werd
 Weitere Informationen
 Drittanbieter
 (737)
-November 2026
-Mo
-Di
-Mi
-Do
-Fr
-Sa
-So
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-Dezember 2026
-31

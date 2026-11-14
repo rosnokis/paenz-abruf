@@ -1,6 +1,6 @@
 URL: https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14
-ABGERUFEN: 2026-11-10T10:42
-VON: kaenguru-maerkte-kalender-kinderflohmaerkte-basare
+ABGERUFEN: 2026-11-14T05:26
+VON: kaenguru-familienmagazin-koeln-bonn
 
 Flohmärkte
 ★ Familien-Flohmarkt-Fest
@@ -32,5 +32,4 @@ Veranstalter Informationen
 [Auf Google Maps anzeigen](https://www.google.de/maps?q=Kastellstr. 21+53227+Bonn)
 Tags:
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/tag/kinderflohmarkt)
-★ [vorherige Veranstaltung Stimmungsvoller Martinsumzu](https://www.kaenguru-online.de/kalender/museum/stimmungsvoller-martinsumzu/2026-11-13)
 [nächste Veranstaltung Kunsthandwerker:innen-Markt](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kunsthandwerkerinnen-markt/2026-11-15)

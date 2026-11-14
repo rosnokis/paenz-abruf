@@ -20,8 +20,9 @@ Aus unserem blog.23.10.2026
 ★ Kölsches Kinderkonzert für die ganze Familie – 15 Jahre ZIRKUSFABRIK & LUPO
 ★ Ein ganz besonderes Kinderkonzert erwartet euch in der Zirkusfabrik: Gemeinsam mit LUPO feiern wir 15 Jahre kölsche Musik, besondere Momente und jede Menge gute Laune – mitten in unserer Zirkusmanege.
 ★ Bereits ab Einlass erwartet euch ein buntes Programm für die ganze Familie: Bei unserem Mitmachzirkus könnt ihr selbst aktiv werden und euch in verschiedenen Zirkusdisziplinen ausprobieren. Außerdem gibt es Kinderschminken und einen kleinen Auftritt unseres Kinder- und Jugendzirkus KLAMAUK, der euch schon vor dem Konzert auf einen besonderen Nachmittag einstimmt.
-★ Karten in der Zirkusfabrik oder online unter www.eventfrog.de / Erwachsene 19,50 Kinder 14,50 Euro
+★ Karten in der Zirkusfabrik / Erwachsene 19,50 Kinder 14,50 Euro
 Sonntag 20.12.2026, Beginn 15:00 Uhr, Einlass 14:30 Uhr
+★ oder online unter [www.eventfrog.de](https://eventfrog.de/de/p/kinderveranstaltungen/konzert/koelsche-toen-foer-paenz-lupo-in-der-zirkusfabrik-koeln-7511733614435939131.html)
 Aus unserem blog.16.10.2026
 [UNLÖSBAR – aktuelle Show des Landesjugendzirkus NRW](https://diezirkusfabrik.com/unloesbar-aktuelle-show-des-landesjugendzirkus-nrw/)
 „Ich bin mehr als das, was ich nicht schaffe“

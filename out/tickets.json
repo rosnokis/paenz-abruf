@@ -6,6 +6,19 @@
    "s": "verfuegbar",
    "txt": "Tickets: Tickets kaufen für Tages-Workshop,,Zirkus total\" in der Zirkusfabrik, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
   },
+  "https://eventfrog.de/de/p/kinderveranstaltungen/konzert/koelsche-toen-foer-paenz-lupo-in-der-zirkusfabrik-koeln-7511733614435939131.html": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "Tickets: Tickets kaufen für Kölsche Tön för Pänz -,,LUPO\" in der Zirkusfabrik, Kinderveranstaltungen / Konzert, Zirkusfabrik Köln Dellbrück"
+  },
+  "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
+   "art": "ticketliste",
+   "geprueft": "2026-11-14T05:26",
+   "s": "teilweise",
+   "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
+   "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
+  },
   "https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -101,6 +114,12 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-14/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-nachmittagsveranstaltung-2026-11-14/": {
    "art": "detailseite",
    "geprueft": "2026-11-13T05:26",
@@ -110,15 +129,21 @@
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
+  },
+  "https://www.guitar-night.de/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "ausverkauft",
+   "txt": "Für Liebhaber der akustischen Gitarrenmusik ist die Konzertreihe „The International Guitar Night“ bereits seit Langem eine Sternstunde im Jahresprogramm. Die jä"
   },
   "https://www.heinzels-wintermaerchen.de/eislaufen/": {
    "art": "detailseite",
@@ -129,7 +154,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -146,7 +171,8 @@
    "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/98962/bookings/new)"
   },
   "https://www.kindaling.de/indoorspielplaetze/freies-spiel-mitmachtheater-kreative-workshops/koeln-nippes": {
-   "geprueft": "2026-11-10T10:42",
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://littlemindsstudio.de)"
   },
@@ -168,10 +194,16 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/66804/bookings/new)"
   },
+  "https://www.kindaling.de/schauspiel-theaterkurse/schule-der-magischen-tiere/koeln-lindenthal": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/95744/bookings/new)"
+  },
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -183,13 +215,13 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -211,11 +243,35 @@
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2570624)"
   },
+  "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)"
+  },
   "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/familienspecial-youtuber-matthias-berger-uncut-keine-kameratricks-pulheim/": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2620760)"
+  },
+  "https://www.qultor.de/veranstaltungen/care-with-handle": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://www.benjaminrichter.net/performances/carewithhandle)"
+  },
+  "https://www.qultor.de/veranstaltungen/der-verliebte-papagei-1": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://kabarett-a-z.de/start/karten/)"
+  },
+  "https://www.qultor.de/veranstaltungen/el-goma-greatest-hits": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://zeitfuerzirkus.de/events/greatest-hits/)"
   },
   "https://www.qultor.de/veranstaltungen/ich-1": {
    "art": "detailseite",
@@ -225,9 +281,21 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-13T05:26",
+   "geprueft": "2026-11-14T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
+  },
+  "https://www.qultor.de/veranstaltungen/robodonien-leuchtet-2026": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://rausgegangen.de/events/robodonien-leuchtet-17/)"
+  },
+  "https://www.qultor.de/veranstaltungen/stromseitwaerts-den-bach-bewahren": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://zamusfestival.ticket.io/LvREgXWq/)"
   },
   "https://www.qultor.de/veranstaltungen/what-zeitgenoessisches-zirkusvariete": {
    "art": "detailseite",
@@ -324,7 +392,13 @@
    "geprueft": "2026-11-13T05:26",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/parolen-paroli-event-5846)"
+  },
+  "https://zeitfuerzirkus.de/events/greatest-hits/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-14T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-13T05:26"
+ "stand": "2026-11-14T05:26"
 }

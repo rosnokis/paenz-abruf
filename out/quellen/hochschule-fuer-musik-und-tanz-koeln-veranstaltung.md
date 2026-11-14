@@ -2,27 +2,21 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2023-klavierabend-1-1-1-2-1-2-2-1/)
-13.11.2026
-19:30
-Uhr
-Konzertsaal Wuppertal
-Wuppertal
-Klavierabend
-[Violinenabend im Büchelmuseum](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-11-2026-violinenabend-im-buechelmuseum/)
-Büchelmuseum - Rote Burg
-Aachen
-Violinenabend im Büchelmuseum
 [Herbstkonzert - Kölner Orchestergesellschaft](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-herbstkonzert-koelner-orchestergesellschaft/)
 14.11.2026
 18:00
+Uhr
 Konzertsaal
 Köln
 Herbstkonzert - Kölner Orchestergesellschaft
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2023-violinabend-1-3-2-1-1-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Violinabend
 [SINFONIEKONZERT IM AACHENER DOM](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-sinfoniekonzert-im-aachener-dom/)
 Aachener Dom
+Aachen
 SINFONIEKONZERT IM AACHENER DOM
 [Gesangmatinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-11-2023-gesangsabend-1-1-1-1-1-1/)
 15.11.2026
@@ -42,6 +36,7 @@ SINFONIEKONZERT IN DER KATHEDRALE VON REIMS
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1/)
 16.11.2026
 19:00
+Klavierabend
 [Off Campus - Salsa Combo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-11-2026-off-campus-salsa-combo/)
 20:00
 King Georg

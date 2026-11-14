@@ -1,0 +1,26 @@
+URL: https://www.kirche-koeln-muelheim.de/
+ABGERUFEN: 2026-11-14T05:26
+VON: muelheimer-freiheit-termine
+
+Willkommen auf der Homepage der Evangelischen Kirchengemeinde Mülheim am Rhein!
+Aktuelles
+[Beitrag | Wir suchen Musizierende](https://www.kirche-koeln-muelheim.de/wir-suchen-musizierende/)
+Wir, das sind MAG – Menschen aus der Gemeinde. Dein Alter spielt (wie man oben sieht) keine große Rolle. Du musst auch
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/wir-suchen-musizierende/)
+[Einladung | Stummfilmklassiker mit Livemusik |Donnerstag, 19.11.2026, 19:00 Uhr!!!! | Friedenskirche](https://www.kirche-koeln-muelheim.de/einladung-stummfilmklassiker-mit-livemusik-freitag-19-11-2026-ca-1800-uhr-friedenskirche/)
+Gruselfaktor mit Wunderklängen – Stummfilmklassiker mit Livemusik in der Friedenskirche „Nosferatu! Klingt dieser Name nicht wie der Mitternachtsruf des Todesvogels?“ So wird es
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/einladung-stummfilmklassiker-mit-livemusik-freitag-19-11-2026-ca-1800-uhr-friedenskirche/)
+[Einladung | Golden Stories | Freitag, 20.11.2026, 19:30 Uhr | Veedelskirche Andreae-Haus](https://www.kirche-koeln-muelheim.de/einladung-golden-stories-freitag-20-11-2026-1930-uhr-veedelskirche-andreae-haus/)
+Golden Stories – besondere Geschichten, die bleiben. Golden Stories heißt unsere Konzertreihe, die aufstrebenden lokalen Indie Künstler*innen einen Raum bietet. Sie schaffen
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/einladung-golden-stories-freitag-20-11-2026-1930-uhr-veedelskirche-andreae-haus/)
+[Beitrag | Lotsenpunkt – Sozialsprechstunde Unterstützung für Menschen in Not Neues Beratungsangebot!](https://www.kirche-koeln-muelheim.de/beitrag-lotsenpunkt-sozialsprechstunde-unterstuetzung-fuer-menschen-in-not-neues-beratungsangebot/)
+★ Neues Beratungsangebot in Mülheim! Bei Fragen, Sorgen oder Probleme mit Behörden, Anträgen, Finanzen, Familie oder im Alltag – Frau Isabel Heinrichs (CaritasKöln)
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/beitrag-lotsenpunkt-sozialsprechstunde-unterstuetzung-fuer-menschen-in-not-neues-beratungsangebot/)
+[Einladung | Weihnachtsmarkt in Buchforst | Freitag, 26.11.2026, 14:00 Uhr | „Waldecker Plätzchen“ in Buchforst](https://www.kirche-koeln-muelheim.de/einladung-weihnachtsmarkt-in-buchforst-freitag-26-11-2026-1400-uhr-waldecker-plaetzen-in-buchforst/)
+Traditionell wird am Wochenende vor dem 1. Advent in Buchforst die Weihnachtszeit mit einem bunten und klangvollen „Fest für alle“ eingeleitet. Am
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/einladung-weihnachtsmarkt-in-buchforst-freitag-26-11-2026-1400-uhr-waldecker-plaetzen-in-buchforst/)
+[Einladung | Offene Adventkirche – (Kölsche) Weihnachtsgeschichten | 1. Advent 29.11.2026, 16:00 Uhr | Kreuzkirche](https://www.kirche-koeln-muelheim.de/einladung-offene-adventkirche-koelsche-weihnachtsgeschichten-1-advent-29-11-2026-1600-uhr-kreuzkirche/)
+mit Aliki, Harald und Marie van Bonn, Marcel Wirtz Wir beginnen dieses Jahr am 29.11.2026 (1. Advent) mit einem „Quartett“, das einiges
+[weiterlesen »](https://www.kirche-koeln-muelheim.de/einladung-offene-adventkirche-koelsche-weihnachtsgeschichten-1-advent-29-11-2026-1600-uhr-kreuzkirche/)
+Kommende Termine
+img.event__image{display:none;}

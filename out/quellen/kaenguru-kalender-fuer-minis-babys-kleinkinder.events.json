@@ -9,15 +9,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Frühstückstreff für Schwangere und frisch gebackene Eltern",
-  "location": {
-   "name": "Hennef"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern-1/2026-11-13",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Guck an! – Kindertagespflegepersonen öffnen ihre Türen",
   "location": {
    "name": "Bonn"
@@ -108,6 +99,24 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "„Der Grüffelo\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Der Grüffelo\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-23",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„Der fliegende Koffer\"",
   "location": {
    "name": "Köln"
@@ -140,15 +149,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die kleine Eidechse\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

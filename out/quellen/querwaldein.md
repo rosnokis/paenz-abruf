@@ -22,12 +22,6 @@ Natur – Team – Bildung
 Selbsterfahrung und Beratung
 [Hier geht's zu unseren Preisen und Veranstaltungsorten](https://www.querwaldein.de/preise/)
 Anstehende Veranstaltungen
-13. Nov. 2026
-Bonn, Grüne Spielstadt
-Freitag
-[Fortbildung: Feuerworkshop](https://www.querwaldein.de/events/feuerworkshop-altes-wissen-neu-entdecken-692/)
-An der Schwarzen Brücke, 53121 Bonn
-[Details](https://www.querwaldein.de/events/feuerworkshop-altes-wissen-neu-entdecken-692/)
 14. Nov. 2026
 Köln, GartenClub Ossendorf
 Samstag
@@ -39,6 +33,11 @@ Köln, Gut Leidenhausen
 [Fortbildung: Projektvorstellung & Reflexion](https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/)
 Gut Leidenhausen 1, 51147 Köln
 [Details](https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/)
+23. Nov. 2026
+online
+Montag
+[Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein & Groß“](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
+[Details](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
 Keine Veranstaltung gefunden
 [Weitere Veranstaltungen](https://www.querwaldein.de/kalender/)
 Natur…

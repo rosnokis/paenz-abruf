@@ -1,181 +1,181 @@
 [
  {
-  "name": "Es weihnachtet ...",
+  "name": "Basar",
   "location": {
-   "name": null
+   "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/es-weihnachtet-1/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Frühstückstreff für Schwangere und frisch gebackene Eltern",
-  "location": {
-   "name": "Hennef"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern-1/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/basar/2026-11-14",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Gläserne Tannenbäumchen",
+  "name": "Die Olchis – Das große Weltraumabenteuer",
   "location": {
-   "name": "Linnich"
+   "name": "Erkrath"
   },
-  "url": "https://www.kaenguru-online.de/kalender/museum/glaeserne-tannenbaeumchen/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/die-olchis-das-grosse-weltraumabenteuer/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "KinderTreff",
+  "name": "Die große Schoko-Schule",
   "location": {
-   "name": "Hennef"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-14",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Die kleine Schoko-Schule",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-14",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familien-Flohmarkt-Fest",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Steinofenbrot",
+  "name": "Familienbacktag an der Gymnicher Mühle",
   "location": {
-   "name": "Königswinter"
+   "name": "Erftstadt"
   },
-  "url": "https://www.kaenguru-online.de/kalender/museum/steinofenbrot/2026-11-13",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/familienbacktag-an-der-gymnicher-muehle/2026-11-14",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Coyote vs. Acme“",
+  "name": "Familienflohmarkt",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/coyote-vs-acme-2/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-1/2026-11-14",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Figuren-Werkstatt",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Bär, der nicht da war\"",
+  "name": "JUBi - Die Jugendbildungsmesse",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-baer-der-nicht-da-war/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jubi-die-jugendbildungsmesse-1/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Die Welle\"",
+  "name": "Kinderflohmarkt",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/die-welle/2026-11-13",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/304-kinderflohmarkt/2026-11-14",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Die kleine Eidechse\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Emil und die Detektive“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-2/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Emil und die Detektive“",
+  "name": "Kindernähkurs",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-13",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/kindernaehkurs/2026-11-14",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Festtagsspaß mit Peppa\"",
+  "name": "Kunstbasar terre des hommes",
+  "location": {
+   "name": "Bergisch Gladbach"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/kunstbasar-terre-des-hommes/2026-11-14",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Mein erster Kinobesuch: „Der kleine Rabe Socke: Suche nach dem verlorenen Schatz\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Festtagsspaß mit Peppa\"",
+  "name": "Spielzeugbasar",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/spielzeugbasar/2026-11-14",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Studieninfotag",
+  "location": {
+   "name": "Alfter"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/studieninfotag/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Marla, die Maifliege\"",
+  "name": "Tag der offenen Tür",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/musik/tag-der-offenen-tuer-11/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Nie mehr Oma-Lina-Tag\"",
+  "name": "Wochenendspaß in der MutReiferei: Traumfänger",
   "location": {
-   "name": "Bonn"
+   "name": "Leverkusen"
   },
-  "url": "https://www.kaenguru-online.de/kalender/literatur/nie-mehr-oma-lina-tag/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-traumfaenger/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-5/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "name": "„Das Geheimnis der gestohlenen Maske\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/kino/das-geheimnis-der-gestohlenen-maske-1/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-9/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "name": "„Der Grüffelo\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/theater/der-grueffelo-1/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "name": "„Der fliegende Koffer\"",
   "location": {
-   "name": "Bonn"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-2/2026-11-13",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-fliegende-koffer/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

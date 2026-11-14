@@ -157,15 +157,6 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-13",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Marla, die Maifliege\"",
-  "location": {
-   "name": "Köln"
-  },
   "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
@@ -176,6 +167,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Marla, die Maifliege\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  }

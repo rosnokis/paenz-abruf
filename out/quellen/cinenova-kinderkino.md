@@ -10,12 +10,12 @@ Kinoprogramm
 ★ [→ Zum Kinderprogramm](https://www.cinenova.de/kinderprogramm/)
 Kommende
 Filmstarts
-WILD HORSE NINE – 12.11.26
 LIEBLINGSMENSCHEN – 19.11.26
 DER REGENBOGENFISCH – 19.11.26
 LA BOLA NEGRA – 19.11.26
 AUF DER SUCHE NACH DER WEIHNACHTSWERKSTATT – 26.11.26
 FROM INSIDE OUT – 26.11.26
+ZUSAMMEN IST MAN WENIGER GETRENNT – 03.12.26
 Unsere
 Besonderheiten
 [SURF & OUTDOORFILME](https://www.cinenova.de/surf-outdoor-filme/)

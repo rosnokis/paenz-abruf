@@ -3,37 +3,30 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Dieses Stahlwerk eine Stunde von Köln ist jetzt ein Erlebnispark](https://verliebtinkoeln.com/landschaftspark-duisburg-nord-stahlwerk-erlebnispark/)
+Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und zwischen Industrieanlagen spazieren gehen. Der Landschaftspark Duisburg-Nord ist ein Ausflugsziel, das es in dieser Form nur selten gibt. Auf…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 4 Min. Lesedauer
+[11 Dinge, die Auswärtige in Köln niemals tun sollten](https://verliebtinkoeln.com/11-dinge-die-auswaertige-in-koeln-niemals-tun-sollten/)
+13.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
+[Dieser Durchgang ist das sagenumwobenste Tor Kölns](https://verliebtinkoeln.com/dieser-durchgang-ist-das-sagenumwobenste-tor-koelns/)
+13.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[Wie wird der Strich auf dem Bierdeckel in Köln genannt?](https://verliebtinkoeln.com/wie-wird-der-strich-auf-dem-bierdeckel-in-koeln-genannt/)
 [Was versteckt sich am Kölner Dom? 7 Fragen zu seinen ungewöhnlichen Figuren](https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/)
-Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche ungewöhnliche Figuren entdecken. Einige sind erst in den vergangenen Jahrzehnten entstanden. Andere erzählen Geschichten, die selbst viele Kölner nicht…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 4 Min. Lesedauer
-[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
 13.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
 [Wo gibt es das beste Wiener Schnitzel in Köln? Diese 5 Restaurants empfehlen unsere Leser](https://verliebtinkoeln.com/bestes-wiener-schnitzel-koeln/)
 12.11.2026 • [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[1,64 Milliarden Euro für den WDR: Wofür gibt der Sender sein Geld aus?](https://verliebtinkoeln.com/wdr-haushalt-kosten-ausgaben-2026/)
-12.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[Köln dieses Wochenende: Die große Übersicht mit allen Tipps](https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/)
-12.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[12 kostenlose Ausflugsziele in Köln und Umgebung, die sich wirklich lohnen](https://verliebtinkoeln.com/ausfluege-koeln-kostenlos/)
-12.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Melatenfriedhof: Wer liegt wo? 9 Tipps für Gräber von Prominenten](https://verliebtinkoeln.com/melatenfriedhof-koeln-willi-herren-millowitsch-dirk-bach-9-graeber-von-prominenten-und-wo-sie-liegen/)
-Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 3 Min. Lesedauer
-Außen knusprig, innen zart und am besten mit einem guten Kartoffelsalat serviert: Ein Wiener Schnitzel gehört zu den Klassikern der österreichischen Küche. Doch wo bekommt…
-[Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 5 Min. Lesedauer
+Jede Stadt hat ja ihre eigenen speziellen Regeln und natürlich ist das in Köln auch so – vielleicht sogar noch ein bisschen mehr, als in…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 2 Min. Lesedauer
+Es liegt etwas abseits der großen Menschenströme in der Stadt und dennoch zentral. Das Dreikönigenpförtchen (Dreikünnijepöötzche) an St. Maria im Kapitol ist jedoch ein Stück…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 13.11.2026 • 2 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+Jede Stadt hat ja ihre eigenen speziellen Regeln und natürlich ist das in Köln auch so – vielleicht sogar noch ein bisschen mehr,…
+Es liegt etwas abseits der großen Menschenströme in der Stadt und dennoch zentral. Das Dreikönigenpförtchen (Dreikünnijepöötzche) an St. Maria im Kapitol ist jedoch…
+Im Brauhaus läuft vieles nach festen Regeln – auch wenn es auf den ersten Blick chaotisch wirkt. Die Köbesse wuseln mit vollen Kränzen…
 [So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
 Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
-[4 Radiosender, auf denen das ganze Jahr kölsche Musik läuft](https://verliebtinkoeln.com/4-radio-sender-auf-denen-du-das-ganze-jahr-koelsche-musik-hoerst/)
-Kölsche Musik hört man in Köln nicht nur an Karneval. Ob Bläck Fööss, Brings, Höhner, Kasalla oder Cat Ballou: Wer die Lieder aus…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 5 Min. Lesedauer
-[Warum nur wenige Kölner Gaststätten Päffgen Kölsch ausschenken](https://verliebtinkoeln.com/warum-nur-wenige-koelner-gaststaette-paeffgen-koelsch-ausschenken/)
-Päffgen gehört zu den bekanntesten und beliebtesten Kölsch-Sorten in Köln. In einer Umfrage von Verliebt in Köln zu den beliebtesten Kölsch-Marken belegte Päffgen…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 5 Min. Lesedauer
-[Was kostet eine Wohnung im Kranhaus im Rheinauhafen?](https://verliebtinkoeln.com/kranhaus-rheinauhafen-koeln-wohnung-kaufen-mieten-anzeigen/)
-Eine Wohnung im Kranhaus kaufen oder mieten? Die drei Kranhäuser gehören zu den bekanntesten Gebäuden Kölns. Für die einen sind sie ein architektonisches…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 07.11.2026 • 4 Min. Lesedauer
 [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
 [11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
 Ein Regenschirm ist ein Paraplü, ein Federbett heißt Plümo und wer von einer Mösch spricht, meint einen Spatz. In der kölschen Sprache haben…
@@ -48,18 +41,21 @@ Wenn die Tage kälter werden, kommt auch wieder die Zeit der Frostbeulen. Kalte 
 Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stück Prummetaat. An Latein denken dabei wohl die wenigsten. Dabei reicht die…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
+Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und…
+[Köln dieses Wochenende: Die große Übersicht mit allen Tipps](https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/)
 Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtkunst, die ersten Weihnachtsmärkte, Konzerte, Ausstellungen und ein Heimspiel…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 7 Min. Lesedauer
+[12 kostenlose Ausflugsziele in Köln und Umgebung, die sich wirklich lohnen](https://verliebtinkoeln.com/ausfluege-koeln-kostenlos/)
 Ein schöner Ausflug muss nicht viel Geld kosten. In Köln und der Umgebung gibt es zahlreiche Ausflugsziele, die man besuchen kann, ohne Eintritt…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 7 Min. Lesedauer
+[Melatenfriedhof: Wer liegt wo? 9 Tipps für Gräber von Prominenten](https://verliebtinkoeln.com/melatenfriedhof-koeln-willi-herren-millowitsch-dirk-bach-9-graeber-von-prominenten-und-wo-sie-liegen/)
 Der Melatenfriedhof in Köln ist die letzte Ruhestätte für tausende Menschen aus den vergangenen Jahrhunderten. Er erzählt zugleich auch ein Stück Kölner Stadt…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 4 Min. Lesedauer
-[Neuer Weihnachtsmarkt im Mediapark: Schlitten soll in 50 Metern Höhe schweben](https://verliebtinkoeln.com/weihnachtsmarkt-mediapark-koeln/)
-Köln bekommt 2026 einen neuen Weihnachtsmarkt: Am 19. November eröffnet „Santas Weihnachtsmarkt“ im Mediapark. Der Eintritt ist kostenlos. Rund 80 Stände, ein Weihnachtsrestaurant…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 3 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 4 Min. Lesedauer
 Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 3 Min. Lesedauer
 [Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
 Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer

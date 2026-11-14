@@ -12,15 +12,7 @@ SA
 10
 11
 12
-FR 13.11.
-[Politik & Gesellschaft Das Ringen um Menschenrechte und Umweltschutz 15:00 · Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/das-ringen-um-menschenrechte-und-umweltschutz/)
-[Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-3/)
-[FR 13.11. Psychologische Beratung 09:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-7/)
-[FR 13.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-32/)
-★ [FR 13.11. Offener Kindertreff 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/offener-kindertreff-2/)
-[FR 13.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-8/)
-[FR 13.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-12/)
-[FR 13.11. Write & Sing Your Song 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/write-sing-your-song-4/)
+13
 SA 14.11.
 [Politik & Gesellschaft Gemeinsam die Zukunft der Alten Feuerwache gestalten 10:30 · Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/gemeinsam-die-zukunft-der-alten-feuerwache-gestalten/)
 [Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-4/)

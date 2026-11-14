@@ -1,8 +1,8 @@
 # Erlebnisbauernhof Gertrudenhof (Hürth) (erlebnisbauernhof-gertrudenhof-huerth)
 
 ## Quelle: http://www.erlebnisbauernhof-gertrudenhof.de
-Vom 09.11. bis 12.11.2026 ist das Erlebnisgelände aufgrund des Umbaus geschlossen!
-Ab dem 13.11.2026 öffnet unser [Gertrudenhof Hunde-Weihnachtsmarkt](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
+Vom 13.11. bis zum 15.11.2026 öffnet
+unser [Gertrudenhof Hunde-Weihnachtsmarkt](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
 Slide
 WILLKOMMEN AUF DEM
 Gertrudenhof
@@ -24,8 +24,8 @@ vorbestellen
 Weihnachtsbaum
 Verkauf, ab dem 19.11.26
 Heutige Öffnungszeiten
-Freitag, 13.11.2026
-GESCHLOSSEN
+Samstag, 14.11.2026
+11.00 – 19.00 Uhr
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr
 Erlebnis-Gelände auf dem Gertrudenhof

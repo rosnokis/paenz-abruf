@@ -13,17 +13,14 @@ Film wählen
 Spielzeit wählen
 Home
 Heute im Programm:
-[17:20](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F5F481000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [20:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F4F481000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
-[19:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F6F481000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[17:15](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F7F481000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[14:40](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F04581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[15:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F8F481000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[17:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FA1370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [20:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F91370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
+[15:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F71370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[19:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FB1370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[18:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F81370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[14:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F9F381000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
 Heute im Programm
 Wild Horse Nine
-Heimsuchung - Eine...
-Leica – Ein Jahrhundert in...
-Biermann
-Frau Winkler verlässt das Haus
+Shaun das Schaf - Spuk im...
 [Lesung & Gespräch: Sasa Hanten](https://www.weisshaus-kino.de/event/127148)
 In Zusammenarbeiten mit dem Buchladen Sülzburgstraße 27
 Donnerstag, 03.12.2026 um 20:00 Uhr

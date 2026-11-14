@@ -6,17 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-13)
-★ Eine Insektenoper als mobile Produktion für KiTas
-13.11.2026
-10:30 Uhr
-★ Kinderoper Köln
-Köln
 [Tag der offenen Tür](https://www.kaenguru-online.de/kalender/musik/tag-der-offenen-tuer-11/2026-11-14)
 Die Kölner Domsingschule in Köln-Lindenthal öffnet ihre Türen
 14.11.2026
 11:00 - 13:00 Uhr
 Kölner Domsingschule
+Köln
 [„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-14)
 ★ Klassisches Weihnachtsballett mit Tschaikowskis Musik für die ganze Familie
 15:00 Uhr
@@ -26,6 +21,7 @@ Bonn
 ★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
 15.11.2026
 11:30 Uhr
+★ Kinderoper Köln
 [„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15)
 14:00 Uhr
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
@@ -54,7 +50,9 @@ Oper Bonn
 25.11.2026
 Bürgerhaus Kalk
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
+★ Eine Insektenoper als mobile Produktion für KiTas
 26.11.2026
+10:30 Uhr
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
 27.11.2026
 ★ [Kinder singen hier & jetzt](https://www.kaenguru-online.de/kalender/musik/kinder-singen-hier-jetzt-1/2026-11-28)
@@ -79,3 +77,5 @@ Pulheim
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
 16:30 Uhr
 15:30 Uhr
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
+02.12.2026

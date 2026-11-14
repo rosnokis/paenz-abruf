@@ -11,28 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Pop-Up-Café im Stöckchen",
-  "startDate": "2026-11-13T14:00:00+01:00",
-  "endDate": "2026-11-13T17:00:00+01:00",
-  "location": {
-   "name": "Escher Straße 160",
-   "address": "Escher Straße 160"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "Umzugscafé",
-  "startDate": "2026-11-13T14:00:00+01:00",
-  "endDate": "2026-11-13T18:00:00+01:00",
-  "location": {
-   "name": "Umzugscafé",
-   "address": "Umzugscafé"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "Offene Fahrradwerkstatt",
   "startDate": "2026-11-14T12:00:00+01:00",
   "endDate": "2026-11-14T17:00:00+01:00",
@@ -46,7 +24,7 @@
  {
   "name": "Umzugscafé",
   "startDate": "2026-11-18T14:00:00+01:00",
-  "endDate": "2026-11-18T18:00:00+01:00",
+  "endDate": "2026-11-18T20:00:00+01:00",
   "location": {
    "name": "Umzugscafé",
    "address": "Umzugscafé"

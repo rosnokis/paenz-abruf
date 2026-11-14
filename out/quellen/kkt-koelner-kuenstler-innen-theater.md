@@ -20,15 +20,10 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-[2×2 – Zirkus-Kurzstücke](https://www.k-k-t.de/stuecke/double-bill)
-Wir machen auf unserer Bühne Platz für Zeit für Zirkus
-Nächste Termine
-Freitag, 13. November 2026
-17:30 Uhr
-Zeit für Zirkus
 ★ Kindertheater
 [Das kleine Zottel Mottel und das Bergwuschel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-und-das-bergwuschel)
 Zottel Mottel und das Bergwuschel lüften ein Geheimnis
+Nächste Termine
 Samstag, 14. November 2026
 16:00 Uhr
 Sonntag, 15. November 2026
@@ -38,3 +33,11 @@ Das kleine Zottel Mottel entdeckt die Welt
 Montag, 16. November 2026
 10:00 Uhr
 Bitte vorab reservieren
+Jugendtheater
+[Die anderen Anderen - Öteki Ötekiler](https://www.k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend)
+Zwischen uns. Drei Außenseiter:innen treffen an einem versteckten Ort aufeinander. Sie haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Es gibt einen wichtigen Grund, warum sie hier sind. Und ein wichtiges Problem: Sie können sich nicht ausstehen.
+Mittwoch, 18. November 2026
+PREMIERE
+Freitag, 20. November 2026
+20:00 Uhr
+Abendpremiere

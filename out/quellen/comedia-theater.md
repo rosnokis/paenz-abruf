@@ -11,9 +11,6 @@ ab jetzt für euch geöffnet
 Bauchgefühl 2026, Bittertropfen Series
 Ausstellung: Kamalanetra Hung
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/ausstellung-bauchgefuehl-2026-bittertropfen-series/)
-Hera Lind: Erhobenen Hauptes
-Hera Lind stellt neuen Roman über die Holocaust-Überlebende Tamar Dreifuß vor
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/hera-lind-erhobenen-hauptes/)
 Gina Waibel und Annabelle Kwofie: FUN FACTS
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-gina-waibel-und-annabelle-kwofie/)
 Horst Evers: So gesehen, natürlich lustig
@@ -30,10 +27,16 @@ Hallenmarkt
 Tina Teubner:
 Protokoll der Sehnsucht
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/)
+8+
+Der fabelhafte Die
+von Sergej Gößner
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/)
+13+
+Erinnerung eines Mädchens
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
 Willkommen
 Willkommen in der HALLE
 Ausstellung
-Hera Lind
 Gina Waibel
 Horst Evers
 Impro Köln
@@ -45,22 +48,10 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-12.11.
-Do 19:00 Uhr
-[Hera Lind: Erhobenen Hauptes »](https://comedia-koeln.de/programm/unsere-gaeste/hera-lind-erhobenen-hauptes/)
-[Tickets](https://rausgegangen.de/events/kolner-buchpremiere-hera-lind-stellt-neuen-roman-uber-die-ho-0/)
-13.11.
-Fr 19:00 Uhr
-[Gina Waibel und Annabelle Kwofie: FUN FACTS »](https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-gina-waibel-und-annabelle-kwofie/)
-Comedia Theater (Grüner Saal)
-[Tickets](https://api.qultor.de/gina-waibel-und-annabelle-kwofie-fun-facts/gina-waibel-und-annabelle-kwofie-fun-facts-2026-11-13-1900/tickets)
-Fr 20:00 Uhr
-[Horst Evers: So gesehen, natürlich lustig »](https://comedia-koeln.de/programm/unsere-gaeste/horst-evers-so-gesehen-natuerlich-lustig/)
-Comedia Theater (Roter Saal)
-[Tickets](https://api.qultor.de/horst-evers-so-gesehen-natuerlich-lustig/horst-evers-so-gesehen-natuerlich-lustig-2026-11-13-2000/tickets)
 14.11.
 Sa 19:30 Uhr
 [Impro Köln: Werwölfe - Mörderisch. Gut. Improvisiert. »](https://comedia-koeln.de/programm/unsere-gaeste/impro-koeln-werwoelfe/)
+Comedia Theater (Roter Saal)
 [Tickets](https://api.qultor.de/impro-koeln-werwoelfe-moerderisch-gut-improvisiert/impro-koeln-werwoelfe-moerderisch-gut-improvisiert-2026-11-14-1930/tickets)
 Sa 20:00 Uhr
 [Köfte & Karaoke »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/koefte-karaoke/)
@@ -73,18 +64,16 @@ So 13:00 Uhr
 Der Hallenmarkt geht in die zweite Runde!
 So 19:00 Uhr
 [Tina Teubner: Protokolle der Sehnsucht »](https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/)
+Comedia Theater (Grüner Saal)
 [Tickets](https://api.qultor.de/tina-teubner-protokolle-der-sehnsucht/tina-teubner-protokolle-der-sehnsucht-2026-11-15-1900/tickets)
 18.11.
 Mi 09:00 Uhr
 [Der fabelhafte Die »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/)
-von Sergej Gößner
-8+
 [Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Mi 10:00 Uhr
 [Erinnerung eines Mädchens »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
 in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux
 Comedia Theater (Studio)
-13+
 Mi 12:00 Uhr
 [Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
 Mi 19:00 Uhr
@@ -93,12 +82,14 @@ Relaxed Performance
 19.11.
 Do 11:00 Uhr
 Do 12:00 Uhr
+Do 19:00 Uhr
 Entfällt
 BINGO
 Bingo & Music Bingo in der HALLE - Eintritt frei!
 [Tickets](https://halle.comedia-koeln.de/)
 20.11.
 Fr 11:00 Uhr
+Fr 19:00 Uhr
 [Tickets](https://api.qultor.de/erinnerung-eines-maedchens/erinnerung-eines-maedchens-2026-11-20-1900/tickets)
 21.11.
 Sa 19:00 Uhr
@@ -110,5 +101,15 @@ Sa 20:30 Uhr
 Sa 20:31 Uhr
 [Marco Pogo: Lost & Found »](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
 [Tickets](https://api.qultor.de/marco-pogo-lost-found/marco-pogo-lost-found-2026-11-21-2030/tickets)
+22.11.
+So 18:00 Uhr
+[Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
+★ von Sergej Gößner, für alle ab 5 Jahren
+5+
+[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-22-1800/tickets)
+24.11.
+Di 09:00 Uhr
+[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
+Di 11:00 Uhr
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

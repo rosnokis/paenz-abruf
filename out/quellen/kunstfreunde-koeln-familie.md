@@ -75,7 +75,7 @@ Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Mu
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.
-Unterwegs, Museum Ludwig, Wallraf
+Museum Ludwig, Wallraf, Unterwegs
 [einfach schöne Kunsterlebnisse verschenken](https://kunstfreunde.koeln/events/gutschein-fuer-kunstkind/)
 ★ Du kennst bereits unsere Kunst+Kind-Führungen? Möchtest diese aber Deinen Freund*innen oder Bekannten mit Babys schmackhaft machen?
 Dafür haben wir schön gestaltete Geschenkgutscheine im Angebot.

@@ -1,43 +1,5 @@
 [
  {
-  "name": "Gina Waibel und Annabelle Kwofie: FUN FACTS",
-  "startDate": "2026-11-13T19:00:00+01:00",
-  "endDate": "2026-11-13T21:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Grüner Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-gina-waibel-und-annabelle-kwofie/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Horst Evers: So gesehen, natürlich lustig",
-  "startDate": "2026-11-13T20:00:00+01:00",
-  "endDate": "2026-11-13T22:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Roter Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-gaeste/horst-evers-so-gesehen-natuerlich-lustig/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
   "name": "Impro Köln: Werwölfe - Mörderisch. Gut. Improvisiert.",
   "startDate": "2026-11-14T19:30:00+01:00",
   "endDate": "2026-11-14T21:30:00+01:00",
@@ -293,6 +255,63 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-22T18:00:00+01:00",
+  "endDate": "2026-11-22T20:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-24T09:00:00+01:00",
+  "endDate": "2026-11-24T11:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-24T11:00:00+01:00",
+  "endDate": "2026-11-24T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

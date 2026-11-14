@@ -5,85 +5,98 @@
 Was ist los in Köln, Bonn und der Region? Schaut auch mal in unsere ausgewählten [Wochenend-Tipps mit Kids](https://www.kaenguru-online.de/themen/ausflug/sechs-tipps-fuer-das-wochenende).
 Informiert euch vor eurem Besuch, ob ihr euch anmelden oder Tickets reservieren müsst!
 Viel Vergnügen!
-© amriphoto / Getty Images Signature
-[Es weihnachtet... und die großen Weihnachtsmärkte in Köln und Bonn öffnen vor dem ersten Advent ihre Pforten 13.11.2026 Köln und Bonn](https://www.kaenguru-online.de/kalender/feste-und-maerkte/es-weihnachtet-1/2026-11-13)
+© Truecreatives / TrueCreatives
+★ [Guck an! – Kindertagespflegepersonen öffnen ihre Türen Tag der offenen Tür bei Bonner Kindertagespflegepersonen für Familien 14.11.2026, 14:00 Uhr bis 17:00 Uhr Netzwerk Kindertagespflege Bonn, 53111 Bonn](https://www.kaenguru-online.de/kalender/fuer-minis/guck-an-kindertagespflegepersonen-oeffnen-ihre-tueren/2026-11-14)
 Veranstaltung suchen
 Onlineangebot
-[Feste und Märkte](https://www.kaenguru-online.de/kalender/feste-und-maerkte)
-[Es weihnachtet...](https://www.kaenguru-online.de/kalender/feste-und-maerkte/es-weihnachtet-1/2026-11-13)
-und die großen Weihnachtsmärkte in Köln und Bonn öffnen vor dem ersten Advent ihre Pforten
-13.11.2026
-Uhr
-[Theater](https://www.kaenguru-online.de/kalender/theater)
-[„Der Bär, der nicht da war"](https://www.kaenguru-online.de/kalender/theater/der-baer-der-nicht-da-war/2026-11-13)
-★ Musiktheater für Kinder ab 4 Jahren
-10:00 Uhr
-Theater Marabu Bonn
+[Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
+★ [Familien-Flohmarkt-Fest](https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14)
+★ Familienflohmarkt mit Kinderdisco, Kinderschminken und Bilderbuchkino
+14.11.2026
+09:30 - 13:00 Uhr
+Kath. Pfarrheim Oberkassel
 Bonn
 [Für Teenager](https://www.kaenguru-online.de/kalender/fuer-teenager)
-[„Die Welle"](https://www.kaenguru-online.de/kalender/fuer-teenager/die-welle/2026-11-13)
-★ Eine Theaterproduktion nach dem Roman von Morton Rhue für Jugendliche ab 12 Jahren
-19:30 Uhr
-Junges Theater Bonn
+[Studieninfotag](https://www.kaenguru-online.de/kalender/fuer-teenager/studieninfotag/2026-11-14)
+Studieninfotag für Jugendliche und junge Erwachsene rund um Studium und Bewerbung
+10:00 - 16:00 Uhr
+Alanus Hochschule für Kunst und Gesellschaft
+Alfter
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Frühstückstreff für Schwangere und frisch gebackene Eltern](https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern-1/2026-11-13)
-★ Kostenfreier Austausch für Schwangere und frisch gebackene Eltern
-10:00 - 11:30 Uhr
-Generationenhaus Hennef
-Hennef
-[Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-13)
-★ Eine Insektenoper als mobile Produktion für KiTas
-10:30 Uhr
-★ Kinderoper Köln
-Köln
-★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13)
-Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
-11:00 Uhr
+★ [„Der fliegende Koffer"](https://www.kaenguru-online.de/kalender/fuer-minis/der-fliegende-koffer/2026-11-14)
+★ Ein Krabbeltheater-Stück für Kinder ab 2 Jahren nach Hans C. Andersen
+10:00 Uhr
 Horizont Theater
+Köln
+★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-1/2026-11-14)
+★ Kinderflohmarkt des Fördervereins der KiTa Kartause
+10:00 - 14:00 Uhr
+Kartäuserkirche
+[Natur und Umwelt](https://www.kaenguru-online.de/kalender/natur-und-umwelt)
+★ [Familienbacktag an der Gymnicher Mühle](https://www.kaenguru-online.de/kalender/natur-und-umwelt/familienbacktag-an-der-gymnicher-muehle/2026-11-14)
+★ Die Lehrbäckerei öffnet ihre Türen für Kinder ab 5 Jahre mit ihren Familien
+10:00 - 13:00 Uhr
+Naturparkzentrum Gymnicher Mühle
+Erftstadt
+[Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
+★ [Kindernähkurs](https://www.kaenguru-online.de/kalender/dies-und-das/kindernaehkurs/2026-11-14)
+★ Kreative Nähprojekte für Anfänger:innen ohne Vorkenntnisse für Kinder ab 7 Jahren
+10:00 - 12:00 Uhr
+Ninibutz Atelier Bonn
+[JUBi - Die Jugendbildungsmesse](https://www.kaenguru-online.de/kalender/fuer-teenager/jubi-die-jugendbildungsmesse-1/2026-11-14)
+Kostenlose Infomesse zum Thema Auslandsaufenthalte
+Schulzentrum Hardtberg
 [Museum](https://www.kaenguru-online.de/kalender/museum)
-[Steinofenbrot](https://www.kaenguru-online.de/kalender/museum/steinofenbrot/2026-11-13)
-Steinofenbrot aus dem „Königswinterer Ofen"
-14:00 - 15:30 Uhr
-Siebengebirgsmuseum
-Königswinter
+[Figuren-Werkstatt](https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-14)
+★ Der Schokoladenkurs für alle Schokoladenfans ab 8 Jahren
+10:15 Uhr
+Schokoladenmuseum
+[Die kleine Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-14)
+★ Familienführung durch die vielfältige Welt des Kakaos und der Schokolade
+10:30 Uhr
+[Die Olchis – Das große Weltraumabenteuer](https://www.kaenguru-online.de/kalender/natur-und-umwelt/die-olchis-das-grosse-weltraumabenteuer/2026-11-14)
+★ Animiertes 360°-Weltraumabenteuer mit den Olchis für Kinder ab 5 Jahren
+10:30 - 11:30 Uhr
+Planetarium Erkrath
+Erkrath
+★ [Spielzeugbasar](https://www.kaenguru-online.de/kalender/maerkte/spielzeugbasar/2026-11-14)
+★ Spiele, Bücher, Kinderfahrzeuge aller Art
+11:00 - 12:30 Uhr
+★ Martinushaus Esch
+★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/304-kinderflohmarkt/2026-11-14)
+★ Im Pfarrheim St. Barbara gibt alles rund ums Kind
+11:00 - 14:00 Uhr
+★ Kita St. Barbara Bonn
+[Die große Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-14)
+★ Familienführung mit Verkostung
+11:00 Uhr
+[Musik](https://www.kaenguru-online.de/kalender/musik)
+[Tag der offenen Tür](https://www.kaenguru-online.de/kalender/musik/tag-der-offenen-tuer-11/2026-11-14)
+Die Kölner Domsingschule in Köln-Lindenthal öffnet ihre Türen
+11:00 - 13:00 Uhr
+Kölner Domsingschule
+[Feste und Märkte](https://www.kaenguru-online.de/kalender/feste-und-maerkte)
+★ [Kunstbasar terre des hommes](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kunstbasar-terre-des-hommes/2026-11-14)
+★ Kunsthandwerksbasar mit Magie, Kinderprogramm und mehr als 80 Aussteller:innen
+11:00 - 18:00 Uhr
+Bürgerhaus Bergischer Löwe
+Bergisch Gladbach
+★ [Basar](https://www.kaenguru-online.de/kalender/feste-und-maerkte/basar/2026-11-14)
+★ Herbstbasar für Familien an der Freien Waldorfschule Bonn und im Kindergarten
+11:00 - 17:00 Uhr
+Freie Waldorfschule Bonn
 [Kino](https://www.kaenguru-online.de/kalender/kino)
-[„Emil und die Detektive“](https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-2/2026-11-13)
-★ Eine zeitgemäße Adaption des weltberühmten Kinderbuchklassikers von Erich Kästner
-14:00 Uhr
-Rex am Ring
-[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-5/2026-11-13)
-Am Halloween-Abend auf der Mossy Bottom Farm verwandelt sich die Aufregung in Bestürzung, als der tollpatschige Farmer das Kürbisfeld ruiniert
-Metropolis
-[„Coyote vs. Acme“](https://www.kaenguru-online.de/kalender/kino/coyote-vs-acme-2/2026-11-13)
-In dem Film, den ACME nie zeigen wollte, läuft das kultige Gegenspielerpaar Kojote und Road Runner zu Höchstform auf
-[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-13)
-14:15 Uhr
-[„Festtagsspaß mit Peppa"](https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa/2026-11-13)
-★ Ein festliches Kinoabenteuer, in dem Peppa Wutz und ihre Familie Evies erstes Weihnachtsfest feiern
-14:20 Uhr
-[Literatur](https://www.kaenguru-online.de/kalender/literatur)
-★ [KinderTreff](https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-13)
-Geschichten hören, Bilder betrachten, miteinander reden, malen, basteln, singen, spielen
-14:30 - 15:30 Uhr
-Stadtbibliothek Hennef
-[Gläserne Tannenbäumchen](https://www.kaenguru-online.de/kalender/museum/glaeserne-tannenbaeumchen/2026-11-13)
-★ Weihnachtsworkshop zum Basteln beleuchteter Glastannenbäumchen für Kinder von 8 bis 12 Jahren
-14:30 - 16:30 Uhr
-Glasmalerei-Museum Linnich
-Linnich
-[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-9/2026-11-13)
-14:30 Uhr
-Sternlichtspiele Cinestar Bonn
-[„Festtagsspaß mit Peppa"](https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-13)
-[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-13)
-14:50 Uhr
-Filmpalast Cineplex Köln
-[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-2/2026-11-13)
-15:00 Uhr
-WOKI
-[„Emil und die Detektive“](https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-13)
-[„Nie mehr Oma-Lina-Tag"](https://www.kaenguru-online.de/kalender/literatur/nie-mehr-oma-lina-tag/2026-11-13)
-★ Bilderbuchkino im Rahmen der Veranstaltungsreihe „Fühlst du die Liebe“ für Kinder ab 3 Jahren
-15:15 Uhr
-Stadtteilbibliothek Tannenbusch
+[„Das Geheimnis der gestohlenen Maske"](https://www.kaenguru-online.de/kalender/kino/das-geheimnis-der-gestohlenen-maske-1/2026-11-14)
+★ Aufführung für Kinder und Familien im Rahmen des Afrikafilmfestivals
+Lichtspiele Kalk
+[Wochenendspaß in der MutReiferei: Traumfänger](https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-traumfaenger/2026-11-14)
+★ Offenes Bastelangebot für Kinder mit wechselnden Kreativaktionen
+NaturGut Ophoven
+Leverkusen
+[Theater](https://www.kaenguru-online.de/kalender/theater)
+[„Der Grüffelo"](https://www.kaenguru-online.de/kalender/theater/der-grueffelo-1/2026-11-14)
+★ Puppentheater nach dem Kinderbuchklassiker für Kinder ab 2 Jahren
+★ Barber´s Puppentheater für Kinder im Kölner Jugendpark
+[Mein erster Kinobesuch: „Der kleine Rabe Socke: Suche nach dem verlorenen Schatz"](https://www.kaenguru-online.de/kalender/kino/der-kleine-rabe-socke-suche-nach-dem-verlorenen-schatz/2026-11-14)
+Eine geheimnisvolle Schatzkarte lässt den kleinen Rabe Socke davon träumen, König des Waldes zu werden
+Cinenova

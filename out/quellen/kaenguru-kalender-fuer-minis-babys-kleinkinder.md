@@ -6,21 +6,12 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Frühstückstreff für Schwangere und frisch gebackene Eltern](https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern-1/2026-11-13)
-★ Kostenfreier Austausch für Schwangere und frisch gebackene Eltern
-13.11.2026
-10:00 - 11:30 Uhr
-Generationenhaus Hennef
-Hennef
-★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-13)
-Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
-11:00 Uhr
-Horizont Theater
-Köln
 ★ [„Der fliegende Koffer"](https://www.kaenguru-online.de/kalender/fuer-minis/der-fliegende-koffer/2026-11-14)
 ★ Ein Krabbeltheater-Stück für Kinder ab 2 Jahren nach Hans C. Andersen
 14.11.2026
 10:00 Uhr
+Horizont Theater
+Köln
 ★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-14)
 ★ Das Ensemble Nicopoulos zeigt ein Krabbeltheater für Kinder ab 2 Jahren
 11:30 Uhr
@@ -41,7 +32,9 @@ KKT Kölner Künstler:innen Theater
 16.11.2026
 ★ [Babys in Bewegung](https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16)
 ★ Kostenfreies Angebot mit der Familienhebamme der Stadt Hennef
+10:00 - 11:30 Uhr
 ★ Familienzentrum Waldwichtel Hennef-Lichtenberg
+Hennef
 ★ [Spieletreff](https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17)
 ★ Spieletreff für Kinder von 3 bis 6 Jahren
 17.11.2026
@@ -55,6 +48,7 @@ Museum Schloss Morsbroich
 Leverkusen
 ★ [KUNST+KIND: Mit Baby ins Ludwig](https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-ins-ludwig-1/2026-11-18)
 ★ Junge Eltern haben die Gelegenheit, den Babyalltag hinter sich zu lassen
+11:00 Uhr
 Freunde des Wallraf-Richartz-Museum und des Museum Ludwig
 ★ [Kinderwagen-Kino „Der perfekte Urlaub“](https://www.kaenguru-online.de/kalender/fuer-minis/kinderwagen-kino-der-perfekte-urlaub/2026-11-18)
 ★ Aktuelle Filme für Eltern mit Baby
@@ -85,3 +79,9 @@ Theater Wolkenstein bei Barnes Crossing
 11:00 - 12:30 Uhr
 Max Ernst Museum Brühl im Fantasie Labor
 Brühl
+★ [„Der Grüffelo"](https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-22)
+★ Nach dem Bilderbuch von Julia Donaldson und Axel Scheffler für Kinder ab 3 Jahren
+Junges Theater Bonn
+★ [„Der Grüffelo"](https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-23)
+23.11.2026
+09:30 Uhr
