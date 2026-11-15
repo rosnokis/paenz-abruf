@@ -1,19 +1,19 @@
 [
  {
+  "name": "Baby-Massage",
+  "location": {
+   "name": "Hennef"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-23",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "Babys in Bewegung",
   "location": {
    "name": "Hennef"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "Guck an! – Kindertagespflegepersonen öffnen ihre Türen",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/guck-an-kindertagespflegepersonen-oeffnen-ihre-tueren/2026-11-14",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -63,20 +63,29 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "Museumsflöhe",
+  "location": {
+   "name": "Leverkusen"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit/2026-11-24",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "Spieletreff",
   "location": {
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Das kleine Zottel Mottel und das Bergwuschel\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-und-das-bergwuschel/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -117,24 +126,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "„Der fliegende Koffer\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-fliegende-koffer/2026-11-14",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die Kuh Swantje\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-14",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "„Die Kuh Swantje\"",
   "location": {
    "name": "Köln"
@@ -158,6 +149,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Kleiner Drache, wünsch dir was\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

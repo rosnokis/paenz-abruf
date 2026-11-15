@@ -24,8 +24,6 @@ Unsere nächsten Aufführungen
 [Das kleine Zottel Mottel und das Bergwuschel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-und-das-bergwuschel)
 Zottel Mottel und das Bergwuschel lüften ein Geheimnis
 Nächste Termine
-Samstag, 14. November 2026
-16:00 Uhr
 Sonntag, 15. November 2026
 15:00 Uhr
 [Das kleine Zottel Mottel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel)

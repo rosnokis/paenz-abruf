@@ -13,11 +13,7 @@ SA
 11
 12
 13
-SA 14.11.
-[Politik & Gesellschaft Gemeinsam die Zukunft der Alten Feuerwache gestalten 10:30 · Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/gemeinsam-die-zukunft-der-alten-feuerwache-gestalten/)
-[Kultur Futur3: Glotzt nicht so romantisch! 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-4/)
-[SA 14.11. Frauengruppe des Eritreischen Sozial und -Kulturvereins 16:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/frauengruppe-des-eritreischen-sozial-und-kulturvereins-16/)
-[SA 14.11. Frauengruppe des Eritreischen Sozial und -Kulturvereins 16:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/frauengruppe-des-eritreischen-sozial-und-kulturvereins/)
+14
 SO 15.11.
 [Kultur Futur3: Glotzt nicht so romantisch! 18:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-5/)
 [SO 15.11. Verein für deutsch-kurdische Freundschaft 14:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/verein-fuer-deutsch-kurdische-freundschaft-6/)

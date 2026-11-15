@@ -5,7 +5,7 @@ Wohin möchtest du?
 Reiseziele werden geladen …
 Filter 1
 Karte
-Reisedaten eingeben
+Zeitraum eingeben
 Filter
 Kategorie
 [Führungen & Rundgänge](https://www.mvp.de/koeln/veranstaltungen/fuehrungen-rundgaenge/)
@@ -58,7 +58,7 @@ Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
 ★ Kinderoper, KÖLN
 ★ Sonntag, 15. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
 15.11.26 - 02.01.27
-(morgen)
+(heute)
 ab
 26,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
@@ -70,12 +70,12 @@ Senftöpfchen-Theater, Köln
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-15&checkout=2026-11-19&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-16&checkout=2026-11-20&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-15.11. bis 19.11.26
+16.11. bis 20.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-15&checkout=2026-11-19&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-16&checkout=2026-11-20&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
@@ -86,6 +86,7 @@ Anzeigen finanzieren dieses Portal.
 KULTUR- UND MEDIENZENTRUM | Kleiner Saal, Pulheim
 Montag, 16. November 2026 - KULTUR- UND MEDIENZENTRUM | Kleiner Saal - Pulheim - Der Geräuschehändler - Toboso Theater - SPIELARTEN
 16.11.2026
+(morgen)
 0 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)

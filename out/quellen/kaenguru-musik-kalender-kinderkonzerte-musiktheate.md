@@ -6,31 +6,24 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[Tag der offenen Tür](https://www.kaenguru-online.de/kalender/musik/tag-der-offenen-tuer-11/2026-11-14)
-Die Kölner Domsingschule in Köln-Lindenthal öffnet ihre Türen
-14.11.2026
-11:00 - 13:00 Uhr
-Kölner Domsingschule
-Köln
-[„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-14)
-★ Klassisches Weihnachtsballett mit Tschaikowskis Musik für die ganze Familie
-15:00 Uhr
-Beethovenhalle Bonn
-Bonn
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-15)
 ★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
 15.11.2026
 11:30 Uhr
 ★ Kinderoper Köln
+Köln
 [„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15)
+★ Klassisches Weihnachtsballett mit Tschaikowskis Musik für die ganze Familie
 14:00 Uhr
+Beethovenhalle Bonn
+Bonn
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
 19.11.2026
 [Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
 ★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
 21.11.2026
-11:00 Uhr
 13:00 Uhr
+11:00 Uhr
 Philharmonie
 [Metal-Tour Heavysaurus](https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21)
 ★ Metal-Konzert mit Dinosauriern und Drachen für Kinder von 3 bis 11 Jahren
@@ -62,6 +55,7 @@ Bürgerhaus Kalk
 Paul-Gerhardt-Kirche Lindenthal
 [„Das Schäfchen und der Stern"](https://www.kaenguru-online.de/kalender/musik/das-schaefchen-und-der-stern-1/2026-11-28)
 ★ Kinderkonzert
+15:00 Uhr
 Abtei Brauweiler
 Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
@@ -75,7 +69,13 @@ Pulheim
 01.12.2026
 ★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-16:30 Uhr
 15:30 Uhr
+16:30 Uhr
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
+★ [Bilderbuchkonzert „Im Winterschlaf"](https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02)
+★ Bilderbuchkonzert für Kinder von 3 bis 6 Jahren
+16:00 - 16:45 Uhr
+★ Kindernöte e.V.
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-03)
+03.12.2026

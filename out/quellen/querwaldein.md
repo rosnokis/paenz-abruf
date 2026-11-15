@@ -22,14 +22,9 @@ Natur – Team – Bildung
 Selbsterfahrung und Beratung
 [Hier geht's zu unseren Preisen und Veranstaltungsorten](https://www.querwaldein.de/preise/)
 Anstehende Veranstaltungen
-14. Nov. 2026
-Köln, GartenClub Ossendorf
-Samstag
-★ [Fortbildung: Gärtnern mit Kindern – Traumgarten – Von der Planung zur Umsetzung](https://www.querwaldein.de/events/gaertnern-mit-kindern-traumgarten/)
-Henriette-Ackermann-Straße 26, 50827 Köln
-★ [Details](https://www.querwaldein.de/events/gaertnern-mit-kindern-traumgarten/)
 21. Nov. 2026
 Köln, Gut Leidenhausen
+Samstag
 [Fortbildung: Projektvorstellung & Reflexion](https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/)
 Gut Leidenhausen 1, 51147 Köln
 [Details](https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/)
@@ -38,6 +33,10 @@ online
 Montag
 [Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein & Groß“](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
 [Details](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
+20. Feb. 2027
+Wird noch bekannt gegeben
+[Fortbildung: Tierspuren und Zeichen lesen](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
+[Details](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
 Keine Veranstaltung gefunden
 [Weitere Veranstaltungen](https://www.querwaldein.de/kalender/)
 Natur…

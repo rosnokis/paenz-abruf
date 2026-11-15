@@ -15,8 +15,7 @@ Mai
 Juni
 Juli
 15.11.2026
-15.11.
-2026
+Heute
 So., 11:00
 Kammermusiksaal am Kartäuserwall 40, 50676 Köln
 Kammerkonzert
@@ -26,6 +25,7 @@ ab 18,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=369&language=de)
 20.11.2026
 20.11.
+2026
 Fr., 19:00
 Kölner Philharmonie
 Sinfoniekonzert

@@ -11,17 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Offene Fahrradwerkstatt",
-  "startDate": "2026-11-14T12:00:00+01:00",
-  "endDate": "2026-11-14T17:00:00+01:00",
-  "location": {
-   "name": "Offene Fahrradwerkstatt",
-   "address": "Offene Fahrradwerkstatt"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "Umzugscafé",
   "startDate": "2026-11-18T14:00:00+01:00",
   "endDate": "2026-11-18T20:00:00+01:00",

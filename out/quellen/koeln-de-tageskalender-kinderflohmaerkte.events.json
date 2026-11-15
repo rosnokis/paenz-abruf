@@ -1,14 +1,5 @@
 [
  {
-  "name": "Familienflohmarkt der Kita Kartause",
-  "startDate": "2026-11-14T10:00:00+01:00",
-  "endDate": "2026-11-14T14:00:00+01:00",
-  "url": "https://www.koeln.de/event/familienflohmarkt-der-kita-kartause/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
- },
- {
   "name": "Kinder- und Familien-Weihnachtsflohmarkt im Kölner Norden",
   "startDate": "2026-11-15T11:00:00+01:00",
   "endDate": "2026-11-15T16:00:00+01:00",

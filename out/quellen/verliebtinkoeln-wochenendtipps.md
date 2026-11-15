@@ -3,30 +3,33 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
-[Dieses Stahlwerk eine Stunde von Köln ist jetzt ein Erlebnispark](https://verliebtinkoeln.com/landschaftspark-duisburg-nord-stahlwerk-erlebnispark/)
-Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und zwischen Industrieanlagen spazieren gehen. Der Landschaftspark Duisburg-Nord ist ein Ausflugsziel, das es in dieser Form nur selten gibt. Auf…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 4 Min. Lesedauer
-[11 Dinge, die Auswärtige in Köln niemals tun sollten](https://verliebtinkoeln.com/11-dinge-die-auswaertige-in-koeln-niemals-tun-sollten/)
-13.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Dieser Durchgang ist das sagenumwobenste Tor Kölns](https://verliebtinkoeln.com/dieser-durchgang-ist-das-sagenumwobenste-tor-koelns/)
-13.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-[Wie wird der Strich auf dem Bierdeckel in Köln genannt?](https://verliebtinkoeln.com/wie-wird-der-strich-auf-dem-bierdeckel-in-koeln-genannt/)
-[Was versteckt sich am Kölner Dom? 7 Fragen zu seinen ungewöhnlichen Figuren](https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/)
-13.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
-[Wo gibt es das beste Wiener Schnitzel in Köln? Diese 5 Restaurants empfehlen unsere Leser](https://verliebtinkoeln.com/bestes-wiener-schnitzel-koeln/)
-12.11.2026 • [Essen und Trinken in Köln](https://verliebtinkoeln.com/category/essen-und-trinken-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-Jede Stadt hat ja ihre eigenen speziellen Regeln und natürlich ist das in Köln auch so – vielleicht sogar noch ein bisschen mehr, als in…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 2 Min. Lesedauer
-Es liegt etwas abseits der großen Menschenströme in der Stadt und dennoch zentral. Das Dreikönigenpförtchen (Dreikünnijepöötzche) an St. Maria im Kapitol ist jedoch ein Stück…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 13.11.2026 • 2 Min. Lesedauer
+[Ein Buch über Menschen, die in Köln eine neue Heimat fanden](https://verliebtinkoeln.com/wir-kuckucksbuerger-buch-koeln-sandro-kenda/)
+Dieser Text stammt aus dem Newsletter des Kölner Presseclubs. Autor ist Peter Pauls, der unter anderem Chefredakteur des Kölner Stadt-Anzeigers war. Verliebt in Köln übernimmt den Text mit freundlicher Genehmigung. (Foto: Peter Pauls) Was hält 33 Lebensgeschichten von 30 Autoren aus 17 Ländern…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 5 Min. Lesedauer
+[Die „Madonna in den Trümmern“ – versteckt in der Kölner Innenstadt](https://verliebtinkoeln.com/madonna-in-den-truemmern-kolumba-koeln/)
+15.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[Neues Winterdeck auf dem Rhein: Hier gibt es Glühwein mit Domblick – Eintritt frei](https://verliebtinkoeln.com/winterdeck-koeln-duesseldorfer-2026-rhein-gluehwein/)
+15.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
+[Kölsche Sudoku am Sonntag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-sonntag-hier-kostenlos-am-handy-oder-computer-spielen/)
+14.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Kennst du die Bedeutung dieser 7 Kölner Straßennamen? Mach den Test](https://verliebtinkoeln.com/quiz-koelner-strassennamen-bedeutung/)
+14.11.2026 • [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Wie hoch die Miete im alten 4711-Haus in Köln-Ehrenfeld ist](https://verliebtinkoeln.com/wie-hoch-die-miete-im-alten-4711-haus-in-koeln-ehrenfeld-ist/)
+14.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
+[Die Heinzelmännchen zu Köln: Der wahre Kern der uralten Sage](https://verliebtinkoeln.com/heinzelmaennchen-koeln-geschichte/)
+Mitten in der Kölner Innenstadt gibt es eine Kirche, die von außen kaum als solche zu erkennen ist. Sie liegt im Gebäude des Kolumba-Museums, hat…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 4 Min. Lesedauer
+Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenheiten und weihnachtliche Musik: In Köln gibt es in diesem Advent einen neuen Treffpunkt…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/) • 15.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+Mitten in der Kölner Innenstadt gibt es eine Kirche, die von außen kaum als solche zu erkennen ist. Sie liegt im Gebäude des…
+Es ist eines der auffälligsten Gebäude in Köln-Ehrenfeld: das ehemalige 4711-Haus an der Venloer Straße. Noch immer prangt der große 4711-Schriftzug über dem…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 3 Min. Lesedauer
+Nachts erledigten sie die Arbeit, morgens war alles fertig: Der Sage nach machten die Heinzelmännchen den Kölner Handwerkern das Leben leicht. Bis eine…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 6 Min. Lesedauer
+[11 Dinge, die Auswärtige in Köln niemals tun sollten](https://verliebtinkoeln.com/11-dinge-die-auswaertige-in-koeln-niemals-tun-sollten/)
 Jede Stadt hat ja ihre eigenen speziellen Regeln und natürlich ist das in Köln auch so – vielleicht sogar noch ein bisschen mehr,…
-Es liegt etwas abseits der großen Menschenströme in der Stadt und dennoch zentral. Das Dreikönigenpförtchen (Dreikünnijepöötzche) an St. Maria im Kapitol ist jedoch…
-Im Brauhaus läuft vieles nach festen Regeln – auch wenn es auf den ersten Blick chaotisch wirkt. Die Köbesse wuseln mit vollen Kränzen…
-[So sah es früher in der Bastei am Rheinufer aus](https://verliebtinkoeln.com/so-sah-es-frueher-in-der-bastei-am-rheinufer-in-koeln-aus/)
-Ein festlicher Saal. Die 4er-Tische sind gedeckt. Auf jedem Tisch eine Lampe. In der Mitte hängt ein prunkvoller Kronleuchter. Am Bildrand ist ein…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 09.11.2026 • 2 Min. Lesedauer
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 2 Min. Lesedauer
 [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
 [11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
 Ein Regenschirm ist ein Paraplü, ein Federbett heißt Plümo und wer von einer Mösch spricht, meint einen Spatz. In der kölschen Sprache haben…
@@ -41,27 +44,27 @@ Wenn die Tage kälter werden, kommt auch wieder die Zeit der Frostbeulen. Kalte 
 Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stück Prummetaat. An Latein denken dabei wohl die wenigsten. Dabei reicht die…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
+Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenheiten und weihnachtliche Musik: In Köln gibt es in diesem Advent einen…
+[Dieses Stahlwerk eine Stunde von Köln ist jetzt ein Erlebnispark](https://verliebtinkoeln.com/landschaftspark-duisburg-nord-stahlwerk-erlebnispark/)
 Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 4 Min. Lesedauer
 [Köln dieses Wochenende: Die große Übersicht mit allen Tipps](https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/)
 Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtkunst, die ersten Weihnachtsmärkte, Konzerte, Ausstellungen und ein Heimspiel…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 7 Min. Lesedauer
 [12 kostenlose Ausflugsziele in Köln und Umgebung, die sich wirklich lohnen](https://verliebtinkoeln.com/ausfluege-koeln-kostenlos/)
 Ein schöner Ausflug muss nicht viel Geld kosten. In Köln und der Umgebung gibt es zahlreiche Ausflugsziele, die man besuchen kann, ohne Eintritt…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 7 Min. Lesedauer
-[Melatenfriedhof: Wer liegt wo? 9 Tipps für Gräber von Prominenten](https://verliebtinkoeln.com/melatenfriedhof-koeln-willi-herren-millowitsch-dirk-bach-9-graeber-von-prominenten-und-wo-sie-liegen/)
-Der Melatenfriedhof in Köln ist die letzte Ruhestätte für tausende Menschen aus den vergangenen Jahrhunderten. Er erzählt zugleich auch ein Stück Kölner Stadt…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 4 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Willkommen beim kölschen Sudoku am Sonntag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 14.11.2026 • 3, 3 Min. Lesedauer
+Wer durch Köln geht, begegnet auf vielen Straßenschildern einem Stück Stadtgeschichte. Manche Namen erinnern an Berufe, die es längst nicht mehr gibt. Andere…
+[Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 14.11.2026 • 3 Min. Lesedauer
+[Was versteckt sich am Kölner Dom? 7 Fragen zu seinen ungewöhnlichen Figuren](https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/)
 Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 4 Min. Lesedauer
+[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
 Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 3 Min. Lesedauer
-[Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
-Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 2, 2, 2 Min. Lesedauer
-[9 kölsche Karnevalswörter, die nicht jeder versteht – wie viele kennst du?](https://verliebtinkoeln.com/koelsche-woerter-karneval/)
-Was ist eigentlich ein Pluutemann? Wer wird in Köln als Muuzepuckel bezeichnet? Und was machen die Roten Funken beim Stippeföttche? Im Kölner Karneval…
-[Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 10.11.2026 • 4 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 [1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
 Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…

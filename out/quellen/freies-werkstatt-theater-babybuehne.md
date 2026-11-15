@@ -35,10 +35,6 @@ Fr 27
 Sa [28](https://www.fwt-koeln.de/spielplan/tag/2026/11/28)
 So [29](https://www.fwt-koeln.de/spielplan/tag/2026/11/29)
 Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
-13.11.2026
-Fr, 20:00 Uhr
-Performance | Von Marlin de Haan Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher Geschichte, recherchierten Marlin de Haan & Team zu zurückgelassenen Lebensmittelpunkten, neuen und alten Heimaten, Ritualen und Relikten, Erinnerungen und Lücken. HEUTE PREMIERE. Mit Publikumsgespräch nach der Vorstellung und Verdolmetschung in Deutsche Gebärdensprache
-[Tickets](https://tickets.qultor.de/event/teller-im-topf/teller-im-topf-2026-11-13-2000)
 14.11.2026
 Sa, 20:00 Uhr
 Performance | Von Marlin de Haan | Themenreihe FOCUS ON: TIPPING POINTS Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher Geschichte, recherchierten Marlin de Haan & Team zu zurückgelassenen Lebensmittelpunkten, neuen und alten Heimaten, Ritualen und Relikten, Erinnerungen und Lücken.
@@ -53,4 +49,6 @@ Do, 10:00 Uhr
 20.11.2026
 Fr, 10:00 Uhr
 [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1000)
+Fr, 18:00 Uhr
+[Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1800)
 [Gesamter Spielplan](https://www.fwt-koeln.de/spielplan)

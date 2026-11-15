@@ -48,16 +48,6 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-14.11.
-Sa 19:30 Uhr
-[Impro Köln: Werwölfe - Mörderisch. Gut. Improvisiert. »](https://comedia-koeln.de/programm/unsere-gaeste/impro-koeln-werwoelfe/)
-Comedia Theater (Roter Saal)
-[Tickets](https://api.qultor.de/impro-koeln-werwoelfe-moerderisch-gut-improvisiert/impro-koeln-werwoelfe-moerderisch-gut-improvisiert-2026-11-14-1930/tickets)
-Sa 20:00 Uhr
-[Köfte & Karaoke »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/koefte-karaoke/)
-Late Night Koch- und Unterhaltugsshow mit Kübra Sekin und Gäst*innen
-Halle
-Ausverkauft
 15.11.
 So 13:00 Uhr
 ★ [Flohmarkt in der HALLE »](https://comedia-koeln.de/magazin/flohmarkt-in-der-halle/)
@@ -105,11 +95,21 @@ Sa 20:31 Uhr
 So 18:00 Uhr
 [Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
 ★ von Sergej Gößner, für alle ab 5 Jahren
+Comedia Theater (Roter Saal)
 5+
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-22-1800/tickets)
 24.11.
 Di 09:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
 Di 11:00 Uhr
+Di 19:00 Uhr
+[Titanic »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
+Eine Komödie über schöne Menschen, die große Gefühle spielen
+Halle
+15+
+[Tickets](https://api.qultor.de/titanic/titanic-2026-11-24-1900/tickets)
+25.11.
+Mi 11:00 Uhr
+[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-25-1100/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

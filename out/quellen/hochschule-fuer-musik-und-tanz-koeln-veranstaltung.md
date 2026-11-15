@@ -2,25 +2,12 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Herbstkonzert - Kölner Orchestergesellschaft](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-herbstkonzert-koelner-orchestergesellschaft/)
-14.11.2026
-18:00
-Uhr
-Konzertsaal
-Köln
-Herbstkonzert - Kölner Orchestergesellschaft
-[Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2023-violinabend-1-3-2-1-1-1/)
-19:30
-Konzertsaal Wuppertal
-Wuppertal
-Violinabend
-[SINFONIEKONZERT IM AACHENER DOM](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-11-2026-sinfoniekonzert-im-aachener-dom/)
-Aachener Dom
-Aachen
-SINFONIEKONZERT IM AACHENER DOM
 [Gesangmatinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-11-2023-gesangsabend-1-1-1-1-1-1/)
 15.11.2026
 11:00
+Uhr
+Konzertsaal Wuppertal
+Wuppertal
 Gesangmatinée
 [The Next Generation](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-the-next-generation/)
 17:00
@@ -30,12 +17,16 @@ The Next Generation
 [Hornabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-hornabend/)
 18:30
 Kammermusiksaal
+Köln
 Hornabend
 [SINFONIEKONZERT IN DER KATHEDRALE VON REIMS](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-sinfoniekonzert-im-aachener-dom/)
+19:30
 SINFONIEKONZERT IN DER KATHEDRALE VON REIMS
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1/)
 16.11.2026
 19:00
+Konzertsaal
+Aachen
 Klavierabend
 [Off Campus - Salsa Combo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-11-2026-off-campus-salsa-combo/)
 20:00
@@ -50,6 +41,7 @@ Lunchtime-Konzerte in St. Kunibert
 DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
 18.11.2026
+18:00
 Ringvorlesung - KANONS IN DER KRISE
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-1-2-2/)
 Flötenabend
@@ -63,6 +55,7 @@ Chorkonzert - Chorakademie und Ensemble des WDR Rundfunkchores
 20.11.2026
 Kontrabassabend
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1/)
+Violinabend
 [Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-orchesterkonzert-american-rhapsody-1/)
 Orchesterkonzert - Rhapsody in Blue
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
@@ -218,6 +211,7 @@ Neue-Musik-Abend 2/2
 [Musik zur Heiligen Nacht](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-12-2026-musik-zur-heiligen-nacht/)
 24.12.2026
 23:59
+Aachener Dom
 Musik zur Heiligen Nacht
 Januar 2027
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-01-2027-ringvorlesung-kanons-in-der-krise/)

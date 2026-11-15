@@ -1,5 +1,14 @@
 [
  {
+  "name": "Bilderbuchkonzert „Im Winterschlaf\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "Im Zauberwald",
   "location": {
    "name": "Köln"
@@ -32,15 +41,6 @@
    "name": "Bergheim"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "Tag der offenen Tür",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/tag-der-offenen-tuer-11/2026-11-14",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
@@ -112,15 +112,6 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-14",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Der Nussknacker\"",
-  "location": {
-   "name": "Bonn"
-  },
   "url": "https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
@@ -176,6 +167,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Marla, die Maifliege\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-03",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  }

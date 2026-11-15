@@ -49,7 +49,6 @@ Lesung
 ★ Mitmachführung
 Performance
 Podiumsdiskussion
-Tagung
 Tanz
 Vortrag
 Weiterbildung

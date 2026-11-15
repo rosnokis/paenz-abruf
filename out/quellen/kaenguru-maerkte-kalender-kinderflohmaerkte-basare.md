@@ -7,38 +7,17 @@
 ★ Wenn ihr hier nicht fündig werdet, schaut doch mal in unsere [Übersicht der Baby & Kinder Second Hand Läden in Köln und Bonn](https://www.kaenguru-online.de/themen/familienleben/secondhand-kaufen). Auch hier gibt es tolle Secondhand Sachen und das fast jeden Tag.
 Trödelmarkt-Termine in Köln, Bonn und der Region:
 [Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-★ [Familien-Flohmarkt-Fest](https://www.kaenguru-online.de/kalender/maerkte/familien-flohmarkt-fest/2026-11-14)
-★ Familienflohmarkt mit Kinderdisco, Kinderschminken und Bilderbuchkino
-14.11.2026
-09:30 - 13:00 Uhr
-Kath. Pfarrheim Oberkassel
-Bonn
-★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-1/2026-11-14)
-★ Kinderflohmarkt des Fördervereins der KiTa Kartause
-10:00 - 14:00 Uhr
-Kartäuserkirche
-Köln
-★ [Spielzeugbasar](https://www.kaenguru-online.de/kalender/maerkte/spielzeugbasar/2026-11-14)
-★ Spiele, Bücher, Kinderfahrzeuge aller Art
-11:00 - 12:30 Uhr
-★ Martinushaus Esch
-★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/304-kinderflohmarkt/2026-11-14)
-★ Im Pfarrheim St. Barbara gibt alles rund ums Kind
-11:00 - 14:00 Uhr
-★ Kita St. Barbara Bonn
-[Kamelle-Kreisel: Süßigkeiten weitergeben statt wegwerfen](https://www.kaenguru-online.de/kalender/maerkte/kamelle-kreisel-suessigkeiten-weitergeben-statt-wegwerfen/2026-11-14)
-★ Nachhaltige Tauschaktion für übrig gebliebene Süßigkeiten rund um St. Martin
-13:00 - 15:00 Uhr
-St. Karl Sülz
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15)
 ★ Kinderbasar
 15.11.2026
+10:00 - 14:00 Uhr
 ★ Kita AWO Tummelkiste Wesseling
 Wesseling
 [Trödelmarkt](https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-11-15)
 innen und außen!
 11:00 - 17:00 Uhr
 Bürgerzentrum Engelshof
+Köln
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-267/2026-11-15)
 ★ Vorsortierter Trödel für Kinderkleidung und Spielwaren
 14:00 - 16:00 Uhr
@@ -48,6 +27,7 @@ im Nachbarschaftszentrum Brüser Berg
 21.11.2026
 09:00 - 13:00 Uhr
 ★ Elterninitiative Brüser Zwerge
+Bonn
 [Spielzeug-Second-Hand-Markt](https://www.kaenguru-online.de/kalender/maerkte/spielzeug-second-hand-markt/2026-11-21)
 ★ Spielzeug, Kinderwagen, Autositze, Kinderräder und Roller
 10:00 - 12:30 Uhr
@@ -78,6 +58,7 @@ Ev. Friedenskirche Bonn
 ★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-4/2026-11-29)
 Tolle Schnäppchen machen in Ehrenfeld
 29.11.2026
+11:00 - 14:00 Uhr
 Tante Astrid e.V.
 ★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-4/2026-12-06)
 06.12.2026

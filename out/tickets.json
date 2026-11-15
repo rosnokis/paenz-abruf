@@ -14,10 +14,16 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
+  },
+  "https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-15": {
+   "art": "detailseite",
+   "geprueft": "2026-11-15T05:27",
+   "s": "ausverkauft",
+   "txt": "Ausgebucht"
   },
   "https://familienhopper.de/events/der-koenig-verschenkt-was-koeln-2026-11-12": {
    "art": "detailseite",
@@ -31,6 +37,18 @@
    "s": "verfuegbar",
    "txt": "🎫 Tickets: [online](https://shop.oper.koeln/webshop/webticket/bestseatselect?eventId=2229)"
   },
+  "https://familienhopper.de/events/figuren-werkstatt-koeln-2026-11-15": {
+   "art": "detailseite",
+   "geprueft": "2026-11-15T05:27",
+   "s": "ausverkauft",
+   "txt": "Ausgebucht"
+  },
+  "https://familienhopper.de/koeln/flohmarkt/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-15T05:27",
+   "s": "ausverkauft",
+   "txt": "Ausgebucht"
+  },
   "https://familienhopper.de/koeln/indoor/": {
    "art": "detailseite",
    "geprueft": "2026-11-10T12:39",
@@ -39,7 +57,7 @@
   },
   "https://familienhopper.de/koeln/kindertheater/": {
    "art": "detailseite",
-   "geprueft": "2026-11-10T12:39",
+   "geprueft": "2026-11-15T05:27",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
   },
@@ -129,13 +147,13 @@
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "unklar",
    "txt": ""
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
   },
@@ -154,7 +172,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "unklar",
    "txt": ""
   },
@@ -188,6 +206,12 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://www.cassiopeia-buehne.de)"
   },
+  "https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen": {
+   "art": "detailseite",
+   "geprueft": "2026-11-15T05:27",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://galileum-solingen.de/shows/lars-der-kleine-eisbaer/)"
+  },
   "https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -200,10 +224,16 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/95744/bookings/new)"
   },
+  "https://www.kindaling.de/sport-fuer-muetter-vaeter/mama-fit-full-body-workout/koeln-innenstadt": {
+   "art": "detailseite",
+   "geprueft": "2026-11-15T05:27",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://rh.aok-events.de/?logincode=1M9VRFX2F)"
+  },
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "unklar",
    "txt": ""
   },
@@ -215,13 +245,13 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -281,7 +311,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-15T05:27",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -400,5 +430,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-14T05:26"
+ "stand": "2026-11-15T05:27"
 }
