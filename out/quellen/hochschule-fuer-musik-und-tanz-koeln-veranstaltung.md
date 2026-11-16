@@ -2,35 +2,17 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Gesangmatinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-11-2023-gesangsabend-1-1-1-1-1-1/)
-15.11.2026
-11:00
-Uhr
-Konzertsaal Wuppertal
-Wuppertal
-Gesangmatinée
-[The Next Generation](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-the-next-generation/)
-17:00
-Schloss Eulenbroich
-Rösrath
-The Next Generation
-[Hornabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-hornabend/)
-18:30
-Kammermusiksaal
-Köln
-Hornabend
-[SINFONIEKONZERT IN DER KATHEDRALE VON REIMS](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-11-2026-sinfoniekonzert-im-aachener-dom/)
-19:30
-SINFONIEKONZERT IN DER KATHEDRALE VON REIMS
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1/)
 16.11.2026
 19:00
+Uhr
 Konzertsaal
 Aachen
 Klavierabend
 [Off Campus - Salsa Combo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-11-2026-off-campus-salsa-combo/)
 20:00
 King Georg
+Köln
 Off Campus - Salsa Combo
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-lunchtime-konzerte-in-st-kunibert/)
 17.11.2026
@@ -38,12 +20,16 @@ Off Campus - Salsa Combo
 St. Kunibert
 Lunchtime-Konzerte in St. Kunibert
 [DEUTSCHLANDFUNK – HÖRPROBE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-deutschlandfunk-hoerprobe/)
+Kammermusiksaal
 DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
 18.11.2026
 18:00
 Ringvorlesung - KANONS IN DER KRISE
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-1-2-2/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Flötenabend
 [Blechbläserabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-02-2024-blechblaeserabend-2-1-2-2-2/)
 19.11.2026
@@ -60,6 +46,7 @@ Violinabend
 Orchesterkonzert - Rhapsody in Blue
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
 21.11.2026
+11:00
 Philharmonie Köln
 ★ Im Zauberwald - Interaktives Kinderkonzert
 [OPEN HOUSE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-open-house/)
@@ -68,6 +55,7 @@ Foyer
 OPEN HOUSE
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert/)
 [Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-orchesterkonzert-american-rhapsody/)
+18:30
 [Musicalabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-06-2021-musicalabend-1-1-1/)
 Musicalabend
 [Viola da gamba- und Violoncellonachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-viola-da-gamba-und-violoncellonachmittag/)
@@ -118,6 +106,7 @@ Trompetenmatinee
 [Fagottnachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-fagottnachmittag/)
 Fagottnachmittag
 [Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-jahreskonzert-erstes-koelner-akkordeon-orchester-1935-e-v/)
+17:00
 Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-klavierabend/)
 Dezember 2026

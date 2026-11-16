@@ -2,16 +2,6 @@
 
 ## Quelle: https://www.ehrenfeldstudios.de
 [Hier findet ihr unser aktuelles Programm im PDF Format](https://www.ehrenfeldstudios.de/wp-content/uploads/2026/07/Broschuere_efs_SeptDez_26_DRUCK.pdf)
-[Making of a man | Quindell Orton (München)](https://www.ehrenfeldstudios.de/making-of-a-man-quindell-orton-muenchen/)
-[Gastspielreihe LOOK – Choreografien feministischer Perspektiven](https://www.ehrenfeldstudios.de/look-gastspiele-in-den-ehrenfeldstudios/)
-Fr, 13.11.2026 | 20 Uhr
-Sa, 14.11.2026 | 20 Uhr
-[mehr lesen](https://www.ehrenfeldstudios.de/making-of-a-man-quindell-orton-muenchen/)
-[OPEN MOVEMENT | mit Natalia Kozakiewicz](https://www.ehrenfeldstudios.de/open-movement-mit-natalia-kozakiewicz/)
-★ Tanz-Jam für Tänzer:innen und alle Tanzbegeisterten ab 16 Jahren
-monatlich
-So, 13.12.2026 | 15 – 18 Uhr
-[mehr lesen](https://www.ehrenfeldstudios.de/open-movement-mit-natalia-kozakiewicz/)
 [The Compost Community | Baal](https://www.ehrenfeldstudios.de/the-compost-community-baal/)
 ★ Für alle ab 5 Jahren
 Sa, 21.11.2026 | 16 Uhr
@@ -45,6 +35,11 @@ Fr, 04.12.2026 | 18 Uhr
 Fr, 11.12.2026 | 20 Uhr (in deutscher Sprache)
 Sa, 12.12.2026 | 20 Uhr (in englischer Sprache)
 [mehr lesen](https://www.ehrenfeldstudios.de/derniere-von-caroline-simon/)
+[OPEN MOVEMENT | mit Natalia Kozakiewicz](https://www.ehrenfeldstudios.de/open-movement-mit-natalia-kozakiewicz/)
+★ Tanz-Jam für Tänzer:innen und alle Tanzbegeisterten ab 16 Jahren
+monatlich
+So, 13.12.2026 | 15 – 18 Uhr
+[mehr lesen](https://www.ehrenfeldstudios.de/open-movement-mit-natalia-kozakiewicz/)
 Tickets
 [Jetzt Tickets reservieren!](https://rausgegangen.de/locations/ehrenfeldstudios-ev-2/)
 Unsere Ticketpreise gestalten sich als Sliding Scale. Das bedeutet, die Preise gehen von 10 bis 22 € für Erwachsene. Innerhalb dieser Spannbreite gibst Du, was Du möchtest.

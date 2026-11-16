@@ -1,50 +1,5 @@
 [
  {
-  "name": "Kinder- und Familien-Weihnachtsflohmarkt im Kölner Norden",
-  "startDate": "2026-11-15T11:00:00+01:00",
-  "endDate": "2026-11-15T16:00:00+01:00",
-  "location": {
-   "name": "Siehe Beschreibung"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://www.koeln.de/event/kinder-und-familien-weihnachtsflohmarkt-im-koelner-norden/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
- },
- {
-  "name": "Kinderkleidertausch",
-  "startDate": "2026-11-15T12:00:00+01:00",
-  "endDate": "2026-11-15T12:00:00+01:00",
-  "location": {
-   "name": "Siehe Beschreibung"
-  },
-  "offers": [
-   {
-    "price": "0",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://www.koeln.de/event/kinderkleidertausch/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
- },
- {
-  "name": "Spielzeugbasar in Worringen",
-  "startDate": "2026-11-15T14:00:00+01:00",
-  "endDate": "2026-11-15T16:00:00+01:00",
-  "url": "https://www.koeln.de/event/spielzeugbasar-in-worringen/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
- },
- {
   "name": "Vorsortierter Second-Hand-Markt für Spielzeug",
   "startDate": "2026-11-21T10:00:00+01:00",
   "endDate": "2026-11-21T12:30:00+01:00",

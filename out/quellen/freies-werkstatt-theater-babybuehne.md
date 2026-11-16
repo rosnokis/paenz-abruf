@@ -1,8 +1,7 @@
 # Freies Werkstatt Theater (BabyBühne) (freies-werkstatt-theater-babybuehne)
 
 ## Quelle: https://www.fwt-koeln.de
-[TELLER IM TOPF (3)](https://www.fwt-koeln.de/veranstaltung/teller-im-topf-20261113) Performance von Marlin de Haan Am 13. November, 20 Uhr Köln-Premiere mit DGS-Verdolmetschung und Publikumsgespräch. Am 14.11., 20 Uhr und am 15.11., 18 Uhr
-★ [TrotzdemTanzen](https://www.fwt-koeln.de/veranstaltung/trotzdemtanzen-20261119) Für Taubes und hörendes Publikum ab 8 Jahren. Von pulk fiktion Am 19., 20. und 21. November
+★ [TrotzdemTanzen](https://www.fwt-koeln.de/veranstaltung/trotzdemtanzen-20261119) Für Taubes und hörendes Publikum ab 8 Jahren. Von pulk fiktion Köln-Premiere am 19. November ausverkauft! Karten gibt es noch für 20.11., 10 und 18 Uhr und für 21.11., 16 Uhr
 [DIE KATZE ELEONORE](https://www.fwt-koeln.de/veranstaltung/die-katze-eleonore-20261112) Von Caren Jeß. Mit S. Rudat Am 20. und 21. November, jew. 20 Uhr
 [Vorheriger Monat «](https://www.fwt-koeln.de/spielplan/monat/2026/10) November 2026 [Nächster Monat »](https://www.fwt-koeln.de/spielplan/monat/2026/12)
 So 01
@@ -35,13 +34,9 @@ Fr 27
 Sa [28](https://www.fwt-koeln.de/spielplan/tag/2026/11/28)
 So [29](https://www.fwt-koeln.de/spielplan/tag/2026/11/29)
 Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
-14.11.2026
-Sa, 20:00 Uhr
-Performance | Von Marlin de Haan | Themenreihe FOCUS ON: TIPPING POINTS Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher Geschichte, recherchierten Marlin de Haan & Team zu zurückgelassenen Lebensmittelpunkten, neuen und alten Heimaten, Ritualen und Relikten, Erinnerungen und Lücken.
-[Tickets](https://tickets.qultor.de/event/teller-im-topf/teller-im-topf-2026-11-14-2000)
 15.11.2026
 So, 18:00 Uhr
-[Tickets](https://tickets.qultor.de/event/teller-im-topf/teller-im-topf-2026-11-15-1800)
+Performance | Von Marlin de Haan | Themenreihe FOCUS ON: TIPPING POINTS Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher Geschichte, recherchierten Marlin de Haan & Team zu zurückgelassenen Lebensmittelpunkten, neuen und alten Heimaten, Ritualen und Relikten, Erinnerungen und Lücken.
 19.11.2026
 Do, 10:00 Uhr
 ★ Für Taubes und hörendes Publikum ab 8 Jahren | Die Welt ist kompliziert, hart und schwer. Es ist schwer in ihr jung und leicht zu sein, und noch schwerer in ihr groß und stark zu werden. Doch am schwersten ist es groß zu sein und leicht zu werden. Koproduktion pulk fiktion, FFT Düsseldorf & FWT
@@ -51,4 +46,9 @@ Fr, 10:00 Uhr
 [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1000)
 Fr, 18:00 Uhr
 [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1800)
+Fr, 20:00 Uhr
+Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
+NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2026
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-15&tx_calendarize_calendar%5BstartDate%5D=2026-11-15&cHash=2ae1fc7d5b4d7c85596b340cd24ac92a) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-15&tx_calendarize_calendar%5BstartDate%5D=2026-11-15&cHash=2ae1fc7d5b4d7c85596b340cd24ac92a)
+[Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-20-2000)
 [Gesamter Spielplan](https://www.fwt-koeln.de/spielplan)

@@ -2,23 +2,13 @@
 
 ## Quelle: https://www.kindaling.de/koeln
 WAS IST LOS IN KÖLN?
-Sonntag, 15. November
-★ [10:00 Wie schütze ich mein Kind vor Gewalt? online](https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online)
-★ [11:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
-★ [13:00 Familientag im AQUALAND Köln Köln Chorweiler](https://www.kindaling.de/sonstige-veranstaltungen/familientag-im-aqualand-koeln/koeln-chorweiler)
-★ [15:00 Lars - der kleine Eisbär Solingen](https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen)
-★ [15:00 Offene Kinderwerkstatt Brühl](https://www.kindaling.de/kreatives/offene-kinderwerkstatt/bruehl)
-[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
-★ [15:00 Kinder- und Jugendzirkus Klamauk - „Film ab, Klappe Klamauk" Köln Dellbrück](https://www.kindaling.de/kindertheater-shows/kinder-und-jugendzirkus-klamauk-film-ab-klappe-klamauk/koeln-dellbrueck)
-★ [18:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
-Montag, 16. November
-★ [16:00 Barber‘s Puppentheater für Kinder gastiert in Köln Köln Deutz](https://www.kindaling.de/kindertheater-shows/barber-s-puppentheater-fuer-kinder-gastiert-in-koeln-koeln-deutz/koeln-deutz)
 Dienstag, 17. November
 ★ [9:30 Die Schnecke und der Buckelwal - Leseinszenierung Köln Kalk](https://www.kindaling.de/kindertheater-shows/die-schnecke-und-der-buckelwal-leseinszenierung/koeln-kalk)
 [18:00 Filterblase Körperbild Köln Ehrenfeld](https://www.kindaling.de/sonstige-veranstaltungen/filterblase-koerperbild/koeln-ehrenfeld)
 ★ [19:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Mittwoch, 18. November
 ★ [19:00 Wie schütze ich mein Kind vor Gewalt? online](https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online)
+[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 Donnerstag, 19. November
 ★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 20. November
@@ -28,10 +18,19 @@ Samstag, 21. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
 [10:00 Schule der magischen Tiere Köln Lindenthal](https://www.kindaling.de/schauspiel-theaterkurse/schule-der-magischen-tiere/koeln-lindenthal)
 [13:00 Regelmäßige Naturerlebnisse Köln Sülz](https://www.kindaling.de/natur/regelmaessige-naturerlebnisse/koeln-suelz)
+★ [15:00 Offene Kinderwerkstatt Brühl](https://www.kindaling.de/kreatives/offene-kinderwerkstatt/bruehl)
 Sonntag, 22. November
 ★ [16:30 Lars - der kleine Eisbär Solingen](https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen)
+★ [18:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Dienstag, 24. November
 [10:30 Mama Fit: Full-Body-Workout Köln Innenstadt](https://www.kindaling.de/sport-fuer-muetter-vaeter/mama-fit-full-body-workout/koeln-innenstadt)
+Mittwoch, 25. November
+★ [11:00 Der Wintertroll - Kinderkonzert mit Toni Geiling Köln Kalk](https://www.kindaling.de/kinderkonzerte/der-wintertroll-kinderkonzert-mit-toni-geiling/koeln-kalk)
+Freitag, 27. November
+Samstag, 28. November
+★ [9:00 Kinderflohmarkt auf dem Krewelshof Lohmar](https://www.kindaling.de/flohmaerkte/kinderflohmarkt-auf-dem-krewelshof/lohmar)
+★ [9:00 Erste Hilfe am Säugling und Kind Kurs Köln Innenstadt](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
+[12:00 Christmas Werkstatt Köln Innenstadt](https://www.kindaling.de/kreatives/christmas-werkstatt/koeln-innenstadt)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
 [Jetzt buchen](https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl)

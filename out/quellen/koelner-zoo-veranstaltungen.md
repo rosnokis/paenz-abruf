@@ -1,14 +1,11 @@
 # Kölner Zoo – Veranstaltungen (koelner-zoo-veranstaltungen)
 
 ## Quelle: https://www.koelnerzoo.de/
-Lange Nacht im Aquarium
-Samstag, 14. 11. – 18 bis 22 Uhr
-[Mehr Infos](https://koelnerzoo.de/article/lange-nacht-im-aquarium/)
-[Tickets hier](https://www.koelnerzoo.de/besuch/)
 Wieder da – mit einer faszinierenden Reise um die Welt
 China Lights im Kölner Zoo
 Von 11. Dezember 2026 bis 31. Januar 2027
 [Alle Infos hier](https://koelnerzoo.de/aktuell/)
+[Tickets hier](https://www.koelnerzoo.de/besuch/)
 Papa, können wir uns das schnappen?
 Tierpatenschaften verschenken – und zu Weihnachten für große Münder sorgen
 [Mehr Infos](https://foerdern.koelnerzoo.de/patenschaften)

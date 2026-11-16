@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 11 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 8 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -17,28 +17,19 @@ großer Beliebtheit ❤️
 ★ Kinderflohmärkte & Kinderbasare im November 2026
 in Köln
 + 50 km
-Samstag,
-14. November 2026
-★ 26. Familien-Flohmarkt-Fest
-Katholisches Pfarrheim Bonn-Oberkassel
-53227 Oberkassel
-Datum 14.11.2026 Zeit
-9:30 - 13 Uhr
+Sonntag,
+15. November 2026
+★ Kinderflohmarkt
+★ AWO Kita Tummelkiste
+50389 Wesseling Berzdorf
+Datum 15.11.2026 Zeit
+10 - 14 Uhr
 Typ
 ★ Flohmarkt mit Ständen
 Adresse
-Kastellstraße 21,
-★ Unser Herbstflohmarkt ist wieder da! Wir freuen uns auf ein tolles Familien Fest inkl. grossem Kinderflohmarkt. Dies..
-★ weitere Informationen Unser Herbstflohmarkt ist wieder da!
-★ Wir freuen uns auf ein tolles Familien Fest inkl. grossem Kinderflohmarkt.
-★ Diesmal mit Kinderdico und natürlich unseren beliebten Waffeln, Würstchen (auch vegetarisch) und viel selbstgebackenem Kuchen.
-Wichtig für Verkäufer:
-Ein Stand kostet 15Euro/Tisch (160x80cm), es muss KEIN Kuchen gebacken werden.
-(Wir finden, ihr habt genug mit euren eigenen Vorbereitungen zu tun).
-★ Der Flohmarkt findet drinnen statt.
-Kontakt Bitte eine kurze Mail schreiben an:
-[E-Mail]
-Wir melden uns innerhalb von 48 Stunden zurück.
+Bachstr 20,
+★ Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)..
+★ weitere Informationen Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)
 Kontakt mit dem Organisator aufnehmen
 * benötigte Angabe
 dein Name *
@@ -51,38 +42,8 @@ Datenschutz
 Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
 ★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
 ★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/katholisches-pfarrheim-bonn-oberkassel-53227-oberkassel-7706/)
-★ Kinderflohmarkt Kita St. Barbara in Ippendorf
-Pfarrheim St.Barbara
-53127 Ippendorf
-11 - 14 Uhr
-Röttgener Str.32,
-★ Schöner Flohmarkt für Kindersachen mit HotDog- und Kuchenverkauf. Der Flohmarkt findet im Pfarrheim mit angren..
-★ weitere Informationen Schöner Flohmarkt für Kindersachen mit HotDog- und Kuchenverkauf. Der Flohmarkt findet im Pfarrheim mit angrenzendem Kitagelände statt, sodass neben dem Stöbern für die Kinder viele Spielmöglichkeiten zur Verfügung stehen.
-Kontakt Anmeldung über [E-Mail]
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/pfarrheim-stbarbara-53127-ippendorf-5516/)
-★ Kindertrödel
-Grundschule Grünstrasse
-Eingang Mensa
-42551 Velbert
-10 - 13 Uhr
-Grünstr 33,
-★ Nur Kinderkleidung und Spielzeug Bücher Kuchen und Kaffee verkauf..
-★ weitere Informationen Nur Kinderkleidung und Spielzeug Bücher
-Kuchen und Kaffee verkauf
-Kontakt Keine Anmeldung mehr möglich
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/velbert/grundschule-gruenstrasse-42551-velbert-11573/)
-Sonntag,
-15. November 2026
-★ Kinderflohmarkt
-★ AWO Kita Tummelkiste
-50389 Wesseling Berzdorf
-Datum 15.11.2026 Zeit
-10 - 14 Uhr
-Bachstr 20,
-★ Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)..
-★ weitere Informationen Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/wesseling-rheinland/awo-kita-tummelkiste-50389-wesseling-11583/)
+Samstag,
 21. November 2026
 1. Spielzeugbörse
 ★ Kindertagesstätte Hl. Drei Könige
@@ -149,6 +110,7 @@ Gemeindehaus der Evangelische Kirchengemeinde im Bonner Westen, Haager Weg 40 (g
 Standgebühren:
 Einzeltisch 7,50 € / Doppeltisch 12,50 € + eine Kuchenspende
 Infos & Anmeldung:
+[E-Mail]
 Wir freuen uns auf Euch!
 Kontakt Infos & Anmeldung:
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/gemeindehaus-auferstehungskirche-bonn-venusberg-53127-bonn-599/)
@@ -178,6 +140,7 @@ Seien Sie herzlich willkommen!
 ★ Familienzentrum Hippolytusgarten
 53840 Troisdorf
 Datum 23.05.2027 Zeit
+9:30 - 13 Uhr
 Hippolytusstraße 49,
 ★ Wir laden euch herzlich zu unserem beliebten vorsortierten Kindersachenflohmarkt im Familienzentrum Hippolytusgarten ein..
 ★ weitere Informationen Wir laden euch herzlich zu unserem beliebten vorsortierten Kindersachenflohmarkt im Familienzentrum Hippolytusgarten ein. verkauft wird alles rund ums Kind. Es warten tolle Artikel auf Euch. Bereits am Samstag den 22.05.2027 könnt ihr ab 19.00 Uhr zum late night shopping kommen.

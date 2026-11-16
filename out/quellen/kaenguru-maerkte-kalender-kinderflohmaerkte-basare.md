@@ -7,21 +7,6 @@
 ★ Wenn ihr hier nicht fündig werdet, schaut doch mal in unsere [Übersicht der Baby & Kinder Second Hand Läden in Köln und Bonn](https://www.kaenguru-online.de/themen/familienleben/secondhand-kaufen). Auch hier gibt es tolle Secondhand Sachen und das fast jeden Tag.
 Trödelmarkt-Termine in Köln, Bonn und der Region:
 [Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15)
-★ Kinderbasar
-15.11.2026
-10:00 - 14:00 Uhr
-★ Kita AWO Tummelkiste Wesseling
-Wesseling
-[Trödelmarkt](https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-11-15)
-innen und außen!
-11:00 - 17:00 Uhr
-Bürgerzentrum Engelshof
-Köln
-★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-267/2026-11-15)
-★ Vorsortierter Trödel für Kinderkleidung und Spielwaren
-14:00 - 16:00 Uhr
-★ Kiku Kinderland Worringen
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/227-kinderflohmarkt/2026-11-21)
 im Nachbarschaftszentrum Brüser Berg
 21.11.2026
@@ -32,6 +17,7 @@ Bonn
 ★ Spielzeug, Kinderwagen, Autositze, Kinderräder und Roller
 10:00 - 12:30 Uhr
 Gemeindesaal Christ-König Longerich
+Köln
 [Spielzeugbörse](https://www.kaenguru-online.de/kalender/maerkte/spielzeugboerse/2026-11-21)
 Verkauf von Spielzeugwaren und Bücher
 16:00 - 19:00 Uhr
@@ -65,4 +51,7 @@ Tante Astrid e.V.
 ★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-4/2026-12-13)
 13.12.2026
 [Trödelmarkt](https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-12-20)
+innen und außen!
 20.12.2026
+11:00 - 17:00 Uhr
+Bürgerzentrum Engelshof

@@ -38,24 +38,6 @@
  {
   "name": "Kinderflohmarkt",
   "location": {
-   "name": "Wesseling"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
- },
- {
-  "name": "Kinderflohmarkt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-267/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
- },
- {
-  "name": "Kinderflohmarkt",
-  "location": {
    "name": "Bonn"
   },
   "url": "https://www.kaenguru-online.de/kalender/maerkte/227-kinderflohmarkt/2026-11-21",
@@ -104,15 +86,6 @@
    "name": "Bergisch Gladbach"
   },
   "url": "https://www.kaenguru-online.de/kalender/maerkte/spielzeugboerse/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
- },
- {
-  "name": "Trödelmarkt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-11-15",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
  },

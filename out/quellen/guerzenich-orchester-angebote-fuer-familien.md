@@ -14,15 +14,6 @@ April
 Mai
 Juni
 Juli
-15.11.2026
-Heute
-So., 11:00
-Kammermusiksaal am Kartäuserwall 40, 50676 Köln
-Kammerkonzert
-[Rückblenden](https://www.guerzenich-orchester.de/de/event-detail/rueckblenden)
-Werke von Anton Arensky und Franz Schubert
-ab 18,00 €
-[Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=369&language=de)
 20.11.2026
 20.11.
 2026
@@ -35,6 +26,7 @@ ab 12,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26331&language=de)
 22.11.2026
 22.11.
+So., 11:00
 Het Concertgebouw
 [Gastspiel Amsterdam](https://www.guerzenich-orchester.de/de/event-detail/gastspiel-amsterdam-november)
 Werke von Richard Strauss
@@ -130,8 +122,11 @@ Di., 19:00
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26323&language=de)
 24.01.2027
 24.01.
+Kammermusiksaal am Kartäuserwall 40, 50676 Köln
+Kammerkonzert
 [Love & Loss](https://www.guerzenich-orchester.de/de/event-detail/love-and-loss)
 Werke von Ralph Vaughan Williams, Thomas Dunhill und Roger Quilter
+ab 18,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=370&language=de)
 14.02.2027
 14.02.

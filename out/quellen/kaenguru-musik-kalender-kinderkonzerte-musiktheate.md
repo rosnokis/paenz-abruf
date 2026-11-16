@@ -6,19 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-15)
+[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
 ★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
-15.11.2026
+19.11.2026
 11:30 Uhr
 ★ Kinderoper Köln
 Köln
-[„Der Nussknacker"](https://www.kaenguru-online.de/kalender/musik/der-nussknacker-2/2026-11-15)
-★ Klassisches Weihnachtsballett mit Tschaikowskis Musik für die ganze Familie
-14:00 Uhr
-Beethovenhalle Bonn
-Bonn
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
-19.11.2026
 [Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
 ★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
 21.11.2026
@@ -38,6 +31,7 @@ Hochschule für Musik und Tanz
 ★ Opernklassiker für Familien ab 6 Jahren
 18:00 Uhr
 Oper Bonn
+Bonn
 [„Der Wintertroll“](https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25)
 ★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
 25.11.2026
@@ -61,8 +55,10 @@ Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
+14:00 Uhr
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
+Beethovenhalle Bonn
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-30)
 30.11.2026
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01)
@@ -79,3 +75,8 @@ Pulheim
 ★ Kindernöte e.V.
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-03)
 03.12.2026
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-04)
+04.12.2026
+[Das Konzert mit dem Elefanten](https://www.kaenguru-online.de/kalender/musik/das-konzert-mit-dem-elefanten-1/2026-12-04)
+★ WDR Familienkonzert für Kinder von 3 bis 7 Jahren
+WDR-Funkhaus

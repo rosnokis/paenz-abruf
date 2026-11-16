@@ -64,10 +64,16 @@ So. 15.11.
 Do. 19.11., 17.00h
 Do. 19.11., 18.30h
 Sa. 21.11.
+So. 22.11., 10.00h
+Weihnachtswerkstatt: DIY-Stoff-Weihnachtskränze
+[Infos & Buchung](https://tante-astrid.de/diy-weihnachts-workshop-stoff-weihnachtskraenze/)
 23.11.-27.11.
 Do. 26.11., 17.00h
 Do. 26.11., 18.30h
 Fr. 27.11., 19.00h
+Sa. 28.11., 10.00h
+Weihnachtswerkstatt: DIY-Dip-Dye-Weihnachtskerzen
+[Infos & Buchung](https://tante-astrid.de/diy-weihnachts-workshop-dip-dye-weihnachtskerzen/)
 Sa. 28.11., 13.00h
 ★ Flohmarkt für Erwachsene
 ★ [Infos & Buchung](https://tante-astrid.de/flohmarkt/)

@@ -6,13 +6,6 @@ Foto: IMAGO / Eibner
 ★ Kindersachen sind teuer – und Kinder wachsen schnell! Wie gut, dass es Kinderflohmärkte gibt. Hier bekommt ihr günstig gebrauchte Kleidung, Schuhe und Spielsachen sowie die benötigte Ausstattung für Babys und Kleinkinder. Das spart bares Geld – und entlastet die Umwelt.
 ★ Deine KiTa, deine Schule oder deine Kirchengemeinde veranstaltet auch einen Kinderflohmarkt? Dann schreib uns über das Formular und wir nehmen den Flohmarkt gerne in unsere Übersicht auf.
 ★ Die Kinderflohmärkte und Familienflohmärkte in Köln und Umgebung:
-15. November 2026
-11:00
-★ [Kinder- und Familien-Weihnachtsflohmarkt im Kölner Norden](https://www.koeln.de/event/kinder-und-familien-weihnachtsflohmarkt-im-koelner-norden/)
-12:00
-★ [Kinderkleidertausch](https://www.koeln.de/event/kinderkleidertausch/)
-14:00
-★ [Spielzeugbasar in Worringen](https://www.koeln.de/event/spielzeugbasar-in-worringen/)
 21. November 2026
 10:00
 ★ [Vorsortierter Second-Hand-Markt für Spielzeug](https://www.koeln.de/event/kinderflohmarkt-in-longerich/)
@@ -20,6 +13,7 @@ Foto: IMAGO / Eibner
 9:00
 ★ [Kinderflohmarkt im Krewelshof Lohmar](https://www.koeln.de/event/kinderflohmarkt-im-krewelshof-lohmar-4/)
 29. November 2026
+11:00
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-11-29/)
 [Adventsmarkt und Spielzeugmarkt in Raderthal](https://www.koeln.de/event/adventsmarkt-und-spielzeugmarkt-in-raderthal/)
 6. Dezember 2026
@@ -27,9 +21,9 @@ Foto: IMAGO / Eibner
 13. Dezember 2026
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-13/)
 ★ Ich kenne noch einen Kinderflohmarkt:
+Name
 Dieses Feld dient zur Validierung und sollte nicht verändert werden.
 Name (erforderlich)
-Name
 Falls wir dir antworten sollen, hinterlasse bitte eine E-Mail-Adresse.
 ★ Name des Flohmarkts (erforderlich)
 Datum (erforderlich)

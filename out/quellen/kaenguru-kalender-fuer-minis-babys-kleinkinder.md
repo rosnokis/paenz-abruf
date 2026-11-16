@@ -6,16 +6,12 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [„Das kleine Zottel Mottel und das Bergwuschel"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-und-das-bergwuschel/2026-11-15)
-★ Eine Geschichte über Freundschaft, Hilfsbereitschaft und die Schönheit des Andersseins für Kinder ab 3 Jahren
-15.11.2026
-15:00 Uhr
-KKT Kölner Künstler:innen Theater
-Köln
 ★ [„Das kleine Zottel Mottel"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel/2026-11-16)
 ★ Ein Stück über die Begegnung mit dem Ich und dem Anderen für Kinder ab 3 Jahren
 16.11.2026
 10:00 Uhr
+KKT Kölner Künstler:innen Theater
+Köln
 ★ [Babys in Bewegung](https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16)
 ★ Kostenfreies Angebot mit der Familienhebamme der Stadt Hennef
 10:00 - 11:30 Uhr
@@ -57,6 +53,7 @@ Metropol Theater
 Studio11
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21)
 ★ Lustiges Abenteuer für Theaterstarter ab 3 Jahren und ihre Eltern
+15:00 Uhr
 Cassiopeia Bühne
 ★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch/2026-11-21)
 ★ Eine Entdeckungsreise für Kinder ab 2 Jahren vom Wolkenstein Theater
@@ -86,3 +83,6 @@ Bürgerhaus Kalk
 25.11.2026
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25)
 10:30 Uhr
+★ [Krabbel-Konzert](https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25)
+★ Krabbeln, brabbeln, lauschen – beim Krabbelkonzert dürfen Babys und Kleinkinder Musik ganz frei entdecken
+Ev. Friedenskirche Bonn

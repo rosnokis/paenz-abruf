@@ -1,59 +1,5 @@
 [
  {
-  "name": "der buchladen in der Scheune – Lesung mit Christoph Kramer „Wolkenberührpunkt“",
-  "startDate": "2026-11-09",
-  "endDate": "2026-11-09",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "20€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-christoph-kramer-wolkenberuehrpunkt/?occurrence=2026-11-09",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "Premiere: Kölner Geschichten Haus &#8211; Systemisch",
-  "startDate": "2026-11-10",
-  "endDate": "2026-11-10",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "10€/ erm.5€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch/?occurrence=2026-11-10",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein",
-  "startDate": "2026-11-12",
-  "endDate": "2026-11-12",
-  "location": {
-   "name": "Herrenhaus"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei!",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519/?occurrence=2026-11-12&",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "der buchladen in der Scheune: Lesung mit Lutz Geißler &#8211; 111 Brot-Mythen, die sich verkrümeln können",
   "startDate": "2026-11-16",
   "endDate": "2026-11-16",
@@ -85,6 +31,60 @@
    }
   ],
   "url": "https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kölner Geschichten Haus &#8211; Systemisch",
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-17",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "10€/ erm.5€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Filmabend und Gespräch: „Rosenstraße“",
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-18",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Zwischen-T-Räume &#8211; Queeres Theater jenseits der 60",
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-20",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei - wir freuen uns über Spenden!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"

@@ -1,172 +1,118 @@
 [
  {
-  "name": "Adventskranz gießen",
+  "name": "Babys in Bewegung",
   "location": {
-   "name": "Frechen"
+   "name": "Hennef"
   },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/adventskranz-giessen/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Backtag im Freilichtmuseum",
-  "location": {
-   "name": "Lindlar"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/backtag-im-freilichtmuseum/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Cologne Celtics Youth Training",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/sport/cologne-celtics-youth-training/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Die große Schoko-Schule",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Die kleine Schoko-Schule",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Familientag im Museum Ludwig",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/familientag-im-museum-ludwig/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Figuren-Werkstatt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Fossilien? - Find ich gut!",
-  "location": {
-   "name": "Nettersheim"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/fossilien-find-ich-gut/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Kinderflohmarkt",
-  "location": {
-   "name": "Wesseling"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Kunstbasar terre des hommes",
-  "location": {
-   "name": "Bergisch Gladbach"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/kunstbasar-terre-des-hommes/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Mitmachsonntag im Erftmuseum für Kinder und Familien",
-  "location": {
-   "name": "Erftstadt"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/mitmachsonntag-im-erftmuseum-fur-kinder-und-familien/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Rundgang für Familien durch return",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/rundgang-fuer-familien-durch-return/2026-11-15",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Schmiedewerkstatt",
-  "location": {
-   "name": "Solingen"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/schmiedewerkstatt/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Trödelmarkt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-11-15",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Wochenendspaß in der MutReiferei: Traumfänger",
+  "name": "Fantastische Filzerei: Fledermäuse",
   "location": {
    "name": "Leverkusen"
   },
-  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-traumfaenger/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/fantastische-filzerei-fledermaeuse/2026-11-16",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "neander*Sternchen - Der aktuelle Sternenhimmel für Kinder",
+  "name": "NextGen Elternkongress 2026",
   "location": {
-   "name": "Erkrath"
+   "name": null
   },
-  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/neandersternchen-der-aktuelle-sternenhimmel-fuer-kinder/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/online/nextgen-elternkongress-2026/2026-11-16",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Grüffelo\"",
+  "name": "SPIELARTEN 26 „Der Geräuschehändler\"",
   "location": {
-   "name": "Köln"
+   "name": "Pulheim"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-grueffelo-1/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/theater/spielarten-26-der-geraeuschehaendler-1/2026-11-16",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Eine fantastische Entdeckungsreise\"",
+  "name": "SPIELARTEN 26 „INTO IT\"",
   "location": {
-   "name": "Köln"
+   "name": "Pulheim"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/eine-fantastische-entdeckungsreise/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/theater/spielarten-26-into-it/2026-11-17",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Paw Patrol: Der Dinofilm“",
+  "name": "Spiel & Spaß für Pänz",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/spiel-spass-fuer-paenz/2026-11-17",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Spieletreff",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Bibi Blocksberg – Die total verhexte Zeitreise“",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/paw-patrol-der-dinofilm/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/kino/bibi-blocksberg-die-total-verhexte-zeitreise-3/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Birkenelfe Mimi und Eduard Nasenmurf\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/birkenelfe-mimi-und-eduard-nasenmurf/2026-11-17",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Das kleine Zottel Mottel\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der kleine Rabe Socke\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/der-kleine-rabe-socke-4/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Die Schnecke und der Buckelwal“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/literatur/die-schnecke-und-der-buckelwal/2026-11-17",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Emil und die Detektive“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-17",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -175,7 +121,61 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-15",
+  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Pippi Langstrumpf\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-17",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-17",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood/2026-11-16",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wildwood“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-3/2026-11-16",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

@@ -14,10 +14,7 @@ SA
 12
 13
 14
-SO 15.11.
-[Kultur Futur3: Glotzt nicht so romantisch! 18:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/futur3-glotzt-nicht-so-romantisch-5/)
-[SO 15.11. Verein für deutsch-kurdische Freundschaft 14:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/verein-fuer-deutsch-kurdische-freundschaft-6/)
-[SO 15.11. Narcotics Anonymous (persisch) 14:30 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/narcotics-anonymous-persisch-7/)
+15
 MO 16.11.
 [MO 16.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-33/)
 ★ [MO 16.11. Eltern-Kind-Treff 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-treff-3/)

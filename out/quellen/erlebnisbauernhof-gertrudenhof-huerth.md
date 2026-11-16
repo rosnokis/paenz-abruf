@@ -1,16 +1,14 @@
 # Erlebnisbauernhof Gertrudenhof (Hürth) (erlebnisbauernhof-gertrudenhof-huerth)
 
 ## Quelle: http://www.erlebnisbauernhof-gertrudenhof.de
-Vom 13.11. bis zum 15.11.2026 öffnet
-unser [Gertrudenhof Hunde-Weihnachtsmarkt](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
+Vom 16.11. bis 18.11.2026 ist das Erlebnisgelände aufgrund des Umbaus geschlossen!
+Ab dem 19.11.2026 öffnet unser [Gertrudenhof Weihnachtspark](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets) ✨🎅
 Slide
 WILLKOMMEN AUF DEM
 Gertrudenhof
-13. - 15.11. großer Hunde-Weihnachtsmarkt 🎄 mit Lichterglanz & Winterzauber!
-★ Ab 19.11. Familien-Weihnachtspark mit tollen Highlights✨🎅
-[Tickets sichern →](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
 Lichterglanz & Winterzauber ✨🎅
 im Gertrudenhof Weihnachtspark vom 19.11.26 – 3.01.27
+[Tickets sichern →](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
 Willkommen auf dem Gertrudenhof
 Weihnachtspark
 2026
@@ -24,10 +22,10 @@ vorbestellen
 Weihnachtsbaum
 Verkauf, ab dem 19.11.26
 Heutige Öffnungszeiten
-Sonntag, 15.11.2026
-13.00 – 19.00 Uhr
+Montag, 16.11.2026
+GESCHLOSSEN WEGEN UMBAU
 Bauernmarktgelände
-11.00 Uhr – 16.00 Uhr
+9.30 Uhr – 18.30 Uhr
 Erlebnis-Gelände auf dem Gertrudenhof
 Geländebereich A
 Gertrudenhof Weihnachts-Park 2026
@@ -50,8 +48,6 @@ Bitte beachte: Insbesondere bei einem Besuch am Wochenende auf unserem Erlebnisg
 [Alle weiteren Info´s & Tickets gibt es hier auf unserer Buchungsseite!](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
 Nichts verpassen
 Unsere nächsten Events auf dem Erlebnis-Gelände
-Gertrudenhof Hundeweihnachtsmarkt
-🗓️ am 13./14./15. November 2026
 Weihnachtspark 2026
 🎄 vom 19.11.26 bis 03.01.27 Weihnachtszauber erleben
 Weihnachtszauber erleben

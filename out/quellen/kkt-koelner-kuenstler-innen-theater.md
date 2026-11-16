@@ -21,13 +21,9 @@ Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
 ★ Kindertheater
-[Das kleine Zottel Mottel und das Bergwuschel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-und-das-bergwuschel)
-Zottel Mottel und das Bergwuschel lüften ein Geheimnis
-Nächste Termine
-Sonntag, 15. November 2026
-15:00 Uhr
 [Das kleine Zottel Mottel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel)
 Das kleine Zottel Mottel entdeckt die Welt
+Nächste Termine
 Montag, 16. November 2026
 10:00 Uhr
 Bitte vorab reservieren
@@ -39,3 +35,10 @@ PREMIERE
 Freitag, 20. November 2026
 20:00 Uhr
 Abendpremiere
+[(Ein) Winternachtstraum](https://www.k-k-t.de/stuecke/winternachtstraum)
+Undine und Paul finden den verlorenen König
+Samstag, 21. November 2026
+16:00 Uhr
+Sonntag, 22. November 2026
+15:00 Uhr
+Dienstag, 24. November 2026

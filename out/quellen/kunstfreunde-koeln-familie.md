@@ -42,17 +42,9 @@ Suche
 ★ [im Museum Ludwig](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
 ★ familie&kunstfreunde
 ★ Wir machen es jungen Eltern und Familien möglich, auch mit Babys und kleinen Kindern ins Museum zu gehen. Man trifft Gleichgesinnte, kann Spannendes über Kunst und Kultur erfahren und sich zugleich mit anderen darüber austauschen. So bieten wir ein gemeinsames Eintauchen in einen besonders schönen Kontext.
-15.11.
-So 10:30
-Museum Ludwig
-★ [Familientag. Magie der Materialien](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
-★ [Wenn Dinge Kunst werden](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
-Crossover, Führung, Workshop
-Daniel Spoerri, Roberts Tisch, 1961, Objekt: Geschirr, Besteck, verschiedene Lebensmittel und andere Materialien auf Holztischplatte, 200 x 50 cm, Museum Ludwig, Köln, Inv.-Nr. ML 01133, © VG Bild-Kunst, Bonn 2026. Das Werk wird Bestandteil der Führung sein.
-★ Kunst aus Schokolade, Gießkannen oder Steinen? Was macht ein gewöhnlicher Gegenstand im Museum plötzlich zu Kunst – und wer entscheidet eigentlich, was Kunst ist? Kommt vorbei, entdeckt Kunst mit neuen Augen und erlebt einen Familientag voller überraschender Materialien.
-★ [→ Weitere Informationen](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
 18.11.
 Mi 11:00
+Museum Ludwig
 [Picasso – Facetten, Farben, Frauen](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
 ★ [Kunst+Kind. Mit Baby ins Museum Ludwig](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
 Führung
@@ -75,7 +67,7 @@ Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Mu
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.
-Museum Ludwig, Wallraf, Unterwegs
+Unterwegs, Museum Ludwig, Wallraf
 [einfach schöne Kunsterlebnisse verschenken](https://kunstfreunde.koeln/events/gutschein-fuer-kunstkind/)
 ★ Du kennst bereits unsere Kunst+Kind-Führungen? Möchtest diese aber Deinen Freund*innen oder Bekannten mit Babys schmackhaft machen?
 Dafür haben wir schön gestaltete Geschenkgutscheine im Angebot.

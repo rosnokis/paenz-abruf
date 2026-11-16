@@ -3,33 +3,35 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Im Kunsthaus Lempertz: Kölsche Mona Lisa wird versteigert](https://verliebtinkoeln.com/koelsche-mona-lisa-lempertz-koeln-versteigerung/)
+Die Mona Lisa ist eines der berühmtesten Gemälde der Welt und hängt im Pariser Louvre. Doch auch Köln hat seine eigene Mona Lisa. Das Bild gehörte einst zu einer bedeutenden Kunstsammlung am Kölner Heumarkt, die sogar Johann Wolfgang von Goethe besucht haben…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 3 Min. Lesedauer
+[Was bedeutet das Wort Stippeföttche in Köln?](https://verliebtinkoeln.com/was-bedeutet-das-wort-stippefoettche-in-koeln/)
+15.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Kölsche Sprache: Weißt du, was diese 11 kölschen Schimpfwörter bedeuten?](https://verliebtinkoeln.com/koelsch-uebersetzer-quiz-weisst-du-was-diese-11-koelschen-schimpfwoerter-bedeuten/)
+15.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Ein Buch über Menschen, die in Köln eine neue Heimat fanden](https://verliebtinkoeln.com/wir-kuckucksbuerger-buch-koeln-sandro-kenda/)
-Dieser Text stammt aus dem Newsletter des Kölner Presseclubs. Autor ist Peter Pauls, der unter anderem Chefredakteur des Kölner Stadt-Anzeigers war. Verliebt in Köln übernimmt den Text mit freundlicher Genehmigung. (Foto: Peter Pauls) Was hält 33 Lebensgeschichten von 30 Autoren aus 17 Ländern…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 5 Min. Lesedauer
+15.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [Die „Madonna in den Trümmern“ – versteckt in der Kölner Innenstadt](https://verliebtinkoeln.com/madonna-in-den-truemmern-kolumba-koeln/)
 15.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [Neues Winterdeck auf dem Rhein: Hier gibt es Glühwein mit Domblick – Eintritt frei](https://verliebtinkoeln.com/winterdeck-koeln-duesseldorfer-2026-rhein-gluehwein/)
 15.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
 [Kölsche Sudoku am Sonntag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-sonntag-hier-kostenlos-am-handy-oder-computer-spielen/)
 14.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Kennst du die Bedeutung dieser 7 Kölner Straßennamen? Mach den Test](https://verliebtinkoeln.com/quiz-koelner-strassennamen-bedeutung/)
-14.11.2026 • [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Wie hoch die Miete im alten 4711-Haus in Köln-Ehrenfeld ist](https://verliebtinkoeln.com/wie-hoch-die-miete-im-alten-4711-haus-in-koeln-ehrenfeld-ist/)
-14.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Die Heinzelmännchen zu Köln: Der wahre Kern der uralten Sage](https://verliebtinkoeln.com/heinzelmaennchen-koeln-geschichte/)
-Mitten in der Kölner Innenstadt gibt es eine Kirche, die von außen kaum als solche zu erkennen ist. Sie liegt im Gebäude des Kolumba-Museums, hat…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 4 Min. Lesedauer
-Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenheiten und weihnachtliche Musik: In Köln gibt es in diesem Advent einen neuen Treffpunkt…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/) • 15.11.2026 • 3 Min. Lesedauer
+Kölsche Sprache, schönste Sprache. Die kölsche Sprache hat viele Wörter, die Menschen außerhalb Kölns zunächst Rätsel aufgeben. Mit einigen Wörtern ist außerdem eine sehr besondere…
+[Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
+Auf Kölsch kann man wunderbar schimpfen. Ob Lötschendötsch, Strunzbüggel oder Bäbbelschnüss: Die kölsche Sprache kennt zahlreiche Schimpfwörter, die manchmal ziemlich derb, oft aber auch humorvoll…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+Die Mona Lisa ist eines der berühmtesten Gemälde der Welt und hängt im Pariser Louvre. Doch auch Köln hat seine eigene Mona Lisa.…
 Mitten in der Kölner Innenstadt gibt es eine Kirche, die von außen kaum als solche zu erkennen ist. Sie liegt im Gebäude des…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 4 Min. Lesedauer
+[Wie hoch die Miete im alten 4711-Haus in Köln-Ehrenfeld ist](https://verliebtinkoeln.com/wie-hoch-die-miete-im-alten-4711-haus-in-koeln-ehrenfeld-ist/)
 Es ist eines der auffälligsten Gebäude in Köln-Ehrenfeld: das ehemalige 4711-Haus an der Venloer Straße. Noch immer prangt der große 4711-Schriftzug über dem…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 3 Min. Lesedauer
+[Die Heinzelmännchen zu Köln: Der wahre Kern der uralten Sage](https://verliebtinkoeln.com/heinzelmaennchen-koeln-geschichte/)
 Nachts erledigten sie die Arbeit, morgens war alles fertig: Der Sage nach machten die Heinzelmännchen den Kölner Handwerkern das Leben leicht. Bis eine…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 6 Min. Lesedauer
-[11 Dinge, die Auswärtige in Köln niemals tun sollten](https://verliebtinkoeln.com/11-dinge-die-auswaertige-in-koeln-niemals-tun-sollten/)
-Jede Stadt hat ja ihre eigenen speziellen Regeln und natürlich ist das in Köln auch so – vielleicht sogar noch ein bisschen mehr,…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 2 Min. Lesedauer
 [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
 [11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
 Ein Regenschirm ist ein Paraplü, ein Federbett heißt Plümo und wer von einer Mösch spricht, meint einen Spatz. In der kölschen Sprache haben…
@@ -45,6 +47,7 @@ Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stü
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
 Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenheiten und weihnachtliche Musik: In Köln gibt es in diesem Advent einen…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/) • 15.11.2026 • 3 Min. Lesedauer
 [Dieses Stahlwerk eine Stunde von Köln ist jetzt ein Erlebnispark](https://verliebtinkoeln.com/landschaftspark-duisburg-nord-stahlwerk-erlebnispark/)
 Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 4 Min. Lesedauer
@@ -55,16 +58,13 @@ Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtku
 Ein schöner Ausflug muss nicht viel Geld kosten. In Köln und der Umgebung gibt es zahlreiche Ausflugsziele, die man besuchen kann, ohne Eintritt…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 12.11.2026 • 7 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Kölsche Sprache, schönste Sprache. Die kölsche Sprache hat viele Wörter, die Menschen außerhalb Kölns zunächst Rätsel aufgeben. Mit einigen Wörtern ist außerdem eine…
+Auf Kölsch kann man wunderbar schimpfen. Ob Lötschendötsch, Strunzbüggel oder Bäbbelschnüss: Die kölsche Sprache kennt zahlreiche Schimpfwörter, die manchmal ziemlich derb, oft aber…
 Willkommen beim kölschen Sudoku am Sonntag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 14.11.2026 • 3, 3 Min. Lesedauer
+[Kennst du die Bedeutung dieser 7 Kölner Straßennamen? Mach den Test](https://verliebtinkoeln.com/quiz-koelner-strassennamen-bedeutung/)
 Wer durch Köln geht, begegnet auf vielen Straßenschildern einem Stück Stadtgeschichte. Manche Namen erinnern an Berufe, die es längst nicht mehr gibt. Andere…
 [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 14.11.2026 • 3 Min. Lesedauer
-[Was versteckt sich am Kölner Dom? 7 Fragen zu seinen ungewöhnlichen Figuren](https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/)
-Ein Geißbock, berühmte Politiker, ein Karnevalszug und sogar ein Papst: Wer sich den Kölner Dom ganz genau anschaut, kann an seiner Fassade zahlreiche…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 4 Min. Lesedauer
-[Kölsche Sudoku am Freitag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/sudoku-koeln/)
-Willkommen beim kölschen Sudoku am Freitag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 13.11.2026 • 3 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 [1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
 Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…

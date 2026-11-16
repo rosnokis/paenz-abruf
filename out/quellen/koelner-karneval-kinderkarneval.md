@@ -5,12 +5,12 @@ Service
 ★ Kinderkarneval Köln: Die besten Sitzungen, Umzüge und Tipps für Familien
 ★ Der Kinderkarneval in Köln ist für viele Familien der schönste Teil der Session. Kinder können sich verkleiden, tanzen, Kamelle sammeln und echte kölsche Tradition erleben – ohne bis spät in die Nacht auf einer Erwachsenensitzung bleiben zu müssen.
 ★ Vom kleinen Kostümfest im Veedel über Kindersitzungen der Karnevalsgesellschaften bis zu den Schull- und Veedelszöch gibt es zahlreiche Möglichkeiten. Dieser Artikel zeigt, welche Veranstaltungen sich lohnen, wann sie stattfinden und worauf Eltern bei Tickets, Anreise und Sicherheit achten sollten.
-[Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 110 Aufrufe • 0 Kommentare
-★ Wichtige [alle Kindersitzungen und Familienveranstaltungen](https://www.koelner-karneval.org/termine/) der Session 2027: Die Proklamation des Kölner Kinderdreigestirns findet am 10. Januar statt. Die Lachende [Lachende PÄNZarena am 16. Januar 2027](https://www.koelner-karneval.org/termin/lachende-paenzarena-2027-am-16-01-2027-lanxess-arena/) ist für den 9. und 16. Januar geplant. Die [Veedelszüge für Familien](https://www.koelner-karneval.org/veedelszoch/) und Veedelszöch ziehen am 7. Februar 2027 ab 11:11 Uhr durch Köln.
+[Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 113 Aufrufe • 0 Kommentare
+★ Wichtige [alle Kindersitzungen und Familienveranstaltungen](https://www.koelner-karneval.org/termine/) der Session 2027: Die Proklamation des Kölner Kinderdreigestirns findet am 10. Januar statt. Die Lachende [Lachende PÄNZarena am 16. Januar 2027](https://www.koelner-karneval.org/termin/lachende-paenzarena-2027-am-16-01-2027-lanxess-arena/) ist für den 9. und 16. Januar geplant. Die [Veedelszüge für Familien](https://www.koelner-karneval.org/veedelszoch/) und [Veedelszöch](https://www.koelner-karneval.org/karnevalzuege-koeln/schull-un-veedelszoech/) ziehen am 7. Februar 2027 ab 11:11 Uhr durc …
 ★ 1. Was ist Kinderkarneval in Köln?
 ★ Kinderkarneval umfasst alle Veranstaltungen, die speziell auf Kinder, Jugendliche und Familien zugeschnitten sind. Dazu gehören Kindersitzungen, Kostümfeste, Schulsitzungen, Familienpartys, Puppentheater und Straßenumzüge.
-★ Im Unterschied zu klassischen Prunksitzungen für Erwachsene sind die Programme meist kürzer und abwechslungsreicher. Musik, Tanz, Spiele, Zauberei, Animation und kindgerechte Büttenreden stehen im Mittelpunkt. Die Kinder sollen nicht nur zuschauen, sondern mitsingen, tanzen und aktiv mitmachen.
-★ Eine wichtige Rolle spielen die Kölner Karnevalsgesellschaften. Viele Traditionsvereine unterhalten Kinder- und Jugendtanzgruppen, organisieren eigene Sitzungen und fördern den Nachwuchs im kölschen Brauchtum.
+★ Im Unterschied zu klassischen Prunksitzungen für Erwachsene sind die Programme meist kürzer und abwechslungsreicher. Musik, Tanz, Spiele, Zauberei, Animation und kindgerechte [Büttenreden](https://www.koelner-karneval.org/buettenrede-htm/) stehen im Mittelpunkt. Die Kinder sollen nicht nur zuschauen, sondern mitsingen, tanzen und aktiv mitmachen.
+★ Eine wichtige Rolle spielen die Kölner [Karnevalsgesellschaften](https://www.koelner-karneval.org/alle-karnevalsgesellschaften-a-z/). Viele Traditionsvereine unterhalten Kinder- und Jugendtanzgruppen, organisieren eigene Sitzungen und fördern den Nachwuchs im kölschen Brauchtum.
 ★ 2. Die wichtigsten Arten von Kinderkarnevalsveranstaltungen
 Veranstaltungsart | Geeignet für | Typische Inhalte
 ★ Kindersitzung | Kinder im Kindergarten- und Grundschulalter | Musik, Tanz, Spiele und Animation
@@ -20,7 +20,7 @@ Schulsitzung | Schülerinnen und Schüler | Schulgruppen, Sketche und Musik
 ★ Familienkarnevalsparty | Familien mit Kindern und Jugendlichen | Musik, Spiele und gemeinsames Feiern
 ★ Puppentheater | Jüngere Kinder und Kulturinteressierte | Puppenspiel, kölsche Geschichten und Karneval
 ★ Veedelsveranstaltung | Familien aus dem Stadtteil | Lokale Sitzungen, Umzüge und Mitmachaktionen
-★ Auch das Hänneschen-Theater gehört mit seiner Puppensitzung und weiteren Familienstücken zu den besonderen Angeboten für Kinder. Karten für beliebte Vorstellungen sollten früh gekauft werden.
+★ Auch das [Hänneschen-Theater](https://www.koelner-karneval.org/karnevalskuenstler-koelner-haenneschen-html/) gehört mit seiner Puppensitzung und weiteren Familienstücken zu den besonderen Angeboten für Kinder. Karten für beliebte Vorstellungen sollten früh gekauft werden.
 ★ 3. Die Lachende PÄNZarena: Kölns größte Kindersitzung
 ★ Die Lachende PÄNZarena in der LANXESS arena gilt als Kölns bekanntestes Großformat für Kinder und Familien. Das Konzept verbindet eine große Karnevalssitzung mit Musik, Tanz, Animation und zahlreichen Mitmachaktionen.
 Für 2027 sind zwei Termine vorgesehen:
@@ -38,7 +38,7 @@ kölsche Bands,
 Gardetänze,
 ★ Spiele und Mitmachaktionen,
 kurze Büttenreden,
-★ Besuche des Kinder- oder Dreigestirns,
+★ Besuche des Kinder- oder [Dreigestirns](https://www.koelner-karneval.org/das-koelner-dreigestirn/),
 Süßigkeiten und kleine Überraschungen.
 ★ Der Vorteil lokaler Sitzungen ist die familiäre Atmosphäre. Außerdem sind die Wege kürzer, und Kinder treffen häufig Bekannte aus Schule, Sportverein oder Nachbarschaft.
 ★ 5. Kinderkostümfeste und Kostümwettbewerbe
@@ -53,9 +53,9 @@ ob es eine Kostümprämierung gibt,
 wie lange die Veranstaltung dauert.
 ★ 6. Schull- und Veedelszöch: Der Kinderkarneval auf der Straße
 ★ Die Schull- und Veedelszöch am Karnevalssonntag sind das wichtigste kostenlose Familienereignis im Kölner Straßenkarneval. Schulen, Veedelsvereine, Sportvereine, Stammtische und Familien ziehen gemeinsam durch die Stadt.
-Für die Session 2027 ist der Sonntag, 7. Februar, vorgesehen. Der Zug startet ab 11:11 Uhr. Mehr als 8.000 aktive Teilnehmerinnen und Teilnehmer sind dabei, und jedes Jahr verfolgen laut Festkomitee mehr als 250.000 Menschen den Zug am Straßenrand.
+Für die Session 2027 ist der Sonntag, 7. Februar, vorgesehen. Der Zug startet ab 11:11 Uhr. Mehr als 8.000 aktive Teilnehmerinnen und Teilnehmer sind dabei, und jedes Jahr verfolgen laut [Festkomitee](https://www.koelner-karneval.org/festkomitee-des-koelner-karnevals/) mehr als 250.000 Menschen den Zug am Straßenrand.
 Das Markenzeichen sind selbstgemachte, kreative und oft besonders bunte Kostüme. Dazu kommen Musikgruppen, fantasievolle Wagen und kritische oder humorvolle Veedelsmottos. Die Strecke ist nahezu identisch mit dem Rosenmontagszug und führt von der Südstadt durch die Innenstadt.
-★ Für Kinder ist der Umzug attraktiv, weil viele Gruppen selbst aus Kindern und Jugendlichen bestehen. Außerdem wirkt der Sonntag tagsüber oft familiärer als die großen Partys an Weiberfastnacht oder am Abend.
+★ Für Kinder ist der Umzug attraktiv, weil viele Gruppen selbst aus Kindern und Jugendlichen bestehen. Außerdem wirkt der Sonntag tagsüber oft familiärer als die großen Partys an [Weiberfastnacht](https://www.koelner-karneval.org/karneval-tipps/weiberfastnacht-koeln/) oder am Abend.
 ★ 7. Der beste Tag für Familien: Karnevalssonntag
 ★ Der Karnevalssonntag ist für viele Familien der beste Tag, um Kinderkarneval in Köln zu erleben. Die Schull- und Veedelszöch beginnen am Vormittag und finden vollständig bei Tageslicht statt.
 Trotzdem solltest du die Größe des Ereignisses nicht unterschätzen. Mit mehr als 250.000 Menschen am Zugweg kann es auch am Sonntag sehr voll werden. Besonders rund um Chlodwigplatz, Severinstraße, Neumarkt und die zentralen Innenstadtbereiche ist frühzeitiges Erscheinen sinnvoll.
@@ -170,7 +170,7 @@ Das könnte dich auch interessieren
 [Lachende Kölnarena 2027: Termine, Programm und Tipps](https://www.koelner-karneval.org/karneval-tipps/lachende-koelnarena-sitzung/)
 [150 Jahre Willi Ostermann: Heumarkt startet in die Session](https://www.koelner-karneval.org/karneval-tipps/sessionseroeffnung/)
 Wie gefällt dir dieser Beitrag?
-110 Aufrufe
+113 Aufrufe
 0 Kommentare
 Diskutiere mit
 Sachlich & mit kölschem Herz

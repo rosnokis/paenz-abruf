@@ -52,13 +52,10 @@ Die nächsten Termine
 So 13:00 Uhr
 ★ [Flohmarkt in der HALLE »](https://comedia-koeln.de/magazin/flohmarkt-in-der-halle/)
 Der Hallenmarkt geht in die zweite Runde!
-So 19:00 Uhr
-[Tina Teubner: Protokolle der Sehnsucht »](https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/)
-Comedia Theater (Grüner Saal)
-[Tickets](https://api.qultor.de/tina-teubner-protokolle-der-sehnsucht/tina-teubner-protokolle-der-sehnsucht-2026-11-15-1900/tickets)
 18.11.
 Mi 09:00 Uhr
 [Der fabelhafte Die »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/)
+Comedia Theater (Grüner Saal)
 [Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Mi 10:00 Uhr
 [Erinnerung eines Mädchens »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
@@ -97,7 +94,7 @@ So 18:00 Uhr
 ★ von Sergej Gößner, für alle ab 5 Jahren
 Comedia Theater (Roter Saal)
 5+
-[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-22-1800/tickets)
+[Hinweis](https://qultor.de/veranstaltungshinweis)
 24.11.
 Di 09:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
@@ -111,5 +108,6 @@ Halle
 25.11.
 Mi 11:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-25-1100/tickets)
+[Tickets](https://api.qultor.de/titanic/titanic-2026-11-25-1900/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

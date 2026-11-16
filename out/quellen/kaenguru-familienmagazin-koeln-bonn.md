@@ -5,99 +5,83 @@
 Was ist los in Köln, Bonn und der Region? Schaut auch mal in unsere ausgewählten [Wochenend-Tipps mit Kids](https://www.kaenguru-online.de/themen/ausflug/sechs-tipps-fuer-das-wochenende).
 Informiert euch vor eurem Besuch, ob ihr euch anmelden oder Tickets reservieren müsst!
 Viel Vergnügen!
-© Erfort und Kraiss
-★ [„Tintenherz“ Performative Lesung nach Cornelia Funkes Bestseller für Kinder ab 10 Jahren 15.11.2026, 14:00 Uhr Orangerie Theater im Volksgarten, 50677 Köln](https://www.kaenguru-online.de/kalender/theater/tintenherz/2026-11-15)
+© Toni Barber
+★ [„Der kleine Rabe Socke" Puppentheater nach dem Kinderbuchklassiker für Kinder ab 2 Jahren 16.11.2026, 16:00 Uhr Barber´s Puppentheater für Kinder im Kölner Jugendpark, 51063 Köln](https://www.kaenguru-online.de/kalender/theater/der-kleine-rabe-socke-4/2026-11-16)
 Veranstaltung suchen
 Onlineangebot
-[Natur und Umwelt](https://www.kaenguru-online.de/kalender/natur-und-umwelt)
-[Fossilien? - Find ich gut!](https://www.kaenguru-online.de/kalender/natur-und-umwelt/fossilien-find-ich-gut/2026-11-15)
-★ Familien-Erlebnis-Programm
-15.11.2026
-10:00 - 12:30 Uhr
-Naturzentrum Eifel
-Nettersheim
-[Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-43/2026-11-15)
-★ Kinderbasar
-10:00 - 14:00 Uhr
-★ Kita AWO Tummelkiste Wesseling
-Wesseling
-[Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
-[Adventskranz gießen](https://www.kaenguru-online.de/kalender/dies-und-das/adventskranz-giessen/2026-11-15)
-★ Kreativworkshop für Kinder ab 10 Jahren zum Gestalten eines Adventskranzes
-10:00 - 12:00 Uhr
-Curious Kids
-Frechen
-[Feste und Märkte](https://www.kaenguru-online.de/kalender/feste-und-maerkte)
-[Backtag im Freilichtmuseum](https://www.kaenguru-online.de/kalender/feste-und-maerkte/backtag-im-freilichtmuseum/2026-11-15)
-★ Backtag für Familien mit traditionellem Weihnachtsgebäck, frischem Brot und historischen Backtechniken
-10:00 - 16:00 Uhr
-LVR Bergisches Freilichtmuseum Lindlar
-Lindlar
-[Museum](https://www.kaenguru-online.de/kalender/museum)
-[Figuren-Werkstatt](https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-15)
-★ Der Schokoladenkurs für alle Schokoladenfans ab 8 Jahren
-10:15 Uhr
-Schokoladenmuseum
+[Online](https://www.kaenguru-online.de/kalender/online)
+★ [NextGen Elternkongress 2026](https://www.kaenguru-online.de/kalender/online/nextgen-elternkongress-2026/2026-11-16)
+★ Kostenloser Online-Kongress zu Erziehung, mentaler Gesundheit und Familienalltag
+16.11.2026
+Uhr
+★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
+★ [„Das kleine Zottel Mottel"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel/2026-11-16)
+★ Ein Stück über die Begegnung mit dem Ich und dem Anderen für Kinder ab 3 Jahren
+10:00 Uhr
+KKT Kölner Künstler:innen Theater
 Köln
-[Die kleine Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-15)
-★ Familienführung durch die vielfältige Welt des Kakaos und der Schokolade
-10:30 Uhr
-★ [neander*Sternchen - Der aktuelle Sternenhimmel für Kinder](https://www.kaenguru-online.de/kalender/natur-und-umwelt/neandersternchen-der-aktuelle-sternenhimmel-fuer-kinder/2026-11-15)
-★ Live moderierte Reise durch den Sternenhimmel für Kinder von 4 bis 11 Jahren
-10:30 - 11:30 Uhr
-Planetarium Erkrath
-Erkrath
-★ [Familientag im Museum Ludwig](https://www.kaenguru-online.de/kalender/museum/familientag-im-museum-ludwig/2026-11-15)
-Magie der Materialien – Wenn Dinge Kunst werden
-Freunde des Wallraf-Richartz-Museum und des Museum Ludwig
-[Trödelmarkt](https://www.kaenguru-online.de/kalender/maerkte/troedelmarkt/2026-11-15)
-innen und außen!
-11:00 - 17:00 Uhr
-Bürgerzentrum Engelshof
-[Schmiedewerkstatt](https://www.kaenguru-online.de/kalender/museum/schmiedewerkstatt/2026-11-15)
-★ Ein heißes Angebot für Kinder
-11:00 Uhr
-14:00 Uhr
-LVR Industriemuseum Gesenkschmiede Hendrichs Solingen
-Solingen
-[Die große Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-15)
-★ Familienführung mit Verkostung
-★ [Kunstbasar terre des hommes](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kunstbasar-terre-des-hommes/2026-11-15)
-★ Kunsthandwerksbasar mit Magie, Kinderprogramm und mehr als 80 Aussteller:innen
-11:00 - 18:00 Uhr
-Bürgerhaus Bergischer Löwe
-Bergisch Gladbach
-★ [Mitmachsonntag im Erftmuseum für Kinder und Familien](https://www.kaenguru-online.de/kalender/natur-und-umwelt/mitmachsonntag-im-erftmuseum-fur-kinder-und-familien/2026-11-15)
-★ Museumsführung für Familien mit Kindern ab 4 Jahren
-13:00 Uhr
-Naturparkzentrum Gymnicher Mühle
-Erftstadt
-[Sport](https://www.kaenguru-online.de/kalender/sport)
-[Cologne Celtics Youth Training](https://www.kaenguru-online.de/kalender/sport/cologne-celtics-youth-training/2026-11-15)
-★ Irische Teamsportarten für Kinder und Jugendliche
-11:00 - 13:00 Uhr
-Cologne Celtics Ossendorf
-[Kino](https://www.kaenguru-online.de/kalender/kino)
-[„Paw Patrol: Der Dinofilm“](https://www.kaenguru-online.de/kalender/kino/paw-patrol-der-dinofilm/2026-11-15)
-Nachdem ihr Schiff in einen mysteriösen Sturm gerät, landen die PAW-Patrol-Welpen auf einer unbekannten tropischen Insel, auf der Dinos leben
-WOKI
-Bonn
+★ [Babys in Bewegung](https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16)
+★ Kostenfreies Angebot mit der Familienhebamme der Stadt Hennef
+10:00 - 11:30 Uhr
+★ Familienzentrum Waldwichtel Hennef-Lichtenberg
+Hennef
 [Theater](https://www.kaenguru-online.de/kalender/theater)
-[„Eine fantastische Entdeckungsreise"](https://www.kaenguru-online.de/kalender/theater/eine-fantastische-entdeckungsreise/2026-11-15)
-★ Improtheater zum Mitbestimmen für Kinder ab 4 Jahren und die ganze Familie
-Studio11
-[Wochenendspaß in der MutReiferei: Traumfänger](https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-traumfaenger/2026-11-15)
-★ Offenes Bastelangebot für Kinder mit wechselnden Kreativaktionen
+[„Pippi Langstrumpf"](https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-16)
+★ Das Buch „Pippi Langstrumpf" war auf Anhieb ein Erfolg und machte Astrid Lindgren zur beliebtesten Kinderbuchautorin der Welt
+Junges Theater Bonn
+Bonn
+[SPIELARTEN 26 „Der Geräuschehändler"](https://www.kaenguru-online.de/kalender/theater/spielarten-26-der-geraeuschehaendler-1/2026-11-16)
+★ In insgesamt 10 Städten in NRW werden 10 herausragende freie Kinder- und Jugendtheaterproduktionen gezeigt
+11:00 Uhr
+Kultur- und Medienzentrum Pulheim
+Pulheim
+[Kino](https://www.kaenguru-online.de/kalender/kino)
+[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-16)
+Am Halloween-Abend auf der Mossy Bottom Farm verwandelt sich die Aufregung in Bestürzung, als der tollpatschige Farmer das Kürbisfeld ruiniert
+14:50 Uhr
+Filmpalast Cineplex Köln
+[„Bibi Blocksberg – Die total verhexte Zeitreise“](https://www.kaenguru-online.de/kalender/kino/bibi-blocksberg-die-total-verhexte-zeitreise-3/2026-11-16)
+Eine verschwundene Spieluhr, ein ungeklärtes Rätsel und eine turbulente Reise durch die Zeit
+15:00 Uhr
+WOKI
+[„Der kleine Rabe Socke"](https://www.kaenguru-online.de/kalender/theater/der-kleine-rabe-socke-4/2026-11-16)
+★ Puppentheater nach dem Kinderbuchklassiker für Kinder ab 2 Jahren
+16:00 Uhr
+★ Barber´s Puppentheater für Kinder im Kölner Jugendpark
+[„Wildwood“](https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-16)
+Die berührende Geschichte von Prue, die für die Rettung ihres Bruders alles riskiert, basiert auf den gleichnamigen Jugendbuchbestsellern von Colin Meloy
+Rex am Ring
+[Natur und Umwelt](https://www.kaenguru-online.de/kalender/natur-und-umwelt)
+[Fantastische Filzerei: Fledermäuse](https://www.kaenguru-online.de/kalender/natur-und-umwelt/fantastische-filzerei-fledermaeuse/2026-11-16)
+★ Kreativworkshop rund um Fledermäuse für Kinder im Grundschulalter
+16:30 - 18:30 Uhr
 NaturGut Ophoven
 Leverkusen
-[„Pippi Langstrumpf"](https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-15)
-★ Das Buch „Pippi Langstrumpf" war auf Anhieb ein Erfolg und machte Astrid Lindgren zur beliebtesten Kinderbuchautorin der Welt
-15:00 Uhr
-Junges Theater Bonn
-[„Der Grüffelo"](https://www.kaenguru-online.de/kalender/theater/der-grueffelo-1/2026-11-15)
-★ Puppentheater nach dem Kinderbuchklassiker für Kinder ab 2 Jahren
-★ Barber´s Puppentheater für Kinder im Kölner Jugendpark
-★ [Rundgang für Familien durch return](https://www.kaenguru-online.de/kalender/museum/rundgang-fuer-familien-durch-return/2026-11-15)
-★ Familienführung über Heimat, Erinnerungen und Zukunftswünsche
-Rautenstrauch-Joest-Museum
+[„Wildwood“](https://www.kaenguru-online.de/kalender/kino/wildwood/2026-11-16)
+17:30 Uhr
+[„Wildwood“](https://www.kaenguru-online.de/kalender/kino/wildwood-3/2026-11-16)
+17:45 Uhr
+[„Pippi Langstrumpf"](https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-17)
+17.11.2026
+09:00 Uhr
+[„Birkenelfe Mimi und Eduard Nasenmurf"](https://www.kaenguru-online.de/kalender/theater/birkenelfe-mimi-und-eduard-nasenmurf/2026-11-17)
+★ Musikalisches Erzähltheaterspiel für Kinder ab 4 1/2 Jahren
+10:30 Uhr
+Cassiopeia Bühne
+[SPIELARTEN 26 „INTO IT"](https://www.kaenguru-online.de/kalender/theater/spielarten-26-into-it/2026-11-17)
+[Literatur](https://www.kaenguru-online.de/kalender/literatur)
+[„Die Schnecke und der Buckelwal“](https://www.kaenguru-online.de/kalender/literatur/die-schnecke-und-der-buckelwal/2026-11-17)
+★ Bilderbuchtheater und Puppenspiel zum Mitreimen und Mitschleimen für Kinder ab 4 Jahren
+Bürgerhaus Kalk
+[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-17)
+[Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
+★ [Spiel & Spaß für Pänz](https://www.kaenguru-online.de/kalender/dies-und-das/spiel-spass-fuer-paenz/2026-11-17)
+★ Programm für Kitakinder von 1 bis 6 Jahren
+15:00 - 17:00 Uhr
+Bürgerzentrum Nippes/Altenberger Hof
+[„Emil und die Detektive“](https://www.kaenguru-online.de/kalender/kino/emil-und-die-detektive-9/2026-11-17)
+★ Eine zeitgemäße Adaption des weltberühmten Kinderbuchklassikers von Erich Kästner
+★ [Spieletreff](https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17)
+★ Spieletreff für Kinder von 3 bis 6 Jahren
+15:30 - 17:00 Uhr
+★ Kindernöte e.V.

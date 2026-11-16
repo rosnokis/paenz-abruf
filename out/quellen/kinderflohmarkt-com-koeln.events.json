@@ -1,44 +1,5 @@
 [
  {
-  "name": "26. Familien-Flohmarkt-Fest, Katholisches Pfarrheim Bonn-Oberkassel",
-  "startDate": "2026-11-14T09:30:00+01:00",
-  "endDate": "2026-11-14T13:00:00+01:00",
-  "location": {
-   "name": "Katholisches Pfarrheim Bonn-Oberkassel",
-   "address": "Kastellstraße 21, 53227 Oberkassel"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/katholisches-pfarrheim-bonn-oberkassel-53227-oberkassel-7706/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Kindertrödel, Grundschule Grünstrasse",
-  "startDate": "2026-11-14T10:00:00+01:00",
-  "endDate": "2026-11-14T13:00:00+01:00",
-  "location": {
-   "name": "Grundschule Grünstrasse",
-   "address": "Grünstr 33, 42551 Velbert"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/velbert/grundschule-gruenstrasse-42551-velbert-11573/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Kinderflohmarkt Kita St. Barbara in Ippendorf, Pfarrheim St.Barbara",
-  "startDate": "2026-11-14T11:00:00+01:00",
-  "endDate": "2026-11-14T14:00:00+01:00",
-  "location": {
-   "name": "Pfarrheim St.Barbara",
-   "address": "Röttgener Str.32, 53127 Ippendorf"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/pfarrheim-stbarbara-53127-ippendorf-5516/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
   "name": "Kinderflohmarkt, AWO Kita Tummelkiste",
   "startDate": "2026-11-15T10:00:00+01:00",
   "endDate": "2026-11-15T14:00:00+01:00",

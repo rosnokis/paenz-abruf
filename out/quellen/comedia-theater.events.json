@@ -1,24 +1,5 @@
 [
  {
-  "name": "Tina Teubner: Protokolle der Sehnsucht",
-  "startDate": "2026-11-15T19:00:00+01:00",
-  "endDate": "2026-11-15T21:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Grüner Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-gaeste/tina-teubner-protokolle-der-sehnsucht-ein-feuerwerk-der-melancholie/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
   "name": "Der fabelhafte Die",
   "startDate": "2026-11-18T09:00:00+01:00",
   "endDate": "2026-11-18T11:00:00+01:00",
@@ -318,6 +299,25 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Titanic",
+  "startDate": "2026-11-25T19:00:00+01:00",
+  "endDate": "2026-11-25T20:05:00+01:00",
+  "location": {
+   "name": "Halle",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

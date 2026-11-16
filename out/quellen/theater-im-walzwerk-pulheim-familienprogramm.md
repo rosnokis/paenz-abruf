@@ -24,7 +24,7 @@ Sa.
 28
 15:00
 ★ [Frau Holle – Seifenblasen Figurentheater Familienprogramm](https://www.eventbrite.de/e/frau-holle-seifenblasen-figurentheater-familienprogramm-tickets-1989795416655)
-★ Das Märchen von Frau Holle – Passend zur Winterzeit für die ganze Familie Frei nach dem Märchen der Brüder Grimm Frau…
+★ Das Märchen von Frau Holle – Passend zur Winterzeit für die ganze FamilieFrei nach dem Märchen der Brüder GrimmFrau…
 ★ [Tickets](https://www.eventbrite.de/e/frau-holle-seifenblasen-figurentheater-familienprogramm-tickets-1989795416655)
 So.
 29
