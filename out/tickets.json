@@ -1,5 +1,17 @@
 {
  "seiten": {
+  "https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
+   "s": "ausverkauft",
+   "txt": "2015 gründete er die Bierpartei - ursprünglich als Satire gedacht, erlangte er aber schnell überraschenden politischen Erfolg. Bei der Bundespräsidentenwahl 202"
+  },
+  "https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets sichern](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)"
+  },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -14,7 +26,7 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
@@ -91,6 +103,12 @@
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://galileum.ticketfritz.de/Event/Detail?Event=7028)"
   },
+  "https://koelner-weihnachtscircus.de/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt Tickets sichern!](https://koelner-weihnachtscircus.de/showzeiten-und-tickets/)"
+  },
   "https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
@@ -112,6 +130,12 @@
   "https://lust-auf-leverkusen.de/veranstaltungen/kategorie/theater-schauspiel/": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
+  },
+  "https://lust-auf-leverkusen.de/veranstaltungen/kategorie/tipps/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
    "s": "ausverkauft",
    "txt": "Ausverkauft"
   },
@@ -177,16 +201,17 @@
   },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
-   "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-16T05:26",
-   "s": "unklar",
-   "txt": ""
+   "geprueft": "2026-11-17T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
+   "fehler": "HTTP 404",
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
-   "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)"
+   "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
+   "versucht": "2026-11-17T05:26"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -203,7 +228,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -261,6 +286,12 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://www.the-werkstatt.de/christmas-werkstatt-koeln)"
   },
+  "https://www.kindaling.de/magazin/adventskalender-2026": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/klettercamps/osterferiencamp-im-boulderplanet-koeln-koeln-ehrenfeld/koeln-ehrenfeld) [Jetzt buchen m"
+  },
   "https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -282,7 +313,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -294,13 +325,13 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -327,6 +358,12 @@
    "geprueft": "2026-11-14T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)"
+  },
+  "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-17T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2631688)"
   },
   "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/familienspecial-youtuber-matthias-berger-uncut-keine-kameratricks-pulheim/": {
    "art": "detailseite",
@@ -360,7 +397,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-17T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -479,5 +516,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-16T05:26"
+ "stand": "2026-11-17T05:26"
 }

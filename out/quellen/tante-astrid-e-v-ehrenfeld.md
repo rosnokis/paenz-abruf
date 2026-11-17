@@ -17,17 +17,12 @@ Sa. 12.12.
 [Infos & Buchung](https://tante-astrid.de/der-gestiefelte-kater/)
 
 ## Quelle: https://tante-astrid.de/eventkalender/
-Oktober 2026
-26.10.-30.10.
-Kursprogramm im Tante Astrid e.V.
-[Kurskalender](https://tante-astrid.de/kurskalender/)
-Sa. 31.10.
-Geschlossene Gesellschaft
-[Eventräume ansehen](https://tante-astrid.de/private-feste/)
 November 2026
 So. 01.11.
 Allerheiligen
+[Eventräume ansehen](https://tante-astrid.de/private-feste/)
 02.11.-06.11.
+Kursprogramm im Tante Astrid e.V.
 [Zum Kurskalender](https://tante-astrid.de/kurskalender/)
 Do. 05.11., 17.00h
 ★ Klebstoffsyndikat. Der offene Kreativraum für Kinder
@@ -60,6 +55,7 @@ Sa. 14.11., 10.00h
 ★ Nähkurs für Kinder
 ★ [Infos & Buchung](https://tante-astrid.de/naehkurse-fuer-kinder/)
 So. 15.11.
+Geschlossene Gesellschaft
 16.11.-20.11.
 Do. 19.11., 17.00h
 Do. 19.11., 18.30h

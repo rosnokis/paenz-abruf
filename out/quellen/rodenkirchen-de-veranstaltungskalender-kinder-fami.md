@@ -10,7 +10,7 @@ Stadtteil
 ★ [Für Kinder](https://www.rodenkirchen.de/kalender)
 ★ [Jeden Tag einzeln](https://www.rodenkirchen.de/kalender?kinder=1&einzeln=1)
 [Veranstaltungsorte](https://www.rodenkirchen.de/adressen?orte=1)
-Morgen, Dienstag, 17. November 2026
+Heute, Dienstag, 17. November 2026
 Di 17 Nov.
 ★ Kinder · 16:00 Uhr [Vorlesen mit dem Kamishibai – Erzähltheater](https://www.rodenkirchen.de/termin/16-vorlesen-mit-dem-kamishibai-erzaehltheater)
 Dienstag, 17. November 2026, Stadtteilbibliothek Rodenkirchen, Schillingsrotter Straße 38 · Rodenkirchen · kostenlos
@@ -58,6 +58,6 @@ Di 9 Feb.
 Karneval · 0:00 Uhr [Zollstocker Dienstagszug](https://www.rodenkirchen.de/termin/321-zollstocker-dienstagszug)
 Dienstag, 9. Februar 2027, Markusstraße 50968 Köln · Zollstock · kostenlos
 Termine nach Veedel
-[Bayenthal 1](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 1](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 107](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 10](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 51](https://www.rodenkirchen.de/kalender/zollstock)
+[Bayenthal 1](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 1](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 107](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 10](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 40](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 51](https://www.rodenkirchen.de/kalender/zollstock)
 Termine nach Thema
-★ [Markt 139](https://www.rodenkirchen.de/kalender/markt) [Kultur 16](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 5](https://www.rodenkirchen.de/kalender/kinder) [Senioren 6](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 3](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 8](htt …
+★ [Markt 139](https://www.rodenkirchen.de/kalender/markt) [Kultur 16](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 5](https://www.rodenkirchen.de/kalender/kinder) [Senioren 6](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 7](https://www.rodenkirchen.de/kalender/workshop) [Beratung 3](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 8](htt …

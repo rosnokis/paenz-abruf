@@ -9,12 +9,12 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Babys in Bewegung",
+  "name": "Dr. Mama / Dr. Papa",
   "location": {
-   "name": "Hennef"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/babys-in-bewegung/2026-11-16",
-  "kinder": true,
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/dr-mama-dr-papa/2026-11-26",
+  "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
@@ -81,6 +81,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "Ohrenschmausen",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
   "location": {
    "name": "Köln"
@@ -95,15 +104,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Das kleine Zottel Mottel\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel/2026-11-16",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

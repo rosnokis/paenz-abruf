@@ -9,16 +9,9 @@ Große Abenteuer für kleine Entdecker in ganz Leverkusen
 Aktuell laufend (0)
 Veranstaltungen
 (58)
-16
+17
 Nov
 ★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-[Rat & Tat](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/rat-tat/)
-Mo
-12:00 Uhr
-Abgesagt
-★ [KStA Medien FAMILIENZEIT. Gemeinsam Patchworken.](https://lust-auf-leverkusen.de/veranstaltung/ksta-medien-familienzeit-gemeinsam-patchworken/)
-[Probierwerk](https://lust-auf-leverkusen.de/veranstaltungsort/probierwerk/)
-17
 [Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
 Di
 16:00 Uhr
@@ -75,3 +68,5 @@ Ausverkauft
 [Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-12-01-17-00/)
 02
 ★ [Die Museumsflöhe. Mit Kleinkindern ins Museum Morsbroich.](https://lust-auf-leverkusen.de/veranstaltung/museumsfloehe/2026-12-02-09-30/)
+[Tipps](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/tipps/)
+[Basteln mit Gaby und Anika](https://lust-auf-leverkusen.de/veranstaltung/basteln-mit-gaby-und-anika/2026-12-02-16-00/)

@@ -71,6 +71,6 @@ Ausstellung
 [Chorweiler](https://www.buergerzentrum-chorweiler.de/index.php?id=88)
 [Stadtbezirksfest](https://www.buergerzentrum-chorweiler.de/index.php?id=88)
 [Fotos/Bilder](https://www.buergerzentrum-chorweiler.de/index.php?id=88)
-Nächster Abendfrieden am Sonntag, 8. November 2026 um 17 Uhr
+Nächster Abendfrieden am Sonntag, 6. Dezember 2026 um 17 Uhr
 [Chorweiler Friedensglocke](https://chorweiler-friedenserklaerung.de/)
 Bürgerzentrum Chorweiler · Pariser Platz 1 · 50765 Köln · Telefon: 0221 221-96410 · [E-Mail] · [Impressum](https://www.buergerzentrum-chorweiler.de/index.php?id=109)

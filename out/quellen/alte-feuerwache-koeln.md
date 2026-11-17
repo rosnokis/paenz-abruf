@@ -15,22 +15,7 @@ SA
 13
 14
 15
-MO 16.11.
-[MO 16.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-33/)
-★ [MO 16.11. Eltern-Kind-Treff 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-treff-3/)
-[MO 16.11. The Green Room | psycholgoische Beratung für Künstler*innen 09:30 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/the-green-room-psycholgoische-beratung-fuer-kuenstlerinnen-7/)
-[MO 16.11. TPSK - Seniorensport 10:00 Großes Forum | Südtrackt](https://altefeuerwachekoeln.de/programm/tpsk-seniorensport-7/)
-[MO 16.11. YOGA - Back to Basics 10:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-back-to-basics-6/)
-[MO 16.11. YOGA - Inside Out 11:45 Theaterproberaum | Manschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-inside-out-6/)
-★ [MO 16.11. Gemeinsames Kochen und Backen 16:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/gemeinsames-kochen-und-backen/)
-[MO 16.11. Englisch für Anfänger*innen - DAKO e.V. 16:30 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/englisch-fuer-anfaengerinnen-dako-e-v-7/)
-[MO 16.11. Rechtsberatung Feminist Law Clinic 17:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/rechtsberatung-feminist-law-clinic-fuer-flinta-7/)
-★ [MO 16.11. Junior house | Schauspielkurs für Kinder und Jugendliche 17:30 Theaterproberaum | Manschaftshaus](https://altefeuerwachekoeln.de/programm/junior-house-schauspielkurs-fuer-kinder-und-jugendliche-11-16-jahre-7/)
-[MO 16.11. Sprich dich fit - Konversationskurs Deutsch - DAKO e.V. 18:00 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/sprich-dich-fit-konversationskurs-deutsch-dako-e-v-7/)
-★ [MO 16.11. Junior house - Schauspielkurs für Kinder und Jugendliche 18:30 Theaterproberaum | Manschaftshaus](https://altefeuerwachekoeln.de/programm/junior-house-schauspielkurs-fuer-kinder-und-jugendliche-14-18-jahre-7/)
-[MO 16.11. Taubenhaucher | Improtheater 19:00 Säulenraum | Südtrakt](https://altefeuerwachekoeln.de/programm/taubenhaucher-improtheater-7/)
-[MO 16.11. SoLaLa! 19:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/solala-7/)
-[MO 16.11. Chor JJVBB 20:00 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-jjvbb-7/)
+16
 DI 17.11.
 [Frauen, TINAQ+ und Queers Songwriting Workshop 18:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/songwriting-workshop/)
 [Politik & Gesellschaft Fake News Pub Quiz 19:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/fake-news-pub-quiz/)

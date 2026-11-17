@@ -13,16 +13,17 @@ Willkommen auf dem Gertrudenhof
 Weihnachtspark
 2026
 Block
-Erlebnisgelände
-Garantierter Einlass mit Online-Ticket
-Bauernmarkt
-entdecken
+Tierpatenschaft
+übernehmen
+Print@home Gutschein
+verschenken
 Gans, Ente & Pute
 vorbestellen
 Weihnachtsbaum
-Verkauf, ab dem 19.11.26
+Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
 Montag, 16.11.2026
+Erlebnisgelände
 GESCHLOSSEN WEGEN UMBAU
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr

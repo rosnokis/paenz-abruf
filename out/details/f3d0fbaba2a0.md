@@ -1,20 +1,17 @@
 URL: https://www.rodenkirchen.de/kalender/zollstock
-ABGERUFEN: 2026-11-13T05:26
+ABGERUFEN: 2026-11-17T05:26
 VON: rodenkirchen-de-veranstaltungskalender-kinder-fami
 
 Veranstaltungen in Zollstock
 Märkte, Feste, Vereinstermine und mehr in Zollstock.
+[Wochenprogramm](https://www.rodenkirchen.de/kalender/wochenprogramm)
 [Termin eintragen](https://www.rodenkirchen.de/kalender/neu)
 Stadtteil
 [Eintritt frei](https://www.rodenkirchen.de/kalender/zollstock?kostenlos=1)
 ★ [Für Kinder](https://www.rodenkirchen.de/kalender/zollstock?kinder=1)
 [Jeden Tag einzeln](https://www.rodenkirchen.de/kalender/zollstock?einzeln=1)
 [Veranstaltungsorte](https://www.rodenkirchen.de/adressen?orte=1)
-Morgen, Samstag, 14. November 2026
-Sa 14 Nov.
-Karneval · 19:00 Uhr [Sessionseröffnung der KG Fidele Fortuna](https://www.rodenkirchen.de/termin/296-sessionseroeffnung-der-kg-fidele-fortuna)
-Samstag, 14. November 2026, Kath. Pfarrgemeinde St. Pius, Irmgardstraße 13A · Zollstock
-Mittwoch, 18. November 2026
+Morgen, Mittwoch, 18. November 2026
 Mi 18 Nov.
 Markt · 12:00 Uhr [VeedelsAdvent Zollstock](https://www.rodenkirchen.de/termin/159-veedelsadvent-zollstock)
 Mittwoch, 18. November 2026, Marktplatz, Höninger Weg / Herthastraße · Zollstock
@@ -23,6 +20,10 @@ Donnerstag, 19. November 2026
 Do 19 Nov.
 Markt · 7:00 Uhr [Wochenmarkt Zollstock](https://www.rodenkirchen.de/termin/95-wochenmarkt-zollstock)
 Donnerstag, 19. November 2026, Marktplatz, Höninger Weg / Herthastraße · Zollstock
+Samstag, 21. November 2026
+Sa 21 Nov.
+★ Markt · 14:30 Uhr [Adventsbasar im Tierheim Zollstock](https://www.rodenkirchen.de/termin/328-adventsbasar-im-tierheim-zollstock)
+Samstag, 21. November 2026, Kölner Tierschutzverein von 1868, Vorgebirgstrasse 76 · Zollstock
 Donnerstag, 26. November 2026
 Do 26 Nov.
 Markt · 7:00 Uhr [Wochenmarkt Zollstock](https://www.rodenkirchen.de/termin/96-wochenmarkt-zollstock)
@@ -35,6 +36,10 @@ Samstag, 5. Dezember 2026
 Sa 5 Dez.
 Kirche & Glaube · 14:00 Uhr [Adventsmarkt in St. Pius](https://www.rodenkirchen.de/termin/299-adventsmarkt-in-st-pius)
 Samstag, 5. Dezember 2026, Kath. Pfarrgemeinde St. Pius, Irmgardstraße 13A · Zollstock
+Mittwoch, 9. Dezember 2026
+Mi 9 Dez.
+Sonstiges · 10:00 Uhr [Sammelaktion - Lebensmittelspenden für die Tafel](https://www.rodenkirchen.de/termin/333-sammelaktion-lebensmittelspenden-fuer-die-tafel)
+Mittwoch, 9. Dezember 2026, Pfarrsaal - Zum Heiligen Geist, Zollstockgürtel 33a · Zollstock
 Donnerstag, 10. Dezember 2026
 Do 10 Dez.
 Markt · 7:00 Uhr [Wochenmarkt Zollstock](https://www.rodenkirchen.de/termin/98-wochenmarkt-zollstock)
@@ -71,16 +76,21 @@ Donnerstag, 28. Januar 2027
 Do 28 Jan.
 Markt · 7:00 Uhr [Wochenmarkt Zollstock](https://www.rodenkirchen.de/termin/105-wochenmarkt-zollstock)
 Donnerstag, 28. Januar 2027, Marktplatz, Höninger Weg / Herthastraße · Zollstock
+Dienstag, 9. Februar 2027
+Di 9 Feb.
+Karneval · 0:00 Uhr [Zollstocker Dienstagszug](https://www.rodenkirchen.de/termin/321-zollstocker-dienstagszug)
+Dienstag, 9. Februar 2027, Markusstraße 50968 Köln · Zollstock · kostenlos
 Termine nach Veedel
-[Bayenthal 2](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 2](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 104](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 49](https://www.rodenkirchen.de/kalender/zollstock)
+[Bayenthal 1](https://www.rodenkirchen.de/kalender/bayenthal) [Immendorf 1](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 2](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 107](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 10](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 40](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 51](https://www.rodenkirchen.de/kalender/zollstock)
 Termine nach Thema in Zollstock
-[Markt 46](https://www.rodenkirchen.de/kalender/zollstock/markt) [Musik 1](https://www.rodenkirchen.de/kalender/zollstock/musik) [Karneval 1](https://www.rodenkirchen.de/kalender/zollstock/karneval) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/zollstock/kirche)
+[Markt 47](https://www.rodenkirchen.de/kalender/zollstock/markt) [Musik 1](https://www.rodenkirchen.de/kalender/zollstock/musik) [Karneval 1](https://www.rodenkirchen.de/kalender/zollstock/karneval) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/zollstock/kirche) [Sonstiges 1](https://www.rodenkirchen.de/kalender/zollstock/sonstiges)
 Schaltfläche: Veedel wählen
 Schaltfläche: Filter (1)
 Schaltfläche: Filtern
 Schaltfläche: Cookie-Einstellungen
 Schaltfläche: Verstanden
 Schaltfläche: Entdecken
+Schaltfläche: Einstellungen
 Schaltfläche: Hell
 Schaltfläche: Dunkel
 Schaltfläche: Auto matisch wie das Gerät

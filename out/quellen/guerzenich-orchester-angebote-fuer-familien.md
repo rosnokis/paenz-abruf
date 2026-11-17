@@ -34,10 +34,6 @@ ab 21,00 €
 [Tickets](https://www.concertgebouw.nl/concerten/37473495-strauss-also-sprach-zarathustra-en-rosenkavalier-suite)
 29.11.2026
 29.11.
-Belgisches Haus, Cäcilienstraße 46, 50667 Köln
-Gemeinschaft
-[Musikalischer Frühschoppen](https://www.guerzenich-orchester.de/de/event-detail/musikalischer-fruehschoppen-26-27)
-Entfällt
 Flora Köln, Am Botanischen Garten
 Matinee Konzert
 [So klingt Köln im Advent](https://www.guerzenich-orchester.de/de/event-detail/so-klingt-koeln-2026)
@@ -130,6 +126,9 @@ ab 18,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=370&language=de)
 14.02.2027
 14.02.
+Belgisches Haus, Cäcilienstraße 46, 50667 Köln
+Gemeinschaft
+[Musikalischer Frühschoppen](https://www.guerzenich-orchester.de/de/event-detail/musikalischer-fruehschoppen-26-27)
 ab 11,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=366&language=de)
 18.02.2027
@@ -256,7 +255,7 @@ Werke von Matthias Pintscher, Paul Hindemith und Béla Bartók
 30.05.2027
 30.05.
 [Zeitsprünge](https://www.guerzenich-orchester.de/de/event-detail/zeitspruenge)
-Werke von Henry Purcell, Gideon Klein, Vassos Nicolaou und Franz Schubert
+Duo-Programm anlässlich des 150. Geburtstag von Pablo Casals
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=373&language=de)
 05.06.2027
 05.06.

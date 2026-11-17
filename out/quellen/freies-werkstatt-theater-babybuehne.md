@@ -34,9 +34,6 @@ Fr 27
 Sa [28](https://www.fwt-koeln.de/spielplan/tag/2026/11/28)
 So [29](https://www.fwt-koeln.de/spielplan/tag/2026/11/29)
 Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
-15.11.2026
-So, 18:00 Uhr
-Performance | Von Marlin de Haan | Themenreihe FOCUS ON: TIPPING POINTS Am Ende des Zweiten Weltkriegs sind Millionen Deutsche aus Mittel-, Ost- und Südosteuropa in die verbliebenen deutschen Gebiete geflohen oder vertrieben worden. Ausgehend von diesem Kapitel deutscher Geschichte, recherchierten Marlin de Haan & Team zu zurückgelassenen Lebensmittelpunkten, neuen und alten Heimaten, Ritualen und Relikten, Erinnerungen und Lücken.
 19.11.2026
 Do, 10:00 Uhr
 ★ Für Taubes und hörendes Publikum ab 8 Jahren | Die Welt ist kompliziert, hart und schwer. Es ist schwer in ihr jung und leicht zu sein, und noch schwerer in ihr groß und stark zu werden. Doch am schwersten ist es groß zu sein und leicht zu werden. Koproduktion pulk fiktion, FFT Düsseldorf & FWT
@@ -49,6 +46,9 @@ Fr, 18:00 Uhr
 Fr, 20:00 Uhr
 Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
 NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2026
-[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-15&tx_calendarize_calendar%5BstartDate%5D=2026-11-15&cHash=2ae1fc7d5b4d7c85596b340cd24ac92a) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-15&tx_calendarize_calendar%5BstartDate%5D=2026-11-15&cHash=2ae1fc7d5b4d7c85596b340cd24ac92a)
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0)
 [Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-20-2000)
+21.11.2026
+Sa, 16:00 Uhr
+[Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-21-1600)
 [Gesamter Spielplan](https://www.fwt-koeln.de/spielplan)

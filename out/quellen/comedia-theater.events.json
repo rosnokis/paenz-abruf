@@ -14,7 +14,7 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/",
-  "eventStatus": "EventScheduled",
+  "eventStatus": "EventCancelled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"
  },
@@ -109,7 +109,7 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/",
-  "eventStatus": "EventScheduled",
+  "eventStatus": "EventCancelled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"
  },
@@ -318,6 +318,25 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Jugend ohne Gott",
+  "startDate": "2026-11-26T09:30:00+01:00",
+  "endDate": "2026-11-26T11:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

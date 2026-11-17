@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 8 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 9 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -17,19 +17,21 @@ großer Beliebtheit ❤️
 ★ Kinderflohmärkte & Kinderbasare im November 2026
 in Köln
 + 50 km
-Sonntag,
-15. November 2026
-★ Kinderflohmarkt
-★ AWO Kita Tummelkiste
-50389 Wesseling Berzdorf
-Datum 15.11.2026 Zeit
-10 - 14 Uhr
+Samstag,
+21. November 2026
+1. Spielzeugbörse
+★ Kindertagesstätte Hl. Drei Könige
+51467 Bergisch Hebborn
+Datum 21.11.2026 Zeit
+16 - 19 Uhr
 Typ
-★ Flohmarkt mit Ständen
+★ vorsortierter Basar
 Adresse
-Bachstr 20,
-★ Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)..
-★ weitere Informationen Kinderflohmarkt mit Klamotten und Spielzeug zum Stöbern und Kaufen. Ein Kuchenbuffet gibt es auch:)
+Hebborner Kirchweg 1,
+★ Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre..
+★ weitere Informationen Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre
+Kostenfreie Parkmöglichkeiten an der Kirche
+Kontakt [E-Mail]
 Kontakt mit dem Organisator aufnehmen
 * benötigte Angabe
 dein Name *
@@ -42,35 +44,41 @@ Datenschutz
 Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
 ★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
 ★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/wesseling-rheinland/awo-kita-tummelkiste-50389-wesseling-11583/)
-Samstag,
-21. November 2026
-1. Spielzeugbörse
-★ Kindertagesstätte Hl. Drei Könige
-51467 Bergisch Hebborn
-Datum 21.11.2026 Zeit
-16 - 19 Uhr
-★ vorsortierter Basar
-Hebborner Kirchweg 1,
-★ Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre..
-★ weitere Informationen Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre
-Kostenfreie Parkmöglichkeiten an der Kirche
-Kontakt [E-Mail]
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kindertagesstaette-hl-drei-koenige-51467-bergisch-9616/)
 ★ Kindersachenbasar "Rund ums Kind"
 Gesamtschule-Hennef-West
 Schulzentrum Hennef-Mitte
 53773 Hennef (Mitte)
 12:30 - 15 Uhr
+★ Flohmarkt mit Ständen
 Fritz-Jacobi-Straße 10,
 ★ Bei diesem Basar kann neben gut erhaltener Kinderbekleidung auch alles andere rund um das Kind gekauft werden. Angeboten..
 ★ weitere Informationen Bei diesem Basar kann neben gut erhaltener Kinderbekleidung auch alles andere rund um das Kind gekauft werden. Angeboten werden hierbei insbesondere Spielwaren, Bücher, Bettchen, Kinderwagen, Kindermöbel, Autositze usw. Während des Basars haben Sie die Möglichkeit, sich in unserer Cafeteria mit Kaffee und Kuchen zu stärken. Anmeldung für Nichtmitglieder ausschließlich telefonisch am 01.10.26 um 18.00 Uhr, für Mitglieder während der Woche davor bei Familie Becker, ausschließlich telefonisch unter 02242/4174.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/hennef-sieg/gesamtschule-hennef-west-53773-hennef-1001/)
+★ Kinderflohmarkt
+★ Kita Krebsweg
+51427 Bergisch Gladbach
+10 - 13 Uhr
+Krebsweg 12,
+★ Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, sel..
+★ weitere Informationen Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, selbstgemachten Kuchen, Muffins, Würstchen im Brot, leckeren Kafffee uvm.
+★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/)
+Sonntag,
 29. November 2026
+★ Trödelmarkt und Adventsbazar
+★ Kita Apostelplatz
+40625 Düsseldorf Düsseldorf Gerresheim
+Datum 29.11.2026 Zeit
+15 - 18 Uhr
+Apostelplatz 2,
+★ Trödelmarkt für Kinder-und Babykleidung, Spielsachen uvm. Gleichzeitig findet der Adventsbazar des Seniorenw..
+★ weitere Informationen Trödelmarkt für Kinder-und Babykleidung, Spielsachen uvm.
+★ Gleichzeitig findet der Adventsbazar des Seniorenwohnheimes statt.
+Es gibt auch ein Angebot an Speisen und Getränken.
+★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/duesseldorf/kita-apostelplatz-40625-duesseldorf-10588/)
 ★ Winterbasar 2026 - Förderverein KiTa Bärenhöhle e.V.
 Jugendkulturhaus CULTRA
 50321 Brühl Brühl Ost
-Datum 29.11.2026 Zeit
 10 - 15 Uhr
 Schildgesstraße 112,
 ★ Winterbasar 2026 im CULTRA Am 29. November 2026 lädt der Förderverein der KiTa Bärenhöhle e.V. he..
@@ -83,6 +91,7 @@ Schildgesstraße 112,
 ★ Alles rund ums Kind
 Pfarrzentrum St. Kilian
 50374 Erftstadt Lechenich
+10 - 14 Uhr
 Franz-Busbach Str. 9,
 Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranst..
 weitere Informationen Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranstaltung.

@@ -48,48 +48,41 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 92
+1 - 40 von 91
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-[Der Geräuschehändler](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
-★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
-KULTUR- UND MEDIENZENTRUM | Kleiner Saal, Pulheim
-Montag, 16. November 2026 - KULTUR- UND MEDIENZENTRUM | Kleiner Saal - Pulheim - Der Geräuschehändler - Toboso Theater - SPIELARTEN
-16.11.2026
-(heute)
-ab
-0 €
-[zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-geraeuschehaendler-kultur-und-medienzentrum-kleiner-saal-pulheim/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596885)
 [Into it](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
+★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
 Dienstag, 17. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Into it - performing group - SPIELARTEN
 17.11.2026
-(morgen)
+(heute)
+ab
+0 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596891)
+★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderfreundliches Event
+★ Kinderoper, KÖLN
+★ Donnerstag, 19. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+19.11.26 - 02.01.27
+26,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-17&checkout=2026-11-21&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-17.11. bis 21.11.26
+18.11. bis 22.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-17&checkout=2026-11-21&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ Kinderfreundliches Event
-★ Kinderoper, KÖLN
-★ Sonntag, 15. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-19.11.26 - 02.01.27
-26,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
 ★ Puppenspiele der Stadt Köln, KÖLN
@@ -103,16 +96,16 @@ Donnerstag, 19. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal
 19.11.2026
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596894)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Familienworkshop »Im Zauberwald«](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
 Kölner Philharmonie, KÖLN
 ★ Samstag, 21. November 2026 und Samstag, 21. November 2026 - Kölner Philharmonie - Familienworkshop »Im Zauberwald« - Familienworkshop - Im Zauberwald | Kölner...
 21.11.2026
 9 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Senftöpfchen-Theater, Köln
 ★ bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
@@ -308,6 +301,11 @@ LANXESS arena, KÖLN
 ★ Freitag, 15. Januar 2027 bis Freitag, 29. Januar 2027 - Puppenspiele der Stadt Köln - PänzParty im Foyer
 15.01. bis 29.01.27
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/paenzparty-im-foyer-puppenspiele-der-stadt-koeln/)
+[Ein Koffer voll Dornröschen](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/)
+Sonntag, 17. Januar 2027 - Theater im Walzwerk - Pulheim - Ein Koffer voll Dornröschen - Seifenblasen Figurentheater
+17.01.2027
+[zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/)
+[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2631688)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege

@@ -1,13 +1,13 @@
 [
  {
-  "name": "Kinderflohmarkt, AWO Kita Tummelkiste",
-  "startDate": "2026-11-15T10:00:00+01:00",
-  "endDate": "2026-11-15T14:00:00+01:00",
+  "name": "Kinderflohmarkt, Kita Krebsweg",
+  "startDate": "2026-11-21T10:00:00+01:00",
+  "endDate": "2026-11-21T13:00:00+01:00",
   "location": {
-   "name": "AWO Kita Tummelkiste",
-   "address": "Bachstr 20, 50389 Wesseling"
+   "name": "Kita Krebsweg",
+   "address": "Krebsweg 12, 51427 Bergisch Gladbach"
   },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/wesseling-rheinland/awo-kita-tummelkiste-50389-wesseling-11583/",
+  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://kinderflohmarkt.com/de/koeln/"
@@ -60,6 +60,19 @@
    "address": "Schildgesstraße 112, 50321 Brühl"
   },
   "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bruehl/jugendkulturhaus-cultra-50321-bruehl-11607/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://kinderflohmarkt.com/de/koeln/"
+ },
+ {
+  "name": "Trödelmarkt und Adventsbazar, Kita Apostelplatz",
+  "startDate": "2026-11-29T15:00:00+01:00",
+  "endDate": "2026-11-29T18:00:00+01:00",
+  "location": {
+   "name": "Kita Apostelplatz",
+   "address": "Apostelplatz 2, 40625 Düsseldorf"
+  },
+  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/duesseldorf/kita-apostelplatz-40625-duesseldorf-10588/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://kinderflohmarkt.com/de/koeln/"

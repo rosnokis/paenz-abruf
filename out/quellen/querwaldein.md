@@ -33,10 +33,12 @@ online
 Montag
 [Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein & Groß“](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
 [Details](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
-20. Feb. 2027
-Wird noch bekannt gegeben
-[Fortbildung: Tierspuren und Zeichen lesen](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
-[Details](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
+28. Jan. 2027
+Leverkusen, Naturgut Ophoven
+Donnerstag
+★ [Die GlücksBande – Kinder erleben Nachhaltigkeit](https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/)
+Stauffenbergstr. 17, 51379 Leverkusen
+★ [Details](https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/)
 Keine Veranstaltung gefunden
 [Weitere Veranstaltungen](https://www.querwaldein.de/kalender/)
 Natur…

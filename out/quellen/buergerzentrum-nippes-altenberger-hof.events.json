@@ -1,23 +1,5 @@
 [
  {
-  "name": "der buchladen in der Scheune: Lesung mit Lutz Geißler &#8211; 111 Brot-Mythen, die sich verkrümeln können",
-  "startDate": "2026-11-16",
-  "endDate": "2026-11-16",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "20€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "Forumtheater &#8222;Gemeinsam Haltung zeigen&#8220;",
   "startDate": "2026-11-17",
   "endDate": "2026-11-17",
@@ -87,6 +69,24 @@
   "url": "https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20",
   "eventStatus": "EventScheduled",
   "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kölner Geschichten Haus &#8211; Systemisch",
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-23",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "10€/ erm.5€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]

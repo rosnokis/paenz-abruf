@@ -27,63 +27,60 @@ Rheinparkweg 1, 50679 Köln
 27. November: 15 Uhr, 28. November: 11 Uhr und 15 Uhr
 ab 33 Euro
 [Mehr Info](https://www.eventim.de/artist/theater-liberi/dschungelbuch-das-musical-theater-liberi-1920529/?cityname=K%C3%B6ln)
-© MINT Festival
-MINTköln – das Festival der Stadtbibliothek Köln
-★ Vom 16. bis 31. Oktober dreht sich bei MINTköln alles um Mathematik, Informatik, Naturwissenschaften und Technik. Unter dem Motto "Neues formen, mit MINT gestalten." warten in den Stadtteilbibliotheken jede Menge Workshops, Kurse und Mitmachangebote für neugierige Kinder und Erwachsene. Los geht es am 16. Oktober mit dem Erlebnistheater "Grummel-Brummel". Zum Abschluss lädt der große MINT-Aktionstag am 31. Oktober zum Experimentieren, Entdecken und Ausprobieren ein.
-Verschiedene Stadtbibliotheken in Köln
-bis 31. Oktober
-[Mehr Info](https://mint-festival.de/)
-© Casamax Theater
-Hans im Glück im Casamax Theater
-★ Was braucht man eigentlich, um glücklich zu sein? Im Casamax Theater wird aus dem bekannten Märchen "Hans im Glück" eine spielerische und philosophische Schatzsuche für Kinder ab sechs Jahren. Hans tauscht seinen Besitz immer weiter ein und bleibt dabei erstaunlich gut gelaunt. Doch ist er wirklich so unvernünftig – oder weiß er vielleicht einfach besser, was ihm wichtig ist? Mit viel Humor geht das Stück der Frage nach, was Glück für jeden Einzelnen bedeutet und warum es sich nicht unbedingt in Geld und Besitz finden lässt.
-Berrenrather Straße 177, 50937 Köln
-6. November:
-10 Euro
-[Mehr Info](https://www.casamax-theater.de/vorstellung/hans-im-glueck-3/2026-09-27/)
-© Kletterfabrik
-Klettern und Bouldern beim Feriencamp in der Kletterfabrik
-★ Im Herbstferiencamp der Kletterfabrik können sich Kinder zwischen sieben und zwölf Jahren so richtig austoben. Fünf Tage lang stehen Klettern, Bouldern, Spiele und spannende Teamaufgaben auf dem Programm. Gemeinsam erleben die Kids eine Geschichte voller Herausforderungen, bei denen Bewegung, Spaß und Teamwork im Mittelpunkt stehen. Für ein warmes Mittagessen, Snacks und Getränke ist ebenfalls gesorgt.
-Oskar-Jäger-Straße 173, 50825 Ehrenfeld
-26.–30. Oktober: 9–16:30 Uhr
-320 Euro (inkl. Verpflegung)
-[Mehr Info](https://www.kletterfabrik.koeln/ferienprogramm.html)
-© Jonny Gios | Unsplash
-Zirkus und Luftakrobatik beim Herbstferienprogramm im Latibul
-★ In den Herbstferien können sich Kinder im Latibul selbst als Zirkusartist*innen ausprobieren. Ob Luftakrobatik, spannende Zirkustricks oder kreative Abenteuer rund um Musik – hier warten verschiedene Ferienkurse für Kinder zwischen sechs und 14 Jahren. Die Kids können neue Fähigkeiten entdecken, gemeinsam kreativ werden und jede Menge Spaß haben. Einige Angebote sind außerdem inklusiv gestaltet.
-An der Schanz 6, 50735 Köln
-19.–23. Oktober
-je nach Kurs
-[Mehr Info](https://www.latibul.de/freizeit/ferienprogramme)
-© Chris Weiher | Unsplash
-Auf Schatzsuche beim Goldwaschen am Rheinufer
-★ Beim Rheingold-Kurs am Rheinufer gehen Kinder gemeinsam mit ihren Eltern oder Großeltern auf die Suche nach echtem Gold. Ein Geologe erzählt, wie Gold entsteht und wie es überhaupt in den Rhein gelangt – im Anschluss dürfen die Kids selbst mit einer Goldwaschpfanne auf die Jagd nach den kleinen Schätzen gehen. Anmelden könnt ihr euch [online](https://www.uncites.de/kontakt/).
-Köln-Niehl, Rheinufer (genauer Treffpunkt nach Anmeldung)
-28. Oktober: 14–17 Uhr
-40 Euro
-[Mehr Info](https://www.uncites.de/rheinkiesel-rheingold/sch%C3%A4tze-des-rheins/)
 © Patrick Schneiderwind
 Disney in Concert in der Lanxess arena
 Große und kleine Disney-Fans können sich auf einen Abend voller bekannter Melodien in der Lanxess Arena freuen. Bei "Disney in Concert" bringen Solist*innen gemeinsam mit dem Hollywood-Sound-Orchestra die Musik aus der Disney-Welt live auf die Bühne. Von großen Klassikern bis zu neueren Songs geht es auf eine musikalische Reise durch verschiedene Disney-Geschichten.
 Willy-Brandt-Platz 1, 50679 Köln
-29. Oktober: 19.30 Uhr
+30. November: 19.30 Uhr
 ab 64,40 Euro
-[Mehr Info](https://www.lanxess-arena.de/eventdetail/1180)
-© BEAUTIFUL SPORTS | Axel Kohring
+[Mehr Info](https://www.eventim.de/event/disney-in-concert-a-whole-new-show-lanxess-arena-22217133/)
+© Weihnachtsmarkt im Stadtgarten
+★ Kinderprogramm auf dem Weihnachtsmarkt im Stadtgarten
+★ Auf dem Weihnachtsmarkt im Stadtgarten kommen auch die kleinen Besucher*innen auf ihre Kosten. Von Dienstag bis Freitag sorgt das Theater SternKundt mit seinem Kasperletheater für jede Menge Spaß und Unterhaltung. Mal trifft Kasper auf einen gefährlichen Drachen, mal auf die Eiskönigin oder pupsende Pferde. Im Dezember wird es mit Geschichten rund um den Schneekönig und die Weihnachtsüberraschung außerdem richtig festlich. Die Vorstellungen finden jeweils zweimal am Nachmittag statt und sind kostenlos.
+Venloer Straße 40, 50672 Köln
+17. November bis 18. Dezember, dienstags bis freitags: 16.30 und 17.30 Uhr
+★ [Mehr Info](https://www.weihnachtsmarkt-stadtgarten.de/kinderprogramm/)
+© Casamax Theater
+Hans im Glück im Casamax Theater
+★ Was braucht man eigentlich, um glücklich zu sein? Im Casamax Theater wird aus dem bekannten Märchen "Hans im Glück" eine spielerische und philosophische Schatzsuche für Kinder ab sechs Jahren. Hans tauscht seinen Besitz immer weiter ein und bleibt dabei erstaunlich gut gelaunt. Doch ist er wirklich so unvernünftig – oder weiß er vielleicht einfach besser, was ihm wichtig ist? Mit viel Humor geht das Stück der Frage nach, was Glück für jeden Einzelnen bedeutet und warum es sich nicht unbedingt in Geld und Besitz finden lässt.
+Berrenrather Straße 177, 50937 Köln
+10 Euro
+[Mehr Info](https://www.koelnticket.de/artist/theater-liberi/dschungelbuch-das-musical-theater-liberi-1920529/)
+© Kölner Weihnachtscircus
+Kölner Weihnachtscircus im Schanzenviertel
+★ Manege frei für den Kölner Weihnachtscircus! Im festlich geschmückten Zirkuszelt im Schanzenviertel wartet eine bunte Show auf kleine und große Zirkusfans. Über 60 Artist*innen aus aller Welt zeigen ihr Können mit beeindruckender Akrobatik, Jonglage, verblüffenden Zaubertricks und jeder Menge Spaß. Für viele Lacher sorgen die Clowns, während waghalsige Kunststücke und überraschende Showeinlagen Kinder und Erwachsene zum Staunen bringen. Ein schöner Ausflug für die ganze Familie in der Weihnachtszeit.
+Peter-Huppertz-Straße 2, 51063 Köln
+27. November bis 3. Januar
+ab 94,76 Euro
+[Mehr Info](https://koelner-weihnachtscircus.de/)
+© KölnTourismus | Christoph Seelbach
+Der Zauber von Oz im Comedia Theater
+★ Im Comedia Theater erwartet Kinder ab fünf Jahren mit "Der Zauber von Oz" eine fantasievolle Reise in eine andere Welt. Eines Nachts taucht vor Doros Fenster ein riesiger grüner Heißluftballon auf und bringt sie in das bunte Land Oz. Dort trifft sie auf eine Blechfrau ohne Herz, einen Strohmann ohne Hirn und einen Löwen, dem der Mut fehlt. Gemeinsam machen sie sich auf die Suche nach dem geheimnisvollen Zauberer und erleben dabei jede Menge Abenteuer.
+Vondelstraße 4–8, 50677 Köln
+22. November bis 22. Januar
+18,10 Euro
+[Mehr Info](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
+© Gut Leidenhausen
+Waldweihnacht auf Gut Leidenhausen
+★ Auf Gut Leidenhausen wird es am ersten Adventswochenende richtig gemütlich. Bei der Waldweihnacht können Familien zwischen festlich geschmückten Ständen und funkelnden Lichtern die Vorweihnachtszeit genießen. Für die kleinen Besucher*innen gibt es jede Menge zu entdecken: Gemeinsam werden Plätzchen gebacken, Weihnachtsdekorationen gebastelt und Geschichten gelauscht.
+Grengeler Mauspfad 80, 51147 Köln
+28. und 29. November: 12–19.30 Uhr
+[Mehr Info](https://www.gut-leidenhausen.de/aktuelles/waldweihnacht-2/)
+© Christin Otto
 10
-★ Halloween-Run für Kinder im Forstbotanischen Garten
-★ Beim Halloween-Run können kleine Gespenster, Hexen und Monster in ihren Kostümen an den Start gehen. Für die jüngsten Läufer*innen gibt es den "Little Candy-Run" über 500 Meter, während die größeren Kids beim "Big Candy-Run" eine Strecke von 1,5 Kilometern zurücklegen. Im Ziel warten süße Belohnungen und eine Gruselurkunde auf alle Kinder. Dazu sorgen Lichter, Halloween-Deko und ein schauriges Rahmenprogramm für die passende Stimmung.
-Schillingsrotter Straße 99, 50996 Köln
-31. Oktober: ab 17 Uhr
-ab 6 Euro
-[Mehr Info](https://www.halloweenrun-koeln.de/)
-© Planschemalöör
+★ Kinderzauberer Mecki im Winterdörfchen bei Dinger's
+★ Im Winterdörfchen bei Dinger's Gartencenter gibt es in der Vorweihnachtszeit auch für die kleinen Besucher*innen einiges zu erleben. An ausgewählten Sonntagen sorgen Kinderzauberer Mecki und Clown Kemal mit ihren Auftritten für staunende Gesichter und jede Menge Spaß. Am Nikolaustag schaut außerdem der Nikolaus persönlich vorbei.
+Goldammerweg 361, 50829 Köln
+verschiedene Termine im November und Dezember
+[Mehr Info](https://www.dingers.de/dingers-winterdoerfchen)
+© Dmitry Shakhin
 11
-★ "Gruselplansch"-Kinderkonzert in der Stadthalle Köln
-★ Beim "Gruselplansch" laden Planschemalöör und die Stadthalle Köln zum Kinderkonzert mit jeder Menge Gruselspaß ein. Gemeinsam wird zu Songs wie "Der Boden ist Lava" gesprungen, beim Stoptanz getanzt und natürlich darf auch die ein oder andere schaurige Überraschung nicht fehlen. Verkleiden ist ausdrücklich erwünscht. Schon vor dem Konzert können sich die Kids im Foyer beim Spielen und Gruseln auf den Nachmittag einstimmen. Dazu gibt es schaurige Snacks und Getränke.
-Jan-Wellem-Straße 2, 51065 Mülheim
-31. Oktober: 16.30 Uhr
-18 Euro
-[Mehr Info](https://stadthalle-koeln.ticket.io/01EC0eTW/?redirectFromEventInPast=1)
+Cirque Bouffon – "Harmonia" in der Kirche St. Michael
+★ Akrobatik, Musik und jede Menge Zirkuskunst: Mit seiner neuen Weihnachtsshow "Harmonia" verwandelt der Cirque Bouffon die Kirche St. Michael am Brüsseler Platz in eine besondere Zirkusbühne. Internationale Artist*innen, Musiker*innen und Clowns nehmen kleine und große Besucher*innen mit in eine fantasievolle Welt voller Bewegung, Licht und Musik. Zwischen schwebender Akrobatik, lustigen Clownseinlagen und stimmungsvoller Live-Musik entsteht ein poetisches Zirkuserlebnis für die ganze Familie.
+Brüsseler Platz 13–15, 50674 Köln
+2. Dezember bis 3. Januar
+ab 39,25 Euro
+[Mehr Info](https://www.cirque-bouffon.com/)
 ★ Noch mehr Ideen für Familien mit Kindern
 ★ Wochenende mit Kindern
 ★ Wir haben 11 Ideen für euch gesammelt, mit denen euch und euren Kindern am Wochenende garantiert nicht langweilig wird.

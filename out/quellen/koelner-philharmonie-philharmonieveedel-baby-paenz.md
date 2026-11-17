@@ -21,29 +21,24 @@ Bürgerzentrum Nippes – Altenberger Hof
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8141&language=en)
 16:00
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9538)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8142&language=en)
 Sat
 13.02.2027
 15:00
 Bürgerhaus Kalk
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9539)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8143&language=en)
 Sun
 14.02.2027
 11:00
 COMEDIA Theater
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9540)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8144&language=en)
 14:00
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9541)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8145&language=en)
 Mon
 15.02.2027
 Bürgerzentrum Ehrenfeld (BüzE)
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9542)
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8146&language=en)
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9543)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8147&language=en)
 Wed
 17.02.2027
 Bürgerzentrum Engelshof e. V.

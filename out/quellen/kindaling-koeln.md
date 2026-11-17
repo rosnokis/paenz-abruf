@@ -33,14 +33,14 @@ Samstag, 28. November
 [12:00 Christmas Werkstatt Köln Innenstadt](https://www.kindaling.de/kreatives/christmas-werkstatt/koeln-innenstadt)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
+★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)
 [Jetzt buchen](https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl)
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
-★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)
 [Jetzt buchen](https://www.kindaling.de/programmiercamps/code-camp-dein-eigenes-spiel-mit-python-alter-12-15-duesseldorf-lohhausen-flughafen/duesseldorf-lohhausen-flughafen)
 ★ [Jetzt buchen](https://www.kindaling.de/babyschwimmen-kinderschwimmen/kleinkindschwimmen-bad-muenstereifel-eifelbad/bad-muenstereifel)
 ★ [Jetzt buchen](https://www.kindaling.de/kreativcamps/cats-kindermusical-osterferienworkshop/koeln-lindenthal)
 LASS DICH INSPIRIEREN
-[Adventskalender: Die schönsten Türchen für die Vorweihnachtszeit](https://www.kindaling.de/magazin/adventskalender-2026)
+[Adventskalender zum Kaufen im Überblick](https://www.kindaling.de/magazin/adventskalender-2026)
 ★ [Einfaches Upcycling-Projekt: Baut eure eigene Kinderküche](https://www.kindaling.de/magazin/diy-kinderkueche-upcycling)
 DURCHS MAGAZIN STÖBERN
 ★ [So lernen Kinder effektiv und mit Freude](https://www.kindaling.de/magazin/nachhilfe-fuer-kinder)

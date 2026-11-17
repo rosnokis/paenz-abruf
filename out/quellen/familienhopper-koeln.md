@@ -3,7 +3,7 @@
 ## Quelle: https://familienhopper.de/koeln/
 ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
 Hier besonders oft angesehen
-6 ausgewählte Veranstaltungen
+7 ausgewählte Veranstaltungen
 Mehrere
 Termine
 Naturerlebnis
@@ -17,10 +17,6 @@ Workshop
 ★ Zum Adventsstart backen Familien bunte Plätzchen und formen Spekulatius.
 So, 22. Nov. | 14 Uhr Köln · Gut Leidenhausen
 Kostenlos
-Theater
-★ [Das kleine Zottel Mottel](https://familienhopper.de/events/das-kleine-zottel-mottel-koeln-2026-11-16)
-Mo, 16. Nov. | 10 Uhr · weitere Termine Köln · KKT Kölner Künstler:innen Theater
-★ ab 3 Jahren Anmeldung
 Führung
 ★ [Gigantisch gut!](https://familienhopper.de/events/gigantisch-gut-koeln-2026-11-22)
 ★ Ab 8 suchen Teilnehmende ohne Eltern ihr Lieblingsbild unter Riesengemälden.
@@ -30,19 +26,38 @@ So, 22. Nov. | 11 Uhr Köln · Museum Ludwig
 Aus Naturmaterialien werden Mobiles, Anhänger und kleine Kunstwerke gebastelt.
 So, 22. Nov. | 11 Uhr Köln · Gut Leidenhausen
 ★ ab 8 Jahren Kostenlos
-21 NOV
-★ [Origami-Karten zu den Feiertagen](https://familienhopper.de/events/origami-karten-zu-den-feiertagen-koeln-2026-11-21)
-Erst erfahren Teilnehmende, wie Japan feiert, dann falten sie eine Grußkarte.
-Sa, 21. Nov. | 14 Uhr Köln · Museum für Ostasiatische Kunst
-★ Kinder 6 bis 10 Anmeldung
-Weihnachtszauber
-10 ausgewählte Veranstaltungen
 Bis
 03.01.
 Museum/Ausstellung
 ★ [Familien-Weihnachtspark 2026/2027](https://familienhopper.de/events/familien-weihnachtspark-2026-2027-koeln-2026-11-19)
 Besucher streicheln auf dem Hof Tiere, dazu leuchten viele Lichter.
-Bis 3. Jan. 2027 Köln · Gertrudenhof
+★ Bis 3. Jan. 2027 | [Uhrzeit beim Veranstalter](https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/) Köln · Gertrudenhof
+21 NOV
+★ [Origami-Karten zu den Feiertagen](https://familienhopper.de/events/origami-karten-zu-den-feiertagen-koeln-2026-11-21)
+Erst erfahren Teilnehmende, wie Japan feiert, dann falten sie eine Grußkarte.
+Sa, 21. Nov. | 14 Uhr Köln · Museum für Ostasiatische Kunst
+★ Kinder 6 bis 10 Anmeldung
+Theater
+★ [Die Kuh Swantje](https://familienhopper.de/events/die-kuh-swantje-koeln-2026-11-21)
+★ Kleine Gäste muhen, tanzen und singen im Krabbeltheater mit.
+Sa, 21. Nov. | 10 Uhr · weitere Termine Köln · Horizont Theater
+★ ab 2 Jahren Anmeldung
+★ 2 × 1 Familienticket gewinnen
+★ Lichterkinder Live – Millionen Sterne Tour
+★ [Mitsubishi Electric HALLE Düsseldorf · Sa, 28.11.2026, 15:30 Uhr](https://familienhopper.de/events/lichterkinder-live-millionen-sterne-tour-2026-duesseldorf-2026-11-28)
+★ Familientickets nur für Eltern mit ihren eigenen Kindern oder Großeltern mit ihren eigenen Enkelkindern.
+Annahmefrist für den Gewinn: 25.11.2026, 12:00 Uhr. Auslosung am 23.11.2026.
+★ [Newsletter abonnieren & teilnehmen](https://familienhopper.de/index.html) Teilnahmebedingungen
+★ Veranstalter des Gewinnspiels: Familienhopper, Markus Keller. Anschrift und Kontakt stehen im [Impressum](https://familienhopper.de/impressum). Der Gewinn wird von concert team nrw GmbH, Veranstalter der Lichterkinder-Tour, bereitgestellt.
+★ Gewinn: Verlost werden 2 Familientickets an zwei Gewinnerinnen oder Gewinner, je 1 Familienticket, für „Lichterkinder Live – Millionen Sterne Tour“, [Samstag, 28.11.2026, 15:30 Uhr, Mitsubishi Electric HALLE Düsseldorf](https://familienhopper.de/events/lichterkinder-live-millionen-sterne-tour-2026-duesseldorf-2026-11-28). Anreise und weitere Kosten sind nicht enthalten. Keine Barauszahlung.
+★ Familientickets: Die Familientickets gelten ausschließlich für Eltern mit ihren eigenen Kindern oder Großeltern mit ihren eigenen Enkelkindern. Freunde, Cousins, Tanten, Onkel oder andere Begleitpersonen sind nicht eingeschlossen. Ausnahmen müssen vorher mit dem Veranstalter concert team nrw abgestimmt werden.
+★ Teilnahme: Über die Newsletter-Anmeldung vom 16.11.2026, 00:00 Uhr bis 22.11.2026, 23:59 Uhr, jeweils deutsche Zeit (Europe/Berlin). Teilnahmeberechtigt sind Personen ab 18 Jahren, die sich in diesem Zeitraum erstmals für den Familienhopper-Newsletter anmelden und die Anmeldung bis zum Teilnahmeschluss über den Link in der Bestätigungsmail abschließen. Bereits bestehende Abonnements und erneute Anmeldungen sind ausgeschlossen. Eine Teilnahme pro Person.
+★ Newsletter und Gewinnchance: Die Teilnahme ist mit dem Abonnement des Familienhopper-Newsletters verbunden. Der Newsletter erscheint jeden Donnerstag mit ausgewählten Familientipps per E-Mail. Er ist jederzeit abbestellbar; eine bereits gültige Gewinnspielteilnahme bleibt davon unberührt.
+Auslosung und Ticketübergabe: Die Auslosung unter den gültigen Neuanmeldungen und die Benachrichtigung per E-Mail erfolgen am 23.11.2026. Die Gewinnerinnen und Gewinner werden nach der Auslosung kontaktiert und müssen den Gewinn bis 25.11.2026, 12:00 Uhr annehmen; ohne Rückmeldung bis dahin verfällt der Gewinn und es wird neu ausgelost. Nach Annahme des Gewinns werden mit deren Einverständnis Name und Kontaktdaten an concert team nrw übermittelt; der Veranstalter concert team nrw übernimmt die Ticketübergabe. Namen werden nicht öffentlich bekanntgegeben.
+★ Datenschutz: Anmeldung und Bestätigung werden über Brevo verarbeitet. Familienhopper verwendet E-Mail-Adresse und Anmeldezeitpunkte für die Prüfung der Teilnahme und die Gewinnerbenachrichtigung. Name und Kontaktdaten der Gewinnerinnen und Gewinner werden nur nach Annahme des Gewinns und mit deren Einverständnis an concert team nrw GmbH übermittelt, die die Ticketübergabe übernimmt. Die Teilnehmerliste wird nicht an den Partner weitergegeben. Weitere Informationen zur Newsletter-Verarbeitung und zu den Rechten der Betroffenen stehen in der [Datenschutzerklärung](https://familienhopper.de/daten …
+Weihnachtszauber
+10 ausgewählte Veranstaltungen
+★ [Alle Weihnachtsmärkte in Köln →](https://familienhopper.de/koeln/weihnachtsmarkt/)
 23.12.
 ★ Markt/Flohmarkt
 ★ [Santas Weihnachtsmarkt im MediaPark](https://familienhopper.de/events/santas-weihnachtsmarkt-im-mediapark-koeln-2026-11-19)
@@ -68,6 +83,7 @@ Kostenlos Indoor
 Sa, 28. Nov. | 1 Uhr Köln · Glessener Mühlenhof
 ★ [Das kleine Zottel Mottel feiert Weihnachten](https://familienhopper.de/events/das-kleine-zottel-mottel-feiert-weihnachten-koeln-2026-11-29)
 So, 29. Nov. | 15 Uhr · weitere Termine Köln · KKT. Kölner Künstler:innen Theater
+★ ab 3 Jahren Anmeldung
 29 NOV
 ★ [Weihnachtsmatinee des Symphonischen Jugendblasorchesters](https://familienhopper.de/events/weihnachtsmatinee-des-symphonischen-jugendblasorchesters-koeln-2026-11-29)
 So, 29. Nov. | 11 Uhr Köln · Flora
@@ -79,6 +95,10 @@ Di, 1. Dez. | 15:30 Uhr Köln · Bürgerhaus Kalk, Glashaus (Eingang über den H
 ★ [KUNST+KIND Madonnen, Engel, Christkind – Advent Special](https://familienhopper.de/events/kunst-kind-madonnen-engel-christkind-advent-special-koeln-2026-12-02)
 Mi, 2. Dez. | 11 Uhr Köln · Museum Schnütgen
 Indoor
+★ Puppentheater
+★ [Ein Weihnachtsmärchen (nach Charles Dickens)](https://familienhopper.de/events/ein-weihnachtsmaerchen-nach-charles-dickens-koeln-2026-12-02)
+Mi, 2. Dez. | 10 Uhr · weitere Termine Köln · KKT. Kölner Künstler:innen Theater
+★ ab 5 Jahren Anmeldung
 Hier entsteht etwas zum Mitnehmen
 9 ausgewählte Veranstaltungen
 17 NOV
@@ -90,12 +110,12 @@ Di, 17. Nov. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
 Fr, 20. Nov. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
 6–10 Jahre Anmeldung
 ★ [Deine Schokoladentafel](https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-20)
-Fr, 27. Nov. | 15:45 Uhr · 14 weitere bis 20.12. Köln · Schokoladenmuseum
+Sa, 28. Nov. | 15:45 Uhr · 19 weitere bis 29.01. Köln · Schokoladenmuseum
 8–10 Jahre Tickets
 ★ [Schokoladig, bunt und lecker](https://familienhopper.de/events/schokoladig-bunt-und-lecker-koeln-2026-11-21)
-Sa, 21. Nov. | 13:15 Uhr · 9 weitere bis 20.12. Köln · Schokoladenmuseum
+Sa, 21. Nov. | 13:15 Uhr · 63 weitere bis 16.05. Köln · Schokoladenmuseum
 ★ [Figuren-Werkstatt](https://familienhopper.de/events/figuren-werkstatt-koeln-2026-11-21)
-So, 22. Nov. | 10:15 Uhr · 9 weitere bis 20.12. Köln · Schokoladenmuseum
+So, 22. Nov. | 10:15 Uhr · 19 weitere bis 31.01. Köln · Schokoladenmuseum
 26 NOV
 Spielen/Entdecken
 ★ [Bilderbuchkino](https://familienhopper.de/events/bilderbuchkino-koeln-2026-11-26)
@@ -159,11 +179,6 @@ Sa, 21. Nov. | 14 Uhr · weitere Termine Köln · Horizont Theater
 ★ [(Ein) Winternachtstraum](https://familienhopper.de/events/ein-winternachtstraum-koeln-2026-11-21)
 Undine und Paul suchen auf einer Reise den verbannten Orion.
 Sa, 21. Nov. | 16 Uhr · weitere Termine Köln · KKT. Kölner Künstler:innen Theater
-★ ab 5 Jahren Anmeldung
-★ [Die Kuh Swantje](https://familienhopper.de/events/die-kuh-swantje-koeln-2026-11-21)
-★ Kleine Gäste muhen, tanzen und singen im Krabbeltheater mit.
-Sa, 21. Nov. | 10 Uhr · weitere Termine Köln · Horizont Theater
-★ ab 2 Jahren Anmeldung
 ★ [Oh, wie schön ist Panama (n. Janosch)](https://familienhopper.de/events/oh-wie-schoen-ist-panama-n-janosch-koeln-2026-11-21)
 Bär und Tiger suchen auf der Bühne das Land ihrer Träume.
 Sa, 21. Nov. | 16 Uhr · weitere Termine Köln · Horizont Theater
@@ -183,14 +198,17 @@ Sa, 21. Nov. | 15 Uhr · weitere Termine Köln · Orangerie Theater im Volksgart
 Regenwurm Buddelpieter sucht mit dem Publikum nach den Kartoffeln.
 So, 22. Nov. | 14 Uhr Köln · die wohngemeinschaft (Theater, Belgisches Viertel)
 ★ Kindergartenkinder Indoor
+★ [Kinderorchester NRW spielt „20.000 Meilen unter dem Meer“ in der Musikhochschule](https://familienhopper.de/events/kinderorchester-nrw-spielt-20-000-meilen-unter-dem-meer-in-der-musikhochschule-koeln-2026-11-22)
+Zwei Sprecher begleiten die musikalische Reise in die Tiefsee mit dem Orchester.
+So, 22. Nov. | 16 Uhr Köln · Hochschule für Musik und Tanz Köln, Konzertsaal
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
 ★ [Alle 278 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [16. Nov. Das kleine Zottel Mottel](https://familienhopper.de/events/das-kleine-zottel-mottel-koeln-2026-11-16)
-★ [16. Nov. Markt der Engel](https://familienhopper.de/events/markt-der-engel-koeln-2026-11-16)
 ★ [17. Nov. Bilderbuchkino und Bastelspaß](https://familienhopper.de/events/bilderbuchkino-und-bastelspass-koeln-2026-11-17)
+★ [17. Nov. Vorlesen mit dem Kamishibai – Erzähltheater](https://familienhopper.de/events/vorlesen-mit-dem-kamishibai-erzaehltheater-koeln-2026-11-17)
+★ [17. Nov. Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-17)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 Top-Ziele in Köln
@@ -204,13 +222,13 @@ Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preis
 Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 71 Vorstellungen, der nächste am 16.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 70 Vorstellungen, der nächste am 18.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
 ★ Aktuell stehen 278 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
 ★ Ja, 77 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?
-★ 227 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
+★ 226 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
 Über diese Seite
 ★ Für Köln bündelt Familienhopper Familien-Events aus städtischen und kulturellen Quellen: Museumstage, Mitmachaktionen, Kinderkultur, Stadtteilfeste und Ferienangebote. Familienhopper zeigt nur belegte Termine – ohne erfundene Empfehlungen und ohne Versprechen, die die Originalseite nicht trägt. Der Kalender ist unabhängig und nicht kommerziell.
 ★ Die Filter oben grenzen die Liste nach Tag, Alter oder Thema ein. So bleibt die Übersicht nutzbar, auch wenn viel im Kalender steht. Wer das Wochenende vorbereiten will, nutzt das [Wochenendprogramm in Köln](https://familienhopper.de/koeln/wochenende/). Kostenlose Termine mit freiem Eintritt sind unter [kostenlosen Familien-Events in Köln](https://familienhopper.de/koeln/kostenlos/) gesammelt.

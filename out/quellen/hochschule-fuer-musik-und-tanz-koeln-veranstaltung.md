@@ -2,24 +2,15 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1/)
-16.11.2026
-19:00
-Uhr
-Konzertsaal
-Aachen
-Klavierabend
-[Off Campus - Salsa Combo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-11-2026-off-campus-salsa-combo/)
-20:00
-King Georg
-Köln
-Off Campus - Salsa Combo
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-lunchtime-konzerte-in-st-kunibert/)
 17.11.2026
 13:30
+Uhr
 St. Kunibert
+Köln
 Lunchtime-Konzerte in St. Kunibert
 [DEUTSCHLANDFUNK – HÖRPROBE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-deutschlandfunk-hoerprobe/)
+20:00
 Kammermusiksaal
 DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
@@ -39,9 +30,15 @@ St. Ursula
 Chorkonzert - Chorakademie und Ensemble des WDR Rundfunkchores
 [Kontrabassabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-05-2026-kontrabassabend-1/)
 20.11.2026
+19:00
+Konzertsaal
+Aachen
 Kontrabassabend
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1/)
 Violinabend
+[»Herzlich lieb«](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-herzlich-lieb/)
+Fronleichnamskirche der Ursulinen
+»Herzlich lieb«
 [Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-orchesterkonzert-american-rhapsody-1/)
 Orchesterkonzert - Rhapsody in Blue
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
@@ -85,6 +82,7 @@ Gitarrenabend
 STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1-1/)
 26.11.2026
+Klavierabend
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
 [„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
 „Vom Lieben und Leiden“ - Gesangsabend
@@ -140,6 +138,9 @@ Winterfest
 Gesangsabend
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-floetenabend/)
 Orchesterprobensaal (R. 410)
+[COMBO-DOPPELKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/)
+King Georg
+COMBO-DOPPELKONZERT
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-lunchtime-konzerte-in-st-kunibert/)
 08.12.2026
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-kammermusikabend/)
@@ -165,6 +166,8 @@ Vorweihnachtliche Lesung mit Esther Schweins
 15:30
 Mendelssohn-Saal, Historische Stadthalle
 Musikalische Kaffeetafel
+[Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-gesangsabend-zum-3-advent-der-klasse-von-prof-viktor-rud/)
+Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-bratschenabend/)
 [WDR3 CAMPUS KONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-wdr3-campus-konzert/)
 14.12.2026
@@ -183,8 +186,10 @@ SPITZENTÖNE 2026 - AVE MARIA
 [Heimspiel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-heimspiel/)
 17.12.2026
 Heimspiel
-[Weihnachtliches Blechbläserkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2023-weihnachtliches-blechblaeserkonzert-1-1/)
+[Mittagsmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-mittagsmusik/)
 18.12.2026
+Mittagsmusik
+[Weihnachtliches Blechbläserkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2023-weihnachtliches-blechblaeserkonzert-1-1/)
 Weihnachtliches Blechbläserkonzert
 [Adventure #17 - Neue Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-adventure-17-neue-musik/)
 Adventure #17 - Neue Musik

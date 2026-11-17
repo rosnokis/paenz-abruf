@@ -37,20 +37,20 @@
   "quelle": "https://www.querwaldein.de/"
  },
  {
-  "name": "Fortbildung: Tierspuren und Zeichen lesen",
-  "startDate": "2027-02-20T10:00:00+01:00",
-  "endDate": "2027-02-20T17:00:00+01:00",
+  "name": "Die GlücksBande – Kinder erleben Nachhaltigkeit",
+  "startDate": "2027-01-28T09:30:00+01:00",
+  "endDate": "2027-01-28T16:00:00+01:00",
   "location": {
-   "name": "Wird noch bekannt gegeben",
-   "address": "Wird noch bekannt gegeben"
+   "name": "Leverkusen, Naturgut Ophoven",
+   "address": "Stauffenbergstr. 17, 51379 Leverkusen"
   },
   "offers": [
    {
-    "price": "145",
+    "price": "0",
     "priceCurrency": "EUR"
    }
   ],
-  "url": "https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/",
+  "url": "https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://www.querwaldein.de/"

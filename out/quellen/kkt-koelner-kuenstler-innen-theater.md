@@ -20,21 +20,17 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-★ Kindertheater
-[Das kleine Zottel Mottel](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel)
-Das kleine Zottel Mottel entdeckt die Welt
-Nächste Termine
-Montag, 16. November 2026
-10:00 Uhr
-Bitte vorab reservieren
 Jugendtheater
 [Die anderen Anderen - Öteki Ötekiler](https://www.k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend)
 Zwischen uns. Drei Außenseiter:innen treffen an einem versteckten Ort aufeinander. Sie haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Es gibt einen wichtigen Grund, warum sie hier sind. Und ein wichtiges Problem: Sie können sich nicht ausstehen.
+Nächste Termine
 Mittwoch, 18. November 2026
-PREMIERE
+10:00 Uhr
+PREMIERE - Tickets können vor Ort gekauft werden
 Freitag, 20. November 2026
 20:00 Uhr
 Abendpremiere
+★ Kindertheater
 [(Ein) Winternachtstraum](https://www.k-k-t.de/stuecke/winternachtstraum)
 Undine und Paul finden den verlorenen König
 Samstag, 21. November 2026
@@ -42,3 +38,7 @@ Samstag, 21. November 2026
 Sonntag, 22. November 2026
 15:00 Uhr
 Dienstag, 24. November 2026
+Bitte vorab reservieren
+[THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
+Jugendliche und KI – wie echt ist unser Leben?
+Mittwoch, 25. November 2026

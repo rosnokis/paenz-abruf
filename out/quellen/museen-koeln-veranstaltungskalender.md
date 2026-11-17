@@ -9,7 +9,6 @@ Erwachsene
 Fremdsprachige Angebote
 ★ Jugendliche ab 12 Jahren
 ★ Jugendliche ab 14 Jahren
-★ Jugendliche ab 16 Jahren
 ★ Kinder 6 bis 10
 ★ Kinder 9 bis 13
 ★ Kinder ab 10 Jahren

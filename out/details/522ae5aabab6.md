@@ -1,45 +1,39 @@
 URL: https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html
-ABGERUFEN: 2026-11-11T06:59
+ABGERUFEN: 2026-11-17T05:26
 VON: eventfrog-koeln-kinder-familie
 
 Quellenangabe: Urban Escape Games
 ★ Familien-Schatzsuche Köln: Rätsel-Tour Altstadt
-11. November 2026 - 17. September 2027
+17. November 2026 - 17. September 2027
 Öffnungszeiten
 Mo. – So., 00:01 – 08:00 | 08:00 – 16:00 | 16:00 – 23:59
 Altstadt Köln (DE)
-311 Termine
+305 Termine
 [Im Kalender speichern](https://eventfrog.de/stream/de/eventgroup/7507181188680837705.ics)
 Termine
 Datumsbereich wählen
 ab dem
 Bis
-Mi
-Mittwoch
-★ [11. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181191885288040.html)
-Do
-Donnerstag
-★ [12. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181191939813994.html)
-Fr
-Freitag
-★ [13. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181191985951340.html)
-Sa
-Samstag
-★ [14. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192027894382.html)
-So
-Sonntag
-★ [15. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192078226032.html)
-Mo
-Montag
-★ [16. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192124363378.html)
 Di
 Dienstag
 ★ [17. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192174695028.html)
+Mi
+Mittwoch
 ★ [18. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192220832374.html)
+Do
+Donnerstag
 ★ [19. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192262775416.html)
+Fr
+Freitag
 ★ [20. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192304718458.html)
+Sa
+Samstag
 ★ [21. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192350855804.html)
+So
+Sonntag
 ★ [22. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192392798846.html)
+Mo
+Montag
 ★ [23. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192438936212.html)
 ★ [24. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192480879254.html)
 ★ [25. November 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192522822296.html)
@@ -53,7 +47,13 @@ Dienstag
 ★ [3. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192854172328.html)
 ★ [4. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192896115370.html)
 ★ [5. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192942252716.html)
-286 weitere Events verfügbar
+★ [6. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181192984195758.html)
+★ [7. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181193026138800.html)
+★ [8. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181193076470450.html)
+★ [9. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181193118413492.html)
+★ [10. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181193160356534.html)
+★ [11. Dezember 2026, 00:01 Uhr](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/familien-schatzsuche-koeln-raetsel-tour-altstadt-koeln-7507181193223271096.html)
+280 weitere Events verfügbar
 ★ [Alle Daten anzeigen](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705/termine.html)
 Beschreibung
 ★ Eure Familie. Gemeinsam entdeckt ihr Köln auf einer spannenden Rätsel-Tour durch die Altstadt. Ob große oder kleine Entdecker – dieses Familienabenteuer verbindet gemeinsames Entdecken, Knobeln und Erinnerungen sammeln.
@@ -66,10 +66,10 @@ Veranstalter:in: Matthias Möbius c/o IP-Management #10937
 Matthias Möbius c/o IP-Management #10937
 Du hast eine Frage an die Veranstalter:in? Dann kontaktiere sie gleich direkt:
 Schaltfläche: Event teilen
-Schaltfläche: An allen Terminen 311
+Schaltfläche: An allen Terminen 305
 Schaltfläche: Heute 1
 Schaltfläche: Morgen 1
-Schaltfläche: Diese Woche 5
+Schaltfläche: Diese Woche 6
 Schaltfläche: Dieses Wochenende 3
 Schaltfläche: Nächste Woche 7
 Schaltfläche: Nächsten Monat 31
@@ -80,13 +80,7 @@ Schaltfläche: mehr anzeigen weniger anzeigen
 Schaltfläche: Karte anzeigen (Daten werden von Google Maps geladen)
 Schaltfläche: Veranstalter:in kontaktieren
 Schaltfläche: Cookie-Einstellungen
-Termin (strukturiert): 2026-11-11T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | EventScheduled
-Termin (strukturiert): 2026-11-11T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
-Termin (strukturiert): 2026-11-12T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
-Termin (strukturiert): 2026-11-13T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
-Termin (strukturiert): 2026-11-14T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
-Termin (strukturiert): 2026-11-15T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
-Termin (strukturiert): 2026-11-16T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-11-17T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | EventScheduled
 Termin (strukturiert): 2026-11-17T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
 Termin (strukturiert): 2026-11-18T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
 Termin (strukturiert): 2026-11-19T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
@@ -100,3 +94,9 @@ Termin (strukturiert): 2026-11-26T00:01:00+01:00 | Familien-Schatzsuche Köln: R
 Termin (strukturiert): 2026-11-27T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
 Termin (strukturiert): 2026-11-28T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
 Termin (strukturiert): 2026-11-29T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-11-30T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-12-01T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-12-02T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-12-03T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-12-04T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled
+Termin (strukturiert): 2026-12-05T00:01:00+01:00 | Familien-Schatzsuche Köln: Rätsel-Tour Altstadt | Altstadt Köln | Bahnhofsvorplatz 1, 50667 Köln | 25.00 EUR | EventScheduled

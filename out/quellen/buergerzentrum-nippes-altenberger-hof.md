@@ -26,20 +26,15 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Mo. 16
-November
-19:30 - 21:00
-Scheune
-[der buchladen in der Scheune: Lesung mit Lutz Geißler – 111 Brot-Mythen, die sich verkrümeln können](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16)
-Der Brotbackpapst kommt nach Nippes! Brotexperte Lutz Geißler besucht uns in Nippes für eine Lesung zu seinem neuen Buch „111 Brot-Mythen, die sich verkrümeln können“. Die Moderation übernimmt Katharina te Uhle. Sie moderiert „Schöner Morgen“ auf WDR 4 und ist Host des beliebten Podcasts „Hoffentlich schmeckts“. Wir freuen uns auf einen spannenden Abend! Das sagt der Verlag […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/der-buchladen-in-der-scheune-lesung-mit-lutz-geissler-111-brot-mythen-die-sich-verkruemeln-koennen/?occurrence=2026-11-16)
 Di. 17
+November
 19:00 - 21:00
 Feierraum
 [Forumtheater „Gemeinsam Haltung zeigen“](https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&time=1794942000)
 Jeder Mensch ist einzigartig und hat seinen Platz in der Welt.Solidarität, Gerechtigkeit, freie Persönlichkeitsentfaltung und ein lebensfrohes Miteinander sind Werte, die wir uns für unser Leben wünschen.Dennoch erleben wir immer wieder Diskriminierung im Alltag. Manchmal sind wir selbst betroffen, manchmal andere.Oft sind wir in den Situationen sprachlos, ärgern uns noch lange über unsere Reaktionen oder […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&time=1794942000)
 20:00 - 21:20
+Scheune
 [Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&time=1794945600)
 ★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&time=1794945600)
@@ -52,6 +47,9 @@ Fr. 20
 [Zwischen-T-Räume – Queeres Theater jenseits der 60](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
 „ZWISCHEN-T-RÄUME“ ist ein Theaterstück der „Zeitlosen Talente“, einem achtköpfigen Kölner Theaterensemble aus lesbischen, schwulen und trans* Personen jenseits der 60.Mit diesem Stück machen sie die Lebensrealitäten älterer queerer Menschen sichtbar, fördern Verständnis und leisten einen Beitrag zum Abbau von Vorurteilen und Diskriminierung. Gleichzeitig möchten sie den generationsübergreifenden Austausch über queere Lebensgeschichten fördern und die Sichtbarkeit […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
+Mo. 23
+[Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
+[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)
