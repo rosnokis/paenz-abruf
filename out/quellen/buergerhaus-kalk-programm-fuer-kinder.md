@@ -13,23 +13,12 @@
 [Kalker KunstRasen](https://www.buergerhauskalk.de/veranstaltungen/kalker-kunstrasen/?no_cache=1)
 [downstairs deluxe feat.](https://www.buergerhauskalk.de/veranstaltungen/downstairs-deluxe-feat/?no_cache=1)
 [Video-Archiv](https://www.buergerhauskalk.de/veranstaltungen/video-archiv/?no_cache=1)
-Dienstag,
-17.11.2026
-09:30 Uhr
-& 11:00 Uhr
-Die Schnecke und der Buckelwal
-★ Leseinszenierung und Puppenspiel
-Klicken, um Details einzublenden.
-★ Reisen macht Spaß. Auf geht’s und los, die Welt ist groß. Schön ist es auf dem Buckelwal-Floß. Da sitzt die kleine Seeschnecke, während sie die Wunder dieser Welt erlebt. Doch, wie man weiß, steckt die Welt auch voller Gefahren, auch für den Wal. Und da ist es nur gut, wenn man einen Freund hat, der einen in höchster Not rettet - selbst wenn der so klein ist wie eine Seeschnecke…. Lustige Leseinszenierung mit Puppenspiel zum Mitreimen und Mitschleimen. Von den Machern des „Grüffelo und eine Eigenproduktion vom Bürgerhaus Kalk und dem LUK-Puppentheater.
-★ Alter: ab 3 Jahren | Eintritt: 5,00 € pro Kind
-Anmeldung unter: [E-Mail]
-Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
-Bürgerhaus Kalk, [E-Mail]
 Samstag,
 21.11.2026
 12:00 Uhr
 KALK ALAAF
 ★ Benefiz-Familienparty
+Klicken, um Details einzublenden.
 ★ KALK ALAAF - unsere Benefiz-Familienparty zum Sessionsauftakt
 ★ Karneval für die ganze Familie, mitten in Kalk.
 Auch in diesem Jahr starten wir mit euch gemeinsam in die neue Session - mit Musik, Tanz, Spielen, leckerem Essen und allem, was zu einem richtig guten Karnevalsnachmittag dazugehört.
@@ -67,6 +56,9 @@ Mer freue uns op üch!
 KALK ALAAF!
 ★ Erwachsenen-Ticket 15 € und ein Pänz-Ticket 9 €
 Ermäßigungen für KölnPass-Inhaber:innen
+Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
+Bürgerhaus Kalk, [E-Mail]
+Dienstag,
 24.11.2026
 15:00 Uhr
 Funkelzeit
@@ -92,10 +84,13 @@ Glashaus (Eingang über den Hof),
 Kalk-Mülheimer Str. 58, 51103 Köln
 Annette Pelzer-Ettaissi, [E-Mail]
 09.12.2026
+09:30 Uhr
+& 11:00 Uhr
 Der kleinste Engel und sein größter Wunsch
 Mimikry Theater
 ★ Jetzt dauert es gar nicht mehr lange, dann ist Weihnachten! Eine Zeit der Kerzen und der Tannenbäume. Und: eine Zeit der Engel. Und: Es gibt unsichtbare Engel - die können wir im Herzen fühlen, und die machen uns glücklich. Der kleinste aller Engel, Amadeus, hat einen großen Wunsch: Einmal hinab auf die Erde zu fliegen und einem Menschen den sehnlichsten Weihnachtswunsch erfüllen! Ob ihm das wohl gelingt, erfahrt ihr in diesem Kindertheater.
 ★ Alter: 3-7 Jahre | Eintritt: 5,00 €/Person
+Anmeldung unter: [E-Mail]
 Donnerstag,
 10.12.2026
 ★ Kasperle und der Weihnachtsroboter

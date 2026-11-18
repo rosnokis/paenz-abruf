@@ -26,7 +26,7 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
@@ -108,6 +108,12 @@
    "geprueft": "2026-11-17T05:26",
    "s": "verfuegbar",
    "txt": "[Jetzt Tickets sichern!](https://koelner-weihnachtscircus.de/showzeiten-und-tickets/)"
+  },
+  "https://lust-auf-leverkusen.de/veranstaltung/der-satanarchaeoluegenialkohoellische-wunschpunsch/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Jetzt Tickets sichern Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)"
   },
   "https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/": {
    "art": "detailseite",
@@ -201,7 +207,7 @@
   },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
   },
@@ -211,7 +217,7 @@
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
-   "versucht": "2026-11-17T05:26"
+   "versucht": "2026-11-18T05:35"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -225,12 +231,24 @@
    "s": "verfuegbar",
    "txt": "Online-Tickets buchen"
   },
+  "https://www.horizont-theater.de/produktionen/dieraeuber.html": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "Karten kaufen"
+  },
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "unklar",
    "txt": ""
+  },
+  "https://www.horizont-theater.de/produktionen/nordicaf.html": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "Karten kaufen"
   },
   "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-13": {
    "art": "detailseite",
@@ -280,6 +298,12 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://galileum-solingen.de/shows/lars-der-kleine-eisbaer/)"
   },
+  "https://www.kindaling.de/kindertheater-shows/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs-kkt-koelner-kuenstler-innen-theater/koeln-ehrenfeld": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)"
+  },
   "https://www.kindaling.de/kreatives/christmas-werkstatt/koeln-innenstadt": {
    "art": "detailseite",
    "geprueft": "2026-11-16T05:26",
@@ -313,7 +337,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "unklar",
    "txt": ""
   },
@@ -325,15 +349,27 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
+   "s": "ausverkauft",
+   "txt": "Schaltfläche: Soldout"
+  },
+  "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
+   "art": "ticketliste",
+   "geprueft": "2026-11-18T05:35",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
+  },
+  "https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://www.eventim.de/noapp/event/22145737/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)"
   },
   "https://www.mvp.de/koeln/veranstaltungen/ensembleproduktion-puppensitzung-2027/": {
    "art": "detailseite",
@@ -371,6 +407,12 @@
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2620760)"
   },
+  "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
+   "art": "ticketliste",
+   "geprueft": "2026-11-18T05:35",
+   "s": "ausverkauft",
+   "txt": "sold out"
+  },
   "https://www.qultor.de/veranstaltungen/care-with-handle": {
    "art": "detailseite",
    "geprueft": "2026-11-14T05:26",
@@ -397,7 +439,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-17T05:26",
+   "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -449,6 +491,18 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbabys)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-537": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbabys)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-538": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=B%C3%BCcherbabys)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -473,6 +527,12 @@
    "s": "knapp",
    "txt": "Karten erhalten Sie im Vorverkauf über kölnticket. Restkarten gibt es gegebenenfalls an der Abendkasse."
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/level-15": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/level-up-event-5945)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-44": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -488,6 +548,24 @@
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-46": {
    "art": "detailseite",
    "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-47": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-48": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-49": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
   },
@@ -509,6 +587,12 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/parolen-paroli-event-5846)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schachxperten-34": {
+   "art": "detailseite",
+   "geprueft": "2026-11-18T05:35",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/schachxperten-event-5934)"
+  },
   "https://zeitfuerzirkus.de/events/greatest-hits/": {
    "art": "detailseite",
    "geprueft": "2026-11-14T05:26",
@@ -516,5 +600,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-17T05:26"
+ "stand": "2026-11-18T05:35"
 }

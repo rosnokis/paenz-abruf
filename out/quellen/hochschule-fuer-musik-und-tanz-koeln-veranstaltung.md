@@ -2,20 +2,12 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-lunchtime-konzerte-in-st-kunibert/)
-17.11.2026
-13:30
-Uhr
-St. Kunibert
-Köln
-Lunchtime-Konzerte in St. Kunibert
-[DEUTSCHLANDFUNK – HÖRPROBE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2026-deutschlandfunk-hoerprobe/)
-20:00
-Kammermusiksaal
-DEUTSCHLANDFUNK – HÖRPROBE
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-11-2026-ringvorlesung-kanons-in-der-krise/)
 18.11.2026
 18:00
+Uhr
+Kammermusiksaal
+Köln
 Ringvorlesung - KANONS IN DER KRISE
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-1-2-2/)
 19:30
@@ -69,6 +61,9 @@ Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026
 Oboenabend
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-lunchtime-konzerte-in-st-kunibert/)
 24.11.2026
+13:30
+St. Kunibert
+Lunchtime-Konzerte in St. Kunibert
 [Violoncelloabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-01-2026-violoncelloabend-1-1/)
 Violoncelloabend
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-violaabend/)
@@ -139,6 +134,7 @@ Gesangsabend
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-floetenabend/)
 Orchesterprobensaal (R. 410)
 [COMBO-DOPPELKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/)
+20:00
 King Georg
 COMBO-DOPPELKONZERT
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-lunchtime-konzerte-in-st-kunibert/)

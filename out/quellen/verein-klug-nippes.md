@@ -152,7 +152,7 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 26. November 2026 09:00 - 16:00
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=N3ZnMjA2c2ptNm9za3FsZWg4OXNwbGsydjIgZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
 26. November 2026 14:00 - 17:00
-[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2kgZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjExMjZUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 27
 27. November 2026 09:00 - 16:00
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=MDU5YmdnZHJzNGJza2dhZ3RzZHNpbTY4YzggZ2JtbTgxdTA2dmE1MjlvbWJkZDh0a2sxZ2dAZw&ctz=Europe/Berlin)
@@ -161,7 +161,6 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjExMjhUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 29
 30
-17. November 2026
 18. November 2026
 19. November 2026
 20. November 2026
@@ -180,6 +179,8 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 2. Dezember 2026 18:00 - 20:00
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=MzcwbmtkdjFqOWM0YmlhcDJtc2JjbXRoMjRfMjAyNjEyMDJUMTcwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 3. Dezember 2026
+3. Dezember 2026 14:00 - 17:00
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjEyMDNUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 4. Dezember 2026
 5. Dezember 2026
 5. Dezember 2026 12:00 - 17:00
@@ -189,6 +190,8 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 8. Dezember 2026
 9. Dezember 2026
 10. Dezember 2026
+10. Dezember 2026 14:00 - 17:00
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjEyMTBUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 ★ Naturtag für Kinder und Familien: Nachtwanderung "Glühwürmchen"
 10. Dezember 2026 15:30 - 18:00
 ★ Ihr möchtet als Familie gemeinsam etwas Schönes unternehmen und etwas über Natur und Umwelt lernen? Mit der Naturtrainerin Necibe Dumanoğlu (Muslimisches Familienbildungswerk Köln) geht es auf die Entdeckungstour "Glühwürmchen Nachtwanderung" in unsere direkte Nachbarschaft. Seid dabei!
@@ -212,6 +215,9 @@ Gefördert von:
 14. Dezember 2026
 15. Dezember 2026
 16. Dezember 2026
+17. Dezember 2026
+17. Dezember 2026 14:00 - 17:00
+[Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjEyMTdUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 Mehr anzeigen
 Liebigquartier
 Das Liebigquartier ist eines der wohl spannendsten Stadtentwicklungsgebiete in Köln. Die ca. 300.000m² Entwicklungsfläche zwischen Ehrenfeld und Nippes bieten viel Raum, um Projekte und Ideen umzusetzen, damit Köln 2035 klimaneutral versorgt werden kann, die 15 Minuten Stadt Realität wird und Kultur und Soziales Raum in der Stadt findet.

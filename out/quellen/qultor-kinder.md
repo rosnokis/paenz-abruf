@@ -6,17 +6,6 @@ Der Kulturkalender bietet gleichzeitig Vielfalt und Nische! Das geballte Angebot
 Aber was bietet gerade eine spezielle Sparte? Was findet genau heute, morgen oder am Wochenende statt?
 Finde es heraus und filtere das breite Angebot genau nach deinen Interessen!
 Schnellauswahl:
-Dienstag, 17. November 2026
-Joris Gratwohl
-[16+ Die Zuschauer* innen sitzen mitten im Szenario Joris Gratwohl: IN DER MITTE - Ein Theaterstück an der Bar Die Bar ist die Bühne. Eine Bar. Max sitzt am Tresen."Wie geht es Dir?" fragt ihn der Barkeeper. Falsche Frage! In diesem Moment wird die Bar zu seiner Bühne. Im Zwiegespräch mit sich selbst wandelt Max auf seinem Hocker du... 19:30 Uhr Theater Weißer Holunder | Köln](https://www.qultor.de/veranstaltungen/in-der-mitte-ein-theaterstueck-an-der-bar)
-[Ticketlink](https://www.eventbrite.de/e/in-der-mitte-ein-theaterstuck-an-der-bar-im-weissen-holunder-tickets-1999389794698?aff=oddtdtcreator)
-Theater der Keller
-[Man kann auch in die Höhe fallen (UA) Nach dem Roman von Joachim Meyerhoff Sieben Jahre lief ACH DIESE LÜCKE, DIESE ENTSETZLICHE LÜCKE nach dem Roman von Joachim Meyerhoff am Theater der Keller. Jetzt kommt die Fortsetzung 20:00 Uhr Theater Theater der Keller | Köln](https://www.qultor.de/veranstaltungen/man-kann-auch-in-die-hoehe-fallen-ua)
-Tickets
-Theater im Bauturm
-[Uraufführung Faust 1 und 2 von Johann Wolfgang von Goethe Von Kieran Joel In seinem ersten Solo als Performer begibt sich Kieran Joel mutig in das Spiegelkabinett des meistzitierten und gleichzeitig gefürchtetsten Textes der deutschen Literatur! 20:00 Uhr Schauspiel Theater im Bauturm | Köln](https://www.qultor.de/veranstaltungen/faust-1-und-2-von-johann-wolfgang-von-goethe)
-Studio Trafique
-[DRECK „DRECK“ ist ein sprachlich kraftvolles und zugleich verstörendes Stück über Fremdsein, Rassismus, Identität und die Sehnsucht nach menschlicher Anerkennung. 20:00 Uhr Theater Studio Trafique | Köln](https://www.qultor.de/veranstaltungen/dreck)
 Mittwoch, 18. November 2026
 [Der fabelhafte Die von Sergej Gößner Leise knarrend rollt ein alter Zirkuswagen ins Licht. Es surrt, schnurrt, klimpert – bis eine Wand aufklappt und eine Gestalt preisgibt: düster, schrill, geheimnisvoll. Sie ist er. Er ist sie. Es ist:... 09:00 Uhr Theater Comedia Theater (Grüner Saal) | Köln](https://www.qultor.de/veranstaltungen/der-fabelhafte-die)
 Entfällt
@@ -28,6 +17,7 @@ KKT Kölner Künstler:innen Theater
 [12+ Erinnerung eines Mädchens in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux SCHAUSPIEL | Als 76-jährige schreibt Literaturnobelpreisträgerin Annie Ernaux über ihre ersten sexuellen Erfahrungen in einem französischen Jugendferienlager im Jahr 1958. Sucht nach Erinnerungen und... 12:00 Uhr Theater Comedia Theater (Studio) | Köln](https://www.qultor.de/veranstaltungen/erinnerung-eines-maedchens)
 Hinweis
 [12+ Relaxed Performance Erinnerung eines Mädchens in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux SCHAUSPIEL | Als 76-jährige schreibt Literaturnobelpreisträgerin Annie Ernaux über ihre ersten sexuellen Erfahrungen in einem französischen Jugendferienlager im Jahr 1958. Sucht nach Erinnerungen und... 19:00 Uhr Theater Comedia Theater (Studio) | Köln](https://www.qultor.de/veranstaltungen/erinnerung-eines-maedchens)
+Tickets
 Scala Theater
 [12+ Scala Theater - das kölsche Lustspielhaus: TRUDE Wat e ordinär Frauezemmer. Leck mich am Aasch. TRUDE - Wat e ordinär Frauezemmer. Leck mich am Aasch.Hätz, Geföhl un Tschingderassabum! 19:30 Uhr Revue/Show Scala Theater | Köln](https://www.qultor.de/veranstaltungen/trude)
 [Ticketlink](https://scala.koeln/termine-tickets/)
@@ -46,6 +36,7 @@ Italienisches Kulturinstitut in Köln
 [12+ Erinnerung eines Mädchens in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux SCHAUSPIEL | Als 76-jährige schreibt Literaturnobelpreisträgerin Annie Ernaux über ihre ersten sexuellen Erfahrungen in einem französischen Jugendferienlager im Jahr 1958. Sucht nach Erinnerungen und... 19:00 Uhr Theater Comedia Theater (Studio) | Köln](https://www.qultor.de/veranstaltungen/erinnerung-eines-maedchens)
 metropol Theater
 [Two Queens Maria und Elisabeth 20:00 Uhr Theater Metropol Theater | Köln](https://www.qultor.de/veranstaltungen/two-queens)
+Studio Trafique
 [Der Fall Ransohoff Frauen im Karneval Das Kollektiv „A3“ eine packende Stückentwicklung auf die Bühne, die Vergangenheit und Gegenwart des Karnevals miteinander verknüpft und dessen politische Bedeutung neu beleuchtet. 20:00 Uhr Theater Studio Trafique | Köln](https://www.qultor.de/veranstaltungen/der-fall-ransohoff)
 Orangerie Theater
 ★ [Premiere DAHEIM Ein politisch-intimes Kammerspiel über Nähe, Entfremdung und die Frage, was eine Familie aushält.Eine Stückentwicklung von c.t.201 für Menschen ab 15 Jahren. 20:00 Uhr Tanz Orangerie Theater | Köln 15+](https://www.qultor.de/veranstaltungen/daheim)
@@ -59,4 +50,9 @@ Kabarett A-Z
 [12+ Heilige Scheine Die neue Komödie! Von und mit Corinne Walter + Frank Zollner 19:30 Uhr Theater Kabarett A-Z | Köln](https://www.qultor.de/veranstaltungen/heilige-scheine)
 [Ticketlink](https://kabarett-a-z.de/start/karten/)
 [16+ Nominiert für den Kölner Theaterpreis 2026 Von Caren Jeß: DIE KATZE ELEONORE Inszenierung: S. Rudat Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist. 20:00 Uhr Schauspiel Freies Werkstatt Theater Bühne Kellergeschoss | Köln](https://www.qultor.de/veranstaltungen/die-katze-eleonore)
+Theater im Bauturm
 [Nominiert für den Kölner Theaterpreis 2026 Richard III. Von William Shakespeare Shakespeares berühmtestes Königsdrama ist viel mehr als ein Psychogramm des Bösen - es ist ein Paradestück in der Analyse von Macht und Manipulation. 20:00 Uhr Theater Theater im Bauturm | Köln](https://www.qultor.de/veranstaltungen/richard-iii-1)
+[14+ Die anderen Anderen - Öteki Ötekiler Eine Theaterperformance über Superdiversität, Zugehörigkeit und die Frage, ob man gemeinsam funktionieren kann, ohne gleich zu werden. 20:00 Uhr Theater KKT Kölner Künstler:innen Theater | Köln ABENDPREMIERE](https://www.qultor.de/veranstaltungen/die-anderen-anderen-oeteki-oetekiler)
+Lutherkirche Südstadt
+[JOSÉ FERNÁNDEZ BARDESIO Gitarrenmusik aus zwei Welten Der mehrfach international preisgekrönte, aus Uruguay stammendende Gitarrist spielt gemeinsam mit dem bekannten Komponisten und Gitarristen José Luis Merlin sowohl eigene Kompositionen als auch Musik... 20:00 Uhr Konzert Lutherkirche Südstadt | Köln](https://www.qultor.de/veranstaltungen/jose-fernandez-bardesio)
+[Ticketlink](https://www.suedstadt-leben-koeln.de/veranstaltungen/jose-fernandez-bardesio-bach-barrios-2/)

@@ -6,12 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Spieletreff](https://www.kaenguru-online.de/kalender/fuer-minis/spieletreff-1/2026-11-17)
-★ Spieletreff für Kinder von 3 bis 6 Jahren
-17.11.2026
-15:30 - 17:00 Uhr
-★ Kindernöte e.V.
-Köln
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-18)
 ★ Mit Kleinkindern ins Museum Morsbroich
 18.11.2026
@@ -22,6 +16,7 @@ Leverkusen
 ★ Junge Eltern haben die Gelegenheit, den Babyalltag hinter sich zu lassen
 11:00 Uhr
 Freunde des Wallraf-Richartz-Museum und des Museum Ludwig
+Köln
 ★ [Kinderwagen-Kino „Der perfekte Urlaub“](https://www.kaenguru-online.de/kalender/fuer-minis/kinderwagen-kino-der-perfekte-urlaub/2026-11-18)
 ★ Aktuelle Filme für Eltern mit Baby
 Cinenova
@@ -86,3 +81,7 @@ Bürgerzentrum Nippes/Altenberger Hof
 ★ Elternnachmittag
 26.11.2026
 17:30 - 19:30 Uhr
+★ Kindernöte e.V.
+★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
+Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
+27.11.2026

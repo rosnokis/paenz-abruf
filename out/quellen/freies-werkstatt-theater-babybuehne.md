@@ -2,7 +2,8 @@
 
 ## Quelle: https://www.fwt-koeln.de
 ★ [TrotzdemTanzen](https://www.fwt-koeln.de/veranstaltung/trotzdemtanzen-20261119) Für Taubes und hörendes Publikum ab 8 Jahren. Von pulk fiktion Köln-Premiere am 19. November ausverkauft! Karten gibt es noch für 20.11., 10 und 18 Uhr und für 21.11., 16 Uhr
-[DIE KATZE ELEONORE](https://www.fwt-koeln.de/veranstaltung/die-katze-eleonore-20261112) Von Caren Jeß. Mit S. Rudat Am 20. und 21. November, jew. 20 Uhr
+[DIE KATZE ELEONORE](https://www.fwt-koeln.de/veranstaltung/die-katze-eleonore-20261112) Von Caren Jeß. Mit S. Rudat Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026 Am 20. und 21. November, jew. 20 Uhr
+[TOUCH THE LINE](https://www.fwt-koeln.de/veranstaltung/touch-the-line-20261126) Von Emel Aydoğdu. Nominiert für den Kurt-Hackenberg-Preis für politisches Theater 2026 Am 26. und 28. November, jew. 20 Uhr und am 29. November, 18 Uhr
 [Vorheriger Monat «](https://www.fwt-koeln.de/spielplan/monat/2026/10) November 2026 [Nächster Monat »](https://www.fwt-koeln.de/spielplan/monat/2026/12)
 So 01
 Mo 02
@@ -45,8 +46,8 @@ Fr, 18:00 Uhr
 [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1800)
 Fr, 20:00 Uhr
 Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
-NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2026
-[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0)
+Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db)
 [Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-20-2000)
 21.11.2026
 Sa, 16:00 Uhr

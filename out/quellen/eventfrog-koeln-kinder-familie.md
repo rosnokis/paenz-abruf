@@ -2,7 +2,7 @@
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 48 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
 ★ [Wenige Tickets Nov 21 Tages-Workshop Luftakrobatik in der Zirkusfabrik Samstag, 21. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-luftakrobatik-in-der-zirkusfabrik-koeln-7436721133666221188.html)
 [Eventgruppe bis Dez 6 Mut, Resilienz & Stärke: Der Zukunfthelden-Workshop für Kids 2 Events Unsere Zukunftshelden Workshops, Köln (DE)](https://eventfrog.de/de/p/gruppen/mut-resilienz-staerke-der-zukunfthelden-workshop-fuer-kids-7505297765397752291.html)
@@ -25,21 +25,22 @@ Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Ve
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/heute.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/morgen.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 48 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/wochenende.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Wenige Tickets Nov 21 Tages-Workshop Luftakrobatik in der Zirkusfabrik Samstag, 21. November, 10:00 Zirkusfabrik Köln Dellbrück, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-luftakrobatik-in-der-zirkusfabrik-koeln-7436721133666221188.html)
 [Eventgruppe bis Dez 6 Mut, Resilienz & Stärke: Der Zukunfthelden-Workshop für Kids 2 Events Unsere Zukunftshelden Workshops, Köln (DE)](https://eventfrog.de/de/p/gruppen/mut-resilienz-staerke-der-zukunfthelden-workshop-fuer-kids-7505297765397752291.html)
 Fehlt dein Event?

@@ -22,7 +22,7 @@ vorbestellen
 Weihnachtsbaum
 Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
-Montag, 16.11.2026
+Mittwoch, 18.11.2026
 Erlebnisgelände
 GESCHLOSSEN WEGEN UMBAU
 Bauernmarktgelände

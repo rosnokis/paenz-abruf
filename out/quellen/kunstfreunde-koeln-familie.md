@@ -38,8 +38,6 @@ Suche
 [schöne Kunsterlebnisse verschenken](https://kunstfreunde.koeln/events/gutschein-fuer-kunstkind/)
 ★ Kunst+Kind Führung
 ★ Mit Baby ins Museum Ludwig
-★ [Familientag: Magie der Materialien](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
-★ [im Museum Ludwig](https://kunstfreunde.koeln/events/familientag-magie-der-materialien/)
 ★ familie&kunstfreunde
 ★ Wir machen es jungen Eltern und Familien möglich, auch mit Babys und kleinen Kindern ins Museum zu gehen. Man trifft Gleichgesinnte, kann Spannendes über Kunst und Kultur erfahren und sich zugleich mit anderen darüber austauschen. So bieten wir ein gemeinsames Eintauchen in einen besonders schönen Kontext.
 18.11.
@@ -67,7 +65,7 @@ Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Mu
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.
-Unterwegs, Museum Ludwig, Wallraf
+Museum Ludwig, Wallraf, Unterwegs
 [einfach schöne Kunsterlebnisse verschenken](https://kunstfreunde.koeln/events/gutschein-fuer-kunstkind/)
 ★ Du kennst bereits unsere Kunst+Kind-Führungen? Möchtest diese aber Deinen Freund*innen oder Bekannten mit Babys schmackhaft machen?
 Dafür haben wir schön gestaltete Geschenkgutscheine im Angebot.

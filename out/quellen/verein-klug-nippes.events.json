@@ -154,12 +154,34 @@
   "quelle": "https://klugev.de"
  },
  {
+  "name": "Pop-Up-Café im Stöckchen",
+  "startDate": "2026-12-03T14:00:00+01:00",
+  "endDate": "2026-12-03T17:00:00+01:00",
+  "location": {
+   "name": "Escher Straße 160",
+   "address": "Escher Straße 160"
+  },
+  "kinder": false,
+  "quelle": "https://klugev.de"
+ },
+ {
   "name": "Offene Fahrradwerkstatt",
   "startDate": "2026-12-05T12:00:00+01:00",
   "endDate": "2026-12-05T17:00:00+01:00",
   "location": {
    "name": "Offene Fahrradwerkstatt",
    "address": "Offene Fahrradwerkstatt"
+  },
+  "kinder": false,
+  "quelle": "https://klugev.de"
+ },
+ {
+  "name": "Pop-Up-Café im Stöckchen",
+  "startDate": "2026-12-10T14:00:00+01:00",
+  "endDate": "2026-12-10T17:00:00+01:00",
+  "location": {
+   "name": "Escher Straße 160",
+   "address": "Escher Straße 160"
   },
   "kinder": false,
   "quelle": "https://klugev.de"
@@ -193,6 +215,17 @@
   "location": {
    "name": "Offene Fahrradwerkstatt",
    "address": "Offene Fahrradwerkstatt"
+  },
+  "kinder": false,
+  "quelle": "https://klugev.de"
+ },
+ {
+  "name": "Pop-Up-Café im Stöckchen",
+  "startDate": "2026-12-17T14:00:00+01:00",
+  "endDate": "2026-12-17T17:00:00+01:00",
+  "location": {
+   "name": "Escher Straße 160",
+   "address": "Escher Straße 160"
   },
   "kinder": false,
   "quelle": "https://klugev.de"

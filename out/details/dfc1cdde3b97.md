@@ -1,5 +1,5 @@
 URL: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
-ABGERUFEN: 2026-11-17T05:26
+ABGERUFEN: 2026-11-18T05:35
 VON: tickets.yml
 
 Fri 11:00
@@ -29,7 +29,7 @@ Price
 ★ € 4.- Baby under 2
 € 8.- Adult / Child 2 years and above
 including booking fees
-★ ICal-/Outlook-Kalender [Google-Kalender](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20261204T100000Z%2F20261204T104500Z&details=%C2%BBFunkelzeit%C2%AB%0A%0Ahttps%3A%2F%2Fwww.koelner-philharmonie.de%2Fen%2Fevents%2Fphilharmonieveedel-baby%2F9534&location=B%C3%BCrgerzentrum%20Nippes%20%E2%80%93%20Altenberger%20Hof&text=PhilharmonieVeedel%20Baby)
+★ [ICal-/Outlook-Kalender](https://www.koelner-philharmonie.de/en/api/events/9534/ics/) [Google-Kalender](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20261204T100000Z%2F20261204T104500Z&details=%C2%BBFunkelzeit%C2%AB%0A%0Ahttps%3A%2F%2Fwww.koelner-philharmonie.de%2Fen%2Fevents%2Fphilharmonieveedel-baby%2F9534&location=B%C3%BCrgerzentrum%20Nippes%20%E2%80%93%20Altenberger%20Hof&text=PhilharmonieVeedel%20Baby)
 Information
 We are happy to take ticket bookings for nursery groups of 20 or more people by telephone on 0221 / 204 08 204. Alternatively, you can use our » [online order form](https://www.koelner-philharmonie.de/veedelgruppen).
 Visitor information
@@ -46,6 +46,7 @@ Estimated end at
 Recommended
 0 – 2 years
 Venue
+Bürgerzentrum Nippes – Altenberger Hof, Bürgerzentrum Nippes – Altenberger Hof
 Location
 Mauenheimer Str. 92
 50733 Köln

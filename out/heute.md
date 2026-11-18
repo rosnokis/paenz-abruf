@@ -1,255 +1,248 @@
-STAND: 2026-11-17T05:26
-# Pänz-Quellen – Abruf 17.11.2026 05:26
+STAND: 2026-11-18T05:35
+# Pänz-Quellen – Abruf 18.11.2026 05:35
 
-Quellen: 78 | ok: 74 | geändert: 33 | Fehler: 0 | blockiert: 0 | übersprungen: 4
+Quellen: 78 | ok: 74 | geändert: 32 | Fehler: 0 | blockiert: 0 | übersprungen: 4
 Wetter: ok (out/wetter.json)
 Legende: ★ = Kleinkind-Stichwort gefunden (nur Markierung, nichts gefiltert). Volltext je Quelle: out/quellen/<id>.md, Termine: out/quellen/<id>.events.json
-Detailseiten: 68 neu geladen (out/details/index.json: URL -> Datei) | Ticketstatus: 85 Seiten (out/tickets.json) | Veranstalter-Kandidaten: 0 neu (out/kandidaten.md)
+Detailseiten: 70 neu geladen (out/details/index.json: URL -> Datei) | Ticketstatus: 99 Seiten (out/tickets.json) | Veranstalter-Kandidaten: 0 neu (out/kandidaten.md)
 
 ## Geändert (nur neue Zeilen/Termine gegenüber dem letzten erfolgreichen Abruf)
-Nur Zeilen entfallen oder umsortiert, nichts Neues: stadtbibliothek-koeln-nippes-chorweiler, koelner-philharmonie-philharmonieveedel-baby-paenz, tante-astrid-e-v-ehrenfeld, koeln-de-tageskalender-kinderflohmaerkte, museen-koeln-veranstaltungskalender
+Nur Zeilen entfallen oder umsortiert, nichts Neues: buergerhaus-kalk-programm-fuer-kinder, hochschule-fuer-musik-und-tanz-koeln-veranstaltung
 
 ### Bürgerzentrum Nippes – Altenberger Hof (`buergerzentrum-nippes-altenberger-hof`)
 Neue Termine (1):
-- ★ Mo 23.11.2026 – Kölner Geschichten Haus &#8211; Systemisch – Scheune – 10€/ erm.5€ EUR – [Details](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&)
-Neue Zeilen (3, davon 0 ★):
-  Mo. 23
-  [Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
-  [Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
+- Di 24.11.2026 – LESUNG mit Ulrike Herrmann: Geld als Waffe – Scheune – 20€ EUR – [Details](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
+Neue Zeilen (5, davon 0 ★):
+  Di. 24
+  19:30 - 21:00
+  [LESUNG mit Ulrike Herrmann: Geld als Waffe](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
+  Wie entstehen Kriege? Und wie Frieden? Ulrike Herrmann untersucht in diesem Buch große internationale Konflikte und analysiert, dass die Gründe nicht nur historisch, psychologisch oder politisch sind. Sondern dass oft ökonomische Faktoren ausschlaggebend sind. Sie zeigt am Beispiel Russlands, wie die wirtschaftliche Entwicklung des Landes permanente Kriege auch in Zukunft wahrscheinlich macht. Und sie beschreibt […]...
+  [Details anzeigen](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
 
 ### Verein KluG Nippes (`verein-klug-nippes`)
-Neue Zeilen (1, davon 0 ★):
-  16. Dezember 2026
+Neue Termine (3):
+- Do 03.12.2026 14:00 – Pop-Up-Café im Stöckchen – Escher Straße 160, Escher Straße 160
+- Do 10.12.2026 14:00 – Pop-Up-Café im Stöckchen – Escher Straße 160, Escher Straße 160
+- Do 17.12.2026 14:00 – Pop-Up-Café im Stöckchen – Escher Straße 160, Escher Straße 160
+Neue Zeilen (8, davon 0 ★):
+  [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjExMjZUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
+  3. Dezember 2026 14:00 - 17:00
+  [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjEyMDNUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
+  10. Dezember 2026 14:00 - 17:00
+  [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=NWkyNW5xZGJncTY5YmhjZzJrcWxrNWp1Z2lfMjAyNjEyMTBUMTMwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
+  17. Dezember 2026
+  17. Dezember 2026 14:00 - 17:00
+  … +1 weitere (davon 0 ★), siehe out/quellen/verein-klug-nippes.md
 
-### Gürzenich-Orchester – Angebote für Familien (`guerzenich-orchester-angebote-fuer-familien`)
-Neue Zeilen (1, davon 0 ★):
-  Duo-Programm anlässlich des 150. Geburtstag von Pablo Casals
+### Stadtbibliothek Köln (Nippes, Chorweiler) (`stadtbibliothek-koeln-nippes-chorweiler`)
+Neue Termine (11):
+- ★ bis Mi 25.11.2026 – MINT-Vorlesen – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-47)
+- ★ bis Mi 02.12.2026 – MINT-Vorlesen – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-48)
+- ★ bis Mi 13.01.2027 – Vorlesen mit dem Kamishibai-Erzähltheater – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-153)
+- ★ bis Do 14.01.2027 – Bücherbabys – die literarische Krabbelgruppe – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-537)
+- ★ bis Do 14.01.2027 – LEVEL UP! – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/level-15)
+- ★ bis Fr 15.01.2027 – MINT-Vorlesen und Experimentieren – [Details](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-und-experimentieren-66)
+  … +18 weitere (davon 16 ★), siehe out/quellen/stadtbibliothek-koeln-nippes-chorweiler.md
 
-### KKT Kölner Künstler:innen Theater (`kkt-koelner-kuenstler-innen-theater`)
-Neue Zeilen (4, davon 0 ★):
-  PREMIERE - Tickets können vor Ort gekauft werden
-  [THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
-  Jugendliche und KI – wie echt ist unser Leben?
-  Mittwoch, 25. November 2026
+### Horizont Theater (`horizont-theater`)
+Neue Zeilen (4, davon 1 ★):
+  ★ Wir gratulieren unserem Regisseur Rasoul Mohammadi Koussehabad und unseren Schauspielern Martin-Maria Vogel und Mikail Gürbüz für die Nominierung von [Opa Bär und die Menz](https://www.horizont-theater.de/produktionen/opabaer.html) für den 37. Kölner Tanz- und Theaterpreise 2026
+  Gastspiel: ["Nordic AF"](https://www.horizont-theater.de/produktionen/nordicaf.html) So, 17. Januar um 18 Uhr
+  PREMIERE: ["Die Räuberh"](https://www.horizont-theater.de/produktionen/dieraeuber.html) Do, 21. Januar um 18 Uhr
+  PREMIERE: ["The Messiah"](https://www.horizont-theater.de/produktionen/messiah.html) Sa 23. Januar um 10 Uhr
 
 ### Freies Werkstatt Theater (BabyBühne) (`freies-werkstatt-theater-babybuehne`)
 Neue Zeilen (4, davon 0 ★):
-  [Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-16&tx_calendarize_calendar%5BstartDate%5D=2026-11-16&cHash=cad37e1d49a749f8c1426e30240300b0)
-  21.11.2026
-  Sa, 16:00 Uhr
-  [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-21-1600)
+  [DIE KATZE ELEONORE](https://www.fwt-koeln.de/veranstaltung/die-katze-eleonore-20261112) Von Caren Jeß. Mit S. Rudat Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026 Am 20. und 21. November, jew. 20 Uhr
+  [TOUCH THE LINE](https://www.fwt-koeln.de/veranstaltung/touch-the-line-20261126) Von Emel Aydoğdu. Nominiert für den Kurt-Hackenberg-Preis für politisches Theater 2026 Am 26. und 28. November, jew. 20 Uhr und am 29. November, 18 Uhr
+  Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026
+  [Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db)
+
+### Krewelshof (Lohmar/Eifel) (`krewelshof-lohmar-eifel`)
+Neue Zeilen (5, davon 0 ★):
+  Krewelshof [admin](https://krewelshof.de/author/entwickler/) 2026-11-17T13:53:23+01:00
+  Krewelshofer
+  Winterhof
+  Winterzauber auf dem Krewelshof!
+  Wenn der Duft von Glühwein in der Luft liegt und funkelnde Lichter den Hof erhellen, beginnt bei uns die schönste Zeit des Jahres. Freut Euch auf gemütliche Wintermomente, festliche Köstlichkeiten, unsere Eisbahn und jede Menge Winterzauber. Erlebt den Krewelshofer Winterhof ab dem 21. November auf dem Krewelshof Lohmar und auf dem Krewelshof Eifel!
 
 ### Erlebnisbauernhof Gertrudenhof (Hürth) (`erlebnisbauernhof-gertrudenhof-huerth`)
-Neue Zeilen (5, davon 0 ★):
-  Tierpatenschaft
-  übernehmen
-  Print@home Gutschein
-  verschenken
-  Verkauf ab dem 19.11.26
+Neue Zeilen (1, davon 0 ★):
+  Mittwoch, 18.11.2026
 
 ### Familienhopper Köln (`familienhopper-koeln`)
-Neue Zeilen (29, davon 20 ★):
-  ★ Bis 3. Jan. 2027 | [Uhrzeit beim Veranstalter](https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/) Köln · Gertrudenhof
-  ★ 2 × 1 Familienticket gewinnen
-  ★ Lichterkinder Live – Millionen Sterne Tour
-  ★ [Mitsubishi Electric HALLE Düsseldorf · Sa, 28.11.2026, 15:30 Uhr](https://familienhopper.de/events/lichterkinder-live-millionen-sterne-tour-2026-duesseldorf-2026-11-28)
-  ★ Familientickets nur für Eltern mit ihren eigenen Kindern oder Großeltern mit ihren eigenen Enkelkindern.
-  ★ [Newsletter abonnieren & teilnehmen](https://familienhopper.de/index.html) Teilnahmebedingungen
-  ★ Veranstalter des Gewinnspiels: Familienhopper, Markus Keller. Anschrift und Kontakt stehen im [Impressum](https://familienhopper.de/impressum). Der Gewinn wird von concert team nrw GmbH, Veranstalter der Lichterkinder-Tour, bereitgestellt.
-  … +22 weitere (davon 13 ★), siehe out/quellen/familienhopper-koeln.md
+Neue Zeilen (36, davon 19 ★):
+  ★ [Ehrenfelder Weihnachtsmarkt im Bumann & Sohn](https://familienhopper.de/events/ehrenfelder-weihnachtsmarkt-im-bumann-sohn-koeln-2026-11-12)
+  ★ [Hafen-Weihnachtsmarkt am Schokoladenmuseum](https://familienhopper.de/events/hafen-weihnachtsmarkt-am-schokoladenmuseum-koeln-2026-11-13)
+  ★ [Weihnachtsmarkt an St. Aposteln](https://familienhopper.de/events/weihnachtsmarkt-an-st-aposteln-koeln-2026-11-16)
+  ★ [Nikolausdorf auf dem Rudolfplatz](https://familienhopper.de/events/nikolausdorf-auf-dem-rudolfplatz-koeln-2026-11-16)
+  ★ [Weihnachtsmarkt am Kölner Dom](https://familienhopper.de/events/weihnachtsmarkt-am-koelner-dom-koeln-2026-11-16)
+  ★ [Lindenthaler Adventstreff](https://familienhopper.de/events/lindenthaler-adventstreff-koeln-2026-11-19)
+  ★ [Weihnachtsmarkt Köln-West](https://familienhopper.de/events/weihnachtsmarkt-koeln-west-koeln-2026-11-19)
+  ★ [Vringsadvent – Weihnachtsmarkt auf dem Chlodwigplatz](https://familienhopper.de/events/vringsadvent-weihnachtsmarkt-auf-dem-chlodwigplatz-koeln-2026-11-19)
+  ★ [Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-24)
+  … +27 weitere (davon 10 ★), siehe out/quellen/familienhopper-koeln.md
 
 ### KÄNGURU Familienmagazin Köln/Bonn (`kaenguru-familienmagazin-koeln-bonn`)
-Neue Termine (12):
-- ★ ? – Alexa, YouTube & Co. im Kinderzimmer – Bonn – [Details](https://www.kaenguru-online.de/kalender/fuer-eltern/alexa-youtube-co-im-kinderzimmer/2026-11-17)
-- ? – Filterblase Körperbild – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-eltern/filterblase-koerperbild/2026-11-17)
-- ★ ? – Kaspertheater auf dem Weihnachtsmarkt – Köln – [Details](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kaspertheater-auf-dem-weihnachtsmarkt/2026-11-17)
-- ★ ? – Kinderschminken auf dem Hafenweihnachtsmarkt – Köln – [Details](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kinderschminken-auf-dem-hafenweihnachtsmarkt/2026-11-17)
-- ? – Museumsflöhe – Leverkusen – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-18)
-- ? – Online-Infoabende – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-eltern/online-infoabende/2026-11-17)
-- ? – „Der fabelhafte Die" – Köln – [Details](https://www.kaenguru-online.de/kalender/theater/der-fabelhafte-die/2026-11-18)
-  … +47 weitere (davon 16 ★), siehe out/quellen/kaenguru-familienmagazin-koeln-bonn.md
+Neue Termine (16):
+- ? – Frederick – unterwegs mit dem kleinen Mäuserich – Leverkusen – [Details](https://www.kaenguru-online.de/kalender/natur-und-umwelt/frederick-unterwegs-mit-dem-kleinen-maeuserich/2026-11-18)
+- ★ ? – KUNST+KIND: Mit Baby ins Ludwig – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-ins-ludwig-1/2026-11-18)
+- ★ ? – Kaspertheater auf dem Weihnachtsmarkt – Köln – [Details](https://www.kaenguru-online.de/kalender/feste-und-maerkte/kaspertheater-auf-dem-weihnachtsmarkt/2026-11-18)
+- ★ ? – Kinderwagen-Kino „Der perfekte Urlaub“ – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/kinderwagen-kino-der-perfekte-urlaub/2026-11-18)
+- ? – Live-Eisschnitzen auf dem Hafenweihnachtsmarkt – Köln – [Details](https://www.kaenguru-online.de/kalender/feste-und-maerkte/live-eisschnitzen-auf-dem-hafenweihnachtsmarkt/2026-11-18)
+- ? – Ne Draum us Schokolad – Köln – [Details](https://www.kaenguru-online.de/kalender/museum/ne-draum-us-schokolad/2026-11-18)
+  … +50 weitere (davon 14 ★), siehe out/quellen/kaenguru-familienmagazin-koeln-bonn.md
 
 ### Kindaling Köln (`kindaling-koeln`)
-Neue Zeilen (1, davon 0 ★):
-  [Adventskalender zum Kaufen im Überblick](https://www.kindaling.de/magazin/adventskalender-2026)
+Neue Zeilen (1, davon 1 ★):
+  ★ [16:00 Pettersson und Findus: Ein Feuerwerk für den Fuchs Köln Ehrenfeld](https://www.kindaling.de/kindertheater-shows/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs-kkt-koelner-kuenstler-innen-theater/koeln-ehrenfeld)
 
 ### mvp.de – Kinder-Events Köln (`mvp-de-kinder-events-koeln`)
-Neue Zeilen (10, davon 1 ★):
-  ★ Donnerstag, 19. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-  1 - 40 von 91
-  [Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
-  18.11. bis 22.11.26
-  [Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
-  [Ein Koffer voll Dornröschen](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/)
-  Sonntag, 17. Januar 2027 - Theater im Walzwerk - Pulheim - Ein Koffer voll Dornröschen - Seifenblasen Figurentheater
-  17.01.2027
-  [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/)
-  [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2631688)
+Neue Zeilen (11, davon 1 ★):
+  ★ Sonntag, 22. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
+  [Köln Köln](https://www.mvp.de/koeln/)
+  (morgen)
+  [Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+  19.11. bis 23.11.26
+  [Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+  [14. Pfannekuchensitzung - Krickel Krakel Kreideback - Rita + der kleine SCHOSCH](https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/)
+  Samstag, 23. Januar 2027 bis Sonntag, 24. Januar 2027 - Bürgerzentrum Nippes- Altenberger Hof - KÖLN - 14. Pfannekuchensitzung - Krickel Krakel Kreideback - Rita +...
+  23.01. bis 24.01.27
+  16 €
+  [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/)
 
 ### Mit Vergnügen Köln – Familien-Events (`mit-vergnuegen-koeln-familien-events`)
-Neue Zeilen (42, davon 9 ★):
-  ★ Kinderprogramm auf dem Weihnachtsmarkt im Stadtgarten
-  ★ Auf dem Weihnachtsmarkt im Stadtgarten kommen auch die kleinen Besucher*innen auf ihre Kosten. Von Dienstag bis Freitag sorgt das Theater SternKundt mit seinem Kasperletheater für jede Menge Spaß und Unterhaltung. Mal trifft Kasper auf einen gefährlichen Drachen, mal auf die Eiskönigin oder pupsende Pferde. Im Dezember wird es mit Geschichten rund um den Schneekönig und die Weihnachtsüberraschung außerdem richtig festlich. Die Vorstellungen finden jeweils zweimal am Nachmittag statt und sind kostenlos.
-  ★ [Mehr Info](https://www.weihnachtsmarkt-stadtgarten.de/kinderprogramm/)
-  … +39 weitere (davon 6 ★), siehe out/quellen/mit-vergnuegen-koeln-familien-events.md
+Neue Zeilen (2, davon 0 ★):
+  bis 18. Dezember, dienstags bis freitags: 16.30 und 17.30 Uhr
+  verschiedene Termine bis 13. Dezember
 
 ### verliebtinkoeln – Wochenendtipps (`verliebtinkoeln-wochenendtipps`)
-Neue Zeilen (13, davon 3 ★):
-  ★ [Nikolausdorf öffnet heute: Ein Weihnachtsmarkt für alle Generationen](https://verliebtinkoeln.com/weihnachtsmarkt-rudolfplatz-koeln/)
-  ★ Anzeige / Vor der historischen Hahnentorburg in Köln beginnt die Weihnachtszeit: Am Montag, 16. November 2026, öffnet das Nikolausdorf am Rudolfplatz. Bis zum 23. Dezember…
-  ★ Anzeige / Vor der historischen Hahnentorburg in Köln beginnt die Weihnachtszeit: Am Montag, 16. November 2026, öffnet das Nikolausdorf am Rudolfplatz. Bis zum…
-  [Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-  Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel lösen kannst. Ich wünsche dir viel Spaß beim Spielen! 11 Fakten zur Geschichte Kölns Römische WurzelnKöln wurde im Jahr…
-  [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 16.11.2026 • 2, 2 Min. Lesedauer
-  … +7 weitere (davon 0 ★), siehe out/quellen/verliebtinkoeln-wochenendtipps.md
+Neue Zeilen (11, davon 0 ★):
+  [Was ist eigentlich aus Küppers Kölsch geworden?](https://verliebtinkoeln.com/kueppers-koelsch-geschichte-brauerei/)
+  Früher gehörte Küppers Kölsch zu den bekanntesten Biermarken in Köln. Zeitweise war Küppers sogar Marktführer und produzierte mehr als eine Million Hektoliter Bier im Jahr. Beim 1. FC Köln war der Schriftzug über viele Jahrzehnte als Werbung im Stadion präsent. Heute ist…
+  [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 17.11.2026 • 5 Min. Lesedauer
+  [1. FC Köln: So blickt Vize Jörg Alvermann auf die aktuelle Saison](https://verliebtinkoeln.com/1-fc-koeln-joerg-alvermann-saison-trainer-wagner/)
+  17.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
+  16.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+  … +5 weitere (davon 0 ★), siehe out/quellen/verliebtinkoeln-wochenendtipps.md
 
-### kinderflohmarkt.com – Köln (`kinderflohmarkt-com-koeln`)
-Neue Termine (2):
-- ★ Sa 21.11.2026 10:00 – Kinderflohmarkt, Kita Krebsweg – Kita Krebsweg, Krebsweg 12, 51427 Bergisch Gladbach – [Details](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/)
-- ★ So 29.11.2026 15:00 – Trödelmarkt und Adventsbazar, Kita Apostelplatz – Kita Apostelplatz, Apostelplatz 2, 40625 Düsseldorf – [Details](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/duesseldorf/kita-apostelplatz-40625-duesseldorf-10588/)
-Neue Zeilen (18, davon 11 ★):
-  ★ 9 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+### Hänneschen – Puppenspiele der Stadt Köln (`haenneschen-puppenspiele-der-stadt-koeln`)
+Neue Zeilen (1, davon 0 ★):
+  Bitte warten Sie, während Ihre Anfrage geprüft wird …
+
+### koeln-interaktiv – Weihnachtsmärkte Köln (`koeln-interaktiv-weihnachtsmaerkte-koeln`)
+Neue Zeilen (3, davon 0 ★):
+  KI-Visualisierung
+  Passend dazu
+  [Hotel in Köln finden Hotels nach Lage und Preis, mit Live-Verfügbarkeit für deinen Reisezeitraum. Hotels vergleichen →](https://koeln-interaktiv.de/hotels/) [Touren & Ausflüge in Köln Rheinschifffahrt, Brauhaus-Tour, Domführung: geprüfte Touren mit Preis und Treffpunkt. Touren ansehen →](https://koeln-interaktiv.de/touren/)
+
+### kinderbasar-online.de – Köln (20 km) (`kinderbasar-online-de-koeln-20-km`)
+Neue Zeilen (5, davon 3 ★):
+  ★ 6 Kinderbasar-Termine im Umkreis von 20 km.
+  ★ [Kinderflohmarkt](https://www.kinderbasar-online.de/Kinderbasar/Termine/Detail/kinderflohmarkt/IdBvHJbn)
   ★ Kita Krebsweg
-  ★ Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, sel..
-  ★ weitere Informationen Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, selbstgemachten Kuchen, Muffins, Würstchen im Brot, leckeren Kafffee uvm.
-  ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/)
-  ★ Trödelmarkt und Adventsbazar
-  ★ Kita Apostelplatz
-  … +11 weitere (davon 4 ★), siehe out/quellen/kinderflohmarkt-com-koeln.md
+  Krebsweg 12, 51427 Bergisch Gladbach
+  Anzeige
 
 ### Lust auf Leverkusen – Familie & Kinder (`lust-auf-leverkusen-familie-kinder`)
-Neue Zeilen (2, davon 0 ★):
-  [Tipps](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/tipps/)
-  [Basteln mit Gaby und Anika](https://lust-auf-leverkusen.de/veranstaltung/basteln-mit-gaby-und-anika/2026-12-02-16-00/)
+Neue Zeilen (11, davon 2 ★):
+  ★ [Umzugsparty. Kinder- und Jugendtreff LA.](https://lust-auf-leverkusen.de/veranstaltung/umzugsparty-kinder-und-jugendtreff-la/)
+  ★ [Kinder- und Jugendtreff "Treff L.A."](https://lust-auf-leverkusen.de/veranstaltungsort/kinder-und-jugendtreff-treff-l-a/)
+  55 kommende Veranstaltungen in dieser Kategorie
+  (55)
+  03
+  [Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel/2026-12-03-16-00/)
+  [Essen & Trinken](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/essen-trinken/)
+  06
+  [Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)
+  15:00 Uhr
+  [Der satanarchäolügenialkohöllische Wunschpunsch](https://lust-auf-leverkusen.de/veranstaltung/der-satanarchaeoluegenialkohoellische-wunschpunsch/)
 
 ### KÄNGURU – Kalender „Für Minis“ (Babys & Kleinkinder) (`kaenguru-kalender-fuer-minis-babys-kleinkinder`)
-Neue Termine (2):
-- ? – Dr. Mama / Dr. Papa – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/dr-mama-dr-papa/2026-11-26)
-- ? – Ohrenschmausen – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25)
-Neue Zeilen (8, davon 4 ★):
-  ★ [Ohrenschmausen](https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25)
-  ★ Musik zum Mitmachen für Eltern mit Kleinstkindern
-  ★ [Dr. Mama / Dr. Papa](https://www.kaenguru-online.de/kalender/fuer-minis/dr-mama-dr-papa/2026-11-26)
-  ★ Elternnachmittag
-  16:00 Uhr
-  Bürgerzentrum Nippes/Altenberger Hof
-  26.11.2026
-  17:30 - 19:30 Uhr
-
-### Hochschule für Musik und Tanz Köln – Veranstaltungen (`hochschule-fuer-musik-und-tanz-koeln-veranstaltung`)
-Neue Zeilen (9, davon 0 ★):
-  [»Herzlich lieb«](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-herzlich-lieb/)
-  Fronleichnamskirche der Ursulinen
-  »Herzlich lieb«
-  [COMBO-DOPPELKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/)
-  COMBO-DOPPELKONZERT
-  [Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-gesangsabend-zum-3-advent-der-klasse-von-prof-viktor-rud/)
-  Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud
-  [Mittagsmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-mittagsmusik/)
-  Mittagsmusik
-
-### Familienhopper – St. Martin Köln (`familienhopper-st-martin-koeln`)
-Neue Zeilen (5, davon 4 ★):
-  ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
-  ★ Aktuell keine passenden Familien-Events St. Martin 2026 in Köln. Schau bei den [anderen Angeboten in Köln](https://familienhopper.de/koeln/) vorbei.
-  ★ [Alle Familien-Events in Köln →](https://familienhopper.de/koeln/)
-  ★ Laterne basteln, Lieder üben und mitziehen: Hier stehen die Martinszüge und Laternenaktionen in Köln rund um den 11. November – jeweils mit Startpunkt, Uhrzeit und Link zur Originalquelle.
-  Über diese Seite
+Neue Termine (1):
+- ? – „Die kleine Eidechse" – Köln – [Details](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
+Neue Zeilen (3, davon 1 ★):
+  ★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
+  Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
+  27.11.2026
 
 ### Rodenkirchen.de – Veranstaltungskalender (Kinder & Familie) (`rodenkirchen-de-veranstaltungskalender-kinder-fami`)
-Neue Zeilen (3, davon 1 ★):
-  ★ [Markt 139](https://www.rodenkirchen.de/kalender/markt) [Kultur 16](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 5](https://www.rodenkirchen.de/kalender/kinder) [Senioren 6](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 7](https://www.rodenkirchen.de/kalender/workshop) [Beratung 3](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 8](htt …
-  Heute, Dienstag, 17. November 2026
+Neue Zeilen (7, davon 2 ★):
+  ★ Kinder · 16:00 Uhr [Vorlesen mit dem Kamishibai – Erzähltheater](https://www.rodenkirchen.de/termin/28-vorlesen-mit-dem-kamishibai-erzaehltheater)
+  ★ [Markt 139](https://www.rodenkirchen.de/kalender/markt) [Kultur 16](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 4](https://www.rodenkirchen.de/kalender/kinder) [Senioren 6](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 7](https://www.rodenkirchen.de/kalender/workshop) [Beratung 3](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 8](htt …
+  Dienstag, 15. Dezember 2026
+  Di 15 Dez.
+  Dienstag, 15. Dezember 2026, Stadtteilbibliothek Rodenkirchen, Schillingsrotter Straße 38 · Rodenkirchen · kostenlos
+  Seit 17. Nov. · letzter Termin
   … +1 weitere (davon 0 ★), siehe out/quellen/rodenkirchen-de-veranstaltungskalender-kinder-fami.md
 
 ### Mülheimer Freiheit – Termine (`muelheimer-freiheit-termine`)
-Neue Zeilen (19, davon 1 ★):
-  ★ Zu Essen gibt es die beliebten Bratäpfel aus Leichlinger Ernte, Gebackenes und Gegrilltes, Punsch und Glühwein. Das Rahmenprogramm wird mit Musikern und Chören und Überraschungen für die Kinder gestaltet. (PR)
-  Gemeindehaus Salzstraße 2d, 51063 Köln (Grafik OSM)
-  [Aktuelle Termine](http://baptisten-koeln.de/termine)
-  [Baptisten Köln-Mülheim](http://baptisten-koeln.de/gemeinde)
-  [Wikipedia](https://de.wikipedia.org/wiki/Baptisten)
-  Ein Buch für Mülheim - Lesung und Meinung
-  Mülheim - Am Freitag, den 27. November 2026 beschäftigen wir uns ab 19:30 Uhr mit dem Buch für die Stadt ["Ein Mann der Kunst“](https://www.amazon.de/Ein-Mann-Kunst-Kristof-Magnusson/dp/3442493366/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3KHE7RG3OVR6X&dib=eyJ2IjoiMSJ9.Wts6YQcluYeD1GsX13mtbe5P7DZDIsrIIvfc3y2QFoAqcqVAk20og3uSESKJXwNqoWWcbeISA488aMs1pmeAupCX7AVWmccqXMMerdcUI6HNf3E9Jk6mwioA6fno-ZSMY6wczAgM5r5-oh6c0G3oDlnyCgb8JDt0Jji1ycURcrDXKpyJoTsuIsyfTTaR4OQ51UzPkQP089ruxZWmeAyc9xtTijWT2fOzVYn9X4lZgwA.n7SHPaly1tNdPnBFBbCPMePXrSt0UVWolj95VvkbIOI&dib_tag=se&keywords=Ein+mann+der+ …
-  … +12 weitere (davon 0 ★), siehe out/quellen/muelheimer-freiheit-termine.md
+Neue Zeilen (7, davon 2 ★):
+  ★ Kinder freuen Sie sich auf die Geschichten vom finnischen Weihnachtsmann, bevor es zum Plätzchenbacken, Nistkastenbau, Basteln und in die Märchenvorstellung geht.
+  ★ Für die Erwachsenen: Vorträge über Natur, Musik, regionale Produkte, wie Holzschnitzer, Safranbasar, Skulpturen und Bilder, Holzkunst, Handarbeiten, Honig, Wildgulasch, Würstchen, Reibekuchen, Kuchen, Kastanien, etc. (PR)
+  Herder-Gymnasium, Kattowitzer Straße 52, 51065 Köln-Buchheim (© Grafik OSM)
+  Waldweihnacht auf Gut Leidenhausen (Gut Leidenhausen 1, 51147 Köln)
+  [Gut Leidenhausen](http://www.gut-leidenhausen.de/)
+  Waldweihnacht Gut Leidenhausen 2026
+  Porz - Am Samstag, den 28., und Sonntag, den 29. November 2026, von 12:00 Uhr bis 19:30 Uhr, ist [Waldweihnacht](https://www.gut-leidenhausen.de/aktuelles/waldweihnacht-2/) auf Gut Leidenhausen. Das Event am ersten Adventswochenende unterscheidet sich wohltuend vom üblichen Weihnachtstrubel.
 
 ### Weisshaus Kino – KidsKino (`weisshaus-kino-kidskino`)
-Neue Zeilen (8, davon 0 ★):
-  [17:10](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FB3581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [19:45](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F80581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
-  [19:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FA0581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-  … +6 weitere (davon 0 ★), siehe out/quellen/weisshaus-kino-kidskino.md
+Neue Zeilen (5, davon 0 ★):
+  [17:15](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FC0581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [19:45](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F81581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
+  [14:50](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FD4581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+  … +3 weitere (davon 0 ★), siehe out/quellen/weisshaus-kino-kidskino.md
 
 ### Eventfrog Köln – Kinder & Familie (`eventfrog-koeln-kinder-familie`)
-Neue Zeilen (5, davon 5 ★):
-  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
-  ★ [Dez 31 Silvester-Krimilichtertour 2026/2027: Der Fluch des Untoten Donnerstag, 31. Dezember, 16:15 Köln Rodenkirchen Maternusplatz / Mitte des Platzes, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/silvester-krimilichtertour-2026-2027-der-fluch-des-untoten-koeln-7528014481219141436.html)
-  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
-  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 305 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
-  … +1 weitere (davon 1 ★), siehe out/quellen/eventfrog-koeln-kinder-familie.md
+Neue Zeilen (4, davon 4 ★):
+  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+  ★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 304 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 
 ### COMEDIA Theater (Kinder- und Jugendtheater) (`comedia-theater`)
-Neue Termine (1):
-- Do 26.11.2026 09:30 – Jugend ohne Gott – Comedia Theater (Grüner Saal), Vondelstraße 4–8, 50677 Köln – 5.00 EUR – [Details](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
-Neue Zeilen (19, davon 0 ★):
-  Lara Ermer: Leicht entflammbar
-  [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
-  Marco Pogo:
-  Lost & Found
-  [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
-  Premiere:
-  Der Zauber von Oz
-  von Sergej Gößner in einer Inszenierung von Manuel Moser
-  [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
-  Titanic
-  Schöne Menschen spielen große Gefühle von Bettina Hamel, Tobias Krechel, Birte Schrein, Stefan A. Schulz, Julia Wieninger
-  [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
-  Lara Ermer
-  Marco Pogo
-  26.11.
-  Do 09:30 Uhr
-  [Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
-  … +2 weitere (davon 0 ★), siehe out/quellen/comedia-theater.md
+Neue Zeilen (1, davon 0 ★):
+  Bitte warten Sie, während Ihre Anfrage geprüft wird …
 
 ### Volksbühne am Rudolfplatz (`volksbuehne-am-rudolfplatz`)
 Neue Zeilen (1, davon 0 ★):
-  [Di. 17.11.26 19.30 Uhr Das 32. Kölner RUDELSINGEN mit Gika Bäumer und Lutz Angermann](https://volksbuehne-rudolfplatz.de/programm/das-32-koelner-rudelsingen-mit-gika-baeumer-und-lutz-angermann-2026-11-17/) [Mi. 18.11.26 19.30 Uhr Joe di Nardo Comedy Al Dente](https://volksbuehne-rudolfplatz.de/programm/joe-di-nardo-comedy-al-dente-2026-11-18/) [Do. 19.11.26 19.00 Uhr Himmel und Kölle Das Comedy-Musical](https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-19/) [Fr. 20.11.26 19.00 Uhr Himmel und Kölle Das Comedy-Musical](https://volksbuehne-rudolfplatz.de/pr …
+  [Mi. 18.11.26 19.30 Uhr Joe di Nardo Comedy Al Dente](https://volksbuehne-rudolfplatz.de/programm/joe-di-nardo-comedy-al-dente-2026-11-18/) [Do. 19.11.26 19.00 Uhr Himmel und Kölle Das Comedy-Musical](https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-19/) [Fr. 20.11.26 19.00 Uhr Himmel und Kölle Das Comedy-Musical](https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-20/) [Sa. 21.11.26 15.00 Uhr Himmel und Kölle Das Comedy-Musical (Nachmittagsveranstaltung)](https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle- …
 
 ### Qultor – Kölner Kulturportal (freie Szene) (`qultor-kinder`)
-Neue Zeilen (7, davon 0 ★):
-  [14+ Premiere Die anderen Anderen - Öteki Ötekiler Eine Theaterperformance über Superdiversität, Zugehörigkeit und die Frage, ob man gemeinsam funktionieren kann, ohne gleich zu werden. 10:00 Uhr Theater KKT Kölner Künstler:innen Theater | Köln Tickets können vor Ort gekauft werden](https://www.qultor.de/veranstaltungen/die-anderen-anderen-oeteki-oetekiler)
-  [Ticketlink](https://k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend)
-  Kabarett A-Z
-  [12+ Heilige Scheine Die neue Komödie! Von und mit Corinne Walter + Frank Zollner 19:30 Uhr Theater Kabarett A-Z | Köln](https://www.qultor.de/veranstaltungen/heilige-scheine)
-  [Ticketlink](https://kabarett-a-z.de/start/karten/)
-  [16+ Nominiert für den Kölner Theaterpreis 2026 Von Caren Jeß: DIE KATZE ELEONORE Inszenierung: S. Rudat Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist. 20:00 Uhr Schauspiel Freies Werkstatt Theater Bühne Kellergeschoss | Köln](https://www.qultor.de/veranstaltungen/die-katze-eleonore)
-  … +1 weitere (davon 0 ★), siehe out/quellen/qultor-kinder.md
+Neue Zeilen (4, davon 0 ★):
+  [14+ Die anderen Anderen - Öteki Ötekiler Eine Theaterperformance über Superdiversität, Zugehörigkeit und die Frage, ob man gemeinsam funktionieren kann, ohne gleich zu werden. 20:00 Uhr Theater KKT Kölner Künstler:innen Theater | Köln ABENDPREMIERE](https://www.qultor.de/veranstaltungen/die-anderen-anderen-oeteki-oetekiler)
+  Lutherkirche Südstadt
+  [JOSÉ FERNÁNDEZ BARDESIO Gitarrenmusik aus zwei Welten Der mehrfach international preisgekrönte, aus Uruguay stammendende Gitarrist spielt gemeinsam mit dem bekannten Komponisten und Gitarristen José Luis Merlin sowohl eigene Kompositionen als auch Musik... 20:00 Uhr Konzert Lutherkirche Südstadt | Köln](https://www.qultor.de/veranstaltungen/jose-fernandez-bardesio)
+  [Ticketlink](https://www.suedstadt-leben-koeln.de/veranstaltungen/jose-fernandez-bardesio-bach-barrios-2/)
 
-### Querwaldein e. V. – Naturerlebnis (`querwaldein`)
-Neue Termine (1):
-- ★ Do 28.01.2027 09:30 – Die GlücksBande – Kinder erleben Nachhaltigkeit – Leverkusen, Naturgut Ophoven, Stauffenbergstr. 17, 51379 Leverkusen – 0 EUR – [Details](https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/)
-Neue Zeilen (6, davon 2 ★):
-  ★ [Die GlücksBande – Kinder erleben Nachhaltigkeit](https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/)
-  ★ [Details](https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/)
-  28. Jan. 2027
-  Leverkusen, Naturgut Ophoven
-  Donnerstag
-  Stauffenbergstr. 17, 51379 Leverkusen
+### Kölner Dommusik (`koelner-dommusik`)
+Neue Zeilen (3, davon 0 ★):
+  [21.11.26 · 20 h · Kölner Dom · Vokalensemble Mozart-Requiem](https://www.koelner-dommusik.de/veranstaltungen/1093) [18.12.2026 · 20 h · Kölner Dom Vorweihnachtliches Orgelkonzert](https://www.koelner-dommusik.de/veranstaltungen/1167)
+  [17.11.2026 Zum Tod von Peter Dicke Zum Tod von Peter Dicke – ein engagierter Wegbereiter der Orgelpädagogik](https://www.koelner-dommusik.de/musikschule/zum-tod-von-peter-dicke-zum-tod-von-peter-dicke-ein-engagierter-wegbereiter-der-orgelpaedagogik)
+  [09.11.2026 Stellenangebot: Mitarbeiter/in Verwaltung & Kommunikation (m, w, d) ab 01.02.2027](https://www.koelner-dommusik.de/choere/stellenangebot-mitarbeiter-in-verwaltung-and-kommunikation-ab-01-02-2027)
 
-### Bürgerzentrum Chorweiler (`buergerzentrum-chorweiler`)
+### Kunstfreunde Köln – Kunst+Kind (`kunstfreunde-koeln-familie`)
 Neue Zeilen (1, davon 0 ★):
-  Nächster Abendfrieden am Sonntag, 6. Dezember 2026 um 17 Uhr
+  Museum Ludwig, Wallraf, Unterwegs
 
 ### Alte Feuerwache (Agnesviertel) (`alte-feuerwache-koeln`)
-Neue Zeilen (1, davon 0 ★):
-  16
+Neue Zeilen (3, davon 0 ★):
+  17
+  [Jugend, Kreatives Töpfer-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/toepfer-angebot/)
+  [Jugend, Kreatives Graffiti-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/graffiti-angebot-2/)
 
 ### Kölner Karneval – Kinderkarneval (`koelner-karneval-kinderkarneval`)
 Neue Zeilen (2, davon 0 ★):
-  [Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 116 Aufrufe • 0 Kommentare
-  116 Aufrufe
+  [Peter Schwegmann](https://www.koelner-karneval.org/author/peter-schwegmann/) • 7. Okt. 2026, 22:27 • aktualisiert am 11. Okt. 2026 • 118 Aufrufe • 0 Kommentare
+  118 Aufrufe
+
+### Museum Ludwig Familienprogramm (`museum-ludwig-familienprogramm`)
+Neue Zeilen (9, davon 9 ★):
+  ★ [Termin speichern](https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen/54259-kunst-kindpicasso-facetten-farben-frauen.ics) [Link kopieren](https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen?tx_news_pi1%5Baction%5D=month&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bnews%5D=1&cHash=2edc3ac16bf083f61fba760af8ecd22c)
+  ★ [Termin speichern](https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen/54980-familienfuehrungen-voller-staunen-familien-mit-kindern-ab-5-jahren-teilnahme-kostenlos.ics) [Link kopieren](https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen?tx_news_pi1%5Baction%5D=month&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bnews%5D=17&cHash=80431485ee1d9276a80b9c5f61560804)
+  … +7 weitere (davon 7 ★), siehe out/quellen/museum-ludwig-familienprogramm.md
 
 ## Unverändert
-freizeitkalender-bezirk-nippes-woechentliches-pdf, programmheft-katholische-familienzentren-koeln-mit, martinszuege-nach-stadtbezirk-koeln-de-stadt-koeln, horizont-theater, ehrenfeldstudios, stadthalle-koeln-muelheim, gut-leidenhausen, krewelshof-lohmar-eifel, haenneschen-puppenspiele-der-stadt-koeln, cassiopeia-buehne-holweide, stadt-koeln-veranstaltungskalender, koeln-interaktiv-weihnachtsmaerkte-koeln, kaenguru-maerkte-kalender-kinderflohmaerkte-basare, kinderbasar-online-de-koeln-20-km, barber-s-puppentheater-fuer-kinder-tourneetheater, theater-im-walzwerk-pulheim-familienprogramm, buergerportal-bergisch-gladbach-kinder-familie, kath-familienzentrum-nippes-bilderstoeckchen-progr, kath-familienzentrum-mauenheim-niehl-weidenpesch, weihnachtsmarkt-stadtgarten-kinderprogramm, disdance-project-tanztheater-fuer-familien-alte-wu, buergerhaus-kalk-programm-fuer-kinder, kaenguru-musik-kalender-kinderkonzerte-musiktheate, foerderverein-kirchenmusik-in-porz-angebote-fuer-k, metropol-theater-koeln, zirkusfabrik-dellbrueck, casamax-theater, kinderoper-koeln, cinenova-kinderkino, koelner-dommusik, kunstfreunde-koeln-familie, koelner-zoo-veranstaltungen, schokoladenmuseum, finkens-garten, wildpark-duennwald, glessener-muehlenhof, bueze-ehrenfeld, lutherkirche-nippes, koeln-deutz-de-events, theater-wolkenstein, museum-ludwig-familienprogramm
+freizeitkalender-bezirk-nippes-woechentliches-pdf, programmheft-katholische-familienzentren-koeln-mit, martinszuege-nach-stadtbezirk-koeln-de-stadt-koeln, koelner-philharmonie-philharmonieveedel-baby-paenz, guerzenich-orchester-angebote-fuer-familien, kkt-koelner-kuenstler-innen-theater, ehrenfeldstudios, stadthalle-koeln-muelheim, tante-astrid-e-v-ehrenfeld, gut-leidenhausen, koeln-de-tageskalender-kinderflohmaerkte, cassiopeia-buehne-holweide, museen-koeln-veranstaltungskalender, stadt-koeln-veranstaltungskalender, kaenguru-maerkte-kalender-kinderflohmaerkte-basare, kinderflohmarkt-com-koeln, barber-s-puppentheater-fuer-kinder-tourneetheater, theater-im-walzwerk-pulheim-familienprogramm, buergerportal-bergisch-gladbach-kinder-familie, kath-familienzentrum-nippes-bilderstoeckchen-progr, kath-familienzentrum-mauenheim-niehl-weidenpesch, weihnachtsmarkt-stadtgarten-kinderprogramm, disdance-project-tanztheater-fuer-familien-alte-wu, familienhopper-st-martin-koeln, kaenguru-musik-kalender-kinderkonzerte-musiktheate, foerderverein-kirchenmusik-in-porz-angebote-fuer-k, metropol-theater-koeln, zirkusfabrik-dellbrueck, casamax-theater, kinderoper-koeln, cinenova-kinderkino, koelner-zoo-veranstaltungen, schokoladenmuseum, finkens-garten, querwaldein, wildpark-duennwald, glessener-muehlenhof, bueze-ehrenfeld, buergerzentrum-chorweiler, lutherkirche-nippes, koeln-deutz-de-events, theater-wolkenstein
 
 ## Fehler, Sperren, Hinweise
 - `rausgegangen-koeln`: skip – robots.txt verbietet den Abruf; wird montags erneut geprüft

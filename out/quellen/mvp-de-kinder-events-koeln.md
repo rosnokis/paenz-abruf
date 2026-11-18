@@ -1,6 +1,7 @@
 # mvp.de – Kinder-Events Köln (mvp-de-kinder-events-koeln)
 
 ## Quelle: https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/
+[Köln Köln](https://www.mvp.de/koeln/)
 Wohin möchtest du?
 Reiseziele werden geladen …
 Filter 1
@@ -53,36 +54,15 @@ Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-[Into it](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
-★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
-Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
-Dienstag, 17. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Into it - performing group - SPIELARTEN
-17.11.2026
-(heute)
-ab
-0 €
-[zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/into-it-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596891)
 ★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ Kinderfreundliches Event
 ★ Kinderoper, KÖLN
 ★ Donnerstag, 19. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
 19.11.26 - 02.01.27
+(morgen)
+ab
 26,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
-freie Objekte in Köln bei casamundo.de
-Deine Reisedaten:
-18.11. bis 22.11.26
-ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-18&checkout=2026-11-22&q=koeln&label=ms4)
-Hier ist noch ein Plätzchen frei
-So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
-aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
-Anzeigen zu einer Pause.
-[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
-Anzeigen finanzieren dieses Portal.
 ★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
 ★ Puppenspiele der Stadt Köln, KÖLN
@@ -90,10 +70,25 @@ Anzeigen finanzieren dieses Portal.
 19.11. bis 20.12.26
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+Anzeige
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+freie Objekte in Köln bei casamundo.de
+Deine Reisedaten:
+19.11. bis 23.11.26
+ändern
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+Hier ist noch ein Plätzchen frei
+So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
+aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
+Anzeigen zu einer Pause.
+[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
+Anzeigen finanzieren dieses Portal.
 [Der Riss](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
+Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
 Donnerstag, 19. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Der Riss - pulk fiktion - SPIELARTEN
 19.11.2026
+0 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596894)
 ★ [Familienworkshop »Im Zauberwald«](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
@@ -102,16 +97,17 @@ Kölner Philharmonie, KÖLN
 21.11.2026
 9 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
+★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
+★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
+Senftöpfchen-Theater, Köln
+★ Sonntag, 22. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
+22.11.26 - 30.01.27
+18,70 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 [Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
 Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
 Regional. Flexibel. Günstig.
 [Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
-★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-Senftöpfchen-Theater, Köln
-★ bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
-22.11.26 - 30.01.27
-18,70 €
-[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
 Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
@@ -306,6 +302,11 @@ Sonntag, 17. Januar 2027 - Theater im Walzwerk - Pulheim - Ein Koffer voll Dornr
 17.01.2027
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/ein-koffer-voll-dornroeschen-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2631688)
+[14. Pfannekuchensitzung - Krickel Krakel Kreideback - Rita + der kleine SCHOSCH](https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/)
+Samstag, 23. Januar 2027 bis Sonntag, 24. Januar 2027 - Bürgerzentrum Nippes- Altenberger Hof - KÖLN - 14. Pfannekuchensitzung - Krickel Krakel Kreideback - Rita +...
+23.01. bis 24.01.27
+16 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege

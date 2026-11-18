@@ -19,15 +19,18 @@ Studenten/Schüler: 15 €, ab 40 Personen 10 €
 Eintrittspreis bei Gastspielen können abweichen
 Keine Kartenzahlung möglich
 Aktuelles
+★ Wir gratulieren unserem Regisseur Rasoul Mohammadi Koussehabad und unseren Schauspielern Martin-Maria Vogel und Mikail Gürbüz für die Nominierung von [Opa Bär und die Menz](https://www.horizont-theater.de/produktionen/opabaer.html) für den 37. Kölner Tanz- und Theaterpreise 2026
 Engagierter Theatermacher der freien Kölner Tanz- und Theaterszene
 Christos Nicopoulos erhält den Kölner Ehrentheaterpreis 2025
 → [Pressemeldung als PDF](https://www.horizont-theater.de/images/ehrentheaterpreis2025.pdf)
 → [Artikel der Kölnische Rundschau von Dierk Himsted (Di, 2.12.2025) als PDF](https://www.horizont-theater.de/images/21225koku.pdf)
-★ Wir gratulieren unserer Schauspielerin, Regisseurin und Geschäftsführerin Alice Janeczek für den Kinder- und Jugendtheaterpreis 2025
 Premieren & Gastspielpremieren
 Uraufführung: ["Der Apfel"](https://www.horizont-theater.de/produktionen/derapfel.html) Mi, 28. Oktober um 20 Uhr
 Gastspiel: ["Kidaš, Irena"](https://www.horizont-theater.de/produktionen/kidasirena.html) So, 20. Dezember um 20 Uhr
 Gastspiel: ["The Messiah"](https://www.horizont-theater.de/produktionen/messiah.html) Mo, 21. Dezember um 20 Uhr
+Gastspiel: ["Nordic AF"](https://www.horizont-theater.de/produktionen/nordicaf.html) So, 17. Januar um 18 Uhr
+PREMIERE: ["Die Räuberh"](https://www.horizont-theater.de/produktionen/dieraeuber.html) Do, 21. Januar um 18 Uhr
+PREMIERE: ["The Messiah"](https://www.horizont-theater.de/produktionen/messiah.html) Sa 23. Januar um 10 Uhr
 [Karten bestellen](https://www.horizont-theater.de/kartenbestellung/karten.html)
 PREMIERE am 28.10.26 um 20 Uhr "Der Apfel"
 [Twitter (öffnet in neuem Fenster)](https://twitter.com/HorizontTheater)

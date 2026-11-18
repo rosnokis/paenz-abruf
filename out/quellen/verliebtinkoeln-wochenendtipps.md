@@ -3,9 +3,13 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Was ist eigentlich aus Küppers Kölsch geworden?](https://verliebtinkoeln.com/kueppers-koelsch-geschichte-brauerei/)
+Früher gehörte Küppers Kölsch zu den bekanntesten Biermarken in Köln. Zeitweise war Küppers sogar Marktführer und produzierte mehr als eine Million Hektoliter Bier im Jahr. Beim 1. FC Köln war der Schriftzug über viele Jahrzehnte als Werbung im Stadion präsent. Heute ist…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 17.11.2026 • 5 Min. Lesedauer
+[1. FC Köln: So blickt Vize Jörg Alvermann auf die aktuelle Saison](https://verliebtinkoeln.com/1-fc-koeln-joerg-alvermann-saison-trainer-wagner/)
+17.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 [Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel lösen kannst. Ich wünsche dir viel Spaß beim Spielen! 11 Fakten zur Geschichte Kölns Römische WurzelnKöln wurde im Jahr…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 16.11.2026 • 2, 2 Min. Lesedauer
+16.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [40km Luftlinie von Köln: Diese Brücke führt seit vier Jahren ins Nichts](https://verliebtinkoeln.com/angerbachtalbruecke-ratingen-a44-bruecke-ins-nichts/)
 16.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 ★ [Nikolausdorf öffnet heute: Ein Weihnachtsmarkt für alle Generationen](https://verliebtinkoeln.com/weihnachtsmarkt-rudolfplatz-koeln/)
@@ -14,15 +18,12 @@ Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos 
 15.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [Was bedeutet das Wort Stippeföttche in Köln?](https://verliebtinkoeln.com/was-bedeutet-das-wort-stippefoettche-in-koeln/)
 15.11.2026 • [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Kölsche Sprache: Weißt du, was diese 11 kölschen Schimpfwörter bedeuten?](https://verliebtinkoeln.com/koelsch-uebersetzer-quiz-weisst-du-was-diese-11-koelschen-schimpfwoerter-bedeuten/)
-15.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Ein Buch über Menschen, die in Köln eine neue Heimat fanden](https://verliebtinkoeln.com/wir-kuckucksbuerger-buch-koeln-sandro-kenda/)
-15.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-Sie ist fast 400 Meter lang, führt über ein Tal und endet auf beiden Seiten im Nichts: Die Angerbachtalbrücke zwischen Ratingen und Heiligenhaus ist eine…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 16.11.2026 • 2 Min. Lesedauer
-★ Anzeige / Vor der historischen Hahnentorburg in Köln beginnt die Weihnachtszeit: Am Montag, 16. November 2026, öffnet das Nikolausdorf am Rudolfplatz. Bis zum 23. Dezember…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 16.11.2026 • 2 Min. Lesedauer
+Beim 1. FC Köln stehen nach neun Spielen neun Punkte auf dem Konto – ein durchwachsener Saisonstart, der im Umfeld des Klubs für Diskussionen sorgt.…
+[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/) • 17.11.2026 • 3 Min. Lesedauer
+Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel lösen kannst.…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 16.11.2026 • 2, 2 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
+Früher gehörte Küppers Kölsch zu den bekanntesten Biermarken in Köln. Zeitweise war Küppers sogar Marktführer und produzierte mehr als eine Million Hektoliter Bier…
 Die Mona Lisa ist eines der berühmtesten Gemälde der Welt und hängt im Pariser Louvre. Doch auch Köln hat seine eigene Mona Lisa.…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 3 Min. Lesedauer
 [Die „Madonna in den Trümmern“ – versteckt in der Kölner Innenstadt](https://verliebtinkoeln.com/madonna-in-den-truemmern-kolumba-koeln/)
@@ -31,9 +32,6 @@ Mitten in der Kölner Innenstadt gibt es eine Kirche, die von außen kaum als so
 [Wie hoch die Miete im alten 4711-Haus in Köln-Ehrenfeld ist](https://verliebtinkoeln.com/wie-hoch-die-miete-im-alten-4711-haus-in-koeln-ehrenfeld-ist/)
 Es ist eines der auffälligsten Gebäude in Köln-Ehrenfeld: das ehemalige 4711-Haus an der Venloer Straße. Noch immer prangt der große 4711-Schriftzug über dem…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 3 Min. Lesedauer
-[Die Heinzelmännchen zu Köln: Der wahre Kern der uralten Sage](https://verliebtinkoeln.com/heinzelmaennchen-koeln-geschichte/)
-Nachts erledigten sie die Arbeit, morgens war alles fertig: Der Sage nach machten die Heinzelmännchen den Kölner Handwerkern das Leben leicht. Bis eine…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 14.11.2026 • 6 Min. Lesedauer
 [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/)
 [11 Dinge, die in Köln ganz anders heißen als im Rest von Deutschland](https://verliebtinkoeln.com/11-koelsche-woerter-bedeutung/)
 Ein Regenschirm ist ein Paraplü, ein Federbett heißt Plümo und wer von einer Mösch spricht, meint einen Spatz. In der kölschen Sprache haben…
@@ -49,6 +47,7 @@ Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stü
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
 ★ Anzeige / Vor der historischen Hahnentorburg in Köln beginnt die Weihnachtszeit: Am Montag, 16. November 2026, öffnet das Nikolausdorf am Rudolfplatz. Bis zum…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 16.11.2026 • 2 Min. Lesedauer
 [Neues Winterdeck auf dem Rhein: Hier gibt es Glühwein mit Domblick – Eintritt frei](https://verliebtinkoeln.com/winterdeck-koeln-duesseldorfer-2026-rhein-gluehwein/)
 Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenheiten und weihnachtliche Musik: In Köln gibt es in diesem Advent einen…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/) • 15.11.2026 • 3 Min. Lesedauer
@@ -62,12 +61,14 @@ Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtku
 Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
 Kölsche Sprache, schönste Sprache. Die kölsche Sprache hat viele Wörter, die Menschen außerhalb Kölns zunächst Rätsel aufgeben. Mit einigen Wörtern ist außerdem eine…
 [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
+[Kölsche Sprache: Weißt du, was diese 11 kölschen Schimpfwörter bedeuten?](https://verliebtinkoeln.com/koelsch-uebersetzer-quiz-weisst-du-was-diese-11-koelschen-schimpfwoerter-bedeuten/)
 Auf Kölsch kann man wunderbar schimpfen. Ob Lötschendötsch, Strunzbüggel oder Bäbbelschnüss: Die kölsche Sprache kennt zahlreiche Schimpfwörter, die manchmal ziemlich derb, oft aber…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
 [Kölsche Sudoku am Sonntag: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-sonntag-hier-kostenlos-am-handy-oder-computer-spielen/)
 Willkommen beim kölschen Sudoku am Sonntag und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 14.11.2026 • 3, 3 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
+Beim 1. FC Köln stehen nach neun Spielen neun Punkte auf dem Konto – ein durchwachsener Saisonstart, der im Umfeld des Klubs für…
 [1. FC Köln nach Leverkusen: „Ich hoffe, dass es dann nicht schon zu spät ist“](https://verliebtinkoeln.com/1-fc-koeln-trainerdiskussion-nach-leverkusen/)
 Nach der Niederlage gegen Bayer Leverkusen wächst beim 1. FC Köln die Unruhe. Der FC steht unmittelbar vor den Abstiegsplätzen, offensiv fehlt die…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 10.11.2026 • 3 Min. Lesedauer
@@ -77,9 +78,6 @@ Ein Punkt in Berlin, ein besonderer Moment für die El-Mala-Brüder – und trot
 [Das sagen Said und Malek El Mala nach ihrem Bruder-Debüt für den 1. FC Köln](https://verliebtinkoeln.com/das-sagen-said-und-malek-el-mala-nach-ihrem-bruder-debuet-fuer-den-1-fc-koeln/)
 Ein gemeinsamer Bundesliga-Einsatz und gleich ein entscheidendes Tor: Malek El Mala hat dem 1. FC Köln beim Auswärtsspiel bei Union Berlin einen Punkt…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 01.11.2026 • 2 Min. Lesedauer
-[„Alles falsch gemacht“: Kritik an René Wagner im FC-Podcast Dreierkette Köln](https://verliebtinkoeln.com/alles-falsch-gemacht-kritik-an-rene-wagner-in-der-fc-podcast-dreierkette-koeln/)
-Die Stimmung beim 1. FC Köln ist nach dem 0:0 gegen den FC Schalke 04 auf dem Tiefpunkt. Der 2:1 Derbysieg gegen Gladbach…
-[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 27.10.2026 • 2 Min. Lesedauer
 [Kölsche Witze](https://verliebtinkoeln.com/category/koeln-witze-koelsche-tuennes-schael-duesseldorf/)
 [Kölsche Witze: Was passiert, wenn ein Kölner 40 Kölsch in 20 Minuten trinken soll?](https://verliebtinkoeln.com/ein-duesseldorfer-wettet-kann-ein-koelner-40-koelsch-in-20-minuten-trinken-witze-op-koelsch/)
 Kommt ein Düsseldorfer in Köln in eine Kneipe und sagt:„Hey, ich hab gehört, ihr Kölner könnt so viel trinken?“ „Ich wette keiner von…

@@ -14,13 +14,6 @@ Leverkusener Jazztage 2026
 Leverkusen - Die Leverkusener Jazztage sind dieses Jahr von Sonntag, den 01. bis Mittwoch, den 25. November 2026. Die Jazztage sind ein international renommiertes Musikfestival und finden seit 1980 jährlich im Herbst statt.
 Das Festival ist eines der größten Jazzereignisse im deutschsprachigen Raum. Die Konzerte verteilen sich auf drei Veranstaltungsorte, das [Forum](https://www.openstreetmap.org/), das [Bayer Erholungshaus](https://www.openstreetmap.org/) und den [Scala Club](https://www.openstreetmap.org/) in Opladen. [(Wikipedia)](http://de.wikipedia.org/wiki/Leverkusener_Jazztage)
 Kommentar: Da sich auch kurzfristige Programmänderungen ergeben können, sollte man nochmal sorgfältig in's Programm schauen, bevor man sich für eine Veranstaltung entscheidet. Viel Vergnügen! (rb/MF)
-Lichtspiele Kalk, Kalk-Mülheimer Straße 130-132, 51103 Köln (Alle Bilder © Lichtspiele Kalk)
-[Lageplan / OSM](http://www.openstreetmap.org/search?query=K%C3%B6ln%2C%20kalk-m%C3%BClheimer%20stra%C3%9Fe%20130)
-[Lichtspiele Kalk](http://www.lichtspiele-kalk.de/)
-Lichtspiele Kalk: Strange Harvest
-Kalk - Am Dienstag, den 17. November 2026 zeigen die Lichtspiele Kalk um 18:00 Uhr den Film [Strange Harvest](https://www.filmstarts.de/kritiken/1000009328.html) in der Originalsprachfassung mit deutschen Untertiteln.
-Das letzte Kino, in dem die Lichter für immer ausgingen, waren 1987 die Corso-Lichtspiele. Zeitweise gab es in dem Stadtteil, vor allem zwischen den Weltkriegen, elf Kinos. Nun knüpfen Jennifer Schlieper und Felix Seifert mit den „Lichtspielen Kalk“ an alte Traditionen an.
-Das Haus an der Kalk-Mülheimer Straße 130-132, in dem von 1947-1974 die Union-Lichtspiele waren, eröffnete am Freitag, den 22.12.17 mit "Star Wars - der letzte Jedi" und einer Grusel-Spätvorstellung den Spielbetrieb. (rb/MF)
 ★ Lesung im Familientreff Klamöttchen, Im Weidenbruch 137, 51061 Köln-Höhenhaus
 [Lageplan / OSM](https://www.openstreetmap.org/)
 ★ [Pfarrgemeinde Heilige Familie](https://www.heilige-familie-koeln.de/kirchorte/einrichtungen/klamoettchen/index.html)
@@ -42,6 +35,13 @@ The Sheepdogs - im Gebäude 9
 Mülheim - Am Mittwoch, den 18. November 2026 tritt "The Sheepdogs" im Gebäude 9 an der Deutz-Mülheimer Straße auf. Einlass ist um 19:00 Uhr, Beginn 20:00 Uhr. Die Halle liegt zwischen Kleinbetrieben und Künstler- Ateliers im KHD-Hallen-Komplex.
 Ein freie Produzenten-Gemeinschaft betreibt die ehemalige Fabrikhalle. Die gliedert sich in den Club (Gastro und Kleinbühne) und die Halle, den eigentlichen Theaterbereich. Das GEBÄUDE 9 ist durch ein vielfältiges Programm weit über Köln hinaus bekannt.
 Die Konzerte sind hauptsächlich im Independent- und Elektronikbereich angesiedelt. Es gibt multimediale Theater- Produktionen, Super-8 und Underground-Filmveranstaltungen und natürlich auch Parties von Drums 'n bass bis Electro. (PR)
+Lichtspiele Kalk, Kalk-Mülheimer Straße 130-132, 51103 Köln (Alle Bilder © Lichtspiele Kalk)
+[Lageplan / OSM](http://www.openstreetmap.org/search?query=K%C3%B6ln%2C%20kalk-m%C3%BClheimer%20stra%C3%9Fe%20130)
+[Lichtspiele Kalk](http://www.lichtspiele-kalk.de/)
+Lichtspiele Kalk: Queens Of The Dead
+Kalk - Am Mittwoch, den 18. November 2026 zeigen die Lichtspiele Kalk um 21:15 Uhr den Film [Queens Of The Dead](https://www.filmstarts.de/kritiken/1000007713.html) in der Originalversion.
+Das letzte Kino, in dem die Lichter für immer ausgingen, waren 1987 die Corso-Lichtspiele. Zeitweise gab es in dem Stadtteil, vor allem zwischen den Weltkriegen, elf Kinos. Nun knüpfen Jennifer Schlieper und Felix Seifert mit den „Lichtspielen Kalk“ an alte Traditionen an.
+Das Haus an der Kalk-Mülheimer Straße 130-132, in dem von 1947-1974 die Union-Lichtspiele waren, eröffnete am Freitag, den 22.12.17 mit "Star Wars - der letzte Jedi" und einer Grusel-Spätvorstellung den Spielbetrieb. (rb/MF)
 Das Lokal hat im Laufe der Zeit deutlich dazu gewonnen. (Wildwechsel, Peter-Baum-Weg 25, 51069 Köln)
 [Lageplan / OSM](http://www.openstreetmap.org/)
 [Wildwechsel](https://www.wildwechsel-koeln.de/)
@@ -49,8 +49,6 @@ Wie angelt man sich einen Millionär? - Livehörspiel mit Musik
 Dünnwald - Am Mittwoch, den 18. November 2026 um 19:30 Uhr, wird es im Restaurant Wildwechsel wieder humorvoll. Geboten wird ein Livehörspiel mit Julia Karl, Rebecca Madita Hundt, Katja Liebing und Jörg Kernbach. Musik: Daniel Sojunow. Der Eintritt ist frei. Um Reservierung wird gebeten.
 Das Restaurant Wildwechsel liegt im Naturschutzgebiet neben [Waldbad und Campingplatz](http://waldbad-camping.de/). Der benachbarte [Wildpark](http://www.wildpark-duennwald.de/), der [Höhenfelder See](https://www.seen.de/hoehenfelder-see/), der Wald und die Freilaufwiese am Gänseweiher locken viele Spaziergänger an.
 Neben der Gastronomie sind ein Boule- und ein Minigolf-Platz. Ungenutzt ist zur Zeit das benachbarte Gelände des ehemaligen Görlinger Bildungszentrums. Das Restaurant hieß früher Delphi, dann Trehörn, seit 2015 heißt es Wildwechsel. (rb/MF)
-Lichtspiele Kalk: Queens Of The Dead
-Kalk - Am Mittwoch, den 18. November 2026 zeigen die Lichtspiele Kalk um 21:15 Uhr den Film [Queens Of The Dead](https://www.filmstarts.de/kritiken/1000007713.html) in der Originalversion.
 Et Kapellche, Holsteinstraße 1, 51065 Köln-Mülheim (Bild BiodanzaMünchenCom)
 [Et Kapellche e.V.](http://etkapellche.de/)
 Biodanza im Kapellche
@@ -216,6 +214,12 @@ Burnhaeart Mockery im Topos
 Leverkusen - Am Freitag den 20. November 2026 ist die Band [Burnhaeart Mockery](https://www.jazz-lev.de/20.11.-26-burnheart-mockery.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
 In unserem Vereinslokal topos bieten wir von Jazz und Blues - Konzerten, Lesungen, Jazzfestivals, Riverboatshuffles, Street Life und dem Leverkusener Kneipenfestival ein vielfältiges Programm an.
 Wir verfolgen auschließlich gemeinnützige Zwecke zur Förderung von Kunst und Kultur, besonders aller live dargestellten Musikrichtungen, um ihren Freunden lebendige Konzerte bieten zu können. (PR)
+Golden Stories im Andreae-Haus, Graf-Adolf-Straße 22, 51065 Köln-Mülheim (Grafik OSM)
+[Evangelische Kirchengemeinde Mülheim am Rhein](https://www.kirche-koeln-muelheim.de/)
+Golden Stories
+Mülheim - Am Freitag, den [20. November 2026](https://www.kirche-koeln-muelheim.de/einladung-golden-stories-freitag-20-11-2026-1930-uhr-veedelskirche-andreae-haus/) um 19:30 Uhr ist das nächste kostenfreie Konzert im Rahmen der Golden Stories im Andreae-Haus: Hello Piedpiper und Jonas Zorn füllen den Raum dann mit Indie- und Folk Musik.
+Die Lehrerin Hannah Wilhelmy veranstaltet seit dem Herbst mit sechs Musikbegeisterten kostenfreie Konzerte in der Veedelskirche. Wilhelmy traf zufällig auf Pfarrer Baer-Henney der evangelischen Kirchengemeinde Mülheim am Rhein.
+Der stellte für die Idee Räumlichkeiten zur Verfügung. Weitere Aktive kamen nach und nach dazu und achten auf eine demokratische Musikauswahl. Für das Jahr 2027 sind weitere Konzerte einmal pro Monat geplant. [(KStA)](https://www.ksta.de/koeln/muelheim/muelheim-veedel/koeln-musikliebende-wollen-goldene-momente-in-muelheim-schaffen-1412475)
 Et Kapellche, Holsteinstraße 1, 51065 Köln-Mülheim (Filmplakat)
 [Et Kapellche e.V.](https://etkapellche.de/)
 The quiet girl - Kino im Kapellche
@@ -226,12 +230,6 @@ Die beliebten Filmabende im Kapellche sind in der Regel an jedem dritten Freitag
 ★ Mülheim - Am Freitag, den 20. November 2026, ist von 16:00 Uhr bis 17:00 Uhr die nächste [Vorlesezeit](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-auf-tuerkisch-6) für Kinder ab 3 Jahren in der Stadtteilbibliothek Köln-Mülheim am Wiener Platz.
 Bekannte Helden wie Findus, Lieselotte und Zilly sind ebenso im Programm wie neue und ungewöhnliche Bilderbücher.
 Bei der gemeinsamen Betrachtung kommen wir ins Gespräch und erleben lustige und spannende Geschichten. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. (Stadtteilbibliothek Mülheim)
-Golden Stories im Andreae-Haus, Graf-Adolf-Straße 22, 51065 Köln-Mülheim (Grafik OSM)
-[Evangelische Kirchengemeinde Mülheim am Rhein](https://www.kirche-koeln-muelheim.de/)
-Golden Stories
-Mülheim - Am Freitag, den [20. November 2026](https://www.kirche-koeln-muelheim.de/einladung-golden-stories-freitag-20-11-2026-1930-uhr-veedelskirche-andreae-haus/) um 19:30 Uhr ist das nächste kostenfreie Konzert im Rahmen der Golden Stories im Andreae-Haus: Hello Piedpiper und Jonas Zorn füllen den Raum dann mit Indie- und Folk Musik.
-Die Lehrerin Hannah Wilhelmy veranstaltet seit dem Herbst mit sechs Musikbegeisterten kostenfreie Konzerte in der Veedelskirche. Wilhelmy traf zufällig auf Pfarrer Baer-Henney der evangelischen Kirchengemeinde Mülheim am Rhein.
-Der stellte für die Idee Räumlichkeiten zur Verfügung. Weitere Aktive kamen nach und nach dazu und achten auf eine demokratische Musikauswahl. Für das Jahr 2027 sind weitere Konzerte einmal pro Monat geplant. [(KStA)](https://www.ksta.de/koeln/muelheim/muelheim-veedel/koeln-musikliebende-wollen-goldene-momente-in-muelheim-schaffen-1412475)
 Händler auf dem Mittelalterlichen Weihnachtsmarkt Siegburg (© Stadtmarketing Siegburg GmbH)
 [Kreisstadt Siegburg](https://siegburg.de/)
 [Mittelalterlicher Markt](https://mittelalterlicher-markt-siegburg.de/)
@@ -500,7 +498,7 @@ Hölderlin-Gymnasium - Tag der offenen Tür 2026
 ★ Mülheim - Wir laden am Samstag, den 28. November 2026 von 09:00 Uhr bis 12:30 Uhr Schüler der 4. Klasse und ihre Eltern zum Tag der Offenen Türe ein.
 Besucht unsere Schnupperstunden, Workshops und Führungen. Die Schule an der Graf-Adolf-Straße, feierte 2012 ihren 100. Geburtstag. Natürlich ist längst die Normalität des 21. Jahrhunderts eingekehrt.
 Die Ausrichtung als Schule mit bilingualem Zweig Englisch zeigte sich auch in der Zusammenarbeit mit der Unternehmensberatung [Frontier Economics Limited](http://www.frontier-economics.com/de/). (rb/MF)
-Herder-Gymnasium, Kattowitzer Straße 52, 51065 Köln-Buchheim (Eigenes Bild)
+Herder-Gymnasium, Kattowitzer Straße 52, 51065 Köln-Buchheim (© Grafik OSM)
 [Herder Gymnasium Köln](http://herder-koeln.de/)
 Herder-Gymnasium - Tag der offenen Tür 2026
 Buchheim - Das Herder-Gymnasium lädt am Samstag, den 28. November 2026 von 09:00 Uhr bis 12:30 Uhr zum "Tag der offenen Tür" ein. Die Schule stellt ihr Schulleben anhand von Interviews, Videos und vielem mehr auf ihrer Homepage vor.
@@ -550,6 +548,12 @@ Adventsmarkt im Kapellche 2026
 Mülheim - Am Samstag, den 28. November und am Sonntag, den 29. November 2026, veranstaltet der Verein Et Kapellche in der Holsteinstraße in Mülheim wieder seinen beliebten Adventsmarkt.
 ★ Freuen Sie sich auf vorweihnachtliche Stimmung und das Rahmenprogramm. Es gibt Handmade Verkaufsstände, Livemusik, Leckereien für Leib und Seele und der Nikolaus kommt mit Kleinigkeiten für die kleinen Besucher.
 Der Adventsmarkt findet im Kapellche, in der Hol steinstraße 1, 51065 Köln-Mülheim statt. Am Samstag ist der Markt von 14:00 - 19:00 Uhr geöffnet und am Sonntag von 12:00 bis 17:00 Uhr. Der Eintritt ist frei. (PR)
+Waldweihnacht auf Gut Leidenhausen (Gut Leidenhausen 1, 51147 Köln)
+[Gut Leidenhausen](http://www.gut-leidenhausen.de/)
+Waldweihnacht Gut Leidenhausen 2026
+Porz - Am Samstag, den 28., und Sonntag, den 29. November 2026, von 12:00 Uhr bis 19:30 Uhr, ist [Waldweihnacht](https://www.gut-leidenhausen.de/aktuelles/waldweihnacht-2/) auf Gut Leidenhausen. Das Event am ersten Adventswochenende unterscheidet sich wohltuend vom üblichen Weihnachtstrubel.
+★ Kinder freuen Sie sich auf die Geschichten vom finnischen Weihnachtsmann, bevor es zum Plätzchenbacken, Nistkastenbau, Basteln und in die Märchenvorstellung geht.
+★ Für die Erwachsenen: Vorträge über Natur, Musik, regionale Produkte, wie Holzschnitzer, Safranbasar, Skulpturen und Bilder, Holzkunst, Handarbeiten, Honig, Wildgulasch, Würstchen, Reibekuchen, Kuchen, Kastanien, etc. (PR)
 Die Kölner Seilbahn (Bild Kölner Seilbahn)
 [Kölner Seilbahn](http://www.koelner-seilbahn.de/german/index.html)
 [Rheinseilbahn / Wikipedia](http://de.wikipedia.org/wiki/Rheinseilbahn_%28K%C3%B6ln%29)

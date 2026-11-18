@@ -16,18 +16,7 @@ SA
 14
 15
 16
-DI 17.11.
-[Frauen, TINAQ+ und Queers Songwriting Workshop 18:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/songwriting-workshop/)
-[Politik & Gesellschaft Fake News Pub Quiz 19:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/fake-news-pub-quiz/)
-[Kultur, Senioren*innen Mikrokosmos – Makrokosmos 19:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/mikrokosmos-makrokosmos/)
-[DI 17.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-34/)
-★ [DI 17.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-4/)
-★ [DI 17.11. Töpfer-Werkstatt 16:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/toepfer-werkstatt-2/)
-[DI 17.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-9/)
-[DI 17.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-13/)
-[DI 17.11. Mosaik-Kurs für Anfänger*innen und Fortgeschrittene 16:30 Mosaik-Werkstatt | Steigeturm](https://altefeuerwachekoeln.de/programm/mosaik-kurs-fuer-anfaengerinnen-und-fortgeschrittene-3/)
-[DI 17.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-5/)
-[DI 17.11. SINGEN1 19:00 Säulenraum | Südtrakt](https://altefeuerwachekoeln.de/programm/singen1-7/)
+17
 MI 18.11.
 [Politik & Gesellschaft Roma-Community verstehen – sicher und respektvoll handeln 10:30 · Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/roma-community-verstehen-sicher-und-respektvoll-handeln/)
 [Kultur Ivana Vukovic & Sebastian Eichmeier: Can You Forgive Me 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/ivana-vukovic-sebastian-eichmeier-can-you-forgive-me/)
@@ -63,6 +52,7 @@ DO 19.11.
 [DO 19.11. ANTONS ERBEN | Improvisationstheater 19:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/antons-erben-improvisationstheater-8/)
 [DO 19.11. Folklore Balkan-Tänze 20:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/folklore-balkan-taenze-8/)
 FR 20.11.
+[Jugend, Kreatives Töpfer-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/toepfer-angebot/)
 [FR 20.11. Psychologische Beratung 09:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-8/)
 [FR 20.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-37/)
 ★ [FR 20.11. Offener Kindertreff 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/offener-kindertreff-3/)
@@ -98,6 +88,7 @@ MO 23.11.
 [MO 23.11. SoLaLa! 19:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/solala-8/)
 [MO 23.11. Chor JJVBB 20:00 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-jjvbb-8/)
 DI 24.11.
+[Jugend, Kreatives Graffiti-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/graffiti-angebot-2/)
 [Frauen, TINAQ+ und Queers 'Let´s learn how to talk about sex' Workshop 18:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/lets-learn-how-to-talk-about-sex-workshop/)
 [DI 24.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-39/)
 ★ [DI 24.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-6/)

@@ -6,6 +6,7 @@ Weihnachtsmärkte in Köln 2026
 Köln hat den seltenen Vorteil, dass sechs große Weihnachtsmärkte so nah beieinander
 liegen, dass ein einziger Tag reicht, um alle zu sehen. Diese Übersicht sortiert sie
 nach Lage, Termin und Charakter, damit klar wird, welcher Markt zu welchem Besuch passt.
+KI-Visualisierung
 Die kurze Antwort
 Erster Markt: Hafen-Weihnachtsmarkt ab 13. November 2026
 Große Innenstadtmärkte: Dom, Neumarkt und Rudolfplatz ab 16. November 2026
@@ -91,3 +92,5 @@ Wie kommt man am besten zu den Weihnachtsmärkten?
 Mit der Bahn. Der Kölner Hauptbahnhof liegt direkt am Dom-Markt, von dort sind Alter Markt und Heumarkt zu Fuß erreichbar. Neumarkt und Rudolfplatz erreicht man mit der Stadtbahn in wenigen Minuten. Wer mit dem Auto kommt, sollte Park-and-Ride nutzen, die Innenstadtgaragen sind an Adventswochenenden früh voll.
 Passend zur Saison
 [Hotels in Köln zum Weihnachtsmarkt →](https://koeln-interaktiv.de/hotels-koeln-weihnachtsmarkt/) [Hotels in Köln zu Silvester →](https://koeln-interaktiv.de/hotels-koeln-silvester/) [Karneval in Köln: Alle Termine 2027 →](https://koeln-interaktiv.de/karneval-koeln-termine/) [Sehenswürdigkeiten in Köln: die Top 20 →](https://koeln-interaktiv.de/sehenswuerdigkeiten/) [Die besten Brauhäuser in Köln →](https://koeln-interaktiv.de/beste-brauhaeuser-koeln/) [Shopping in Köln: die Einkaufsstraßen →](https://koeln-interaktiv.de/shopping-guide-koeln/)
+Passend dazu
+[Hotel in Köln finden Hotels nach Lage und Preis, mit Live-Verfügbarkeit für deinen Reisezeitraum. Hotels vergleichen →](https://koeln-interaktiv.de/hotels/) [Touren & Ausflüge in Köln Rheinschifffahrt, Brauhaus-Tour, Domführung: geprüfte Touren mit Preis und Treffpunkt. Touren ansehen →](https://koeln-interaktiv.de/touren/)

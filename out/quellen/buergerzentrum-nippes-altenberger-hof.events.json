@@ -1,23 +1,5 @@
 [
  {
-  "name": "Forumtheater &#8222;Gemeinsam Haltung zeigen&#8220;",
-  "startDate": "2026-11-17",
-  "endDate": "2026-11-17",
-  "location": {
-   "name": "Feierraum"
-  },
-  "offers": [
-   {
-    "price": "kostenlos",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/forumtheater-gemeinsam-haltung-zeigen/?occurrence=2026-11-17&",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "Kölner Geschichten Haus &#8211; Systemisch",
   "startDate": "2026-11-17",
   "endDate": "2026-11-17",
@@ -87,6 +69,24 @@
   "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&",
   "eventStatus": "EventScheduled",
   "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "LESUNG mit Ulrike Herrmann: Geld als Waffe",
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-24",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "20€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]
