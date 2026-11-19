@@ -6,20 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-18)
-★ Mit Kleinkindern ins Museum Morsbroich
-18.11.2026
-09:30 - 11:00 Uhr
-Museum Schloss Morsbroich
-Leverkusen
-★ [KUNST+KIND: Mit Baby ins Ludwig](https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-ins-ludwig-1/2026-11-18)
-★ Junge Eltern haben die Gelegenheit, den Babyalltag hinter sich zu lassen
-11:00 Uhr
-Freunde des Wallraf-Richartz-Museum und des Museum Ludwig
-Köln
-★ [Kinderwagen-Kino „Der perfekte Urlaub“](https://www.kaenguru-online.de/kalender/fuer-minis/kinderwagen-kino-der-perfekte-urlaub/2026-11-18)
-★ Aktuelle Filme für Eltern mit Baby
-Cinenova
 ★ [Kunst und Kinderwagen](https://www.kaenguru-online.de/kalender/fuer-minis/kunst-und-kinderwagen/2026-11-20)
 ★ Führung für Eltern mit Babys im Museum
 20.11.2026
@@ -31,8 +17,10 @@ Wuppertal
 21.11.2026
 10:00 Uhr
 Horizont Theater
+Köln
 ★ [„Paulina und der Zirkus Papilotte"](https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21)
 ★ Ein Zirkusmärchen für Zuschauer ab 3 Jahren
+11:00 Uhr
 Metropol Theater
 ★ [„Die Schnecke und der Buckelwal"](https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21)
 ★ Aufführung vom Luk Puppentheater für Kinder ab 4 Jahren
@@ -67,7 +55,11 @@ Hier erleben die allerkleinsten Besucher:innen von 0 bis 2 Jahren ihr erstes Kon
 24.11.2026
 Bürgerhaus Kalk
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25)
+★ Mit Kleinkindern ins Museum Morsbroich
 25.11.2026
+09:30 - 11:00 Uhr
+Museum Schloss Morsbroich
+Leverkusen
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25)
 10:30 Uhr
 ★ [Krabbel-Konzert](https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25)
@@ -85,3 +77,8 @@ Bürgerzentrum Nippes/Altenberger Hof
 ★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
 Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
 27.11.2026
+★ [„Die Stoffmarie"](https://www.kaenguru-online.de/kalender/fuer-minis/die-stoffmarie/2026-11-27)
+★ Das Ensemble Nicopoulos spielt für Kinder ab 2 Jahren.
+★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28)
+28.11.2026
+★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-28)

@@ -17,20 +17,7 @@ SA
 15
 16
 17
-MI 18.11.
-[Politik & Gesellschaft Roma-Community verstehen – sicher und respektvoll handeln 10:30 · Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/roma-community-verstehen-sicher-und-respektvoll-handeln/)
-[Kultur Ivana Vukovic & Sebastian Eichmeier: Can You Forgive Me 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/ivana-vukovic-sebastian-eichmeier-can-you-forgive-me/)
-[MI 18.11. Yoga für Frauen - DAKO e.V. 08:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-fuer-frauen-dako-e-v-7/)
-[MI 18.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-35/)
-★ [MI 18.11. Eltern-Kind-Gruppe 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-gruppe-3/)
-[MI 18.11. Seniorinnen-Treff - DAKO e.V. 09:30 Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/seniorinnen-treff-dako-e-v-7/)
-★ [MI 18.11. Sprachförderung 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/sprachfoerderung-4/)
-★ [MI 18.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-5/)
-[MI 18.11. Naehen mit Paula 18:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/naehen-mit-paula-7/)
-[MI 18.11. Aktzeichnen 19:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/akt-zeichnen-4/)
-[MI 18.11. LIVING COLOURS 19:30 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/living-colours-7/)
-[MI 18.11. Anonyme Alkoholiker (Englisch) 20:00 Raum 1 | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-englisch-7/)
-[MI 18.11. CHORILLAS 20:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chorillas-7/)
+18
 DO 19.11.
 [Politik & Gesellschaft, Selbsthilfe, Bildung Spiel- und SprachCafé Konekti 16:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/spiel-und-sprachcafe-konekti-2/)
 [Politik & Gesellschaft, Kreatives Funkraum meets Café Konekti 18:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/funkraum-meets-cafe-konekti/)

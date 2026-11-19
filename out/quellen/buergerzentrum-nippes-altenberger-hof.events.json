@@ -1,23 +1,5 @@
 [
  {
-  "name": "Kölner Geschichten Haus &#8211; Systemisch",
-  "startDate": "2026-11-17",
-  "endDate": "2026-11-17",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "10€/ erm.5€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "Filmabend und Gespräch: „Rosenstraße“",
   "startDate": "2026-11-18",
   "endDate": "2026-11-18",
@@ -87,6 +69,25 @@
   "url": "https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24",
   "eventStatus": "EventScheduled",
   "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "HofKultur goes Christmas &#8211; Wunschbaumaktion 2026",
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-25",
+  "location": {
+   "name": "Innenhof",
+   "address": "Bürgerzentrum Nippes Altenberger Hof"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]

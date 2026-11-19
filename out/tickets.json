@@ -12,6 +12,20 @@
    "s": "verfuegbar",
    "txt": "[Tickets sichern](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)"
   },
+  "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512528862162468940.html": {
+   "art": "ticketliste",
+   "folge": "kein Shop-Link auf der Seite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "unklar",
+   "txt": ""
+  },
+  "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512530867866044697.html": {
+   "art": "ticketliste",
+   "folge": "kein Shop-Link auf der Seite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "unklar",
+   "txt": ""
+  },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -26,7 +40,7 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
@@ -93,7 +107,7 @@
   },
   "https://familienhopper.de/koeln/wochenende/": {
    "art": "detailseite",
-   "geprueft": "2026-11-10T12:39",
+   "geprueft": "2026-11-19T06:52",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
   },
@@ -114,6 +128,12 @@
    "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "[Jetzt Tickets sichern Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)"
+  },
+  "https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-07-11-30/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
   },
   "https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/": {
    "art": "detailseite",
@@ -205,9 +225,15 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
   },
@@ -217,7 +243,7 @@
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
-   "versucht": "2026-11-18T05:35"
+   "versucht": "2026-11-19T06:52"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -240,7 +266,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "unklar",
    "txt": ""
   },
@@ -316,6 +342,12 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/klettercamps/osterferiencamp-im-boulderplanet-koeln-koeln-ehrenfeld/koeln-ehrenfeld) [Jetzt buchen m"
   },
+  "https://www.kindaling.de/malen-basteln/betongiessen-fuer-kinder/frechen": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/93419/bookings/new)"
+  },
   "https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl": {
    "art": "detailseite",
    "geprueft": "2026-11-12T05:26",
@@ -328,6 +360,12 @@
    "s": "verfuegbar",
    "txt": "[Jetzt buchen](https://www.kindaling.de/tickets/95744/bookings/new)"
   },
+  "https://www.kindaling.de/sonstige-veranstaltungen/familiencafe-im-curious-kids/frechen-koenigsdorf": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[0 - 99 J](https://www.kindaling.de/kindergeburtstage/location-fuer-kindergeburtstage-familienfeiern-hochzeiten/frechen) [Jetzt buchen 10 - 99 J](https://www.ki"
+  },
   "https://www.kindaling.de/sport-fuer-muetter-vaeter/mama-fit-full-body-workout/koeln-innenstadt": {
    "art": "detailseite",
    "geprueft": "2026-11-15T05:27",
@@ -337,7 +375,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "unklar",
    "txt": ""
   },
@@ -349,19 +387,19 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -409,7 +447,7 @@
   },
   "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "ausverkauft",
    "txt": "sold out"
   },
@@ -439,7 +477,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-18T05:35",
+   "geprueft": "2026-11-19T06:52",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -466,6 +504,12 @@
    "geprueft": "2026-11-11T06:59",
    "s": "knapp",
    "txt": "Tickets für Führungen buchst du am besten direkt mit deinem Online-Ticket vor deinem Besuch über unseren über unseren Online- [Webshop](https://shop.schokoladen"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-und-bastelspass-13": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/bilderbuchkino-bastelspass-event-5948)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-14": {
    "art": "detailseite",
@@ -515,11 +559,29 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=b%C3%BCcherbande-treff)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/code-and-create-16": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[zur Anmeldung](https://stadt-koeln.easy2book.de/code-create-event-5940)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kreativ-tag-46": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=kreativ-tag)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesehund-albert-4": {
    "art": "detailseite",
    "geprueft": "2026-11-11T06:59",
    "s": "verfuegbar",
    "txt": "[zur Anmeldung](https://stadt-koeln.easy2book.de/lesehund-albert-event-5845)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-553": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=LeseWelten)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesung-mit-agnieszka-lessmann-und-frank-olbert": {
    "art": "detailseite",
@@ -532,6 +594,12 @@
    "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/level-up-event-5945)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-36": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=match%20nach%20mittag)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-44": {
    "art": "detailseite",
@@ -569,6 +637,12 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-50": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=MINT-Vorles)"
+  },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-workshop-am-sonntag-174": {
    "art": "detailseite",
    "geprueft": "2026-11-10T11:01",
@@ -580,6 +654,12 @@
    "geprueft": "2026-11-10T11:01",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/monstermaessige-vorlesezeit-event-5873)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-30": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=spielt)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/parolen-paroli": {
    "art": "detailseite",
@@ -593,6 +673,12 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/schachxperten-event-5934)"
   },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schere-stift-papier-35": {
+   "art": "detailseite",
+   "geprueft": "2026-11-19T06:52",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/schere-stift-papier-event-5979)"
+  },
   "https://zeitfuerzirkus.de/events/greatest-hits/": {
    "art": "detailseite",
    "geprueft": "2026-11-14T05:26",
@@ -600,5 +686,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-18T05:35"
+ "stand": "2026-11-19T06:52"
 }

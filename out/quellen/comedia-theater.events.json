@@ -1,0 +1,325 @@
+[
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-19T11:00:00+01:00",
+  "endDate": "2026-11-19T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der fabelhafte Die",
+  "startDate": "2026-11-19T12:00:00+01:00",
+  "endDate": "2026-11-19T14:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/",
+  "eventStatus": "EventCancelled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-19T19:00:00+01:00",
+  "endDate": "2026-11-19T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventCancelled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-20T11:00:00+01:00",
+  "endDate": "2026-11-20T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Erinnerung eines Mädchens",
+  "startDate": "2026-11-20T19:00:00+01:00",
+  "endDate": "2026-11-20T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Lara Ermer: Leicht entflammbar",
+  "startDate": "2026-11-21T20:30:00+01:00",
+  "endDate": "2026-11-21T22:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Marco Pogo: Lost & Found",
+  "startDate": "2026-11-21T20:31:00+01:00",
+  "endDate": "2026-11-21T22:31:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Studio)",
+   "address": "Vondelstraße 4-8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-22T18:00:00+01:00",
+  "endDate": "2026-11-22T20:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-24T09:00:00+01:00",
+  "endDate": "2026-11-24T11:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-24T11:00:00+01:00",
+  "endDate": "2026-11-24T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Titanic",
+  "startDate": "2026-11-24T19:00:00+01:00",
+  "endDate": "2026-11-24T20:05:00+01:00",
+  "location": {
+   "name": "Halle",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-25T09:00:00+01:00",
+  "endDate": "2026-11-25T11:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventCancelled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-25T11:00:00+01:00",
+  "endDate": "2026-11-25T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Titanic",
+  "startDate": "2026-11-25T19:00:00+01:00",
+  "endDate": "2026-11-25T20:05:00+01:00",
+  "location": {
+   "name": "Halle",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-26T09:00:00+01:00",
+  "endDate": "2026-11-26T11:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventCancelled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Jugend ohne Gott",
+  "startDate": "2026-11-26T09:30:00+01:00",
+  "endDate": "2026-11-26T11:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Der Zauber von Oz",
+  "startDate": "2026-11-26T11:00:00+01:00",
+  "endDate": "2026-11-26T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ }
+]

@@ -11,17 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Umzugscafé",
-  "startDate": "2026-11-18T14:00:00+01:00",
-  "endDate": "2026-11-18T20:00:00+01:00",
-  "location": {
-   "name": "Umzugscafé",
-   "address": "Umzugscafé"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "Stöckchen besetzt - pack mit an!",
   "startDate": "2026-11-19T09:00:00+01:00",
   "endDate": "2026-11-19T16:00:00+01:00",

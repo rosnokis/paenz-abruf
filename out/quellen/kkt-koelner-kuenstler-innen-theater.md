@@ -3,10 +3,11 @@
 ## Quelle: https://www.k-k-t.de
 Herzlich willkommen!
 Liebes Publikum,
-★ wir freuen uns! Am 13. November ist das Festival Zeit für Zirkus bei uns zu Gast. Die Kompanie Silent Shout aus Berlin und das Kölner Duo CHIMERA teilen sich die Bühne für [2 x 2 Zirkus-Kurzstücke](https://k-k-t.de/stuecke/double-bill) und lassen euch staunen. Ein virtuoser Abend für die ganze Familie!
-[Die anderen Anderen/ Öteki Ötekiler](https://k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend) feiert Premiere am 18. November. Drei Jugendliche haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Und sie können sich nicht ausstehen!
+[Die anderen Anderen/ Öteki Ötekiler](https://k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend) feiert Abendpremiere am 20. November. Drei Jugendliche haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Und sie können sich nicht ausstehen! 😠😠😠
 ★ Verpasst nicht unser neues Jugendstück für alle ab 14 Jahre!
-Und nach einer langen Pause machen sich Udine und Paul ab 21. November wieder mutig auf den Weg. Im [Winternachtstraum](https://k-k-t.de/stuecke/winternachtstraum) lösen sie das Rätsel um die Königsgeschwister und wundersame Knollentrolle, Linge und Elfen helfen ihnen dabei.
+Nach einer langen Pause machen sich Udine und Paul ab 21. November wieder mutig auf den Weg. Im [Winternachtstraum](https://k-k-t.de/stuecke/winternachtstraum) lösen sie das Rätsel um die Königsgeschwister und wundersame Knollentrolle 🧌, Linge und Elfen 🧝🏼‍♀️ helfen ihnen dabei.
+Das Stück [THE ME.ECHO](https://k-k-t.de/jungestheater) widmet sich dem Thema Jugendliche und KI – wie echt ist unser Leben?
+★ Eine Coming-of-Age-Geschichte über drei Jugendliche auf der Suche nach sich selbst - zwischen Gaming 🎮, Alltag und einer KI, die ihre Gedanken, Wünsche und Ängste aufnimmt und verstärkt. Für Menschen ab 11 Jahre.
 Weitere Termine für die Spielzeit 26/27 findet ihr in unserem [SPIELPLAN](https://www.k-k-t.de/spielplan).
 Wir freuen uns auf euch! 🧡
 Euer KKT - das Theater der Vielfalt in Ehrenfeld
@@ -22,11 +23,8 @@ Wir werden gefördert von der Stadt Köln
 Unsere nächsten Aufführungen
 Jugendtheater
 [Die anderen Anderen - Öteki Ötekiler](https://www.k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend)
-Zwischen uns. Drei Außenseiter:innen treffen an einem versteckten Ort aufeinander. Sie haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Es gibt einen wichtigen Grund, warum sie hier sind. Und ein wichtiges Problem: Sie können sich nicht ausstehen.
+Drei Fremde treffen auf dem Dach eines Museums aufeinander. Sie haben nichts gemeinsam, außer einem Talent dafür, nicht dazuzugehören. Es gibt einen wichtigen Grund, warum sie hier sind. Und ein großes Problem. Sie können sich nicht ausstehen.
 Nächste Termine
-Mittwoch, 18. November 2026
-10:00 Uhr
-PREMIERE - Tickets können vor Ort gekauft werden
 Freitag, 20. November 2026
 20:00 Uhr
 Abendpremiere
@@ -38,7 +36,9 @@ Samstag, 21. November 2026
 Sonntag, 22. November 2026
 15:00 Uhr
 Dienstag, 24. November 2026
-Bitte vorab reservieren
+10:00 Uhr
+fällt leider aus!
 [THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
 Jugendliche und KI – wie echt ist unser Leben?
 Mittwoch, 25. November 2026
+Bitte vorab reservieren

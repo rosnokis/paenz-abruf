@@ -74,6 +74,15 @@
   "quelle": "https://in-gl.de/event-type/kinder-familie/"
  },
  {
+  "name": "Welche weiterführende Schule passt zu meinem Kind?",
+  "startDate": "2026-11-24T19:00+1:00",
+  "endDate": "2026-11-24T23:50+1:00",
+  "url": "https://in-gl.de/events/welche-weiterfuehrende-schule-passt-zu-meinem-kind/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
   "name": "Eintrittsfreier Museums-Tag für Alle!",
   "startDate": "2026-11-6T11:00+1:00",
   "endDate": "2026-11-6T18:00+1:00",

@@ -40,16 +40,8 @@ Suche
 ★ Mit Baby ins Museum Ludwig
 ★ familie&kunstfreunde
 ★ Wir machen es jungen Eltern und Familien möglich, auch mit Babys und kleinen Kindern ins Museum zu gehen. Man trifft Gleichgesinnte, kann Spannendes über Kunst und Kultur erfahren und sich zugleich mit anderen darüber austauschen. So bieten wir ein gemeinsames Eintauchen in einen besonders schönen Kontext.
-18.11.
-Mi 11:00
-Museum Ludwig
-[Picasso – Facetten, Farben, Frauen](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
-★ [Kunst+Kind. Mit Baby ins Museum Ludwig](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
-Führung
-Pablo Picasso, Nu couche a l’oiseau, (Liegender Akt mit Vogel), 1968, Öl auf Leinwand, 130 x 195 cm, Museum Ludwig, Köln, Inv.-Nr. ML 01422, © VG Bild-Kunst, Bonn 2026, rba_c005108. Das Werk wird Bestandteil der Führung sein.
-Entdeckt die faszinierende Welt Pablo Picassos und die Vielfalt seiner künstlerischen Ausdrucksformen. Gemeinsam folgen wir den Spuren seiner kreativen Entwicklung und den Frauen, die sein Werk geprägt haben.
-[→ Weitere Informationen](https://kunstfreunde.koeln/events/picasso-facetten-farben-frauen/)
 02.12.
+Mi 11:00
 Unterwegs
 [Madonnen, Engel, Christkind – Advent Special](https://kunstfreunde.koeln/events/madonnen-engel-christkind-advent-special/)
 ★ [Kunst+Kind. Mit Baby unterwegs ins Museum Schnütgen](https://kunstfreunde.koeln/events/madonnen-engel-christkind-advent-special/)
@@ -59,8 +51,10 @@ Anbetung der Heiligen Drei Könige, Skulpturen vom Hochaltar des Kölner Doms, u
 → Anmelden
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/madonnen-engel-christkind-advent-special/)
 16.12.
+Museum Ludwig
 [Surrealismus – Traumhaft verrückt](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 ★ [Kunst+Kind. Mit Baby ins Museum Ludwig](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
+Führung
 Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Museum Ludwig, Inv.-Nr. ML 10056, Öl auf Leinwand, 196 x 130 cm. Foto: © VG Bild-Kunst, Bonn 2026. Das Bild wird Bestandteil der Führung sein.
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)

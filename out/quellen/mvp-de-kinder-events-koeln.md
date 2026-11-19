@@ -49,7 +49,7 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 91
+1 - 40 von 92
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
@@ -59,7 +59,7 @@ Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
 ★ Kinderoper, KÖLN
 ★ Donnerstag, 19. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
 19.11.26 - 02.01.27
-(morgen)
+(heute)
 ab
 26,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
@@ -71,12 +71,12 @@ ab
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-20&checkout=2026-11-24&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-19.11. bis 23.11.26
+20.11. bis 24.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-19&checkout=2026-11-23&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-20&checkout=2026-11-24&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere

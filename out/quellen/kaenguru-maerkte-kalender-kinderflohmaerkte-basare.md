@@ -18,11 +18,22 @@ Bonn
 10:00 - 12:30 Uhr
 Gemeindesaal Christ-König Longerich
 Köln
+★ [Flohmarkt im LiZ](https://www.kaenguru-online.de/kalender/maerkte/flohmarkt-im-liz/2026-11-21)
+★ Flohmarkt für Kleidung, Bücher und Kram
+10:00 - 14:00 Uhr
+LiZ am Markt – Lokales Inklusions-Zentrum Sürth
 [Spielzeugbörse](https://www.kaenguru-online.de/kalender/maerkte/spielzeugboerse/2026-11-21)
 Verkauf von Spielzeugwaren und Bücher
 16:00 - 19:00 Uhr
 ★ Kita Heilige Drei Könige Hebborn
 Bergisch Gladbach
+★ [Advents-Flohmarkt rund ums Kind](https://www.kaenguru-online.de/kalender/maerkte/advents-flohmarkt-rund-ums-kind/2026-11-22)
+★ Flohmarkt Rund ums Kind
+22.11.2026
+★ Kita Wolke 7 Kessenich
+[Reparatur-Café](https://www.kaenguru-online.de/kalender/maerkte/reparatur-cafe/2026-11-22)
+Offenes Reparatur-Café mit Unterstützung bei der Reparatur verschiedener Alltagsgegenstände
+11:00 - 15:00 Uhr
 ★ [Kindersachen-Flohmarkt](https://www.kaenguru-online.de/kalender/maerkte/1-kindersachen-flohmarkt/2026-11-28)
 Verkaufen, was das Zeug hält!
 28.11.2026
@@ -35,7 +46,6 @@ Krewelshof Eifel
 Mechernich
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-203/2026-11-28)
 Bunter Marktplatz für kleine und große Schatzjäger
-11:00 - 15:00 Uhr
 GGS Anna-Langohr-Schule Volkhoven
 ★ [Kinderbücherflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderbucherflohmarkt/2026-11-28)
 Lesestoff für gemütliche Wintertage

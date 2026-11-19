@@ -12,7 +12,7 @@ Sing mit!
 Von Musischer Vorschule bis zu Erwachsenenchören: Werde Teil der Kölner Dommusik.
 [Zur Übersicht](https://www.koelner-dommusik.de/sing-mit)
 Aktuelles
-[17.11.2026 Zum Tod von Peter Dicke Zum Tod von Peter Dicke – ein engagierter Wegbereiter der Orgelpädagogik](https://www.koelner-dommusik.de/musikschule/zum-tod-von-peter-dicke-zum-tod-von-peter-dicke-ein-engagierter-wegbereiter-der-orgelpaedagogik)
+[17.11.2026 Zum Tod von Peter Dicke – ein engagierter Wegbereiter der Orgelpädagogik](https://www.koelner-dommusik.de/musikschule/zum-tod-von-peter-dicke-zum-tod-von-peter-dicke-ein-engagierter-wegbereiter-der-orgelpaedagogik)
 [09.11.2026 Stellenangebot: Mitarbeiter/in Verwaltung & Kommunikation (m, w, d) ab 01.02.2027](https://www.koelner-dommusik.de/choere/stellenangebot-mitarbeiter-in-verwaltung-and-kommunikation-ab-01-02-2027)
 [03.11.2026 Stellenangebot: Domorganist/in (m, w, d) an der Hohen Domkirche zu Köln ab 01.09.2027](https://www.koelner-dommusik.de/choere/stellenangebot-domorganist-in-an-der-hohen-domkirche-zu-koeln-ab-01-09-2027)
 [09.10.2026 Konzertreise des Mädchenchores am Kölner Dom nach Flandern 17. bis 25. Oktober 2026](https://www.koelner-dommusik.de/choere/konzertreise-des-maedchenchores-am-koelner-dom-nach-flandern-17-bis-25-oktober-2026)

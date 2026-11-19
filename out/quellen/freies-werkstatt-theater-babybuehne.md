@@ -47,7 +47,7 @@ Fr, 18:00 Uhr
 Fr, 20:00 Uhr
 Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
 Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026
-[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-17&tx_calendarize_calendar%5BstartDate%5D=2026-11-17&cHash=33eb08a840a6b6ca6525b788d538e3db)
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-18&tx_calendarize_calendar%5BstartDate%5D=2026-11-18&cHash=5d71372bceeb1033efe603258d2989a9) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-18&tx_calendarize_calendar%5BstartDate%5D=2026-11-18&cHash=5d71372bceeb1033efe603258d2989a9)
 [Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-20-2000)
 21.11.2026
 Sa, 16:00 Uhr

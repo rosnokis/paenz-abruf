@@ -2,18 +2,15 @@
 
 ## Quelle: https://www.kindaling.de/koeln
 WAS IST LOS IN KÖLN?
-Mittwoch, 18. November
-★ [19:00 Wie schütze ich mein Kind vor Gewalt? online](https://www.kindaling.de/erziehung/wie-schuetze-ich-mein-kind-vor-gewalt-franziska-ziegner/online)
-★ [19:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Donnerstag, 19. November
 ★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 20. November
 ★ [15:00 Baby-Kind-Erste-Hilfe-Seminar Köln Innenstadt](https://www.kindaling.de/sonstige-veranstaltungen/baby-kind-erste-hilfe-seminar/koeln-innenstadt)
 ★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
-[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 Samstag, 21. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
 [10:00 Schule der magischen Tiere Köln Lindenthal](https://www.kindaling.de/schauspiel-theaterkurse/schule-der-magischen-tiere/koeln-lindenthal)
+[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 [13:00 Regelmäßige Naturerlebnisse Köln Sülz](https://www.kindaling.de/natur/regelmaessige-naturerlebnisse/koeln-suelz)
 ★ [15:00 Offene Kinderwerkstatt Brühl](https://www.kindaling.de/kreatives/offene-kinderwerkstatt/bruehl)
 Sonntag, 22. November
@@ -23,16 +20,19 @@ Dienstag, 24. November
 [10:30 Mama Fit: Full-Body-Workout Köln Innenstadt](https://www.kindaling.de/sport-fuer-muetter-vaeter/mama-fit-full-body-workout/koeln-innenstadt)
 Mittwoch, 25. November
 ★ [11:00 Der Wintertroll - Kinderkonzert mit Toni Geiling Köln Kalk](https://www.kindaling.de/kinderkonzerte/der-wintertroll-kinderkonzert-mit-toni-geiling/koeln-kalk)
+★ [19:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Freitag, 27. November
 Samstag, 28. November
-★ [9:00 Erste Hilfe am Säugling und Kind Kurs Köln Innenstadt](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
 ★ [9:00 Kinderflohmarkt auf dem Krewelshof Lohmar](https://www.kindaling.de/flohmaerkte/kinderflohmarkt-auf-dem-krewelshof/lohmar)
+★ [9:00 Erste Hilfe am Säugling und Kind Kurs Köln Innenstadt](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
 [12:00 Christmas Werkstatt Köln Innenstadt](https://www.kindaling.de/kreatives/christmas-werkstatt/koeln-innenstadt)
 ★ [16:00 Pettersson und Findus: Ein Feuerwerk für den Fuchs Köln Ehrenfeld](https://www.kindaling.de/kindertheater-shows/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs-kkt-koelner-kuenstler-innen-theater/koeln-ehrenfeld)
+Sonntag, 29. November
+★ [9:30 Familiencafé im Curious Kids Frechen-Königsdorf](https://www.kindaling.de/sonstige-veranstaltungen/familiencafe-im-curious-kids/frechen-koenigsdorf)
+★ [10:00 Betongießen für Kinder Frechen](https://www.kindaling.de/malen-basteln/betongiessen-fuer-kinder/frechen)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)
-[Jetzt buchen](https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl)
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
 [Jetzt buchen](https://www.kindaling.de/programmiercamps/code-camp-dein-eigenes-spiel-mit-python-alter-12-15-duesseldorf-lohhausen-flughafen/duesseldorf-lohhausen-flughafen)
 ★ [Jetzt buchen](https://www.kindaling.de/kreativcamps/cats-kindermusical-osterferienworkshop/koeln-lindenthal)

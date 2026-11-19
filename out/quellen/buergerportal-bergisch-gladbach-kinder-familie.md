@@ -973,3 +973,4 @@ Vorsortierte Spielzeugbörse.
 ★ [Hebborner Kirchweg 1, Bergisch Gladbach](https://in-gl.de/event-location/kita-heilige-drei-koenige/)
 ★ [Kita Heilige Drei Könige](https://in-gl.de/event-organizer/kita-heilige-drei-koenige/)
 ★ [Kalender](https://in-gl.de/export-events/381860_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Spielzeugb%C3%B6rse&dates=20261121T150000Z/20261121T180000Z&ctz=Europe/Berlin&details=Spielzeugb%C3%B6rse&location=Kita+Heilige+Drei+K%C3%B6nigeHebborner+Kirchweg+1%2C+Bergisch+Gladbach)
+★ [24 Nov 19:00 Welche weiterführende Schule passt zu meinem Kind? Kostenfreier Online-Impulsvortrag](https://in-gl.de/?p=384026)

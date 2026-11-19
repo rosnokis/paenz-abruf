@@ -26,15 +26,10 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Di. 17
-November
-20:00 - 21:20
-Scheune
-[Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&time=1794945600)
-★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&time=1794945600)
 Mi. 18
+November
 19:00 - 21:00
+Scheune
 [Filmabend und Gespräch: „Rosenstraße“](https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18)
 Nippes im Gespräch & die Nippeser Edelweißpiraten präsentieren „Rosenstraße“ (Deutschland Niederlande 2002/2003) Der Film „Rosenstraße“ von Margarethe von Trotta erzählt von einer bis vor wenigen Jahren kaum bekannten Protestaktion gegen die Nationalsozialisten. In der Berliner Rosenstraße waren 1943 während der sogenannten Fabrikaktion u.a. jüdische Männer in das Gebäude der ehemaligen Wohlfahrtsstelle der Jüdischen Gemeinde Berlins eingesperrt worden. […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18)
@@ -44,13 +39,22 @@ Fr. 20
 „ZWISCHEN-T-RÄUME“ ist ein Theaterstück der „Zeitlosen Talente“, einem achtköpfigen Kölner Theaterensemble aus lesbischen, schwulen und trans* Personen jenseits der 60.Mit diesem Stück machen sie die Lebensrealitäten älterer queerer Menschen sichtbar, fördern Verständnis und leisten einen Beitrag zum Abbau von Vorurteilen und Diskriminierung. Gleichzeitig möchten sie den generationsübergreifenden Austausch über queere Lebensgeschichten fördern und die Sichtbarkeit […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
 Mo. 23
+20:00 - 21:20
 [Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
+★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
 Di. 24
 19:30 - 21:00
 [LESUNG mit Ulrike Herrmann: Geld als Waffe](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
 Wie entstehen Kriege? Und wie Frieden? Ulrike Herrmann untersucht in diesem Buch große internationale Konflikte und analysiert, dass die Gründe nicht nur historisch, psychologisch oder politisch sind. Sondern dass oft ökonomische Faktoren ausschlaggebend sind. Sie zeigt am Beispiel Russlands, wie die wirtschaftliche Entwicklung des Landes permanente Kriege auch in Zukunft wahrscheinlich macht. Und sie beschreibt […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
+Mi. 25
+17:00 - 20:00
+Innenhof
+Bürgerzentrum Nippes Altenberger Hof
+[HofKultur goes Christmas – Wunschbaumaktion 2026](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
+★ Bei Dämmerung eröffnen wir im Lichterglanz die Wunschbaumaktion 2026: Nimm dir ein Stern von unserem Baum und erfülle bis zum 10. Dezember einen Wunsch für die Bewohner:innen des Haus Adelheidt.Es erwartet euch ein musikalischer Abend zum winterlich-weihnachtlichen Einstimmen und Mitsingen, u.a. mit dem Kinder & Jugendchor der Jazzhausschule und dem Feierabendchor Nippes.Bei heißem Punsch und […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)
