@@ -488,3 +488,9 @@ quellen:
   url: https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen
   note: Familientage und Familienführungen
   seit: '2026-11-11'
+- id: barnes-crossing-kunstzentrum-wachsfabrik-rodenkirc
+  name: Barnes Crossing – Kunstzentrum Wachsfabrik (Rodenkirchen)
+  group: Musik & Bühne
+  url: https://barnescrossing.de/programm/
+  note: Familientage und Kindertanz im Kunstzentrum Wachsfabrik.
+  seit: '2026-11-19'
