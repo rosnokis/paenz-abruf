@@ -15,8 +15,7 @@ Mai
 Juni
 Juli
 20.11.2026
-20.11.
-2026
+Heute
 Fr., 19:00
 Kölner Philharmonie
 Sinfoniekonzert
@@ -26,6 +25,7 @@ ab 12,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26331&language=de)
 22.11.2026
 22.11.
+2026
 So., 11:00
 Het Concertgebouw
 [Gastspiel Amsterdam](https://www.guerzenich-orchester.de/de/event-detail/gastspiel-amsterdam-november)

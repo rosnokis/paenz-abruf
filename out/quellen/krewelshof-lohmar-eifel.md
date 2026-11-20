@@ -1,7 +1,7 @@
 # Krewelshof (Lohmar/Eifel) (krewelshof-lohmar-eifel)
 
 ## Quelle: https://krewelshof.de
-Krewelshof [admin](https://krewelshof.de/author/entwickler/) 2026-11-17T13:53:23+01:00
+Krewelshof [admin](https://krewelshof.de/author/entwickler/) 2026-11-19T11:57:41+01:00
 natur. genuss. lebenslust.
 Wähle Deinen Standort:
 [Lohmar/Köln](https://krewelshof.de/lohmar)
@@ -14,3 +14,5 @@ Krewelshofer
 Winterhof
 Winterzauber auf dem Krewelshof!
 Wenn der Duft von Glühwein in der Luft liegt und funkelnde Lichter den Hof erhellen, beginnt bei uns die schönste Zeit des Jahres. Freut Euch auf gemütliche Wintermomente, festliche Köstlichkeiten, unsere Eisbahn und jede Menge Winterzauber. Erlebt den Krewelshofer Winterhof ab dem 21. November auf dem Krewelshof Lohmar und auf dem Krewelshof Eifel!
+[Winterhof Eifel](https://krewelshof.de/eifel/termine-events/winterhof/)
+[Winterhof Lohmar](https://krewelshof.de/lohmar/termine-events/winterhof/)

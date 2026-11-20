@@ -2,27 +2,21 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Blechbläserabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-02-2024-blechblaeserabend-2-1-2-2-2/)
-19.11.2026
-19:30
-Uhr
-Konzertsaal Wuppertal
-Wuppertal
-Blechbläserabend
-[Chorkonzert - Chorakademie und Ensemble des WDR Rundfunkchores](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-11-2026-chorkonzert-chorakademie-des-wdr-rundfunkchores-und-ensemble-des-wdr-rundfunkchores/)
-St. Ursula
-Köln
-Chorkonzert - Chorakademie und Ensemble des WDR Rundfunkchores
 [Kontrabassabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-05-2026-kontrabassabend-1/)
 20.11.2026
 19:00
+Uhr
 Konzertsaal
 Aachen
 Kontrabassabend
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Violinabend
 [»Herzlich lieb«](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-herzlich-lieb/)
 Fronleichnamskirche der Ursulinen
+Köln
 »Herzlich lieb«
 [Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-orchesterkonzert-american-rhapsody-1/)
 Orchesterkonzert - Rhapsody in Blue
@@ -62,8 +56,12 @@ Lunchtime-Konzerte in St. Kunibert
 Violoncelloabend
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-violaabend/)
 Violaabend
-[Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
+[Trompetenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-trompetenabend/)
 25.11.2026
+17:30
+Kirche St. Jakob Aachen
+Trompetenabend
+[Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
 18:00
 Ringvorlesung - KANONS IN DER KRISE
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
@@ -107,16 +105,14 @@ Violinenabend
 Big Band Konzert
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-ringvorlesung-kanons-in-der-krise/)
 02.12.2026
-[WDR 3 CAMPUS JAZZ](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-wdr-3-campus-jazz/)
+[WDR 3 Campus Jazz](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-wdr-3-campus-jazz/)
 20:00
 Loft
-WDR 3 CAMPUS JAZZ
+WDR 3 Campus Jazz
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2023-gitarrenabend-1-1-1-1-1-1/)
 03.12.2026
-[Kurtág 100 Játékok - Neue Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-12-2026-kurtag-100-jatekok-neue-musik/)
-Kurtág 100 Játékok - Neue Musik
-[KURTÁG 100](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-12-2026-kurtag-100/)
-KURTÁG 100
+[Kurtág 100](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-12-2026-kurtag-100/)
+Kurtág 100
 [Adventsmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-12-2026-adventsmusik/)
 Ursulinenkirche St. Corpus Christi
 Adventsmusik
@@ -125,20 +121,25 @@ Adventsmusik
 [Arte Mandoline - Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/04-12-2026-arte-mandoline-konzert/)
 04.12.2026
 Arte Mandoline - Konzert
+[Klassenabend Gratowski](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/04-12-2026-klassenabend-gratkowski/)
+JAKI – Klub im Stadtgarten Köln
+Klassenabend Gratowski
 [Winterfest](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/05-12-2026-neue-raeume-fuer-musik-und-tanz/)
 05.12.2026
 14:00
 Konzertsaal Neubau
 Winterfest
+[Winterfest](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2026-winterfest/)
+06.12.2026
 [Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-gesangsabend/)
 07.12.2026
 Gesangsabend
 [Flötenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-floetenabend/)
 Orchesterprobensaal (R. 410)
 Flötenabend
-[COMBO-DOPPELKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/)
+[Combo-Doppelkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/)
 King Georg
-COMBO-DOPPELKONZERT
+Combo-Doppelkonzert
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-lunchtime-konzerte-in-st-kunibert/)
 08.12.2026
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-kammermusikabend/)
@@ -150,8 +151,8 @@ Klassenabend der Posaunenklasse
 09.12.2026
 [Zwischen den Fronten: Hugo Wolf und die Kunst der Originalität](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-12-2026-zwischen-den-fronten-hugo-wolf-und-die-kunst-der-originalitaet/)
 Zwischen den Fronten: Hugo Wolf und die Kunst der Originalität
-[Brahms-Projekt](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-12-2026-brahms-projekt/)
-Brahms-Projekt
+[ZWEI KLANGWELTEN EINES GEDANKENS](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-12-2026-brahms-projekt/)
+ZWEI KLANGWELTEN EINES GEDANKENS
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-12-2026-klavierabend/)
 10.12.2026
 [AIX•TENT 2026](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-12-2026-aixtent-2026/)
@@ -160,6 +161,7 @@ AIX•TENT 2026
 11.12.2026
 [Die Zauberflöte - W. A. Mozart](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-12-2026-die-zauberfloete-w-a-mozart-1/)
 Die Zauberflöte - W. A. Mozart
+[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-12-2026-klavierabend-1/)
 [Cello Matinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-cello-matinee/)
 12.12.2026
 Cello Matinée
@@ -189,6 +191,8 @@ Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud
 WDR3 CAMPUS KONZERT
 [Vortragsabend der Trompetenklasse](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-vortragsabend-der-trompetenklasse/)
 Vortragsabend der Trompetenklasse
+[Jazzlines – Songlines](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-jazzlines-songlines/)
+Jazzlines – Songlines
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-lunchtime-konzerte-in-st-kunibert/)
 15.12.2026
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/27-06-2025-klavierabend-1-2-3/)
@@ -198,6 +202,8 @@ Fagottissimo – Musik aus 4 Jahrhunderten für 2-20 Fagotte
 Fortepiano-Abend
 [SPITZENTÖNE 2026 - AVE MARIA](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-spitzentoene-2026-ave-maria/)
 SPITZENTÖNE 2026 - AVE MARIA
+[TrompetenEcho](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-trompetenecho/)
+TrompetenEcho
 [Weihnachtssingen Vorchor](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-weihnachtssingen-vorchor/)
 16.12.2026
 15:45
@@ -208,22 +214,28 @@ Weihnachtssingen Vorchor
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-ringvorlesung-kanons-in-der-krise/)
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-gitarrenabend/)
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-01-2024-klavierabend-4-1-2-1-2-1/)
-[Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
+[Björk Revisited](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-bjoerk-revisited/)
+Björk Revisited
+[Schulmusik - Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
 17.12.2026
+Schulmusik - Big Band Konzert
 [Heimspiel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-heimspiel/)
 Heimspiel
-[SAXOPHONE SUMMIT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-saxophone-summit/)
-JAKI – Klub im Stadtgarten Köln
-SAXOPHONE SUMMIT
+[Saxophone Summit](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-saxophone-summit/)
+Saxophone Summit
 [Mittagsmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-mittagsmusik/)
 18.12.2026
 Mittagsmusik
 [Weihnachtliches Blechbläserkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2023-weihnachtliches-blechblaeserkonzert-1-1/)
 Weihnachtliches Blechbläserkonzert
+[Kammermusikkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-kammermusikkonzert/)
+Kammermusikkonzert
 [Adventure #17 - Neue Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-adventure-17-neue-musik/)
 Adventure #17 - Neue Musik
 [Violinenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-12-2026-violinenabend/)
 19.12.2026
+[Domstädter](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-12-2026-domstaedter/)
+Domstädter
 [Neue-Musik-Abend 1/2](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-12-2026-neue-musik-abend-1/2/)
 Neue-Musik-Abend 1/2
 [Klarinettenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-12-2026-klarinettenabend/)
@@ -231,9 +243,12 @@ Klarinettenabend
 [Flötenmatinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-2-2-1/)
 20.12.2026
 Flötenmatinée
+[Domstädter](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-12-2026-domstaedter/)
 [Neue-Musik-Abend 2/2](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-12-2026-neue-musik-abend-2/2/)
 21.12.2026
 Neue-Musik-Abend 2/2
+[Guitar Night #3](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-12-2026-guitar-night-3/)
+Guitar Night #3
 [Musik zur Heiligen Nacht](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-12-2026-musik-zur-heiligen-nacht/)
 24.12.2026
 23:59
@@ -343,6 +358,7 @@ Treppenhauskonzert
 [Schlagwerkabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2027-schlagwerkabend/)
 Schlagwerkabend
 [Blechbläserabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-02-2024-blechblaeserabend-2-1-2-2-2-1/)
+Blechbläserabend
 [KOMPASS #10](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2027-kompass-10/)
 KOMPASS #10
 [Klassenabend des Kammerchores](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-01-2027-klassenabend-des-kammerchores/)

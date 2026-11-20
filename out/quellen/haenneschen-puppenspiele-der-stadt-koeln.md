@@ -3,20 +3,18 @@
 ## Quelle: https://www.haenneschen.de/spillplan/programmuebersicht/
 Spillplan
 Wählen Sie einen Monat:
-Do.
-19. Nov. 2026
-Hänneschen Theater | 17:30 Uhr
+Fr.
+20. Nov. 2026
+Hänneschen Theater | 15:00 Uhr, 17:30 Uhr
 E Leech zom Chressfess
 ★ [Kaate](https://www.koelnticket.de/city/koeln-9/venue/puppenspiele-der-stadt-koeln-4881/?affiliate=5HT)
 ★ Ein Weihnachtsmärchen von Heike Huhmann
 [Mehr](https://www.haenneschen.de/spillplan/auffuehrung/e-leech-zom-chressfess/)
-Fr.
-20. Nov. 2026
-Hänneschen Theater | 15:00 Uhr, 17:30 Uhr
 Sa.
 21. Nov. 2026
 Mi.
 25. Nov. 2026
+Do.
 26. Nov. 2026
 27. Nov. 2026
 28. Nov. 2026
@@ -65,6 +63,7 @@ Hänneschen Theater | 16:00 Uhr
 05. Feb. 2027
 06. Feb. 2027
 11. März 2027
+Hänneschen Theater | 17:30 Uhr
 Hännesche un dat Zauberbünnche
 ★ Ein Ostermärchen von Mareike Marx
 [Mehr](https://www.haenneschen.de/spillplan/auffuehrung/hännesche-un-dat-zauberbünnche/)

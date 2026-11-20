@@ -10,12 +10,12 @@ Kinoprogramm
 ★ [→ Zum Kinderprogramm](https://www.cinenova.de/kinderprogramm/)
 Kommende
 Filmstarts
-LIEBLINGSMENSCHEN – 19.11.26
-DER REGENBOGENFISCH – 19.11.26
-LA BOLA NEGRA – 19.11.26
 AUF DER SUCHE NACH DER WEIHNACHTSWERKSTATT – 26.11.26
 FROM INSIDE OUT – 26.11.26
 ZUSAMMEN IST MAN WENIGER GETRENNT – 03.12.26
+YOU CAN SEE EVERYTHING – 03.12.26
+PAPAYAS GROSSE REISE – 03.12.26
+NO GOOD MEN – 10.12.26
 Unsere
 Besonderheiten
 [SURF & OUTDOORFILME](https://www.cinenova.de/surf-outdoor-filme/)

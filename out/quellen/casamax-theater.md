@@ -19,11 +19,11 @@ Eine Forschungsreise für alle Neugierigen und sich Sicheren
 Ein Klimakrise-Recherche-Dokustück für Menschen mit Zukunft
 [Zum gesamten Spielplan](https://www.casamax-theater.de/spielplan/) [Spielplanflyer zum Herunterladen: September - November 2026](https://www.casamax-theater.de/wp-content/uploads/2026/07/casamax_99x210_Ultimo2026_V2.pdf)
 Aktuelles
+★ [Hallenflohmarkt im CASAMAX Theater](https://www.casamax-theater.de/kawumm-faellt-wegen-geringer-nachfrage-heute-aus/)
+Am Samstag, 05. Dezember von 12 Uhr - 16 Uhr!
 [Große Freude: Hille Marks ausgezeichnet mit dem Kölner Ehrentheaterpreis 2026](https://www.casamax-theater.de/66476-2/)
 [DAS CASAMAX Theater schließt. Am 7. November fällt der letzte Vorhang!](https://www.casamax-theater.de/herzlich-willkommen/)
 Es gibt nur noch wenige Möglichkeiten, unsere Stücke zu schauen. Kommt vorbei!
-[Theaterworkshops in den Herbstferien – noch Plätze frei!](https://www.casamax-theater.de/noch-plaetze-frei/)
-Jetzt schnell anmelden!
 ★ [Mein Freund, der Baum, sieht rot – nominiert für den Kölner Kindertheaterpreis 2025!](https://www.casamax-theater.de/fighters-for-future-premiere-am-07-september-16-00-uhr/)
 Große Freude über die Nominierung des neuen Stücks!
 [HEUREKA! gewinnt den goldenen Pinguin 2025!](https://www.casamax-theater.de/nominierung-theaterpreis/)

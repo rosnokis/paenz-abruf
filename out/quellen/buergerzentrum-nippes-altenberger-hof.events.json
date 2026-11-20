@@ -1,23 +1,5 @@
 [
  {
-  "name": "Filmabend und Gespräch: „Rosenstraße“",
-  "startDate": "2026-11-18",
-  "endDate": "2026-11-18",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "Zwischen-T-Räume &#8211; Queeres Theater jenseits der 60",
   "startDate": "2026-11-20",
   "endDate": "2026-11-20",
@@ -88,6 +70,24 @@
   "url": "https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25",
   "eventStatus": "EventScheduled",
   "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein",
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-26",
+  "location": {
+   "name": "Herrenhaus"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]

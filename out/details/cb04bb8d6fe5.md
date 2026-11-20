@@ -1,0 +1,36 @@
+URL: https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk-1/2026-11-20
+ABGERUFEN: 2026-11-20T06:52
+VON: kaenguru-familienmagazin-koeln-bonn
+
+Dies und Das
+HerbstSALE bei Pantine & Spielwerk
+Freitag, 20.11.2026
+10:00 Uhr bis 19:00 Uhr
+zurück zur Übersicht
+© Moisescu Florentina's Images
+Beim gemeinsamen HerbstSALE gibt es 20 Prozent Rabatt auf Kleidung und Schuhe sowie viele weitere Schnäppchen mit bis zu 50 Prozent Preisnachlass. Dazu werden Kaffee und Leckereien angeboten.
+★ Beim gemeinsamen Herbstverkauf können Familien nach reduzierter Kinderkleidung, Schuhen und weiteren Schnäppchen stöbern. Auf Kleidung und Schuhe gibt es 20 Prozent Rabatt, ausgewählte Artikel sind sogar um bis zu 50 Prozent reduziert.
+Neben den Angeboten laden Kaffee und kleine Leckereien zum Verweilen ein. Der Verkauf findet in gemütlicher Atmosphäre statt und bietet Gelegenheit, sich für die kalte Jahreszeit einzudecken.
+Zukünftige Termine:
+21.11.2026,
+10:00 Uhr
+Geeignete Altersgruppe(n):
+★ Baby / Kleinkind
+★ Kita
+Grundschule
+9 - 12 Jahre
+Teenager
+Erwachsene
+★ Familie
+Weiterführender Link:
+Veranstaltungsort
+Spielwerk Ehrenfeld
+Fridolinstr. 70
+50825 Köln
+0221 - 42 34 70 02
+[www.spielwerk-shop.de](http://www.spielwerk-shop.de)
+[Alles von diesem Veranstalter anzeigen](https://www.kaenguru-online.de/veranstalter/spielwerk-ehrenfeld)
+Veranstalter Info
+Veranstalter Informationen
+[Auf Google Maps anzeigen](https://www.google.de/maps?q=Fridolinstr. 70+50825+Köln)
+★ [nächste Veranstaltung Adventsbasar](https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar/2026-11-21)

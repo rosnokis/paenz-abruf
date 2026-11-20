@@ -38,7 +38,6 @@ Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
 19.11.2026
 Do, 10:00 Uhr
 ★ Für Taubes und hörendes Publikum ab 8 Jahren | Die Welt ist kompliziert, hart und schwer. Es ist schwer in ihr jung und leicht zu sein, und noch schwerer in ihr groß und stark zu werden. Doch am schwersten ist es groß zu sein und leicht zu werden. Koproduktion pulk fiktion, FFT Düsseldorf & FWT
-[Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-19-1000)
 20.11.2026
 Fr, 10:00 Uhr
 [Tickets](https://tickets.qultor.de/event/trotzdemtanzen/trotzdemtanzen-2026-11-20-1000)
@@ -47,7 +46,7 @@ Fr, 18:00 Uhr
 Fr, 20:00 Uhr
 Von Caren Jeß. Inszenierung: S. Rudat | Wie radikal müssen wir sein, um wir selbst sein zu können? Immobilienmaklerin Eleonore entdeckt, dass sie eigentlich eine Katze ist.
 Nominiert für den Kölner Theaterpreis 2026. S. Rudat nominiert für den Kölner Darsteller:innenpreis 2026
-[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-18&tx_calendarize_calendar%5BstartDate%5D=2026-11-18&cHash=5d71372bceeb1033efe603258d2989a9) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-18&tx_calendarize_calendar%5BstartDate%5D=2026-11-18&cHash=5d71372bceeb1033efe603258d2989a9)
+[Mit Hörunterstützung](https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-19&tx_calendarize_calendar%5BstartDate%5D=2026-11-19&cHash=0799b0125c134c7f6b7fb63c1f3ff8ea) [Rollstuhlgerecht](https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-19&tx_calendarize_calendar%5BstartDate%5D=2026-11-19&cHash=0799b0125c134c7f6b7fb63c1f3ff8ea)
 [Tickets](https://tickets.qultor.de/event/die-katze-eleonore/die-katze-eleonore-2026-11-20-2000)
 21.11.2026
 Sa, 16:00 Uhr

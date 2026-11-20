@@ -49,54 +49,41 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 92
+1 - 40 von 91
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
-★ Kinderfreundliches Event
-★ Kinderoper, KÖLN
-★ Donnerstag, 19. November 2026 bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
-19.11.26 - 02.01.27
-(heute)
-ab
-26,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
 ★ Puppenspiele der Stadt Köln, KÖLN
 ★ Donnerstag, 19. November 2026 bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech...
-19.11. bis 20.12.26
+20.11. bis 20.12.26
+(heute)
+ab
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+★ [Familienworkshop »Im Zauberwald«](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
+★ Kinderfreundliches Event
+Kölner Philharmonie, KÖLN
+★ Samstag, 21. November 2026 und Samstag, 21. November 2026 - Kölner Philharmonie - Familienworkshop »Im Zauberwald« - Familienworkshop - Im Zauberwald | Kölner...
+21.11.2026
+(morgen)
+9 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-20&checkout=2026-11-24&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-21&checkout=2026-11-25&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-20.11. bis 24.11.26
+21.11. bis 25.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-20&checkout=2026-11-24&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-21&checkout=2026-11-25&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-[Der Riss](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
-★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
-Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal, Pulheim
-Donnerstag, 19. November 2026 - Kultur- und Medienzentrum, Dr.-Hans-Köster-Saal - Pulheim - Der Riss - pulk fiktion - SPIELARTEN
-19.11.2026
-0 €
-[zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/der-riss-kultur-und-medienzentrum-dr-hans-koester-saal-pulheim/)
-[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2596894)
-★ [Familienworkshop »Im Zauberwald«](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
-Kölner Philharmonie, KÖLN
-★ Samstag, 21. November 2026 und Samstag, 21. November 2026 - Kölner Philharmonie - Familienworkshop »Im Zauberwald« - Familienworkshop - Im Zauberwald | Kölner...
-21.11.2026
-9 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Senftöpfchen-Theater, Köln
@@ -104,10 +91,6 @@ Senftöpfchen-Theater, Köln
 22.11.26 - 30.01.27
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
 Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
@@ -116,11 +99,16 @@ Bürgerhaus Kalk, KÖLN
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/22057649/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 [random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
+★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
 Klüngelpütz Kabarett &Theater, Köln
 Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabarett &Theater - Köln - random. Kölner Jugendtheaterpreis 2025 - Kristina Geßner, Olexandra...
 26.11.26 - 09.04.27
 24 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater im Walzwerk, Pulheim
@@ -153,6 +141,12 @@ Sonntag, 29. November 2026 - Kulturkirche Brüggen - KERPEN - Große Musik für 
 7,30 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/grosse-musik-fuer-kleine-ohren-das-schaefchen-und-der-stern-kerpen/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/21939570/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+★ [Der König verschenkt was](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
+★ Kinderoper, KÖLN
+★ bis Samstag, 2. Januar 2027 - Kinderoper - KÖLN - Der König verschenkt was - Der König verschenkt was - Oper Köln
+01.12.26 - 02.01.27
+26,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/der-koenig-verschenkt-was-kinderoper-koeln/)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Comedia - Roter Saal](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-comedia-roter-saal/)
 Comedia - Roter Saal, KÖLN
 ★ Dienstag, 1. Dezember 2026 und Dienstag, 1. Dezember 2026 - Comedia - Roter Saal - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
@@ -307,41 +301,15 @@ Samstag, 23. Januar 2027 bis Sonntag, 24. Januar 2027 - Bürgerzentrum Nippes- A
 23.01. bis 24.01.27
 16 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/14-pfannekuchensitzung-krickel-krakel-kreideback-rita-der/)
+[Oliver Steller mit Thomas Diemer, dem singenden Stehschlagzeuger - Lieder. Geschichten. Zaubereien.](https://www.mvp.de/koeln/veranstaltungen/oliver-steller-mit-thomas-diemer-dem-singenden-stehschlagzeuger/)
+Samstag, 23. Januar 2027 - Senftöpfchen-Theater - Köln - Oliver Steller mit Thomas Diemer, dem singenden Stehschlagzeuger - Lieder. Geschichten. Zaubereien.
+23.01.2027
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/oliver-steller-mit-thomas-diemer-dem-singenden-stehschlagzeuger/)
+[Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2578854)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege
 Kartenauschnitt wurde verändert
-November 2026
-Mo
-Di
-Mi
-Do
-Fr
-Sa
-So
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-Dezember 2026
-31
 Zwecke
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 (633)
@@ -411,3 +379,34 @@ Es werden Werbedienste von Drittanbietern genutzt. Wenn Sie hier zustimmen, werd
 Weitere Informationen
 Drittanbieter
 (737)
+November 2026
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Dezember 2026
+31

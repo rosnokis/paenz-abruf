@@ -41,23 +41,16 @@ Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
 19.11.
-Do 11:00 Uhr
-[Erinnerung eines Mädchens »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
-in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux
-Comedia Theater (Studio)
-[Tickets](https://comedia-koeln.de/schulvorstellungen/)
-Do 12:00 Uhr
-[Der fabelhafte Die »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-fabelhafte-die/)
-von Sergej Gößner
-Comedia Theater (Grüner Saal)
-8+
-Entfällt
 Do 19:00 Uhr
 BINGO
 Bingo & Music Bingo in der HALLE - Eintritt frei!
 [Tickets](https://halle.comedia-koeln.de/)
 20.11.
 Fr 11:00 Uhr
+[Erinnerung eines Mädchens »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
+in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux
+Comedia Theater (Studio)
+[Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Fr 18:00 Uhr
 [Somatic Earthquake - Tanzworkshop »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
 In der 510 Comedia in Köln- Mühlheim
@@ -69,6 +62,7 @@ DJ Session
 Live in der Halle!
 Sa 20:30 Uhr
 [Lara Ermer: Leicht entflammbar »](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
+Comedia Theater (Grüner Saal)
 [Tickets](https://api.qultor.de/lara-ermer-leicht-entflammbar/lara-ermer-leicht-entflammbar-2026-11-21-2000/tickets)
 Sa 20:31 Uhr
 [Marco Pogo: Lost & Found »](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
@@ -91,6 +85,7 @@ Halle
 [Tickets](https://api.qultor.de/titanic/titanic-2026-11-24-1900/tickets)
 25.11.
 Mi 09:00 Uhr
+Entfällt
 Mi 11:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-25-1100/tickets)
 Mi 19:00 Uhr
@@ -101,6 +96,10 @@ Do 09:30 Uhr
 [Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
 in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
 14+
+Do 11:00 Uhr
 [Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
+Do 12:00 Uhr
+27.11.
+Fr 09:00 Uhr
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

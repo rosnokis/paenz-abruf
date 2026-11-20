@@ -26,15 +26,10 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Mi. 18
-November
-19:00 - 21:00
-Scheune
-[Filmabend und Gespräch: „Rosenstraße“](https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18)
-Nippes im Gespräch & die Nippeser Edelweißpiraten präsentieren „Rosenstraße“ (Deutschland Niederlande 2002/2003) Der Film „Rosenstraße“ von Margarethe von Trotta erzählt von einer bis vor wenigen Jahren kaum bekannten Protestaktion gegen die Nationalsozialisten. In der Berliner Rosenstraße waren 1943 während der sogenannten Fabrikaktion u.a. jüdische Männer in das Gebäude der ehemaligen Wohlfahrtsstelle der Jüdischen Gemeinde Berlins eingesperrt worden. […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/filmabend-und-gespraech-rosenstrasse/?occurrence=2026-11-18)
 Fr. 20
+November
 19:00 - 20:30
+Scheune
 [Zwischen-T-Räume – Queeres Theater jenseits der 60](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
 „ZWISCHEN-T-RÄUME“ ist ein Theaterstück der „Zeitlosen Talente“, einem achtköpfigen Kölner Theaterensemble aus lesbischen, schwulen und trans* Personen jenseits der 60.Mit diesem Stück machen sie die Lebensrealitäten älterer queerer Menschen sichtbar, fördern Verständnis und leisten einen Beitrag zum Abbau von Vorurteilen und Diskriminierung. Gleichzeitig möchten sie den generationsübergreifenden Austausch über queere Lebensgeschichten fördern und die Sichtbarkeit […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
@@ -55,6 +50,12 @@ Bürgerzentrum Nippes Altenberger Hof
 [HofKultur goes Christmas – Wunschbaumaktion 2026](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
 ★ Bei Dämmerung eröffnen wir im Lichterglanz die Wunschbaumaktion 2026: Nimm dir ein Stern von unserem Baum und erfülle bis zum 10. Dezember einen Wunsch für die Bewohner:innen des Haus Adelheidt.Es erwartet euch ein musikalischer Abend zum winterlich-weihnachtlichen Einstimmen und Mitsingen, u.a. mit dem Kinder & Jugendchor der Jazzhausschule und dem Feierabendchor Nippes.Bei heißem Punsch und […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
+Do. 26
+10:00 - 12:00
+Herrenhaus
+[„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
+Sie möchten neue Kontakte in Ihrem Viertel knüpfen, Ihren Ruhestand aktiv gestalten, Informationen und Angebote für unsere Generation erhalten? Dann kommen Sie zum Kennenlernen zu unserem „Offenen Treff“. Eine Anmeldung ist notwendig. Mail: [E-Mail] oder Tel.: 0157 – 55718091 Neuinteressierte begrüßen wir ab 09:45 Uhr im Foyer für eine Vorabinformation.Beim „Offenen Treff“ frühstücken wir gemeinsam, […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)
@@ -135,9 +136,10 @@ Krankenkassen zertifiziert
 Uhrzeit: 16.00 – 17.00 Uhr
 Klangkörperchen
 Viola Wertgé-Löhr, 0163/ 4412497
-[www.klangkörperchen.de](http://www.klangkörperchen.de)
+Anmeldung: [www.klangkörperchen.de](http://www.klangkörperchen.de)
 ★ Ort: Altenberger Hof, Eltern-Kind-Bereich
-Neuer Kursstart ab 04.11.2026- 09.12.2026 – 6 Termine
+Aktueller Kurs 04.11.2026- 09.12.2026 – 6 Termine (Einstieg noch möglich)
+Neuer Kursblock Januar 2027 ab 13.01.2027 – 10.03.2027 – 8 Termine
 ★ Musikgarten für Babys 3 – 09 Monate
 Uhrzeit: 13.30 – 14.15 Uhr
 ★ Musikgarten für Babys 8 – 12 Monate
@@ -147,7 +149,7 @@ Uhrzeit: 15.15 – 16.00 Uhr
 ★ Musikzwerge Kleinkinder 21 Monate – 3 Jahre
 Uhrzeit: 16.00 – 16.45 Uhr
 ★ Ayurvedische Babymassage
-(Neuer Kursblock ab 04.11.26-02.12.26 – 5 Termine))
+13.01.2027 – 03.02.2027 – 4 Termine
 ab der 6. Woche- ca. 5 Monate
 Uhrzeit: 12.00 – 13.00 Uhr
 Donnerstag
@@ -176,16 +178,10 @@ Natalie Heubach
 ★ Uhrzeiten: 15:30 – 16:20 Uhr (2 – 3 Jahre)
 ★ 16:30 – 17:30 Uhr (4 – 5 Jahre)
 Uhrzeit: 17:30 – 19:30 Uhr
-Sonstiges
-Englisch-Tagescamp in Köln-Nippes – Frühlings- und Herbstferien
-★ Einwöchiges Feriencamp für Kinder von 5-12 J.
-Camp-Termine 2026
-Osterferien: 30. März – 02. April 2026 und 07. April – 10. April 2026
-Herbstferien: 26. Oktober – 30. Oktober 2026
-Uhrzeit: 9:00–17:00 Uhr
-Veranstalter: Kids Camp America
-E-Mail: [E-Mail]
-[www.kidscampamerica.com](http://www.kidscampamerica.com)
-Telefon: (069) 20023071
-Mobil: 0151 / 214 420 41
-Ort: Altenberger Hof, Seminarraum 1
+Samstag
+Capoeira
+★ ab 16 Jahre
+Andarilhos Capoeira e.V.
+Silvia Fehr, Mobil: 0163/ 3018628
+[www.andarilhoscapoeira.de](https://www.andarilhoscapoeira.de)
+Uhrzeiten: 10:00 – 11:30 Uhr

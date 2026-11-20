@@ -9,6 +9,8 @@ Gertrudenhof
 Lichterglanz & Winterzauber ✨🎅
 im Gertrudenhof Weihnachtspark vom 19.11.26 – 3.01.27
 [Tickets sichern →](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets)
+Winterzauber für dein Zuhause✨🎅
+Bio Weihnachtsbaumverkauf vom 19.11.26 – 3.01.27
 Willkommen auf dem Gertrudenhof
 Weihnachtspark
 2026
@@ -22,9 +24,9 @@ vorbestellen
 Weihnachtsbaum
 Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
-Donnerstag, 19.11.2026
+Freitag, 20.11.2026
 Erlebnisgelände
-10.00 – 19.00 Uhr
+10.00 – 21.00 Uhr
 Bauernmarktgelände
 9.30 Uhr – 18.30 Uhr
 Erlebnis-Gelände auf dem Gertrudenhof

@@ -3,28 +3,30 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Köln dieses Wochenende: 24 Tipps für den 20. bis 22. November](https://verliebtinkoeln.com/koeln-wochenende-20-22-november-2026/)
+★ Was ist am Wochenende in Köln los? Vom 20. bis 22. November 2026 stehen Weihnachtsmärkte, Konzerte, Angebote für Familien, Ausflüge und mehrere Heimspiele auf dem Programm. Wir haben 24 Tipps für Köln und das Umland zusammengestellt. Wichtig für die Planung: Am Sonntag,…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 19.11.2026 • 7 Min. Lesedauer
+[7 Toiletten am Kölner Hauptbahnhof, die jeder nutzen kann – viele sind kostenlos](https://verliebtinkoeln.com/toiletten-koeln-hauptbahnhof-kostenlos/)
+19.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
+[Erkennst du 7 Kölner Legenden an nur drei Hinweisen? Mach den Test](https://verliebtinkoeln.com/koelner-legenden-quiz/)
+19.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [So sah das alte Eis- und Schwimmstadion an der Lentstraße aus](https://verliebtinkoeln.com/eis-und-schwimmstadion-koeln-lentstrasse/)
-Es war ein Ort, an dem Kölner Geschichte geschrieben wurde – sportlich, emotional, architektonisch: Das Eis- und Schwimmstadion an der Lentstraße, eröffnet 1936, gehörte jahrzehntelang fest zum Stadtbild im Kölner Grüngürtel. Hier sind Generationen von Kölner im Sommer im Freibad gewesen und…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 18.11.2026 • 3 Min. Lesedauer
+18.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
 [Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
 18.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Was ist eigentlich aus Küppers Kölsch geworden?](https://verliebtinkoeln.com/kueppers-koelsch-geschichte-brauerei/)
 17.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [1. FC Köln: So blickt Vize Jörg Alvermann auf die aktuelle Saison](https://verliebtinkoeln.com/1-fc-koeln-joerg-alvermann-saison-trainer-wagner/)
 17.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
-[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-16.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[40km Luftlinie von Köln: Diese Brücke führt seit vier Jahren ins Nichts](https://verliebtinkoeln.com/angerbachtalbruecke-ratingen-a44-bruecke-ins-nichts/)
-16.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-★ [Nikolausdorf am Rudolfplatz: Ein Weihnachtsmarkt für alle Generationen](https://verliebtinkoeln.com/weihnachtsmarkt-rudolfplatz-koeln/)
-16.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
-Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 18.11.2026 • 2, 2, 2 Min. Lesedauer
-Früher gehörte Küppers Kölsch zu den bekanntesten Biermarken in Köln. Zeitweise war Küppers sogar Marktführer und produzierte mehr als eine Million Hektoliter Bier im Jahr.…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 17.11.2026 • 5 Min. Lesedauer
+Wer am Kölner Hauptbahnhof auf die Toilette muss, nutzt meist das WC direkt im Bahnhof. Dort kostet ein Toilettengang mittlerweile 1,50 Euro. Was viele nicht…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 19.11.2026 • 3 Min. Lesedauer
+Köln hat viele Persönlichkeiten hervorgebracht, die weit über die Stadtgrenzen hinaus bekannt geworden sind. Sänger, Schauspieler, Komiker und Schriftsteller, die bis heute mit der Stadt…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 19.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
 Es war ein Ort, an dem Kölner Geschichte geschrieben wurde – sportlich, emotional, architektonisch: Das Eis- und Schwimmstadion an der Lentstraße, eröffnet 1936,…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 18.11.2026 • 3 Min. Lesedauer
 Früher gehörte Küppers Kölsch zu den bekanntesten Biermarken in Köln. Zeitweise war Küppers sogar Marktführer und produzierte mehr als eine Million Hektoliter Bier…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 17.11.2026 • 4 Min. Lesedauer
 [Im Kunsthaus Lempertz: Kölsche Mona Lisa wird versteigert](https://verliebtinkoeln.com/koelsche-mona-lisa-lempertz-koeln-versteigerung/)
 Die Mona Lisa ist eines der berühmtesten Gemälde der Welt und hängt im Pariser Louvre. Doch auch Köln hat seine eigene Mona Lisa.…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 15.11.2026 • 3 Min. Lesedauer
@@ -45,6 +47,8 @@ Wenn die Tage kälter werden, kommt auch wieder die Zeit der Frostbeulen. Kalte 
 Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stück Prummetaat. An Latein denken dabei wohl die wenigsten. Dabei reicht die…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
+★ Was ist am Wochenende in Köln los? Vom 20. bis 22. November 2026 stehen Weihnachtsmärkte, Konzerte, Angebote für Familien, Ausflüge und mehrere Heimspiele…
+★ [Nikolausdorf am Rudolfplatz: Ein Weihnachtsmarkt für alle Generationen](https://verliebtinkoeln.com/weihnachtsmarkt-rudolfplatz-koeln/)
 ★ Anzeige / Vor der historischen Hahnentorburg in Köln beginnt die Weihnachtszeit: Am Montag, 16. November 2026, öffnet das Nikolausdorf am Rudolfplatz. Bis zum…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 16.11.2026 • 2 Min. Lesedauer
 [Neues Winterdeck auf dem Rhein: Hier gibt es Glühwein mit Domblick – Eintritt frei](https://verliebtinkoeln.com/winterdeck-koeln-duesseldorfer-2026-rhein-gluehwein/)
@@ -53,19 +57,16 @@ Anzeige / Ein Glühwein mit Blick auf den Kölner Dom, gemütliche Sitzgelegenhe
 [Dieses Stahlwerk eine Stunde von Köln ist jetzt ein Erlebnispark](https://verliebtinkoeln.com/landschaftspark-duisburg-nord-stahlwerk-erlebnispark/)
 Wo früher Arbeiter bei Temperaturen von rund 2000 Grad Roheisen produzierten, können Besucher heute auf einen Hochofen steigen, in einem Gasometer tauchen und…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 13.11.2026 • 4 Min. Lesedauer
-[Köln dieses Wochenende: Die große Übersicht mit allen Tipps](https://verliebtinkoeln.com/koeln-wochenende-13-15-november-2026/)
-Was ist am Wochenende in Köln los? Vom 13. bis 15. November 2026 stehen Lichtkunst, die ersten Weihnachtsmärkte, Konzerte, Ausstellungen und ein Heimspiel…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 12.11.2026 • 7 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Köln hat viele Persönlichkeiten hervorgebracht, die weit über die Stadtgrenzen hinaus bekannt geworden sind. Sänger, Schauspieler, Komiker und Schriftsteller, die bis heute mit…
 Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 18.11.2026 • 2, 2, 2 Min. Lesedauer
+[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
 Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 16.11.2026 • 2, 2 Min. Lesedauer
 [Was bedeutet das Wort Stippeföttche in Köln?](https://verliebtinkoeln.com/was-bedeutet-das-wort-stippefoettche-in-koeln/)
 Kölsche Sprache, schönste Sprache. Die kölsche Sprache hat viele Wörter, die Menschen außerhalb Kölns zunächst Rätsel aufgeben. Mit einigen Wörtern ist außerdem eine…
 [Karneval in Köln](https://verliebtinkoeln.com/category/karneval-in-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
-[Kölsche Sprache: Weißt du, was diese 11 kölschen Schimpfwörter bedeuten?](https://verliebtinkoeln.com/koelsch-uebersetzer-quiz-weisst-du-was-diese-11-koelschen-schimpfwoerter-bedeuten/)
-Auf Kölsch kann man wunderbar schimpfen. Ob Lötschendötsch, Strunzbüggel oder Bäbbelschnüss: Die kölsche Sprache kennt zahlreiche Schimpfwörter, die manchmal ziemlich derb, oft aber…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 15.11.2026 • 2 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 Beim 1. FC Köln stehen nach neun Spielen neun Punkte auf dem Konto – ein durchwachsener Saisonstart, der im Umfeld des Klubs für…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/) • 17.11.2026 • 3 Min. Lesedauer

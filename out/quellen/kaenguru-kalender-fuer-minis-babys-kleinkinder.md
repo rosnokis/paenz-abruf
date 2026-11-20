@@ -25,13 +25,16 @@ Metropol Theater
 ★ [„Die Schnecke und der Buckelwal"](https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21)
 ★ Aufführung vom Luk Puppentheater für Kinder ab 4 Jahren
 Studio11
+★ [Familientag bei Barnes Crossing](https://www.kaenguru-online.de/kalender/fuer-minis/familientag-bei-barnes-crossing/2026-11-21)
+★ Familientag mit Theater, Tanzworkshop und Kamishibai-Lesung für Kinder ab 3 Jahren
+14:00 - 16:00 Uhr
+Theater Wolkenstein bei Barnes Crossing
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21)
 ★ Lustiges Abenteuer für Theaterstarter ab 3 Jahren und ihre Eltern
 15:00 Uhr
 Cassiopeia Bühne
 ★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch/2026-11-21)
 ★ Eine Entdeckungsreise für Kinder ab 2 Jahren vom Wolkenstein Theater
-Theater Wolkenstein bei Barnes Crossing
 ★ [MiniMax: Wunderwald](https://www.kaenguru-online.de/kalender/fuer-minis/minimax-wunderwald/2026-11-22)
 ★ Familienworkshop für Kinder ab 3 Jahren
 22.11.2026
@@ -81,4 +84,3 @@ Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transpor
 ★ Das Ensemble Nicopoulos spielt für Kinder ab 2 Jahren.
 ★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28)
 28.11.2026
-★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-28)

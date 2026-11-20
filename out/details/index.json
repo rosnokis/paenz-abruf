@@ -29,6 +29,12 @@
   "von": "muelheimer-freiheit-termine",
   "zeilen": 22
  },
+ "http://www.klangkörperchen.de": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/2afc6f4a804f.md",
+  "von": "buergerzentrum-nippes-altenberger-hof",
+  "zeilen": 58
+ },
  "http://www.koelner-obdachlosen-fruehstueck.de/": {
   "abgerufen": "2026-11-13T05:26",
   "datei": "out/details/7490049c9c8e.md",
@@ -147,6 +153,18 @@
   "von": "buergerzentrum-nippes-altenberger-hof",
   "zeilen": 19
  },
+ "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/35a36a7282e0.md",
+  "von": "buergerzentrum-nippes-altenberger-hof",
+  "zeilen": 23
+ },
+ "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/f2a0c0e70fdd.md",
+  "von": "buergerzentrum-nippes-altenberger-hof",
+  "zeilen": 23
+ },
  "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-17&": {
   "abgerufen": "2026-11-16T05:26",
   "datei": "out/details/6c98819ae27c.md",
@@ -253,6 +271,12 @@
   "von": "eventfrog-koeln-kinder-familie",
   "zeilen": 63
  },
+ "https://eventfrog.de/de/p/gruppen/circus-charles-monroe-im-glanz-der-weihnachtszeit-7525991049405145911.html": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/27509426e0cd.md",
+  "von": "tickets.yml",
+  "zeilen": 137
+ },
  "https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html": {
   "abgerufen": "2026-11-17T05:26",
   "datei": "out/details/522ae5aabab6.md",
@@ -266,13 +290,13 @@
   "zeilen": 157
  },
  "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512528862162468940.html": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/a056597bf3a8.md",
   "von": "tickets.yml",
   "zeilen": 45
  },
  "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512530867866044697.html": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/1ce992b9dc84.md",
   "von": "tickets.yml",
   "zeilen": 45
@@ -282,6 +306,12 @@
   "datei": "out/details/97721e72d76e.md",
   "von": "eventfrog-koeln-kinder-familie",
   "zeilen": 37
+ },
+ "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/klamauk-kinder-und-jugendzirkus-koeln-7435670043994649978.html": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/cced4b253c32.md",
+  "von": "tickets.yml",
+  "zeilen": 43
  },
  "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html": {
   "abgerufen": "2026-11-12T05:26",
@@ -296,7 +326,7 @@
   "zeilen": 36
  },
  "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/76b7ab8ebb92.md",
   "von": "tickets.yml",
   "zeilen": 38
@@ -361,6 +391,12 @@
   "von": "familienhopper-koeln",
   "zeilen": 18
  },
+ "https://familienhopper.de/events/e-leech-zom-chressfess-koeln-2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/a68f8cbc084b.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 18
+ },
  "https://familienhopper.de/events/ehrenfelder-weihnachtsmarkt-im-bumann-sohn-koeln-2026-11-12": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/812bdfc00ef9.md",
@@ -402,6 +438,12 @@
   "datei": "out/details/84f94a43e597.md",
   "von": "familienhopper-koeln",
   "zeilen": 23
+ },
+ "https://familienhopper.de/events/figurentheater-kuckuck-und-esel-von-theater-rosenfisch-im-bumann-sohn-koeln-2026-11-22": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/99429c2249ad.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 17
  },
  "https://familienhopper.de/events/gigantisch-gut-koeln-2026-11-22": {
   "abgerufen": "2026-11-16T05:26",
@@ -493,6 +535,12 @@
   "von": "familienhopper-koeln",
   "zeilen": 20
  },
+ "https://familienhopper.de/events/monstermaessige-vorlesezeit-koeln-2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/e5bbaba1116a.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 20
+ },
  "https://familienhopper.de/events/nikolausdorf-auf-dem-rudolfplatz-koeln-2026-11-16": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/f20b78027b02.md",
@@ -548,7 +596,7 @@
   "zeilen": 22
  },
  "https://familienhopper.de/events/taschenlampen-expedition-fuer-familien-koeln-2026-11-20": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/4816a7472410.md",
   "von": "familienhopper-koeln",
   "zeilen": 19
@@ -589,11 +637,23 @@
   "von": "familienhopper-koeln",
   "zeilen": 57
  },
+ "https://familienhopper.de/events/weihnachtsmarkt-im-stadtgarten-koeln-2026-11-13": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/13da1193fe27.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 49
+ },
  "https://familienhopper.de/events/weihnachtsmarkt-koeln-west-koeln-2026-11-19": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/f62d2416947b.md",
   "von": "familienhopper-koeln",
   "zeilen": 51
+ },
+ "https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/cfe7c05a99cf.md",
+  "von": "familienhopper-koeln",
+  "zeilen": 18
  },
  "https://familienhopper.de/events/wir-spielen-schach-koeln-2026-12-01": {
   "abgerufen": "2026-11-16T05:26",
@@ -948,6 +1008,18 @@
   "von": "krewelshof-lohmar-eifel",
   "zeilen": 13
  },
+ "https://krewelshof.de/eifel/termine-events/winterhof/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/6222f79a8f98.md",
+  "von": "krewelshof-lohmar-eifel",
+  "zeilen": 98
+ },
+ "https://krewelshof.de/lohmar/termine-events/winterhof/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/7598d502a5ed.md",
+  "von": "krewelshof-lohmar-eifel",
+  "zeilen": 81
+ },
  "https://kulturbunker-muelheim.de/event/feelit/": {
   "abgerufen": "2026-11-11T06:59",
   "fehler": "HTTP 404",
@@ -1003,6 +1075,11 @@
   "fehler": "robots.txt verbietet den Abruf",
   "von": "mvp-de-kinder-events-koeln"
  },
+ "https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-21&checkout=2026-11-25&q=koeln&label=ms4": {
+  "abgerufen": "2026-11-20T06:52",
+  "fehler": "robots.txt verbietet den Abruf",
+  "von": "mvp-de-kinder-events-koeln"
+ },
  "https://lust-auf-leverkusen.de/veranstaltung/basteln-mit-gaby-und-anika/2026-12-02-16-00/": {
   "abgerufen": "2026-11-17T05:26",
   "datei": "out/details/6d318c9a148a.md",
@@ -1020,6 +1097,12 @@
   "datei": "out/details/908c0dba1b03.md",
   "von": "lust-auf-leverkusen-familie-kinder",
   "zeilen": 95
+ },
+ "https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-09-30/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/c37c68b55d07.md",
+  "von": "lust-auf-leverkusen-familie-kinder",
+  "zeilen": 93
  },
  "https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-12-01-17-00/": {
   "abgerufen": "2026-11-16T05:26",
@@ -1142,6 +1225,11 @@
  },
  "https://mvp.reservix.de/p/reservix/event/2570624": {
   "abgerufen": "2026-11-13T05:26",
+  "fehler": "gesperrt (HTTP 403)",
+  "von": "mvp-de-kinder-events-koeln"
+ },
+ "https://mvp.reservix.de/p/reservix/event/2578854": {
+  "abgerufen": "2026-11-20T06:52",
   "fehler": "gesperrt (HTTP 403)",
   "von": "mvp-de-kinder-events-koeln"
  },
@@ -1335,11 +1423,23 @@
   "von": "verliebtinkoeln-wochenendtipps",
   "zeilen": 162
  },
+ "https://verliebtinkoeln.com/koeln-wochenende-20-22-november-2026/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/79dfac1ade12.md",
+  "von": "verliebtinkoeln-wochenendtipps",
+  "zeilen": 178
+ },
  "https://verliebtinkoeln.com/koelner-dom-ungewoehnliche-figuren-quiz/": {
   "abgerufen": "2026-11-13T05:26",
   "datei": "out/details/f6b6e2852f5b.md",
   "von": "verliebtinkoeln-wochenendtipps",
   "zeilen": 62
+ },
+ "https://verliebtinkoeln.com/koelner-legenden-quiz/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/95f8f506a89f.md",
+  "von": "verliebtinkoeln-wochenendtipps",
+  "zeilen": 44
  },
  "https://verliebtinkoeln.com/koelsch-uebersetzer-quiz-weisst-du-was-diese-11-koelschen-schimpfwoerter-bedeuten/": {
   "abgerufen": "2026-11-16T05:26",
@@ -1412,6 +1512,12 @@
   "datei": "out/details/27eaa5454b2f.md",
   "von": "verliebtinkoeln-wochenendtipps",
   "zeilen": 55
+ },
+ "https://verliebtinkoeln.com/toiletten-koeln-hauptbahnhof-kostenlos/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/999eacd99b5f.md",
+  "von": "verliebtinkoeln-wochenendtipps",
+  "zeilen": 62
  },
  "https://verliebtinkoeln.com/was-bedeutet-das-wort-stippefoettche-in-koeln/": {
   "abgerufen": "2026-11-16T05:26",
@@ -1491,6 +1597,12 @@
   "von": "volksbuehne-am-rudolfplatz",
   "zeilen": 30
  },
+ "https://www.andarilhoscapoeira.de": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/425c37d5ec7d.md",
+  "von": "buergerzentrum-nippes-altenberger-hof",
+  "zeilen": 19
+ },
  "https://www.benjaminrichter.net/performances/carewithhandle": {
   "abgerufen": "2026-11-14T05:26",
   "datei": "out/details/ae27beb0bffc.md",
@@ -1528,7 +1640,7 @@
   "zeilen": 31
  },
  "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/c88ff38ce713.md",
   "von": "tickets.yml",
   "zeilen": 70
@@ -1610,6 +1722,12 @@
   "von": "freies-werkstatt-theater-babybuehne",
   "zeilen": 60
  },
+ "https://www.fwt-koeln.de/spielplan/barrierefreier-zugang?tx_calendarize_calendar%5BendDate%5D=2026-12-19&tx_calendarize_calendar%5BstartDate%5D=2026-11-19&cHash=0799b0125c134c7f6b7fb63c1f3ff8ea": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/73b63bc8423e.md",
+  "von": "freies-werkstatt-theater-babybuehne",
+  "zeilen": 60
+ },
  "https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-10&tx_calendarize_calendar%5BstartDate%5D=2026-11-10&cHash=3a2287ca500e5d0c95e187b59e2992d7": {
   "abgerufen": "2026-11-11T06:59",
   "datei": "out/details/3f67cb2f6160.md",
@@ -1652,6 +1770,12 @@
   "von": "freies-werkstatt-theater-babybuehne",
   "zeilen": 47
  },
+ "https://www.fwt-koeln.de/spielplan/mit-hoerunterstuetzung?tx_calendarize_calendar%5BendDate%5D=2026-12-19&tx_calendarize_calendar%5BstartDate%5D=2026-11-19&cHash=0799b0125c134c7f6b7fb63c1f3ff8ea": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/b80d740dc2b2.md",
+  "von": "freies-werkstatt-theater-babybuehne",
+  "zeilen": 47
+ },
  "https://www.fwt-koeln.de/veranstaltung/die-katze-eleonore-20261112": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/e03d05faff6e.md",
@@ -1671,7 +1795,7 @@
   "zeilen": 32
  },
  "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/9b6478364708.md",
   "fehler": "HTTP 404",
   "von": "tickets.yml",
@@ -1702,7 +1826,7 @@
   "zeilen": 9
  },
  "https://www.gut-leidenhausen.de/aktuelles/kerzenbasteln-2/": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/220b6ae01442.md",
   "von": "gut-leidenhausen",
   "zeilen": 9
@@ -1803,11 +1927,47 @@
   "von": "familienhopper-koeln",
   "zeilen": 74
  },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-wdr-3-campus-jazz/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/ce78fea5ae0c.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 41
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-12-2026-kurtag-100/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/012b5c67bc90.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 26
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/04-12-2026-klassenabend-gratkowski/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/787fd379bec8.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 24
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2026-winterfest/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/7e436f1142be.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 27
+ },
  "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-combo-doppelkonzert/": {
   "abgerufen": "2026-11-17T05:26",
   "datei": "out/details/e9133feed16e.md",
   "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
   "zeilen": 34
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-12-2026-brahms-projekt/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/cc3529bb73fb.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 32
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-12-2026-klavierabend-1/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/8d4021670182.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 24
  },
  "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-gesangsabend-zum-3-advent-der-klasse-von-prof-viktor-rud/": {
   "abgerufen": "2026-11-17T05:26",
@@ -1815,9 +1975,39 @@
   "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
   "zeilen": 23
  },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-jazzlines-songlines/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/3deaebd5f2aa.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 24
+ },
  "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-ensembleabend-fagott/": {
   "abgerufen": "2026-11-12T05:26",
   "datei": "out/details/9b9df3bbcde5.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 25
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/15-12-2026-trompetenecho/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/6cf9a4bff41e.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 22
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-bjoerk-revisited/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/080bb641e1ab.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 25
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/1599d46da1f8.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 25
+ },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-saxophone-summit/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/76d4fd0addb1.md",
   "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
   "zeilen": 25
  },
@@ -1833,6 +2023,12 @@
   "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
   "zeilen": 24
  },
+ "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-trompetenabend/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/1b97ae6f60e6.md",
+  "von": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
+  "zeilen": 24
+ },
  "https://www.horizont-theater.de/produktionen/dieraeuber.html": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/2ba942ffe2b6.md",
@@ -1840,7 +2036,7 @@
   "zeilen": 15
  },
  "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/bc9b1ca4dd28.md",
   "von": "tickets.yml",
   "zeilen": 12
@@ -1896,6 +2092,18 @@
  "https://www.kaenguru-online.de/kalender/dies-und-das/adventskranz-giessen/2026-11-15": {
   "abgerufen": "2026-11-15T05:27",
   "datei": "out/details/5a18de210ecf.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 32
+ },
+ "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk-1/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/cb04bb8d6fe5.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 32
+ },
+ "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/55a18de47953.md",
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 32
  },
@@ -1977,11 +2185,23 @@
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 31
  },
+ "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/7310c3c39c50.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 70
+ },
  "https://www.kaenguru-online.de/kalender/feste-und-maerkte/santas-weihnachtsmarkt-im-mediapark/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
   "datei": "out/details/547d3ca063cb.md",
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 30
+ },
+ "https://www.kaenguru-online.de/kalender/feste-und-maerkte/weihnachtsmarkt-2/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/b53228524906.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 44
  },
  "https://www.kaenguru-online.de/kalender/fuer-eltern/alexa-youtube-co-im-kinderzimmer/2026-11-17": {
   "abgerufen": "2026-11-17T05:26",
@@ -2067,6 +2287,12 @@
   "von": "kaenguru-kalender-fuer-minis-babys-kleinkinder",
   "zeilen": 27
  },
+ "https://www.kaenguru-online.de/kalender/fuer-minis/familientag-bei-barnes-crossing/2026-11-21": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/85db12e84779.md",
+  "von": "kaenguru-kalender-fuer-minis-babys-kleinkinder",
+  "zeilen": 36
+ },
  "https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern-1/2026-11-13": {
   "abgerufen": "2026-11-12T05:26",
   "datei": "out/details/9197705ac6c7.md",
@@ -2095,6 +2321,12 @@
   "abgerufen": "2026-11-16T05:26",
   "datei": "out/details/ae7156ebfa61.md",
   "von": "kaenguru-kalender-fuer-minis-babys-kleinkinder",
+  "zeilen": 24
+ },
+ "https://www.kaenguru-online.de/kalender/fuer-minis/kunst-und-kinderwagen/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/f0ae4262990f.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 24
  },
  "https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-ins-ludwig-1/2026-11-18": {
@@ -2187,11 +2419,23 @@
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 28
  },
+ "https://www.kaenguru-online.de/kalender/kino/coyote-vs-acme-2/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/a17ff51756fe.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 27
+ },
  "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
   "datei": "out/details/2db278de273d.md",
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 34
+ },
+ "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/4dc922a8e077.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 33
  },
  "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-2/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
@@ -2211,11 +2455,23 @@
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 33
  },
+ "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/a1b3e5c40459.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 32
+ },
  "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
   "datei": "out/details/5102e4fbe072.md",
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 32
+ },
+ "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/b4a4e61b6093.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 31
  },
  "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
@@ -2361,6 +2617,12 @@
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 32
  },
+ "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/81444a430bd8.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 31
+ },
  "https://www.kaenguru-online.de/kalender/literatur/kreative-mint-vorlesestunde/2026-11-19": {
   "abgerufen": "2026-11-19T06:52",
   "datei": "out/details/959ebb6ccaa4.md",
@@ -2504,6 +2766,12 @@
   "datei": "out/details/d6953e4da115.md",
   "von": "kaenguru-musik-kalender-kinderkonzerte-musiktheate",
   "zeilen": 33
+ },
+ "https://www.kaenguru-online.de/kalender/musik/das-konzert-mit-dem-elefanten-1/2026-12-05": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/e8d415fcfef4.md",
+  "von": "kaenguru-musik-kalender-kinderkonzerte-musiktheate",
+  "zeilen": 31
  },
  "https://www.kaenguru-online.de/kalender/musik/das-schaefchen-und-der-stern-1/2026-11-28": {
   "abgerufen": "2026-11-12T05:26",
@@ -2655,6 +2923,18 @@
   "von": "kaenguru-familienmagazin-koeln-bonn",
   "zeilen": 38
  },
+ "https://www.kaenguru-online.de/kalender/theater/die-schneekoenigin-3/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/b37e96efb490.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 35
+ },
+ "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-20": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/91b79c64dc17.md",
+  "von": "kaenguru-familienmagazin-koeln-bonn",
+  "zeilen": 51
+ },
  "https://www.kaenguru-online.de/kalender/theater/herr-der-diebe-1/2026-11-19": {
   "abgerufen": "2026-11-18T05:35",
   "datei": "out/details/6d5efdc4804f.md",
@@ -2708,6 +2988,12 @@
   "datei": "out/details/2ef9deb5302e.md",
   "von": "kindaling-koeln",
   "zeilen": 34
+ },
+ "https://www.kindaling.de/flohmaerkte/der-grosse-kinderflohmarkt-in-koeln/koeln-ehrenfeld": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/8f60472966f5.md",
+  "von": "kindaling-koeln",
+  "zeilen": 61
  },
  "https://www.kindaling.de/flohmaerkte/kinderflohmarkt-auf-dem-krewelshof/lohmar": {
   "abgerufen": "2026-11-16T05:26",
@@ -2768,6 +3054,12 @@
   "datei": "out/details/4c975860229b.md",
   "von": "kindaling-koeln",
   "zeilen": 60
+ },
+ "https://www.kindaling.de/naturcamps/englisches-reitcamp-wiehl/wiehl": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/068b9a5c5cd0.md",
+  "von": "kindaling-koeln",
+  "zeilen": 83
  },
  "https://www.kindaling.de/naturcamps/reitcamp-wiehl-oberbergischer-kreis-nrw/wiehl": {
   "abgerufen": "2026-11-12T05:26",
@@ -2841,7 +3133,7 @@
   "zeilen": 23
  },
  "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/b66348129e57.md",
   "von": "tickets.yml",
   "zeilen": 88
@@ -2853,7 +3145,7 @@
   "zeilen": 80
  },
  "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/dfc1cdde3b97.md",
   "von": "tickets.yml",
   "zeilen": 86
@@ -2871,7 +3163,7 @@
   "zeilen": 88
  },
  "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/428ea72eb1f8.md",
   "von": "tickets.yml",
   "zeilen": 99
@@ -2916,7 +3208,7 @@
   "von": "muelheimer-freiheit-termine"
  },
  "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/7d7880f15f3c.md",
   "von": "tickets.yml",
   "zeilen": 13
@@ -2951,6 +3243,12 @@
   "von": "mvp-de-kinder-events-koeln",
   "zeilen": 194
  },
+ "https://www.mvp.de/koeln/veranstaltungen/oliver-steller-mit-thomas-diemer-dem-singenden-stehschlagzeuger/": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/15bed643e11a.md",
+  "von": "mvp-de-kinder-events-koeln",
+  "zeilen": 92
+ },
  "https://www.mvp.de/koeln/veranstaltungen/paenzparty-im-foyer-puppenspiele-der-stadt-koeln/": {
   "abgerufen": "2026-11-13T05:26",
   "datei": "out/details/15c677bb671b.md",
@@ -2982,7 +3280,7 @@
   "zeilen": 54
  },
  "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/06ef5a5afa3a.md",
   "von": "tickets.yml",
   "zeilen": 272
@@ -3054,7 +3352,7 @@
   "zeilen": 40
  },
  "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
-  "abgerufen": "2026-11-19T06:52",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/8c31cf396e5c.md",
   "von": "tickets.yml",
   "zeilen": 108
@@ -3101,8 +3399,14 @@
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 40
  },
+ "https://www.rodenkirchen.de/kalender/godorf": {
+  "abgerufen": "2026-11-20T06:52",
+  "datei": "out/details/ad721efe096b.md",
+  "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
+  "zeilen": 31
+ },
  "https://www.rodenkirchen.de/kalender/immendorf": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/f561211c2f6e.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 31
@@ -3114,7 +3418,7 @@
   "zeilen": 106
  },
  "https://www.rodenkirchen.de/kalender/kinder": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/7d944b7f41f2.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 41
@@ -3126,10 +3430,10 @@
   "zeilen": 31
  },
  "https://www.rodenkirchen.de/kalender/kultur": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/ef8194d02a83.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 87
+  "zeilen": 79
  },
  "https://www.rodenkirchen.de/kalender/kunst": {
   "abgerufen": "2026-11-17T05:26",
@@ -3138,19 +3442,19 @@
   "zeilen": 31
  },
  "https://www.rodenkirchen.de/kalender/markt": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/72f6e95222f0.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 160
+  "zeilen": 162
  },
  "https://www.rodenkirchen.de/kalender/meschenich": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/994929e92ba4.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 35
+  "zeilen": 31
  },
  "https://www.rodenkirchen.de/kalender/musik": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/2631a5416ee9.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 63
@@ -3162,22 +3466,22 @@
   "zeilen": 29
  },
  "https://www.rodenkirchen.de/kalender/raderthal": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/5f57691963f0.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 31
  },
  "https://www.rodenkirchen.de/kalender/rodenkirchen": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/9a92d02c0093.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 162
+  "zeilen": 164
  },
  "https://www.rodenkirchen.de/kalender/rondorf": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/606405f1c171.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 60
+  "zeilen": 56
  },
  "https://www.rodenkirchen.de/kalender/senioren": {
   "abgerufen": "2026-11-16T05:26",
@@ -3186,13 +3490,13 @@
   "zeilen": 36
  },
  "https://www.rodenkirchen.de/kalender/suerth": {
-  "abgerufen": "2026-11-15T05:27",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/13d4c26a61bc.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
-  "zeilen": 146
+  "zeilen": 150
  },
  "https://www.rodenkirchen.de/kalender/weiss": {
-  "abgerufen": "2026-11-16T05:26",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/4faaf03f8364.md",
   "von": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
   "zeilen": 36
@@ -3245,10 +3549,10 @@
   "zeilen": 211
  },
  "https://www.stadt-koeln.de/artikel/73374/index.html?start=140": {
-  "abgerufen": "2026-11-11T06:59",
+  "abgerufen": "2026-11-20T06:52",
   "datei": "out/details/0316e6c0d344.md",
   "von": "stadtbibliothek-koeln-nippes-chorweiler",
-  "zeilen": 58
+  "zeilen": 49
  },
  "https://www.stadt-koeln.de/artikel/73374/index.html?start=160": {
   "abgerufen": "2026-11-10T10:42",

@@ -18,26 +18,7 @@ SA
 16
 17
 18
-DO 19.11.
-[Politik & Gesellschaft, Selbsthilfe, Bildung Spiel- und SprachCafé Konekti 16:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/spiel-und-sprachcafe-konekti-2/)
-[Politik & Gesellschaft, Kreatives Funkraum meets Café Konekti 18:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/funkraum-meets-cafe-konekti/)
-[DO 19.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-36/)
-★ [DO 19.11. Sprachförderung 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/sprachfoerderung-5/)
-★ [DO 19.11. Offener Kindertreff 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/off-3/)
-[DO 19.11. Lernförderung 15:00 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/lernfoerderung-16/)
-[DO 19.11. Saz spielen lernen 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/saz-spielen-lernen-4/)
-[DO 19.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-14/)
-[DO 19.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-6/)
-[DO 19.11. CHOR GOOD VIBES 17:40 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-good-vibes-8/)
-[DO 19.11. DJ-Angebot 18:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/dj-angebot-3/)
-[DO 19.11. QUEER BIPOC SPACE 18:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/queer-bipoc-space-8/)
-[DO 19.11. SHGD HANSARING - SELBSTHILFE DEPRESSIONEN 18:00 Alte Feuerwache Köln](https://altefeuerwachekoeln.de/programm/shgd-hansaring-selbsthilfe-depressionen-8/)
-[DO 19.11. Anonyme Alkoholiker (lesbisch/schwul) 19:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-lesbisch-schwul-8/)
-[DO 19.11. BRASILIANISCHE TANZE - SAMBA DE GAFIEIRA 19:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/brassilianische-tanze-samba-de-gafieira-8/)
-[DO 19.11. Der Chor der Donnerstags probt 19:15 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/der-chor-der-donnerstags-probt-8/)
-[DO 19.11. VCD Köln - Arbeitskreis Rad 19:30 Büro VCD | Südtrakt](https://altefeuerwachekoeln.de/programm/vcd-koeln-arbeitskreis-rad-2/)
-[DO 19.11. ANTONS ERBEN | Improvisationstheater 19:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/antons-erben-improvisationstheater-8/)
-[DO 19.11. Folklore Balkan-Tänze 20:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/folklore-balkan-taenze-8/)
+19
 FR 20.11.
 [Jugend, Kreatives Töpfer-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/toepfer-angebot/)
 [FR 20.11. Psychologische Beratung 09:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-8/)

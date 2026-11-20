@@ -1,5 +1,5 @@
 URL: https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623
-ABGERUFEN: 2026-11-19T06:52
+ABGERUFEN: 2026-11-20T06:52
 VON: tickets.yml
 
 Der König verschenkt was
@@ -59,42 +59,36 @@ Statisterie
 Orchester
 [Gürzenich-Orchester Köln](https://www.oper.koeln/guerzenich-orchester-koeln)
 Please refer to the respective event listings for the current cast.
-November 2026
-Thursday, 19 November 2026
-Thu
-19
+December 2026
+Tuesday, 1 December 2026
+Tue
+01
 [Der König verschenkt was](https://www.oper.koeln/en/production/der-konig-verschenkt-was)
 11:30 AM
 to
 12:40 PM
 ★ Kinderoper
 ★ Keine Pause | Für alle ab 6 Jahren
-[buy ticket Der König verschenkt was November 19, 2026 11:11](https://shop.oper.koeln/webshop/webticket/shop?event=2299)
+[buy ticket Der König verschenkt was December 01, 2026 11:12](https://shop.oper.koeln/webshop/webticket/shop?event=2230)
 23.00 €
-Thu, 19.11.2026, 11:30
-anschließend Nachgespräch
+Tue, 01.12.2026, 11:30
 ★ Libretto von Martin Baltscheit
 ★ Auftragswerk der Kinderoper Köln
 ★ Für alle ab 6 Jahren
-[Geonmuk Lim](https://www.oper.koeln/lim-geonmuk)
-[Wonjun Kim](https://www.oper.koeln/kim-wonjun)
-[Wolfgang Stefan Schwaiger](https://www.oper.koeln/schwaiger-wolfgang-stefan)
-December 2026
-Tuesday, 1 December 2026
-Tue
-01
-[buy ticket Der König verschenkt was December 01, 2026 11:12](https://shop.oper.koeln/webshop/webticket/shop?event=2230)
-Tue, 01.12.2026, 11:30
 [Lena Geiger](https://www.oper.koeln/geiger-lena)
+[Wonjun Kim](https://www.oper.koeln/kim-wonjun)
 Wednesday, 9 December 2026
 Wed
 09
 [buy ticket Der König verschenkt was December 09, 2026 11:12](https://shop.oper.koeln/webshop/webticket/shop?event=2231)
 Wed, 09.12.2026, 11:30
 [Laura Kriese](https://www.oper.koeln/kriese-laura)
+[Geonmuk Lim](https://www.oper.koeln/lim-geonmuk)
 [Ferhat Baday](https://www.oper.koeln/baday-ferhat)
+[Wolfgang Stefan Schwaiger](https://www.oper.koeln/schwaiger-wolfgang-stefan)
 [KS Dalia Schaechter](https://www.oper.koeln/schaechter-ks-dalia)
 Thursday, 10 December 2026
+Thu
 10
 [buy ticket Der König verschenkt was December 10, 2026 11:12](https://shop.oper.koeln/webshop/webticket/shop?event=2232)
 Thu, 10.12.2026, 11:30
@@ -126,6 +120,7 @@ Friday, 18 December 2026
 Fri, 18.12.2026, 11:30
 Saturday, 19 December 2026
 Sat
+19
 03:00 PM
 04:10 PM
 [buy ticket Der König verschenkt was December 19, 2026 15:12](https://shop.oper.koeln/webshop/webticket/shop?event=2238)
@@ -197,6 +192,7 @@ Sun, 25.10.2026, 11:30
 Friday, 30 October 2026
 [buy ticket Der König verschenkt was October 30, 2026 18:10](https://shop.oper.koeln/webshop/webticket/shop?event=2221)
 Fri, 30.10.2026, 18:00
+November 2026
 Wednesday, 4 November 2026
 04
 [buy ticket Der König verschenkt was November 04, 2026 11:11](https://shop.oper.koeln/webshop/webticket/shop?event=2222)
@@ -226,6 +222,10 @@ Thu, 12.11.2026, 11:30
 Sunday, 15 November 2026
 [buy ticket Der König verschenkt was November 15, 2026 11:11](https://shop.oper.koeln/webshop/webticket/shop?event=2229)
 Sun, 15.11.2026, 11:30
+Thursday, 19 November 2026
+[buy ticket Der König verschenkt was November 19, 2026 11:11](https://shop.oper.koeln/webshop/webticket/shop?event=2299)
+Thu, 19.11.2026, 11:30
+anschließend Nachgespräch
 Trailer
 Connect to an external provider?
 To play this content, a connection to an external service will be established. Personal data (e.g. your IP address) will be transmitted to the respective provider.

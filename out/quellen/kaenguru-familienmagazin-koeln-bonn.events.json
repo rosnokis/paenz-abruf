@@ -1,46 +1,64 @@
 [
  {
-  "name": "Kaspertheater auf dem Weihnachtsmarkt",
+  "name": "HerbstSALE bei Pantine & Spielwerk",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/kaspertheater-auf-dem-weihnachtsmarkt/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk/2026-11-20",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "HerbstSALE bei Pantine & Spielwerk",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk-1/2026-11-20",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "KinderTreff",
+  "location": {
+   "name": "Hennef"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-20",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Kreative MINT-Vorlesestunde",
+  "name": "Kunst und Kinderwagen",
   "location": {
-   "name": "Bonn"
+   "name": "Wuppertal"
   },
-  "url": "https://www.kaenguru-online.de/kalender/literatur/kreative-mint-vorlesestunde/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kunst-und-kinderwagen/2026-11-20",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "SPIELARTEN 26 „Der Riss\"",
+  "name": "Mittelalterlicher Markt zur Weihnachtszeit",
   "location": {
-   "name": "Pulheim"
+   "name": "Siegburg"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/spielarten-26-der-riss/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Santas Weihnachtsmarkt im MediaPark",
+  "name": "Weihnachtsmarkt",
   "location": {
-   "name": "Köln"
+   "name": "Düsseldorf"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/santas-weihnachtsmarkt-im-mediapark/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/weihnachtsmarkt-2/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der König verschenkt was\"",
+  "name": "„Coyote vs. Acme“",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/kino/coyote-vs-acme-2/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -49,7 +67,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -58,7 +76,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -67,43 +85,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-19",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-2/2026-11-19",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-3/2026-11-19",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-19",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der fabelhafte Die\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-fabelhafte-die/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -112,7 +94,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/die-schneekoenigin-3/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/theater/die-schneekoenigin-3/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -121,7 +103,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -130,7 +112,25 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/erinnerung-eines-maedchens/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/erinnerung-eines-maedchens/2026-11-20",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Festtagsspaß mit Peppa\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-20",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Festtagsspaß mit Peppa\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -139,7 +139,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/herr-der-diebe-1/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/theater/herr-der-diebe-1/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -148,7 +148,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-5/2026-11-20",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -157,7 +166,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/silent-calling/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/silent-calling/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -166,16 +175,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/trotzdemtanzen/2026-11-19",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wildwood“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-19",
+  "url": "https://www.kaenguru-online.de/kalender/theater/trotzdemtanzen/2026-11-20",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

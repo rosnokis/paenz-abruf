@@ -6,18 +6,13 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-11-19)
-★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
-19.11.2026
-11:30 Uhr
-★ Kinderoper Köln
-Köln
 [Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
 ★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
 21.11.2026
 13:00 Uhr
 11:00 Uhr
 Philharmonie
+Köln
 [Metal-Tour Heavysaurus](https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21)
 ★ Metal-Konzert mit Dinosauriern und Drachen für Kinder von 3 bis 11 Jahren
 16:00 Uhr
@@ -40,6 +35,7 @@ Bürgerhaus Kalk
 ★ Eine Insektenoper als mobile Produktion für KiTas
 26.11.2026
 10:30 Uhr
+★ Kinderoper Köln
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
 27.11.2026
 ★ [Kinder singen hier & jetzt](https://www.kaenguru-online.de/kalender/musik/kinder-singen-hier-jetzt-1/2026-11-28)
@@ -62,11 +58,13 @@ Beethovenhalle Bonn
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-30)
 30.11.2026
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01)
+★ Kinderoper über drei Geschwister, einen König und drei geheimnisvolle Ringe ab 6 Jahren
 01.12.2026
+11:30 Uhr
 ★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-15:30 Uhr
 16:30 Uhr
+15:30 Uhr
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
 ★ [Bilderbuchkonzert „Im Winterschlaf"](https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02)
@@ -80,3 +78,5 @@ Beethovenhalle Bonn
 [Das Konzert mit dem Elefanten](https://www.kaenguru-online.de/kalender/musik/das-konzert-mit-dem-elefanten-1/2026-12-04)
 ★ WDR Familienkonzert für Kinder von 3 bis 7 Jahren
 WDR-Funkhaus
+[Das Konzert mit dem Elefanten](https://www.kaenguru-online.de/kalender/musik/das-konzert-mit-dem-elefanten-1/2026-12-05)
+05.12.2026

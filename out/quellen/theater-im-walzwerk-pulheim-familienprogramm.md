@@ -9,18 +9,8 @@ Alle Termine
 Monat wählen — oder alle Termine auf einen Blick
 Keine passenden Termine gefunden. Bitte einen anderen Suchbegriff versuchen.
 November 2026
-[AUSVERKAUFT](https://www.eventbrite.de/e/fur-gruppen-weihnachten-bei-maggy-maus-tickets-2001392011382)
-Do.
-Nov.
-19
-10:00
-[FÜR GRUPPEN – Weihnachten bei Maggy Maus](https://www.eventbrite.de/e/fur-gruppen-weihnachten-bei-maggy-maus-tickets-2001392011382)
-★ Das Seifenblasen Figurentheater spielt die Geschichte von Maggy Maus für Kinder ab 3 Jahren geeignet! Maggy möchte für…
-[Ausverkauft](https://www.eventbrite.de/e/fur-gruppen-weihnachten-bei-maggy-maus-tickets-2001392011382)
-11:00
-[FÜR GRUPPEN – Weihnachten bei Maggy Maus](https://www.eventbrite.de/e/fur-gruppen-weihnachten-bei-maggy-maus-tickets-2001451911545)
-[Tickets](https://www.eventbrite.de/e/fur-gruppen-weihnachten-bei-maggy-maus-tickets-2001451911545)
 Sa.
+Nov.
 28
 15:00
 ★ [Frau Holle – Seifenblasen Figurentheater Familienprogramm](https://www.eventbrite.de/e/frau-holle-seifenblasen-figurentheater-familienprogramm-tickets-1989795416655)
@@ -41,6 +31,7 @@ musikalische Geschichte v. Wolfgang A. Mozart, Smetana, Humperdinck und Bartók,
 ★ [Ausverkauft](https://www.eventbrite.de/e/familienkonzert-rubin-quartett-das-schafchen-und-der-stern-tickets-1992568346563)
 Mi.
 23
+11:00
 ★ [Familien Weihnachtsspecial – Tobis kleines Weihnachtswunder](https://www.eventbrite.de/e/1100-familien-weihnachtsspecial-tobis-kleines-weihnachtswunder-tickets-2002282891027)
 Eine kleine Geschichte zur Weihnachtszeit! Neu im Programm des Seifenblasen-Figurentheaters.Der kleine Hund Tobi ist…
 ★ [Tickets](https://www.eventbrite.de/e/1100-familien-weihnachtsspecial-tobis-kleines-weihnachtswunder-tickets-2002282891027)
