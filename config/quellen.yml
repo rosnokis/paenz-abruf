@@ -500,3 +500,9 @@ quellen:
   url: https://www.bumannundsohn.de/programm
   note: Sonntags 15 Uhr Kindertheater, Zauberei, Vorlesen; Nikolaus im Ehrenfelder Weihnachtsmarkt.
   seit: '2026-11-20'
+- id: max-ernst-museum-bruehl-familienworkshops
+  name: Max Ernst Museum Brühl – Familienworkshops
+  group: Musik & Bühne
+  url: https://maxernstmuseum.lvr.de
+  note: Regelmäßig MiniMax-Familienworkshops ab 3 Jahren.
+  seit: '2026-11-21'
