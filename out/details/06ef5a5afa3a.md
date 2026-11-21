@@ -1,12 +1,11 @@
 URL: https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623
-ABGERUFEN: 2026-11-20T06:52
+ABGERUFEN: 2026-11-21T06:52
 VON: tickets.yml
 
 Der König verschenkt was
 Philipp Matthias Kaufmann
 ★ Libretto by Martin Baltscheit
 Commissioned by the Cologne Children's Opera
-For everyone aged 6 and up
 Events and Tickets
 Der König verschenkt was by Philipp Matthias Kaufmann © Tim Stadie
 Description

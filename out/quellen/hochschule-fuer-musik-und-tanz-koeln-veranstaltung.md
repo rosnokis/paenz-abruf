@@ -2,28 +2,12 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Kontrabassabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-05-2026-kontrabassabend-1/)
-20.11.2026
-19:00
-Uhr
-Konzertsaal
-Aachen
-Kontrabassabend
-[Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1/)
-19:30
-Konzertsaal Wuppertal
-Wuppertal
-Violinabend
-[»Herzlich lieb«](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-herzlich-lieb/)
-Fronleichnamskirche der Ursulinen
-Köln
-»Herzlich lieb«
-[Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/20-11-2026-orchesterkonzert-american-rhapsody-1/)
-Orchesterkonzert - Rhapsody in Blue
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
 21.11.2026
 11:00
+Uhr
 Philharmonie Köln
+Köln
 ★ Im Zauberwald - Interaktives Kinderkonzert
 [OPEN HOUSE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-open-house/)
 13:00
@@ -32,7 +16,12 @@ OPEN HOUSE
 ★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert/)
 [Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-orchesterkonzert-american-rhapsody/)
 18:30
+Konzertsaal
+Orchesterkonzert - Rhapsody in Blue
 [Musicalabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-06-2021-musicalabend-1-1-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Musicalabend
 [Viola da gamba- und Violoncellonachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-viola-da-gamba-und-violoncellonachmittag/)
 22.11.2026
@@ -43,6 +32,8 @@ Viola da gamba- und Violoncellonachmittag
 16:00
 ★ Kinderorchester NRW - 20.000 Meilen unter dem Meer
 [Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-preistraegerkonzert-brigitte-kempen-wettbewerb-2026/)
+19:00
+Aachen
 Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026
 [Oboenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-06-2026-oboenabend-1/)
 23.11.2026
@@ -67,6 +58,7 @@ Ringvorlesung - KANONS IN DER KRISE
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
 Gitarrenabend
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2024-violinabend-1-1-1-1-2-2-1/)
+Violinabend
 [STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-stop-vilence-ein-zeichen-gegen-gewalt-an-frauen/)
 STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1-1/)

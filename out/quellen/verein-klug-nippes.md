@@ -27,8 +27,9 @@ Do.
 Fr.
 Sa.
 So.
-Liebig goes Stöckchen // Umzugsphase // das Liebig 257 hat geschlossen
+Liebig goes Stöckchen // Umzugsphase
 31. Oktober 2026 - 31. Dezember 2026
+// das Liebig257 hat geschlossen.
 Liebig257 goes Stöckchen! Wir ziehen in die Escher Straße 160 🏡 [#Bilderstöckchen](https://www.instagram.com/explore/tags/bilderst%C3%B6ckchen/) [#soziokulturnrw](https://www.instagram.com/explore/tags/soziokulturnrw/)
 Wusstest du, dass wir nur noch bis zum 30.10. in der Liebigstraße 257 sind?
 Seit Oktober 2021 ist das Liebig257 euer Begegnungsraum und Wohnzimmercafé am Bahnhof Nippes. Nach fünf Jahren Gemeinwohlarbeit schließen wir hier keine Türen – wir machen neue weit auf: in der Escher Straße 160, direkt an der Haltestelle Escher Straße!
@@ -161,7 +162,6 @@ Pack Deine Arbeitshandschuhe und die Lust anzupacken ein und komm ins Stöckchen
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjExMjhUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
 29
 30
-20. November 2026
 21. November 2026
 22. November 2026
 23. November 2026
@@ -224,6 +224,7 @@ Gefördert von:
 19. Dezember 2026
 19. Dezember 2026 12:00 - 17:00
 [Weitere Details anzeigen](https://www.google.com/calendar/event?eid=a2c5bGI3ZjhjOW10bTRtNjJuYnMyN25tdThfMjAyNjEyMTlUMTEwMDAwWiBnYm1tODF1MDZ2YTUyOW9tYmRkOHRrazFnZ0Bn&ctz=Europe/Berlin)
+20. Dezember 2026
 Mehr anzeigen
 Liebigquartier
 Das Liebigquartier ist eines der wohl spannendsten Stadtentwicklungsgebiete in Köln. Die ca. 300.000m² Entwicklungsfläche zwischen Ehrenfeld und Nippes bieten viel Raum, um Projekte und Ideen umzusetzen, damit Köln 2035 klimaneutral versorgt werden kann, die 15 Minuten Stadt Realität wird und Kultur und Soziales Raum in der Stadt findet.

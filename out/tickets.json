@@ -15,29 +15,35 @@
   "https://eventfrog.de/de/p/gruppen/circus-charles-monroe-im-glanz-der-weihnachtszeit-7525991049405145911.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512528862162468940.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512530867866044697.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/klamauk-kinder-und-jugendzirkus-koeln-7435670043994649978.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "Tickets: Tickets kaufen für KLAMAUK - Kinder- und Jugendzirkus, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
+  },
+  "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-luftakrobatik-in-der-zirkusfabrik-koeln-7436721133666221188.html": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
+   "s": "verfuegbar",
+   "txt": "Tickets: Tickets kaufen für Tages-Workshop Luftakrobatik in der Zirkusfabrik, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/tages-workshop-zirkus-total-in-der-zirkusfabrik-koeln-7506661640563080445.html": {
    "art": "detailseite",
@@ -53,7 +59,7 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
@@ -67,6 +73,12 @@
   "https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-20": {
    "art": "detailseite",
    "geprueft": "2026-11-16T05:26",
+   "s": "ausverkauft",
+   "txt": "Ausgebucht"
+  },
+  "https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-21": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
   },
@@ -108,7 +120,7 @@
   },
   "https://familienhopper.de/koeln/indoor/": {
    "art": "detailseite",
-   "geprueft": "2026-11-10T12:39",
+   "geprueft": "2026-11-21T06:52",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
   },
@@ -250,6 +262,12 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://www.bergischerloewe.de/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
+  },
   "https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/": {
    "art": "detailseite",
    "geprueft": "2026-11-19T06:52",
@@ -258,9 +276,21 @@
   },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
+  },
+  "https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704": {
+   "art": "ticketliste",
+   "geprueft": "2026-11-21T06:52",
+   "s": "verfuegbar",
+   "txt": "Schaltfläche: Tickets kaufen"
+  },
+  "https://www.grote-hiller.de/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
+   "s": "teilweise",
+   "txt": "Ausgebucht! / [Tickets sichern](https://shop.grote-hiller.de/maerkte/siegen-29-11-2026)"
   },
   "https://www.guerzenich-orchester.de/en/event-detail/das-geheimnis-der-weihnachtswichtel": {
    "art": "ticketliste",
@@ -268,7 +298,7 @@
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
-   "versucht": "2026-11-20T06:52"
+   "versucht": "2026-11-21T06:52"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -297,7 +327,7 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "unklar",
    "txt": ""
   },
@@ -345,7 +375,7 @@
   },
   "https://www.kindaling.de/indoorspielplaetze/freies-spiel-mitmachtheater-kreative-workshops/koeln-nippes": {
    "art": "detailseite",
-   "geprueft": "2026-11-14T05:26",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://littlemindsstudio.de)"
   },
@@ -363,15 +393,21 @@
   },
   "https://www.kindaling.de/kindertheater-shows/der-feuervogel-koeln-holweide/koeln-holweide": {
    "art": "detailseite",
-   "geprueft": "2026-11-16T05:26",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://www.cassiopeia-buehne.de)"
   },
   "https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen": {
    "art": "detailseite",
-   "geprueft": "2026-11-15T05:27",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://galileum-solingen.de/shows/lars-der-kleine-eisbaer/)"
+  },
+  "https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
+   "s": "verfuegbar",
+   "txt": "[Jetzt buchen*](https://tixu-shop.variete.de/tickets/9?date=2026-10-01&utm_source=tixu&utm_medium=kindaling&utm_campaign=eventportale)"
   },
   "https://www.kindaling.de/kindertheater-shows/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs-kkt-koelner-kuenstler-innen-theater/koeln-ehrenfeld": {
    "art": "detailseite",
@@ -430,7 +466,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "unklar",
    "txt": ""
   },
@@ -442,19 +478,19 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
   "https://www.metropol-theater-koeln.de/spielplan/paulina-der-zirkus-papilotte/": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.qultor.de/veranstaltungen/paulina-und-der-zirkus-papilotte)"
   },
@@ -508,7 +544,7 @@
   },
   "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "ausverkauft",
    "txt": "sold out"
   },
@@ -538,7 +574,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-20T06:52",
+   "geprueft": "2026-11-21T06:52",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -740,6 +776,12 @@
    "s": "verfuegbar",
    "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/schere-stift-papier-event-5979)"
   },
+  "https://www.theater-klapperkasten.de/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-21T06:52",
+   "s": "knapp",
+   "txt": "Wenige Restkarten am"
+  },
   "https://zeitfuerzirkus.de/events/greatest-hits/": {
    "art": "detailseite",
    "geprueft": "2026-11-14T05:26",
@@ -747,5 +789,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-20T06:52"
+ "stand": "2026-11-21T06:52"
 }

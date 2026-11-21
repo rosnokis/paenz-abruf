@@ -10,11 +10,6 @@ Stadtteil
 ★ [Für Kinder](https://www.rodenkirchen.de/kalender)
 ★ [Jeden Tag einzeln](https://www.rodenkirchen.de/kalender?kinder=1&einzeln=1)
 [Veranstaltungsorte](https://www.rodenkirchen.de/adressen?orte=1)
-Heute, Freitag, 20. November 2026
-Fr 20 Nov.
-★ Kinder · 16:00 Uhr [MINT-Vorlesen und Experimentieren](https://www.rodenkirchen.de/termin/20-mint-vorlesen-und-experimentieren)
-Freitag, 20. November 2026, Stadtteilbibliothek Rodenkirchen, Schillingsrotter Straße 38 · Rodenkirchen · kostenlos
-Noch 2 Termine bis 16. Dez.
 Freitag, 27. November 2026
 Fr 27 Nov.
 ★ Kinder · 16:00 Uhr [Lesung mit Alice Ahlers – »Lieber Weihnachtsmann, jetzt sind wir mal dran!«](https://www.rodenkirchen.de/termin/327-lesung-mit-alice-ahlers-lieber-weihnachtsmann-jetzt-sind-wir)
@@ -35,6 +30,11 @@ Di 15 Dez.
 ★ Kinder · 16:00 Uhr [Vorlesen mit dem Kamishibai – Erzähltheater](https://www.rodenkirchen.de/termin/28-vorlesen-mit-dem-kamishibai-erzaehltheater)
 Dienstag, 15. Dezember 2026, Stadtteilbibliothek Rodenkirchen, Schillingsrotter Straße 38 · Rodenkirchen · kostenlos
 Seit 17. Nov. · letzter Termin
+Mittwoch, 16. Dezember 2026
+Mi 16 Dez.
+★ Kinder · 0:00 Uhr [MINT-Vorlesen und Experimentieren](https://www.rodenkirchen.de/termin/29-mint-vorlesen-und-experimentieren)
+Mittwoch, 16. Dezember 2026, Stadtteilbibliothek Rodenkirchen, Schillingsrotter Straße 38 · Rodenkirchen · kostenlos
+Seit 20. Nov. · letzter Termin
 Samstag, 19. Dezember 2026
 Sa 19 Dez.
 Musik · 14:00 Uhr [Adventssingen im LiZ](https://www.rodenkirchen.de/termin/289-adventssingen-im-liz)
@@ -58,6 +58,6 @@ Di 9 Feb.
 Karneval · 0:00 Uhr [Zollstocker Dienstagszug](https://www.rodenkirchen.de/termin/321-zollstocker-dienstagszug)
 Dienstag, 9. Februar 2027, Markusstraße 50968 Köln · Zollstock · kostenlos
 Termine nach Veedel
-[Godorf 1](https://www.rodenkirchen.de/kalender/godorf) [Immendorf 1](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 1](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 101](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 40](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 48](https://www.rodenkirchen.de/kalender/zollstock)
+[Godorf 1](https://www.rodenkirchen.de/kalender/godorf) [Immendorf 4](https://www.rodenkirchen.de/kalender/immendorf) [Meschenich 1](https://www.rodenkirchen.de/kalender/meschenich) [Raderthal 1](https://www.rodenkirchen.de/kalender/raderthal) [Rodenkirchen 99](https://www.rodenkirchen.de/kalender/rodenkirchen) [Rondorf 9](https://www.rodenkirchen.de/kalender/rondorf) [Sürth 39](https://www.rodenkirchen.de/kalender/suerth) [Weiß 4](https://www.rodenkirchen.de/kalender/weiss) [Zollstock 47](https://www.rodenkirchen.de/kalender/zollstock)
 Termine nach Thema
-★ [Markt 134](https://www.rodenkirchen.de/kalender/markt) [Kultur 13](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 4](https://www.rodenkirchen.de/kalender/kinder) [Senioren 5](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung 2](https://www.rodenkirchen.de/kalender/beratung) [Sonstiges 9](htt …
+★ [Markt 132](https://www.rodenkirchen.de/kalender/markt) [Kultur 14](https://www.rodenkirchen.de/kalender/kultur) [Musik 9](https://www.rodenkirchen.de/kalender/musik) [Kinder 3](https://www.rodenkirchen.de/kalender/kinder) [Senioren 5](https://www.rodenkirchen.de/kalender/senioren) [Karneval 23](https://www.rodenkirchen.de/kalender/karneval) [Kunst 1](https://www.rodenkirchen.de/kalender/kunst) [Vortrag & Lesung 1](https://www.rodenkirchen.de/kalender/vortrag) [Kirche & Glaube 1](https://www.rodenkirchen.de/kalender/kirche) [Workshop 6](https://www.rodenkirchen.de/kalender/workshop) [Beratung …

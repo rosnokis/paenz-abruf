@@ -1,43 +1,5 @@
 [
  {
-  "name": "Erinnerung eines Mädchens",
-  "startDate": "2026-11-20T11:00:00+01:00",
-  "endDate": "2026-11-20T13:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Studio)",
-   "address": "Vondelstraße 4-8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Erinnerung eines Mädchens",
-  "startDate": "2026-11-20T19:00:00+01:00",
-  "endDate": "2026-11-20T21:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Studio)",
-   "address": "Vondelstraße 4-8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
   "name": "Lara Ermer: Leicht entflammbar",
   "startDate": "2026-11-21T20:30:00+01:00",
   "endDate": "2026-11-21T22:30:00+01:00",
@@ -318,6 +280,25 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "WeArtHere! Dress to impress - Wie politisch ist Mode?",
+  "startDate": "2026-11-27T19:30:00+01:00",
+  "endDate": "2026-11-27T21:30:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/wearthere/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

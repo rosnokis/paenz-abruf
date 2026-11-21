@@ -22,17 +22,11 @@ Weitere Termine und Angebote
 [Musikalische Angebote der evangelischen Kirchengemeinde Köln-Porz](https://www.kirchenmusik-porz.de/weitere-musikalische-angebote)
 
 ## Quelle: https://www.kirchenmusik-porz.de/veranstaltungstermine
-[Datei herunterladen](https://cdn.website-editor.net/s/35a5488e2a9845ddb8c264a9e8bcdfd0/files/uploaded/Jahresprogramm_2024_web.pdf?Expires=1797284145&Signature=BhrPMJdaIc9-SXnJkAe9W-rNmXk0PSRgK~mYwMKCr3Z6mdeFXnQfegWRdYJcR4mLoSc4Wr4jMBV-60BcdFQ54PIdsxYS5-~sRPUkZLWdUPYTrMkwzpdmk~30EWbhpOHBb7MqHr9GOKcWWsYxFSgWua0jNtb5ICqqxC6MFnOF3llgmC8wdNDuRS6g5PpKCppCiX-lBQQF7pbEr6W3g1GEULoFHQlIA~DkyPrUzDbdTDJFuukIZRk5CJ1jgORo0KdJ2Sh~UbcX1~qnijSs6iihrmSBZZEKnpoSK2bBp2jxoIcpVKoEUNPTf0u7rDV3FfZryKkzLajc4SZzMXSWKSk5pQ__&Key-Pair-Id=K2NXBXLF010TJW)
+[Datei herunterladen](https://cdn.website-editor.net/s/35a5488e2a9845ddb8c264a9e8bcdfd0/files/uploaded/Jahresprogramm_2024_web.pdf?Expires=1797703756&Signature=MhvDfeDBhFjF8b9LP8eA5tmmMFBBmKgY2pV9RmaDUWRirexhdB2U8Kr8lnyGwUHzXnGgUi0CZf5mSO0NpU0AwiKdLOBd6eMKGjuocAZgK-EQEKLefltyufCJLrGMx3HDuHc5rs4wieDexLkigzH8ymYqFUM0G0oggX3oU2qrZtrO4RsuWwAvvoEpOFnFYXCwA4jwzQ1oA02bbEdEbCzOnSYMpztoVflf8TpMQVlrpcL6DU6yJKh1uTYVcCQE4z-Cj~8w3KPV3TJSVDsGTXXoksJhIqcNFkiesL9KKrIFFbyqLQUCX7uU2cywWsa3-18mdI5xqInrpNnK5gpamrI9vA__&Key-Pair-Id=K2NXBXLF010TJW)
 Konzerte und Veranstaltungen 2026
 Sie möchten über unsere Termine auf dem Laufenden bleiben? Abonnieren Sie unseren Newsletter!
-Sonntag, 8. November, 17 Uhr
-Markuskirche
-Akkordeonkonzert
-(Instrument des Jahres 2026)
-Werke von Karg-Elert, Piazzolla und andere
-Prof. Helmut C. Jacobs, Akkordeon
-Eintritt: 10 €, erm. 7 €
 Sonntag, 13. Dezember, 17 Uhr
+Markuskirche
 F. Mendelssohn Bartholdy: Lobgesang op. 52
 Anna Herbst, Sopran
 Ulrike Mertens, Sopran
@@ -59,6 +53,12 @@ Jazz- und Gospelchor „Keep On Singing“
 Solisten und Orchester
 Liturgie: Pfarrer Andreas Daniels
 Vergangene Veranstaltungen
+Sonntag, 8. November, 17 Uhr
+Akkordeonkonzert
+(Instrument des Jahres 2026)
+Werke von Karg-Elert, Piazzolla und andere
+Prof. Helmut C. Jacobs, Akkordeon
+Eintritt: 10 €, erm. 7 €
 Sonntag, 11. Oktober, 19 Uhr
 Cantate – Singet dem Herrn ein neues Lied
 Sarah Proske, Gesang und Orgel

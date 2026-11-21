@@ -3,12 +3,12 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-53 kommende Veranstaltungen in dieser Kategorie
+54 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(53)
+(54)
 21
 Nov
 ★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
@@ -50,6 +50,9 @@ Fr
 15:30 Uhr
 [Basteln im Advent für Groß und Klein](https://lust-auf-leverkusen.de/veranstaltung/basteln-im-advent-fuer-gross-und-klein/)
 [Petruskirche](https://lust-auf-leverkusen.de/veranstaltungsort/petruskirche/)
+29
+★ [Weihnachtskonzert. Leverkusener Kinder- und Jugendchor.](https://lust-auf-leverkusen.de/veranstaltung/weihnachtskonzert-leverkusener-kinder-und-jugendchor/)
+[Christuskirche](https://lust-auf-leverkusen.de/veranstaltungsort/christuskirche/)
 01
 Dez
 Ausverkauft
@@ -75,5 +78,3 @@ Ausverkauft
 Mo
 11:30 Uhr
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-07-11-30/)
-08
-[Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-09-30/)

@@ -12,6 +12,8 @@ Sing mit!
 Von Musischer Vorschule bis zu Erwachsenenchören: Werde Teil der Kölner Dommusik.
 [Zur Übersicht](https://www.koelner-dommusik.de/sing-mit)
 Aktuelles
+[20.11.2026 Vokalensemble Kölner Dom führt Mozart-Requiem auf: „In dieser Musik geht es um Glauben und Hoffnung“](https://www.koelner-dommusik.de/choere/vokalensemble-koelner-dom-fuehrt-mozart-requiem-auf-in-dieser-musik-geht-es-um-glauben-und-hoffnung)
+[19.11.2026 Von der Kölner Dommusik an die Musikhochschule - Schüler/innen starten Jungstudium in Oboe, Gesang und Orgel](https://www.koelner-dommusik.de/musikschule/von-der-koelner-dommusik-an-die-musikhochschule-schueler-innen-starten-jungstudium-in-oboe-gesang-und-orgel)
 [17.11.2026 Zum Tod von Peter Dicke – ein engagierter Wegbereiter der Orgelpädagogik](https://www.koelner-dommusik.de/musikschule/zum-tod-von-peter-dicke-zum-tod-von-peter-dicke-ein-engagierter-wegbereiter-der-orgelpaedagogik)
 [09.11.2026 Stellenangebot: Mitarbeiter/in Verwaltung & Kommunikation (m, w, d) ab 01.02.2027](https://www.koelner-dommusik.de/choere/stellenangebot-mitarbeiter-in-verwaltung-and-kommunikation-ab-01-02-2027)
 [03.11.2026 Stellenangebot: Domorganist/in (m, w, d) an der Hohen Domkirche zu Köln ab 01.09.2027](https://www.koelner-dommusik.de/choere/stellenangebot-domorganist-in-an-der-hohen-domkirche-zu-koeln-ab-01-09-2027)
@@ -20,5 +22,3 @@ Aktuelles
 [17.07.2026 Feriengruß von Schulseelsorger Burkhard Hofer](https://www.koelner-dommusik.de/grundschule/feriengruss-von-schulseelsorger-burkhard-hofer-1)
 [16.07.2026 Stellenangebot: Schulhausmeister/in (m, w, d) zum 01. Oktober 2026](https://www.koelner-dommusik.de/choere/stellenangebot-schulhausmeister-in-m-w-d-zum-01-juni-2026-oder-frueher-1)
 [15.07.2026 Freiwilliges Soziales Jahr (FSJ/BFD) bei der Kölner Dommusik – Starte mit uns ab dem 1. September 2026!](https://www.koelner-dommusik.de/choere/freiwilliges-soziales-jahr-fsj-bfd-bei-der-koelner-dommusik-starte-mit-uns-ab-dem-1-september-2026)
-[07.07.2026 Kölner Domchor geht auf Konzertreise nach Spanien und Portugal](https://www.koelner-dommusik.de/choere/koelner-domchor-auf-konzertreise-nach-spanien-und-portugal)
-★ [01.07.2026 Neu: Die Kleine Vorschule – musikalische Förderung jetzt schon im vorletzten Kindergartenjahr](https://www.koelner-dommusik.de/musikschule/neu-die-kleine-vorschule-musikalische-foerderung-jetzt-schon-im-vorletzten-kindergartenjahr)

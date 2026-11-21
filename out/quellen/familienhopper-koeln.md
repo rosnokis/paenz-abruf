@@ -3,14 +3,7 @@
 ## Quelle: https://familienhopper.de/koeln/
 ★ [← Alle Familien-Events](https://familienhopper.de/index.html)
 Highlights fürs Wochenende
-7 ausgewählte Veranstaltungen
-Mehrere
-Termine
-Naturerlebnis
-★ [Taschenlampen-Expedition für Familien](https://familienhopper.de/events/taschenlampen-expedition-fuer-familien-koeln-2026-11-20)
-★ Im Dunkeln erkunden Familien den Zoo und beobachten, was Tiere nachts tun.
-Fr, 20. Nov. | 18:30 Uhr · weitere Termine Köln · Kölner Zoo
-ab 6 Anmeldung
+6 ausgewählte Veranstaltungen
 22 NOV
 Workshop
 ★ [Weihnachtliches Bio-Plätzchenbacken](https://familienhopper.de/events/weihnachtliches-bio-plaetzchenbacken-koeln-2026-11-22)
@@ -31,6 +24,8 @@ So, 22. Nov. | 11 Uhr Köln · Gut Leidenhausen
 Erst erfahren Teilnehmende, wie Japan feiert, dann falten sie eine Grußkarte.
 Sa, 21. Nov. | 14 Uhr Köln · Museum für Ostasiatische Kunst
 ★ Kinder 6 bis 10 Anmeldung
+Mehrere
+Termine
 Theater
 ★ [Die Kuh Swantje](https://familienhopper.de/events/die-kuh-swantje-koeln-2026-11-21)
 ★ Kleine Gäste muhen, tanzen und singen im Krabbeltheater mit.
@@ -62,44 +57,39 @@ Museum/Ausstellung
 ★ [Familien-Weihnachtspark 2026/2027](https://familienhopper.de/events/familien-weihnachtspark-2026-2027-koeln-2026-11-19)
 Besucher streicheln auf dem Hof Tiere, dazu leuchten viele Lichter.
 ★ Laufend | [Uhrzeit beim Veranstalter](https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/) Köln · Gertrudenhof
-20 NOV
-★ [Kaspertheater auf dem Weihnachtsmarkt im Stadtgarten](https://familienhopper.de/events/kaspertheater-auf-dem-weihnachtsmarkt-im-stadtgarten-koeln-2026-11-20)
-★ Das Theater SternKundt spielt Kasperlestücke auf dem Weihnachtsmarkt.
-Fr, 20. Nov. | 16:30 Uhr Köln · Stadtgarten
-★ Kinder Kostenlos
 ★ Markt/Flohmarkt
 ★ [Lindenthaler Adventstreff](https://familienhopper.de/events/lindenthaler-adventstreff-koeln-2026-11-19)
-Fr, 20. Nov. | 12 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
+Sa, 21. Nov. | 12 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
 Kostenlos Outdoor
 ★ [Ehrenfelder Weihnachtsmarkt im Bumann & Sohn](https://familienhopper.de/events/ehrenfelder-weihnachtsmarkt-im-bumann-sohn-koeln-2026-11-12)
-Fr, 20. Nov. | 17 Uhr · weitere Termine Köln · Bumann & Sohn
+Sa, 21. Nov. | 14 Uhr · weitere Termine Köln · Bumann & Sohn
 Outdoor
 ★ [Weihnachtsmarkt im Stadtgarten](https://familienhopper.de/events/weihnachtsmarkt-im-stadtgarten-koeln-2026-11-13)
 ★ Besucher stöbern in Hütten nach Handwerk und Design, Kinder haben ein Programm.
-Fr, 20. Nov. | 16 Uhr · weitere Termine Köln · Stadtgarten
+Sa, 21. Nov. | 12 Uhr · weitere Termine Köln · Stadtgarten
 ★ [Santas Weihnachtsmarkt im MediaPark](https://familienhopper.de/events/santas-weihnachtsmarkt-im-mediapark-koeln-2026-11-19)
 Am See vor dem KölnTower gibt es ein Programm im Elfenhaus zu entdecken.
-Fr, 20. Nov. | 14 Uhr · weitere Termine Köln · MediaPark, Platz am KölnTower
+Sa, 21. Nov. | 12 Uhr · weitere Termine Köln · MediaPark, Platz am KölnTower
 ★ [Hafen-Weihnachtsmarkt am Schokoladenmuseum](https://familienhopper.de/events/hafen-weihnachtsmarkt-am-schokoladenmuseum-koeln-2026-11-13)
 Am Rheinauhafen schlendern Besucher zwischen Buden mit Blick aufs Wasser.
-Fr, 20. Nov. | 11 Uhr · weitere Termine Köln · Rheinauhafen am Schokoladenmuseum
+Sa, 21. Nov. | 11 Uhr · weitere Termine Köln · Rheinauhafen am Schokoladenmuseum
 ★ [Weihnachtsmarkt an St. Aposteln](https://familienhopper.de/events/weihnachtsmarkt-an-st-aposteln-koeln-2026-11-16)
-Fr, 20. Nov. | 11 Uhr Ruhetage: Sonntag, 22. November 2026, Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · an der Kirche St. Aposteln
+Sa, 21. Nov. | 11 Uhr Ruhetage: Sonntag, 22. November 2026, Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · an der Kirche St. Aposteln
 ★ [Weihnachtsmarkt Köln-West](https://familienhopper.de/events/weihnachtsmarkt-koeln-west-koeln-2026-11-19)
-Fr, 20. Nov. | 14 Uhr · weitere Termine Köln · Quartier B, ehemaliges 4711-Gelände
+Sa, 21. Nov. | 12 Uhr · weitere Termine Köln · Quartier B, ehemaliges 4711-Gelände
 Drinnen & draußen
 ★ [Vringsadvent – Weihnachtsmarkt auf dem Chlodwigplatz](https://familienhopper.de/events/vringsadvent-weihnachtsmarkt-auf-dem-chlodwigplatz-koeln-2026-11-19)
+★ [Nikolausdorf auf dem Rudolfplatz](https://familienhopper.de/events/nikolausdorf-auf-dem-rudolfplatz-koeln-2026-11-16)
+Sa, 21. Nov. | 11 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
 Hier entsteht etwas zum Mitnehmen
 8 ausgewählte Veranstaltungen
-★ [Schere, Stift, Papier](https://familienhopper.de/events/schere-stift-papier-koeln-2026-11-20)
-Fr, 20. Nov. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
-6–10 Jahre Anmeldung
 28 NOV
-★ [Deine Schokoladentafel](https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-20)
-Sa, 28. Nov. | 15:45 Uhr · 19 weitere bis 29.01. Köln · Schokoladenmuseum
-8–10 Jahre Tickets
 ★ [Schokoladig, bunt und lecker](https://familienhopper.de/events/schokoladig-bunt-und-lecker-koeln-2026-11-21)
-Sa, 21. Nov. | 13:15 Uhr · 63 weitere bis 16.05. Köln · Schokoladenmuseum
+Sa, 28. Nov. | 13:15 Uhr · 63 weitere bis 16.05. Köln · Schokoladenmuseum
+8–10 Jahre Tickets
+★ [Deine Schokoladentafel](https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-21)
+Aus verschiedenen Sorten und Zutaten entsteht eine eigene Tafel zum Mitnehmen.
+Sa, 28. Nov. | 15:45 Uhr · 18 weitere bis 29.01. Köln · Schokoladenmuseum
 ★ [Figuren-Werkstatt](https://familienhopper.de/events/figuren-werkstatt-koeln-2026-11-21)
 So, 22. Nov. | 10:15 Uhr · 19 weitere bis 31.01. Köln · Schokoladenmuseum
 26 NOV
@@ -117,15 +107,11 @@ So, 6. Dez. | 1 Uhr Köln · Bauernhoferlebnis
 ★ [Vogelfutterhäuschen bauen für den Winter](https://familienhopper.de/events/vogelfutterhaeuschen-bauen-fuer-den-winter-koeln-2026-12-12)
 Sa, 12. Dez. | 14 Uhr Köln · MAKK – Museum für Angewandte Kunst
 ★ Kinder 9 bis 13 Anmeldung
+18 DEZ
+★ [Schere, Stift, Papier](https://familienhopper.de/events/schere-stift-papier-koeln-2026-12-18)
+Fr, 18. Dez. | 16 Uhr Köln · Stadtteilbibliothek Chorweiler
+6–10 Jahre Anmeldung
 Kleine Forscher
-9 ausgewählte Veranstaltungen
-★ [Mach MI(N)T!](https://familienhopper.de/events/mach-mi-n-t-koeln-2026-11-20)
-Fr, 20. Nov. | 16:30 Uhr Köln · Stadtteilbibliothek Ehrenfeld
-★ ab 5 Jahren Kostenlos
-★ [MINT-Vorlesen und Experimentieren](https://familienhopper.de/events/mint-vorlesen-und-experimentieren-koeln-2026-11-20)
-★ Kinder von 6 bis 8 hören Geschichten und experimentieren danach selbst.
-Fr, 20. Nov. | 16 Uhr · 1 weitere bis 16.12. Köln · Stadtteilbibliothek Rodenkirchen
-★ 6–8 Jahre Anmeldung
 ★ [Kleine Schoko-Schule öffentliche Familien-Führung](https://familienhopper.de/events/kleine-schoko-schule-oeffentliche-familien-fuehrung-koeln-2026-11-22)
 ★ Familien probieren Vorprodukte, schälen eine Kakaobohne und sehen die Fabrik.
 So, 22. Nov. | 10:30 Uhr · weitere Termine Köln · Schokoladenmuseum
@@ -152,10 +138,11 @@ Fr, 27. Nov. | 16 Uhr · 1 weitere bis 08.01. Köln · Stadtteilbibliothek Haus 
 1 DEZ
 ★ [Wir spielen Schach](https://familienhopper.de/events/wir-spielen-schach-koeln-2026-12-01)
 Di, 1. Dez. | 16 Uhr · 1 weitere bis 05.01. Köln · Stadtteilbibliothek Mülheim
+16 DEZ
+★ [MINT-Vorlesen und Experimentieren](https://familienhopper.de/events/mint-vorlesen-und-experimentieren-koeln-2026-12-16)
+Mi, 16. Dez. | 16 Uhr Köln · Stadtteilbibliothek Rodenkirchen
+★ 6–8 Jahre Anmeldung
 Zauber & Bühne — das erste Mal
-★ [E Leech zom Chressfess](https://familienhopper.de/events/e-leech-zom-chressfess-koeln-2026-11-20)
-Fr, 20. Nov. | 15 Uhr · 20 weitere bis 20.12. Köln · Hänneschen Theater
-Anmeldung Indoor
 ★ [Die Eiskönigin](https://familienhopper.de/events/die-eiskoenigin-koeln-2026-11-21)
 ★ Im Märchen nach Andersen sucht Kay nach seiner verschwundenen Freundin Tilda.
 Sa, 21. Nov. | 14 Uhr · weitere Termine Köln · Horizont Theater
@@ -183,6 +170,10 @@ Sa, 21. Nov. | 11 Uhr · weitere Termine Köln · Kölner Philharmonie
 ★ Ein Fantasyroman wird für Kinder ab zehn Jahren auf die Bühne gebracht.
 Sa, 21. Nov. | 15 Uhr · weitere Termine Köln · Orangerie Theater im Volksgarten
 ★ ab 10 Jahren Indoor
+★ [E Leech zom Chressfess](https://familienhopper.de/events/e-leech-zom-chressfess-koeln-2026-11-21)
+★ Beim Weihnachtsmärchen backen Hänneschen und Bärbelchen Plätzchen.
+Sa, 21. Nov. | 15 Uhr · 19 weitere bis 20.12. Köln · Hänneschen Theater
+Anmeldung Indoor
 ★ [Besuch im Druntenunten: Kindertheater in der wohngemeinschaft](https://familienhopper.de/events/besuch-im-druntenunten-kindertheater-in-der-wohngemeinschaft-koeln-2026-11-22)
 Regenwurm Buddelpieter sucht mit dem Publikum nach den Kartoffeln.
 So, 22. Nov. | 14 Uhr Köln · die wohngemeinschaft (Theater, Belgisches Viertel)
@@ -190,13 +181,13 @@ So, 22. Nov. | 14 Uhr Köln · die wohngemeinschaft (Theater, Belgisches Viertel
 ★ [Figurentheater „Kuckuck und Esel“ von Theater Rosenfisch im Bumann & Sohn](https://familienhopper.de/events/figurentheater-kuckuck-und-esel-von-theater-rosenfisch-im-bumann-sohn-koeln-2026-11-22)
 So, 22. Nov. | 15 Uhr Köln · Bumann & Sohn
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 283 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 279 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [20. Nov. Taschenlampen-Expedition für Familien](https://familienhopper.de/events/taschenlampen-expedition-fuer-familien-koeln-2026-11-20)
-★ [20. Nov. E Leech zom Chressfess](https://familienhopper.de/events/e-leech-zom-chressfess-koeln-2026-11-20)
-★ [20. Nov. Monstermäßige Vorlesezeit](https://familienhopper.de/events/monstermaessige-vorlesezeit-koeln-2026-11-20)
+★ [21. Nov. Die Kuh Swantje](https://familienhopper.de/events/die-kuh-swantje-koeln-2026-11-21)
+★ [21. Nov. Weihnachtsparkfest XXL mit Adventsshopping](https://familienhopper.de/events/weihnachtsparkfest-xxl-mit-adventsshopping-koeln-2026-11-21)
+★ [21. Nov. Familientag bei Barnes Crossing im Kunstzentrum Wachsfabrik](https://familienhopper.de/events/familientag-bei-barnes-crossing-im-kunstzentrum-wachsfabrik-koeln-2026-11-21)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 Top-Ziele in Köln
@@ -210,13 +201,13 @@ Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preis
 Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 71 Vorstellungen, der nächste am 20.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 70 Vorstellungen, der nächste am 21.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 283 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 279 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
-★ Ja, 76 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
+★ Ja, 73 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?
-★ 222 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
+★ 219 aktuelle Termine finden drinnen statt. [Drinnen-Ideen](https://familienhopper.de/koeln/indoor/)
 Über diese Seite
 ★ Für Köln bündelt Familienhopper Familien-Events aus städtischen und kulturellen Quellen: Museumstage, Mitmachaktionen, Kinderkultur, Stadtteilfeste und Ferienangebote. Familienhopper zeigt nur belegte Termine – ohne erfundene Empfehlungen und ohne Versprechen, die die Originalseite nicht trägt. Der Kalender ist unabhängig und nicht kommerziell.
 ★ Die Filter oben grenzen die Liste nach Tag, Alter oder Thema ein. So bleibt die Übersicht nutzbar, auch wenn viel im Kalender steht. Wer das Wochenende vorbereiten will, nutzt das [Wochenendprogramm in Köln](https://familienhopper.de/koeln/wochenende/). Kostenlose Termine mit freiem Eintritt sind unter [kostenlosen Familien-Events in Köln](https://familienhopper.de/koeln/kostenlos/) gesammelt.

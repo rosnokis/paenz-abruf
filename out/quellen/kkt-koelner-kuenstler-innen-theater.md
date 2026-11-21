@@ -21,16 +21,10 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-Jugendtheater
-[Die anderen Anderen - Öteki Ötekiler](https://www.k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend)
-Drei Fremde treffen auf dem Dach eines Museums aufeinander. Sie haben nichts gemeinsam, außer einem Talent dafür, nicht dazuzugehören. Es gibt einen wichtigen Grund, warum sie hier sind. Und ein großes Problem. Sie können sich nicht ausstehen.
-Nächste Termine
-Freitag, 20. November 2026
-20:00 Uhr
-Abendpremiere
 ★ Kindertheater
 [(Ein) Winternachtstraum](https://www.k-k-t.de/stuecke/winternachtstraum)
 Undine und Paul finden den verlorenen König
+Nächste Termine
 Samstag, 21. November 2026
 16:00 Uhr
 Sonntag, 22. November 2026
@@ -38,7 +32,12 @@ Sonntag, 22. November 2026
 Dienstag, 24. November 2026
 10:00 Uhr
 fällt leider aus!
+Jugendtheater
 [THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
 Jugendliche und KI – wie echt ist unser Leben?
 Mittwoch, 25. November 2026
 Bitte vorab reservieren
+[Pettersson und Findus: Feuerwerk für den Fuchs](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)
+Pettersson und Findus erleben ein Abenteuer
+Donnerstag, 26. November 2026
+Samstag, 28. November 2026

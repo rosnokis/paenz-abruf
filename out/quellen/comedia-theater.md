@@ -40,32 +40,22 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-19.11.
-Do 19:00 Uhr
-BINGO
-Bingo & Music Bingo in der HALLE - Eintritt frei!
-[Tickets](https://halle.comedia-koeln.de/)
 20.11.
-Fr 11:00 Uhr
-[Erinnerung eines Mädchens »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
-in einer Bearbeitung von Riccarda Russo und Ben Denke nach Annie Ernaux
-Comedia Theater (Studio)
-[Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Fr 18:00 Uhr
 [Somatic Earthquake - Tanzworkshop »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
 In der 510 Comedia in Köln- Mühlheim
-Fr 19:00 Uhr
-[Tickets](https://api.qultor.de/erinnerung-eines-maedchens/erinnerung-eines-maedchens-2026-11-20-1900/tickets)
 21.11.
 Sa 19:00 Uhr
 DJ Session
 Live in der Halle!
+[Tickets](https://halle.comedia-koeln.de/)
 Sa 20:30 Uhr
 [Lara Ermer: Leicht entflammbar »](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
 Comedia Theater (Grüner Saal)
 [Tickets](https://api.qultor.de/lara-ermer-leicht-entflammbar/lara-ermer-leicht-entflammbar-2026-11-21-2000/tickets)
 Sa 20:31 Uhr
 [Marco Pogo: Lost & Found »](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
+Comedia Theater (Studio)
 [Tickets](https://api.qultor.de/marco-pogo-lost-found/marco-pogo-lost-found-2026-11-21-2030/tickets)
 22.11.
 So 18:00 Uhr
@@ -73,11 +63,12 @@ Premiere
 [Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
 ★ von Sergej Gößner, für alle ab 5 Jahren
 Comedia Theater (Roter Saal)
-[Hinweis](https://qultor.de/veranstaltungshinweis)
+Ausverkauft
 24.11.
 Di 09:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
 Di 11:00 Uhr
+[Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Di 19:00 Uhr
 [Titanic »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
 Eine Komödie über schöne Menschen, die große Gefühle spielen
@@ -101,5 +92,15 @@ Do 11:00 Uhr
 Do 12:00 Uhr
 27.11.
 Fr 09:00 Uhr
+Fr 11:00 Uhr
+Fr 17:00 Uhr
+[Das Haus vom Klaus »](https://comedia-koeln.de/magazin/das-haus-vom-klaus/)
+Weihnachtszauber im Winterdorf der Halle der COMEDIA (drinnen/draußen)
+bis 22:00 Uhr
+[Fortsetzung Antragstellung-Workshop mit Ulrike Seybold »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
+Fr 19:30 Uhr
+Relaxed Performance
+[WeArtHere! Dress to impress - Wie politisch ist Mode? »](https://comedia-koeln.de/programm/unsere-gaeste/wearthere/)
+[Tickets](https://api.qultor.de/wearthere-dress-to-impress-wie-politisch-ist-mode/wearthere-dress-to-impress-wie-politisch-ist-mode-2026-11-27-1930/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

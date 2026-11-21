@@ -1,33 +1,11 @@
 [
  {
-  "name": "Liebig goes Stöckchen // Umzugsphase // das Liebig 257 hat geschlossen",
+  "name": "Liebig goes Stöckchen // Umzugsphase",
   "startDate": "2026-10-31T00:00:59+01:00",
   "endDate": "2026-12-31T23:59:01+01:00",
   "location": {
-   "name": "Liebig goes Stöckchen // Umzugsphase // das Liebig 257 hat geschlossen",
-   "address": "Liebig goes Stöckchen // Umzugsphase // das Liebig 257 hat geschlossen"
-  },
-  "kinder": true,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "Stöckchen besetzt - pack mit an!",
-  "startDate": "2026-11-20T09:00:00+01:00",
-  "endDate": "2026-11-20T14:00:00+01:00",
-  "location": {
-   "name": "Stöckchen besetzt - pack mit an!",
-   "address": "Stöckchen besetzt - pack mit an!"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "GROßER MITMACHTAG im Stöckchen",
-  "startDate": "2026-11-20T14:00:00+01:00",
-  "endDate": "2026-11-20T21:00:00+01:00",
-  "location": {
-   "name": "GROßER MITMACHTAG im Stöckchen",
-   "address": "GROßER MITMACHTAG im Stöckchen"
+   "name": "Liebig goes Stöckchen // Umzugsphase",
+   "address": "Liebig goes Stöckchen // Umzugsphase"
   },
   "kinder": true,
   "quelle": "https://klugev.de"

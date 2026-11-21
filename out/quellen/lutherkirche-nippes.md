@@ -27,6 +27,13 @@ Ihr findet uns auf
 [spotify](https://open.spotify.com/show/35rUU6JkkJZpYw8OBgRQzT), [deezer](https://www.deezer.com/de/show/995302) und [itunes](https://podcasts.apple.com/de/podcast/gott-und-klopapier/id1505054843)
 [Alle Podcast-Folgen](https://www.lutherkirche-nippes.de/podcast/)
 Themen und Geschichten
+[Stolpersteinverlegung](https://www.lutherkirche-nippes.de/2026/11/20/stolperstein/)
+In Gedenken an Julio, Christel & Hans Günter Goslar
+Am Morgen des 12. Novembers war es soweit: Vor unserem Gemeindehaus sind die Stolpersteine für Julio, Christel und Hans Günter Goslar verlegt worden. Um die 150 Menschen aus der Gemeinde und der Nachbarschaft waren bei der berührenden Zeremonie dabei.
+★ Es ist ein Teil der Geschichte unserer Kirchengemeinde, dass der Familie Goslar großes Unrecht und Leid angetan worden ist. Diese Schuld gilt es zu anzuerkennen und zu benennen. Sie muss uns umso wachsamer machen, gegen jedes Unrecht, das geschieht, einzustehen.
+Die jüdische, die biblische und auch unsere christliche Tradition sind durchdrungen von dem Wert des Erinnerns. Es ist zuerst Gott selbst, der sich erinnert und gedenkt. Und aus dem Gedenken Gottes erwächst der Auftrag an die Menschen, sich zu erinnern und zu gedenken.
+Erinnern bedeutet auch, Menschen, denen Unrecht und Leid zugefügt wurden, ihre Würde zu bewahren und zurückzugeben. Ihre Namen zu nennen, von ihren Persönlichkeiten zu erzählen, ihre einzigartigen und unendlich wertvollen Leben zu würdigen.
+[Weiterlesen](https://www.lutherkirche-nippes.de/2026/11/20/stolperstein/)
 [Danke für die Rettung des Kirchturms!](https://www.lutherkirche-nippes.de/2026/07/27/danke/)
 ♥️-lichen Dank für Ihre Unterstützung und Verbundenheit mit der Lutherkirche Nippes!
 Die Sanierung des Kirchturms der Lutherkirche Nippes wäre ohne unsere zahlreichen Unterstützer*innen nicht möglich gewesen. Durch Ihr großes Engagement, Ihre großzügigen Spenden und die professionelle Arbeit von Architekten und Baufirmen konnte dieses Projekt verwirklicht werden. Dafür sind wir sehr dankbar.
@@ -43,13 +50,6 @@ Gottesdienst am Pfingsmontag – Pfingston Town.
 ★ Zum letzten offiziellen Gottesdienst von Pfarrer Thomas Diederichs gibt es Texte, Musik von der „Familie Love“ und zum Schluss ein exklusives DJ-Set von Thomas Diederichs. Feuerwerk, grandiose Talente auf der Bühne, eine geniale Band und viel Freude und Enthusiasmus bei den rund 450 Gottesdienst-Besucherinnen und -Besuchern.
 ★ Mit Pfarrer Thomas Diederichs und der „Familie Love“
 [Weiterlesen](https://www.lutherkirche-nippes.de/2026/05/26/gottesdienst-livestream-osternacht-2025-copy-copy/)
-[Osternacht 2026](https://www.lutherkirche-nippes.de/2026/04/13/gottesdienst-livestream-osternacht-2025-copy/)
-Gottesdienst in der Lutherkirche Nippes | 04.04.2026 | 21 Uhr
-„Lost and Found“
-Gemeinsam sind wir auf der Suche nach der Antwort auf die Frage:
-„Wer bin ich? Wo will ich hin? Und was soll das alles überhaupt?“
-Unsere Lieder und Texte zur Osternacht!
-[Weiterlesen](https://www.lutherkirche-nippes.de/2026/04/13/gottesdienst-livestream-osternacht-2025-copy/)
 [Alle Themen und Geschichten](https://www.lutherkirche-nippes.de/blog/)
 Alles fürs Klima
 [Lebensraum Kirchturm](https://www.lutherkirche-nippes.de/2023/04/24/turmfalken-flugge-copy/)

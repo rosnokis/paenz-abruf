@@ -14,20 +14,12 @@ April
 Mai
 Juni
 Juli
-20.11.2026
-Heute
-Fr., 19:00
-Kölner Philharmonie
-Sinfoniekonzert
-[Kronberg Academy](https://www.guerzenich-orchester.de/de/event-detail/kronberg-academy-26-27)
-Werke von Béla Bartók, Joseph Haydn, Camille Saint-Saëns und Richard Strauss
-ab 12,00 €
-[Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26331&language=de)
 22.11.2026
 22.11.
 2026
 So., 11:00
 Het Concertgebouw
+Sinfoniekonzert
 [Gastspiel Amsterdam](https://www.guerzenich-orchester.de/de/event-detail/gastspiel-amsterdam-november)
 Werke von Richard Strauss
 ab 21,00 €
@@ -41,8 +33,10 @@ ab 27,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26380&language=de)
 06.12.2026
 06.12.
+Kölner Philharmonie
 [Schicksalsschläge](https://www.guerzenich-orchester.de/de/event-detail/schicksalsschlaege)
 Werk von Gustav Mahler
+ab 12,00 €
 [Restkarten](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26302&language=de)
 07.12.2026
 07.12.

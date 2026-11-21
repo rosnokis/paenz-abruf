@@ -1,47 +1,40 @@
 {
  "quelle": "MET Norway (yr.no)",
  "url": "https://www.yr.no/en/forecast/daily-table/2-2886242/Germany/North%20Rhine-Westphalia/Cologne%20District/Cologne",
- "stand": "2026-11-20",
+ "stand": "2026-11-21",
  "tage": {
-  "2026-11-20": {
-   "w": "Regen",
-   "i": "regen",
-   "max": 10,
-   "min": 2,
-   "mm": 7.5
-  },
   "2026-11-21": {
-   "w": "Teilweise bewölkt",
+   "w": "Überwiegend sonnig",
    "i": "teils",
    "max": 8,
-   "min": 1,
-   "mm": 0.0
+   "min": 0,
+   "mm": 0.4
   },
   "2026-11-22": {
    "w": "Teilweise bewölkt",
    "i": "teils",
-   "max": 6,
+   "max": 7,
    "min": -1,
    "mm": 0.0
   },
   "2026-11-23": {
-   "w": "Sonnig",
-   "i": "sonne",
+   "w": "Teilweise bewölkt",
+   "i": "teils",
    "max": 4,
-   "min": 0,
-   "mm": 0.0
-  },
-  "2026-11-24": {
-   "w": "Sonnig",
-   "i": "sonne",
-   "max": 3,
    "min": -1,
    "mm": 0.0
   },
-  "2026-11-25": {
+  "2026-11-24": {
    "w": "Bewölkt",
    "i": "wolke",
-   "max": 3,
+   "max": 2,
+   "min": -2,
+   "mm": 0.0
+  },
+  "2026-11-25": {
+   "w": "Teilweise bewölkt",
+   "i": "teils",
+   "max": 4,
    "min": -2,
    "mm": 0.0
   },
@@ -49,29 +42,36 @@
    "w": "Teilweise bewölkt",
    "i": "teils",
    "max": 3,
-   "min": -1,
+   "min": -2,
    "mm": 0.0
   },
   "2026-11-27": {
-   "w": "Sonnig",
-   "i": "sonne",
-   "max": 2,
-   "min": -3,
+   "w": "Teilweise bewölkt",
+   "i": "teils",
+   "max": 3,
+   "min": 0,
    "mm": 0.0
   },
   "2026-11-28": {
-   "w": "Schneeschauer",
+   "w": "Regen",
    "i": "regen",
-   "max": 5,
-   "min": -2,
-   "mm": 7.6
+   "max": 4,
+   "min": 0,
+   "mm": 8.6
   },
   "2026-11-29": {
-   "w": "Bewölkt",
-   "i": "wolke",
-   "max": 5,
+   "w": "Regen",
+   "i": "regen",
+   "max": 8,
    "min": 3,
-   "mm": 0.9
+   "mm": 9.1
+  },
+  "2026-11-30": {
+   "w": "Regen",
+   "i": "regen",
+   "max": 12,
+   "min": 8,
+   "mm": 11.7
   }
  }
 }

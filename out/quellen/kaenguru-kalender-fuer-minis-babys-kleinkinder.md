@@ -6,12 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Kunst und Kinderwagen](https://www.kaenguru-online.de/kalender/fuer-minis/kunst-und-kinderwagen/2026-11-20)
-★ Führung für Eltern mit Babys im Museum
-20.11.2026
-12:00 Uhr
-Von der Heydt-Museum
-Wuppertal
 ★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21)
 ★ Das Ensemble Nicopoulos zeigt ein Krabbeltheater für Kinder ab 2 Jahren
 21.11.2026
@@ -84,3 +78,4 @@ Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transpor
 ★ Das Ensemble Nicopoulos spielt für Kinder ab 2 Jahren.
 ★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28)
 28.11.2026
+★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-28)

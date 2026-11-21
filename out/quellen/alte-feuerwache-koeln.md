@@ -19,15 +19,7 @@ SA
 17
 18
 19
-FR 20.11.
-[Jugend, Kreatives Töpfer-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/toepfer-angebot/)
-[FR 20.11. Psychologische Beratung 09:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-8/)
-[FR 20.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-37/)
-★ [FR 20.11. Offener Kindertreff 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/offener-kindertreff-3/)
-[FR 20.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-10/)
-[FR 20.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-15/)
-[FR 20.11. Write & Sing Your Song 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/write-sing-your-song-5/)
-[FR 20.11. GIS meets Nature - digitale Karten selbst erstellen 17:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/gis-meets-nature-digitale-karten-selbst-erstellen/)
+20
 SA 21.11.
 [Frauen, TINAQ+ und Queers, Politik & Gesellschaft Meet & Connect: Brunch 10:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/meet-connect-brunch/)
 [Kultur Saba Arat: TEZGAH 15:00 · Halle](https://altefeuerwachekoeln.de/programm/saba-arat-tezgah/)
