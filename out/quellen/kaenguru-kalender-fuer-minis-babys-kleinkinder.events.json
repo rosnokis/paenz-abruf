@@ -18,15 +18,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Familientag bei Barnes Crossing",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/familientag-bei-barnes-crossing/2026-11-21",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Krabbel-Konzert",
   "location": {
    "name": "Bonn"
@@ -72,6 +63,24 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "„BlubberBlasen SeifenZauber\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/blubberblasen-seifenzauber/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Das kleine Zottel Mottel feiert Weihnachten\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-feiert-weihnachten/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„Der Grüffelo\"",
   "location": {
    "name": "Bonn"
@@ -94,25 +103,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die Kuh Swantje\"",
-  "location": {
-   "name": "Köln"
-  },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die Schnecke und der Buckelwal\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -139,15 +130,6 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Kleiner Drache, wünsch dir was\"",
-  "location": {
-   "name": "Köln"
-  },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
@@ -162,11 +144,29 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "„Paulina und der Zirkus Papilotte\"",
+  "name": "„Kleiner Drache, wünsch dir was\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Moby Dünn\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/moby-duenn/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Remmidemmi unter Baum Nr. 5\"",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/remmidemmi-unter-baum-nr-5-4/2026-11-29",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -175,7 +175,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-29",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  }

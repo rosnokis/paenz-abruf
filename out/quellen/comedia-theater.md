@@ -40,23 +40,11 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-20.11.
-Fr 18:00 Uhr
-[Somatic Earthquake - Tanzworkshop »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
-In der 510 Comedia in Köln- Mühlheim
 21.11.
 Sa 19:00 Uhr
 DJ Session
 Live in der Halle!
 [Tickets](https://halle.comedia-koeln.de/)
-Sa 20:30 Uhr
-[Lara Ermer: Leicht entflammbar »](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
-Comedia Theater (Grüner Saal)
-[Tickets](https://api.qultor.de/lara-ermer-leicht-entflammbar/lara-ermer-leicht-entflammbar-2026-11-21-2000/tickets)
-Sa 20:31 Uhr
-[Marco Pogo: Lost & Found »](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
-Comedia Theater (Studio)
-[Tickets](https://api.qultor.de/marco-pogo-lost-found/marco-pogo-lost-found-2026-11-21-2030/tickets)
 22.11.
 So 18:00 Uhr
 Premiere
@@ -86,6 +74,7 @@ Do 09:00 Uhr
 Do 09:30 Uhr
 [Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
 in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
+Comedia Theater (Grüner Saal)
 14+
 Do 11:00 Uhr
 [Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
@@ -97,10 +86,16 @@ Fr 17:00 Uhr
 [Das Haus vom Klaus »](https://comedia-koeln.de/magazin/das-haus-vom-klaus/)
 Weihnachtszauber im Winterdorf der Halle der COMEDIA (drinnen/draußen)
 bis 22:00 Uhr
+Fr 18:00 Uhr
 [Fortsetzung Antragstellung-Workshop mit Ulrike Seybold »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
+In der 510 Comedia in Köln- Mühlheim
 Fr 19:30 Uhr
 Relaxed Performance
 [WeArtHere! Dress to impress - Wie politisch ist Mode? »](https://comedia-koeln.de/programm/unsere-gaeste/wearthere/)
 [Tickets](https://api.qultor.de/wearthere-dress-to-impress-wie-politisch-ist-mode/wearthere-dress-to-impress-wie-politisch-ist-mode-2026-11-27-1930/tickets)
+28.11.
+Sa 15:00 Uhr
+Sa 19:30 Uhr
+[Tickets](https://api.qultor.de/jugend-ohne-gott/jugend-ohne-gott-2026-11-28-1930/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

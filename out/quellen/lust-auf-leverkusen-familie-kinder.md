@@ -3,21 +3,15 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-54 kommende Veranstaltungen in dieser Kategorie
+53 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(54)
-21
+(53)
+22
 Nov
 ★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-[Sport & Spiel](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/sport-spiel/)
-Sa
-11:00 Uhr
-★ [Weltkindertag](https://lust-auf-leverkusen.de/veranstaltung/weltkindertag/)
-[NaturGut Ophoven. Standort Stauffenbergstraße.](https://lust-auf-leverkusen.de/veranstaltungsort/naturgut-ophoven-standort-stauffenbergstrasse/)
-22
 [Umwelt & Natur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/umwelt-natur/)
 So
 15:00 Uhr
@@ -27,6 +21,7 @@ So
 ★ [Tickets](https://www.kindertheater-papiermond.de/ticketreservierung)
 16:00 Uhr
 ★ [Kasperletheater](https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/)
+[NaturGut Ophoven. Standort Stauffenbergstraße.](https://lust-auf-leverkusen.de/veranstaltungsort/naturgut-ophoven-standort-stauffenbergstrasse/)
 24
 [Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
 Di
@@ -58,6 +53,7 @@ Dez
 Ausverkauft
 [Olaf, der Elch](https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-09-30/)
 [Forum Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/forum/)
+11:00 Uhr
 [Olaf, der Elch](https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-11-00/)
 16:30 Uhr
 ★ [Die Schlossgespenster. Der Kunstklub für Kinder.](https://lust-auf-leverkusen.de/veranstaltung/schlossgespenster/2026-12-01-16-30/)
@@ -78,3 +74,5 @@ Ausverkauft
 Mo
 11:30 Uhr
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-07-11-30/)
+08
+[Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-09-30/)

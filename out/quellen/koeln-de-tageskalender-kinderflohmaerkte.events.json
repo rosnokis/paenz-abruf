@@ -1,18 +1,5 @@
 [
  {
-  "name": "Vorsortierter Second-Hand-Markt für Spielzeug",
-  "startDate": "2026-11-21T10:00:00+01:00",
-  "endDate": "2026-11-21T12:30:00+01:00",
-  "location": {
-   "name": "Christ-König-Kirche Longerich",
-   "address": "Altonaer Straße 65, 50737 Köln"
-  },
-  "url": "https://www.koeln.de/event/kinderflohmarkt-in-longerich/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
- },
- {
   "name": "Kinderflohmarkt im Krewelshof Lohmar",
   "startDate": "2026-11-28T09:00:00+01:00",
   "endDate": "2026-11-28T15:00:00+01:00",

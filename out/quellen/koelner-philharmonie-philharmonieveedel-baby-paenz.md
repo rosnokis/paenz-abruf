@@ -67,22 +67,11 @@ Bürgerzentrum Engelshof e. V.
 
 ## Quelle: https://www.koelner-philharmonie.de/en/events?tags=26
 Concerts
-Sat
-21.11.2026
-11:00
-[4-8 years](https://www.koelner-philharmonie.de/en/events?tags=59)
-[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
-[Participate](https://www.koelner-philharmonie.de/en/events?tags=12)
-★ [Familienworkshop »Im Zauberwald«](https://www.koelner-philharmonie.de/en/events/familienworkshop-im-zauberwald/9327)
-★ For children ages 4 to 8 and their families
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8125&language=en)
-13:00
-★ [Familienworkshop »Im Zauberwald«](https://www.koelner-philharmonie.de/en/events/familienworkshop-im-zauberwald/9329)
-[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=8126&language=en)
 Tue
 24.11.2026
 15:00
 [0-2 years](https://www.koelner-philharmonie.de/en/events?tags=46)
+[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
 [Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
 Bürgerhaus Kalk
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9529)
@@ -90,6 +79,7 @@ Bürgerhaus Kalk
 Sun
 29.11.2026
 1. Advent
+11:00
 [6-10 years](https://www.koelner-philharmonie.de/en/events?tags=58)
 [Christmas](https://www.koelner-philharmonie.de/en/events?tags=52)
 [»Jauchzet, frohlocket!«](https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205)
@@ -114,3 +104,9 @@ Fri
 04.12.2026
 Bürgerzentrum Nippes – Altenberger Hof
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534)
+★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9535)
+13.12.2026
+3. Advent
+★ [Das Geheimnis der Weihnachtswichtel – Familienkonzert](https://www.koelner-philharmonie.de/en/events/das-geheimnis-der-weihnachtswichtel-familienkonzert/9372)
+Gürzenich-Orchester Köln
+[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=260&event=26343&language=en)

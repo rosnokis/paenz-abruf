@@ -4,24 +4,14 @@
 ★ Kinderbasar Termine in der Nähe von
 50667 Köln (Umkreis 20 km)
 In und um 50667 Köln findest du aktuell
-★ 6 Kinderbasar-Termine im Umkreis von 20 km.
+★ 4 Kinderbasar-Termine im Umkreis von 20 km.
 ★ Ob Abgabebasar, Selbstverkäuferbasar oder Babytrödel: Alle Termine werden von
 ★ Veranstaltern und Eltern direkt eingetragen und laufend aktualisiert.
 ★ Du organisierst selbst einen Kinderflohmarkt in der Region? Dann
 ★ [trag deinen Termin kostenlos ein](https://www.kinderbasar-online.de/Kinderbasar/Erstellen), damit
 ★ noch mehr Familien ihn finden.
-21
-Nov
-★ [Kinderflohmarkt](https://www.kinderbasar-online.de/Kinderbasar/Termine/Detail/kinderflohmarkt/IdBvHJbn)
-Samstag, 21.11.2026
-von 10:00 bis 13:00 Uhr
-★ Kita Krebsweg
-Krebsweg 12, 51427 Bergisch Gladbach
-★ [1. Spielzeugbörse](https://www.kinderbasar-online.de/Kinderbasar/Termine/Detail/1-spielzeugboerse/0On1HZZT)
-von 16:00 bis 19:00 Uhr
-★ Kita Heilige Drei Könige
-Hebborner Kirchweg 1, 51467 Bergisch Gladbach
 29
+Nov
 ★ [Kinderflohmarkt Köln Ehrenfeld](https://www.kinderbasar-online.de/Kinderbasar/Termine/Detail/kinderflohmarkt-koeln-ehrenfeld/560T6H0F)
 Sonntag, 29.11.2026
 von 11:00 bis 14:00 Uhr
@@ -37,7 +27,7 @@ Sonntag, 13.12.2026
 Mai
 ★ [Vorsortierte Kindersachenbasar Familienzentrum Hippolytusgarten](https://www.kinderbasar-online.de/Kinderbasar/Termine/Detail/vorsortierte-kindersachenbasar-familienzentrum-hippolytusgarten-/OmjXno2t)
 Sonntag, 23.05.2027
+von 10:00 bis 13:00 Uhr
 ★ Familienzentrum Hippolytusgarten
 Hippolytusstr. 49, 53840 Troisdorf
-Anzeige
 ★ Kinderbasare in der Nähe

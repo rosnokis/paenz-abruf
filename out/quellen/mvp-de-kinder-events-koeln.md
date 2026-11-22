@@ -49,55 +49,48 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 91
+1 - 40 von 90
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Familienworkshop »Im Zauberwald«](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
-★ Kinderfreundliches Event
-Kölner Philharmonie, KÖLN
-★ Samstag, 21. November 2026 und Samstag, 21. November 2026 - Kölner Philharmonie - Familienworkshop »Im Zauberwald« - Familienworkshop - Im Zauberwald | Kölner...
-21.11.2026
-(heute)
-ab
-9 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienworkshop-im-zauberwald-koelner-philharmonie/)
-★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
-★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
-★ Puppenspiele der Stadt Köln, KÖLN
-★ Donnerstag, 19. November 2026 bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech...
-21.11. bis 20.12.26
-17,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
-Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-22&checkout=2026-11-26&q=koeln&label=ms4)
-freie Objekte in Köln bei casamundo.de
-Deine Reisedaten:
-22.11. bis 26.11.26
-ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-22&checkout=2026-11-26&q=koeln&label=ms4)
-Hier ist noch ein Plätzchen frei
-So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
-aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
-Anzeigen zu einer Pause.
-[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
-Anzeigen finanzieren dieses Portal.
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Senftöpfchen-Theater, Köln
 ★ Sonntag, 22. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
 22.11.26 - 30.01.27
-(morgen)
+(heute)
+ab
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
+★ Kinderfreundliches Event
 Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
 24.11.2026
 4 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/22057649/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+Anzeige
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-23&checkout=2026-11-27&q=koeln&label=ms4)
+freie Objekte in Köln bei casamundo.de
+Deine Reisedaten:
+23.11. bis 27.11.26
+ändern
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-23&checkout=2026-11-27&q=koeln&label=ms4)
+Hier ist noch ein Plätzchen frei
+So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
+aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
+Anzeigen zu einer Pause.
+[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
+Anzeigen finanzieren dieses Portal.
+★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
+★ Puppenspiele der Stadt Köln, KÖLN
+★ bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech zom Chressfess | Puppenspiele...
+25.11. bis 20.12.26
+17,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 [random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 ★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
 Klüngelpütz Kabarett &Theater, Köln
@@ -105,10 +98,6 @@ Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabaret
 26.11.26 - 09.04.27
 24 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater im Walzwerk, Pulheim
@@ -117,6 +106,10 @@ Theater im Walzwerk, Pulheim
 14,75 €
 ★ [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2618717)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Kinderkonzert „Das Schäfchen und der Stern“ - Zauberhaftes Schauspiel und Streicherklang](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/kinderkonzert-das-schaefchen-und-der-stern-zauberhaftes-pulheim/)
 ★ Konzert - Klassik, Kinderfreundliches Event
 LVR-Kulturzentrum Abtei Brauweiler - Kaisersaal, Pulheim
@@ -131,6 +124,7 @@ Bürgerhaus Hürth, HÜRTH
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/yakari-freunde-fuers-leben-buergerhaus-huerth-huerth/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/21691828/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 ★ [Familienkonzert »Jauchzet, frohlocket!« mit Bachs Weihnachtsoratorium](https://www.mvp.de/koeln/veranstaltungen/familienkonzert-jauchzet-frohlocket-mit-bachs-weihnachtsoratorium/)
+Kölner Philharmonie, KÖLN
 ★ Sonntag, 29. November 2026 und Sonntag, 29. November 2026 - Kölner Philharmonie - Familienkonzert »Jauchzet, frohlocket!« mit Bachs Weihnachtsoratorium -...
 29.11.2026
 18 €
@@ -192,6 +186,7 @@ KAMMEROPER KÖLN, KÖLN-HÜRTH
 Forum Großer Saal, Leverkusen
 Sonntag, 6. Dezember 2026 - Forum Großer Saal - Leverkusen - Der satanarchäolügenialkohöllische Wunschpunsch
 06.12.2026
+9 €
 [zur Veranstaltung](https://www.mvp.de/leverkusen/veranstaltungen/der-satanarchaeoluegenialkohoellische-wunschpunsch-forum-grosser-saal/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2518438)
 [Die chinesische Nachtigall](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/die-chinesische-nachtigall-koeln-huerth/)
@@ -306,41 +301,18 @@ Samstag, 23. Januar 2027 - Senftöpfchen-Theater - Köln - Oliver Steller mit Th
 23.01.2027
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/oliver-steller-mit-thomas-diemer-dem-singenden-stehschlagzeuger/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2578854)
+[KölleAlarm - Die Benefiz-Kostüm-Karnevalsparty für Jugendliche zw. 12 und 16 J.](https://www.mvp.de/koeln/veranstaltungen/koellealarm-die-benefiz-kostuem-karnevalsparty-fuer-jugendliche/)
+★ Kinderfreundliches Event, Tanz / Party & Disco, Sonstiges Event
+Dorint Hotel an der Messe, KÖLN
+Freitag, 5. Februar 2027 - Dorint Hotel an der Messe - KÖLN - KölleAlarm - Die Benefiz-Kostüm-Karnevalsparty für Jugendliche zw. 12 und 16 J.
+05.02.2027
+18,35 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/koellealarm-die-benefiz-kostuem-karnevalsparty-fuer-jugendliche/)
+[Tickets kaufen](https://www.eventim.de/noapp/event/21304049/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege
 Kartenauschnitt wurde verändert
-November 2026
-Mo
-Di
-Mi
-Do
-Fr
-Sa
-So
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-Dezember 2026
-31
 Zwecke
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 (633)
@@ -410,3 +382,34 @@ Es werden Werbedienste von Drittanbietern genutzt. Wenn Sie hier zustimmen, werd
 Weitere Informationen
 Drittanbieter
 (737)
+November 2026
+Mo
+Di
+Mi
+Do
+Fr
+Sa
+So
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Dezember 2026
+31

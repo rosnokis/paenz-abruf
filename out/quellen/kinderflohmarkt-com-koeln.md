@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 9 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 11 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -64,6 +64,16 @@ Krebsweg 12,
 ★ weitere Informationen Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, selbstgemachten Kuchen, Muffins, Würstchen im Brot, leckeren Kafffee uvm.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/)
 Sonntag,
+22. November 2026
+★ Advents-Flohmarkt rund ums Kind
+★ Psychomotorischer Kindergarten Wolke 7
+53129 Kessenich
+Datum 22.11.2026 Zeit
+10 - 14 Uhr
+Loeschckestraße 55, 53129 Bonn/Kessenich,
+★ Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, U..
+★ weitere Informationen Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, Umstandsmode und Zubehör. Dazu könnt ihr Kaffee, Kuchen, herzhafte Snacks und Waffeln genießen. Kinder können auf dem weitläufigen Gelände spielen. Wir freuen uns auf Euch!
+★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/psychomotorischer-kindergarten-wolke-7-53129-kessenich-4859/)
 29. November 2026
 ★ Trödelmarkt und Adventsbazar
 ★ Kita Apostelplatz
@@ -91,7 +101,6 @@ Schildgesstraße 112,
 ★ Alles rund ums Kind
 Pfarrzentrum St. Kilian
 50374 Erftstadt Lechenich
-10 - 14 Uhr
 Franz-Busbach Str. 9,
 Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranst..
 weitere Informationen Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranstaltung.
@@ -100,6 +109,28 @@ Es stehen jedem Verkäufer die reservierte und bezahlte Anzahl an Tischen und 2 
 Eine mitgebrachte Kleiderstange, Kleiderständer oder Ähnliches darf hinter dem Platz errichtet werden (nur wenn es nicht den Durchlauf der Gäste behindert und am/ hinter dem Platz stehen bleibt).
 ★ Fahrzeuge, großes Spielzeug, Kindersitze oder -wagen etc. müssen am Tisch verkauft werden.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/erftstadt/pfarrzentrum-st-kilian-50374-erftstadt-11467/)
+★ Kinderflohmärkte & Kinderbasare im Januar 2027
+23. Januar 2027
+★ Kindersachenflohmarkt Kath. Kita St. Adelheid in Pützchen
+★ Kath. Kita St. Adelheid Pützchen
+Zugang für Besucher:innen über Kameliterstr. 3a
+53229 Bonn Pützchen
+Datum 23.01.2027 Zeit
+Am Herz-Jesu-Kloster 34,
+★ Am Samstag, den 23.01.2027, lädt die katholische Kita St. Adelheid herzlich zum traditionellen Winter-Flohmarkt ein..
+★ weitere Informationen Am Samstag, den 23.01.2027, lädt die katholische Kita St. Adelheid herzlich zum traditionellen Winter-Flohmarkt ein!
+Freut euch auf eine große Auswahl an:
+★ Karnevalskostüme. Kinder- & Babykleidung, Spielzeug, Bücher
+und vieles mehr!
+Natürlich ist auch für das leibliche Wohl gesorgt – mit leckerem Kuchen, Snacks und Getränken.
+★ Der Erlös der Cafeteria kommt dem Förderverein der katholischen Kita St. Adelheid zugute.
+Infos für Verkäufer:innen:
+Anlieferungszeit für Verkäufer: 9 - 10 Uhr
+Standgebühr: je nach Tischgröße 7-10 €
++ 4 € für eine Kleiderstange, sowie eine Kuchenspende für die Cafeteria
+Wir freuen uns auf viele große und kleine Besucher:innen! 😊
+★ Eine Aktion des Fördervereins der Katholischen Kindertagesstätte St. Adelheid.
+★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/kath-kita-st-adelheid-puetzchen-53229-bonn-11627/)
 ★ Kinderflohmärkte & Kinderbasare im Februar 2027
 20. Februar 2027
 ★ Flohmarkt „Rund ums Kind“ – der KiTa Regebogen, Bonn-Venusberg

@@ -1,70 +1,14 @@
 # Bumann & Sohn (Ehrenfeld) – Sonntagsprogramm für Kinder (bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder)
 
 ## Quelle: https://www.bumannundsohn.de/programm
-[Nov 20 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
-[Sport](https://www.bumannundsohn.de/programm?category=Sport)
-[1. FC Köln - Bayern](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
-Friday, November 20, 2026
-7:00 PM
-10:30 PM
-19:00
-22:30
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=1.%20FC%20K%C3%B6ln%20-%20Bayern&dates=20261120T180000Z/20261120T213000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln?format=ical)
-FREITAG / 20.11.26 / 19:00 - 20:30
-1. Bundesliga
-Bayern - 1. FC Köln (Anstoß: 20:30 Uhr)
-LIVE im BACKYARD
-[RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-bayern-1-fc-koln)
-Auch ohne Reservierung könnt ihr das Spiel bei uns gucken.
-Backyard öffnet um 19 Uhr
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
-[Nov 20 to Nov 21](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
-[Party](https://www.bumannundsohn.de/programm?category=Party), [DJ](https://www.bumannundsohn.de/programm?category=DJ)
-[PARTY // HITS DON'T LIE](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
-Fri, Nov 20, 2026
-10:00 PM
-22:00
-Sat, Nov 21, 2026
-5:00 AM
-05:00
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20HITS%20DON%27T%20LIE&dates=20261120T210000Z/20261121T040000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie?format=ical)
-FREITAG / 20.11.26 / 22:00 - 05:00
-DJs: Quartett der Liebe
-Music: Hits x Hits x Hits
-FREE ENTRY
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
-[Nov 21 4:00 PM 16:00](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
-[BUMI&TANGO en el TROPI&SOHN](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
-Saturday, November 21, 2026
-4:00 PM
-16:00
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=BUMI%26amp%3BTANGO%20en%20el%20TROPI%26amp%3BSOHN&dates=20261121T150000Z/20261121T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn?format=ical)
-SAMSTAG / 21.11.26 / 16:00 - 22:00
-ASADO - BAILE - PERREO
-¡El verano se va, viva el verano! ☀️
-Este sábado a las 16:00: asado argentino y baile latino.
-¡La entrada es gratuita!
-[PROMO](https://t.rausgegangen.de/tickets/bumitango-en-el-tropisohn-1)
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
-[Nov 21 to Nov 22](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
-[PARTY // LEKKER NIGHT](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
-Sun, Nov 22, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20LEKKER%20NIGHT&dates=20261121T210000Z/20261122T040000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight?format=ical)
-SAMSTAG / 21.11.26 / 22:00 - 05:00
-LEKKER NIGHT
-pres. by Lekker Records
-MUSIC: HOUSE
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
 [Nov 22 2:45 PM 14:45](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
 ★ [Event](https://www.bumannundsohn.de/programm?category=Event), [Kinderprogramm](https://www.bumannundsohn.de/programm?category=Kinderprogramm), [Weihnachtsmarkt](https://www.bumannundsohn.de/programm?category=Weihnachtsmarkt)
 ★ [FIGURENTHEATER FÜR KINDER](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
 Sunday, November 22, 2026
 2:45 PM
+4:00 PM
 14:45
+16:00
 ★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=FIGURENTHEATER%20F%C3%9CR%20KINDER&dates=20261122T134500Z/20261122T150000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel?format=ical)
 SONNTAG / 22.11.26 / 14:45 - 16:00
@@ -76,7 +20,9 @@ KUCKUCK UND ESEL - THEATER ROSENFISCH
 [Event](https://www.bumannundsohn.de/programm?category=Event)
 [Love at first slide](https://www.bumannundsohn.de/programm/2026/11/24/loveatfirstslide)
 Tuesday, November 24, 2026
+7:00 PM
 11:30 PM
+19:00
 23:30
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Love%20at%20first%20slide&dates=20261124T180000Z/20261124T223000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/24/loveatfirstslide?format=ical)
@@ -85,6 +31,7 @@ Power Point Dating by Rausgegangen
 [TICKETS](https://rausgegangen.de/events/love-at-first-slide-koln-power-point-dating-by-rausgegangen-9/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/24/loveatfirstslide)
 [Nov 24 9:00 PM 21:00](https://www.bumannundsohn.de/programm/2026/11/24/championsleague)
+[Sport](https://www.bumannundsohn.de/programm?category=Sport)
 [Champions League](https://www.bumannundsohn.de/programm/2026/11/24/championsleague)
 9:00 PM
 11:00 PM
@@ -110,7 +57,9 @@ MITTWOCH / 25.11.26 / 21.00 - 23:00
 [Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 Thursday, November 26, 2026
 6:30 PM
+10:00 PM
 18:30
+22:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Gl%C3%BChwein%20BINGO&dates=20261126T173000Z/20261126T210000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo?format=ical)
 DONNERSTAG / 26.11.26 / 18:30 - 22:00
@@ -135,14 +84,18 @@ Beginn: 17:00
 [TICKETS](https://rausgegangen.de/en/events/whipped-up-magazin-release-event-0/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
 [Nov 27 to Nov 28](https://www.bumannundsohn.de/programm/2026/11/27/shade)
+[Party](https://www.bumannundsohn.de/programm?category=Party), [DJ](https://www.bumannundsohn.de/programm?category=DJ)
 [PARTY // SHADE](https://www.bumannundsohn.de/programm/2026/11/27/shade)
 Fri, Nov 27, 2026
 Sat, Nov 28, 2026
+5:00 AM
+05:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20SHADE&dates=20261127T210000Z/20261128T040000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/27/shade?format=ical)
 FREITAG / 27.11.26 / 22:00 - 05:00
 DJs: PETE HAIR & STRICTLY JOHNNY
 MUSIC: HIP HOP x RnB x AFROBEATS x HOUSE
+FREE ENTRY
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/27/shade)
 [Nov 28 2:00 PM 14:00](https://www.bumannundsohn.de/programm/2026/11/28/extasia)
 [Party](https://www.bumannundsohn.de/programm?category=Party), [Event](https://www.bumannundsohn.de/programm?category=Event), [DJ](https://www.bumannundsohn.de/programm?category=DJ)
@@ -162,8 +115,11 @@ SAMSTAG / 28.11.26 / 14:00 - 22:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=1.%20FC%20K%C3%B6ln%20-%20Elversberg&dates=20261128T130000Z/20261128T163000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/28/koeln-elversberg?format=ical)
 SAMSTAG / 28.11.26 / 14:00 - 17:30
+1. Bundesliga
 1. FC Köln - Elversberg (Anstoß: 15:30 Uhr)
+LIVE im BACKYARD
 [RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-1-fc-koln-elversberg)
+Auch ohne Reservierung könnt ihr das Spiel bei uns gucken.
 Eintritt ist frei
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/28/koeln-elversberg)
 [Nov 28 to Nov 29](https://www.bumannundsohn.de/programm/2026/11/28/touch)
@@ -249,6 +205,50 @@ DJs: Rubimental & Meskla
 MUSIC: R&B x AFRO x POP x SINGALONGS x HITSx HYMNEN
 [TICKETS](https://t.rausgegangen.de/tickets/silvester-party-liberte-die-schonste-party-der-welt-1)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/31/silvesterparty-liberte)
+[Nov 21 to Nov 22](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
+[PARTY // LEKKER NIGHT](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
+Sat, Nov 21, 2026
+Sun, Nov 22, 2026
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20LEKKER%20NIGHT&dates=20261121T210000Z/20261122T040000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight?format=ical)
+SAMSTAG / 21.11.26 / 22:00 - 05:00
+LEKKER NIGHT
+pres. by Lekker Records
+MUSIC: HOUSE
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
+[Nov 21 4:00 PM 16:00](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
+[BUMI&TANGO en el TROPI&SOHN](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
+Saturday, November 21, 2026
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=BUMI%26amp%3BTANGO%20en%20el%20TROPI%26amp%3BSOHN&dates=20261121T150000Z/20261121T210000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn?format=ical)
+SAMSTAG / 21.11.26 / 16:00 - 22:00
+ASADO - BAILE - PERREO
+¡El verano se va, viva el verano! ☀️
+Este sábado a las 16:00: asado argentino y baile latino.
+¡La entrada es gratuita!
+[PROMO](https://t.rausgegangen.de/tickets/bumitango-en-el-tropisohn-1)
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/21/bumitangoeneltropisohn)
+[Nov 20 to Nov 21](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
+[PARTY // HITS DON'T LIE](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
+Fri, Nov 20, 2026
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20HITS%20DON%27T%20LIE&dates=20261120T210000Z/20261121T040000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie?format=ical)
+FREITAG / 20.11.26 / 22:00 - 05:00
+DJs: Quartett der Liebe
+Music: Hits x Hits x Hits
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/20/hitsdontlie)
+[Nov 20 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
+[1. FC Köln - Bayern](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
+Friday, November 20, 2026
+10:30 PM
+22:30
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=1.%20FC%20K%C3%B6ln%20-%20Bayern&dates=20261120T180000Z/20261120T213000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln?format=ical)
+FREITAG / 20.11.26 / 19:00 - 20:30
+Bayern - 1. FC Köln (Anstoß: 20:30 Uhr)
+[RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-bayern-1-fc-koln)
+Backyard öffnet um 19 Uhr
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/20/bayern-koeln)
 [Nov 19 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/11/19/bingo)
 [Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/19/bingo)
 Thursday, November 19, 2026
@@ -505,37 +505,3 @@ Thursday, October 29, 2026
 DONNERSTAG / 29.10.26 / 18:30 - 22:00
 [RESERVIERUNG](https://t.rausgegangen.de/tickets/bingo-157)
 [View Event →](https://www.bumannundsohn.de/programm/2026/10/29/bingo)
-[Oct 28 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/10/28/singmittwoch)
-[SINGMITTWOCH - Ein Abend zum Mitsingen!](https://www.bumannundsohn.de/programm/2026/10/28/singmittwoch)
-Wednesday, October 28, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=SINGMITTWOCH%20-%20Ein%20Abend%20zum%20Mitsingen%21&dates=20261028T180000Z/20261028T220000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/28/singmittwoch?format=ical)
-MITTWOCH / 28.10.26 / 19:00
-[TICKETS](https://t.rausgegangen.de/tickets/singmittwoch-ein-abend-zum-mitsingen-4)
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/28/singmittwoch)
-[Oct 27 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/10/27/union-koeln-dfb-pokal)
-[1. FC Köln - Union](https://www.bumannundsohn.de/programm/2026/10/27/union-koeln-dfb-pokal)
-Tuesday, October 27, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=1.%20FC%20K%C3%B6ln%20-%20Union&dates=20261027T180000Z/20261027T220000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/27/union-koeln-dfb-pokal?format=ical)
-DIENSTAG / 27.10.26 / 19:00 - 23:00
-DFB-POKAL
-1. FC Köln - Union (Anstoß: 20:45 Uhr)
-[RESERVIERUNG](https://t.rausgegangen.de/tickets/dfb-pokal-1-fc-koln-union)
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/27/union-koeln-dfb-pokal)
-[Oct 27 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/10/27/ana-lucia)
-[VERLEGT INS BÜZE! Comedy: Ana Lucia - Gewinner (sold out)](https://www.bumannundsohn.de/programm/2026/10/27/ana-lucia)
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=VERLEGT%20INS%20B%C3%9CZE%21%20Comedy%3A%20Ana%20Lucia%20-%20Gewinner%20%5Bsold%20out%5D&dates=20261027T180000Z/20261027T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/27/ana-lucia?format=ical)
-DIENSTAG / 27.10.26 / 19:00 - 22:00
-[TICKETS](https://highlive-entertainment.ticket.io/mn12lnrv/)
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/27/ana-lucia)
-[Oct 26 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/10/26/ana-lucia)
-[Comedy: Ana Lucia - Gewinner](https://www.bumannundsohn.de/programm/2026/10/26/ana-lucia)
-Monday, October 26, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Comedy%3A%20Ana%20Lucia%20-%20Gewinner&dates=20261026T180000Z/20261026T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/26/ana-lucia?format=ical)
-MONTAG / 26.10.26 / 19:00 - 22:00
-ZUSATZSHOW
-[TICKETS](https://rausgegangen.de/events/ana-lucia-gewinner-5/)
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/26/ana-lucia)

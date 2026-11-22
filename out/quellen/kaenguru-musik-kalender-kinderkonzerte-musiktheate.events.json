@@ -1,5 +1,14 @@
 [
  {
+  "name": "Adventssingen",
+  "location": {
+   "name": "Düsseldorf"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/adventssingen-1/2026-12-06",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "Bilderbuchkonzert „Im Winterschlaf\"",
   "location": {
    "name": "Köln"
@@ -27,15 +36,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
-  "name": "Im Zauberwald",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
   "name": "Kinder singen hier & jetzt",
   "location": {
    "name": "Köln"
@@ -51,15 +51,6 @@
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01",
   "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "Metal-Tour Heavysaurus",
-  "location": {
-   "name": "Bergheim"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21",
-  "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
@@ -113,6 +104,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Die chinesische Nachtigall\"",
+  "location": {
+   "name": "Hürth"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-05",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },

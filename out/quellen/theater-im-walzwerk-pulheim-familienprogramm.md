@@ -16,12 +16,12 @@ Nov.
 ★ [Frau Holle – Seifenblasen Figurentheater Familienprogramm](https://www.eventbrite.de/e/frau-holle-seifenblasen-figurentheater-familienprogramm-tickets-1989795416655)
 ★ Das Märchen von Frau Holle – Passend zur Winterzeit für die ganze FamilieFrei nach dem Märchen der Brüder GrimmFrau…
 ★ [Tickets](https://www.eventbrite.de/e/frau-holle-seifenblasen-figurentheater-familienprogramm-tickets-1989795416655)
+★ [AUSVERKAUFT](https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704)
 So.
 29
 ★ [EINTRITT FREI – Kinder Impro Show mit den Taubenhauchern](https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704)
 ★ EINTRITT FREI – kostenlose Platzreservierung über Eventbrite. Die Taubenhaucher bringen Kinder mit ihrer Improshow zum…
-Letzte Karten
-★ [Tickets](https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704)
+★ [Ausverkauft](https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704)
 Dezember 2026
 ★ [AUSVERKAUFT](https://www.eventbrite.de/e/familienkonzert-rubin-quartett-das-schafchen-und-der-stern-tickets-1992568346563)
 Dez.

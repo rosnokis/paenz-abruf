@@ -1,29 +1,74 @@
 [
  {
-  "name": "Adventsbasar",
+  "name": "Advents-Flohmarkt rund ums Kind",
   "location": {
-   "name": "Erftstadt"
+   "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-5/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/advents-flohmarkt-rund-ums-kind/2026-11-22",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Adventskranz gießen",
+  "name": "Die Olchis – Das große Weltraumabenteuer",
   "location": {
-   "name": "Frechen"
+   "name": "Erkrath"
   },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/adventskranz-giessen/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/die-olchis-das-grosse-weltraumabenteuer/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Auf in die Welt",
+  "name": "Die große Schoko-Schule",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/auf-in-die-welt/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-22",
   "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Die kleine Schoko-Schule",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Druckwerkstatt Bodenschätze",
+  "location": {
+   "name": "Dortmund"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/druckwerkstatt-bodenschaetze/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familienbacktag an der Gymnicher Mühle",
+  "location": {
+   "name": "Erftstadt"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/familienbacktag-an-der-gymnicher-muehle/2026-11-22",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familientag in den Römerthermen Zülpich",
+  "location": {
+   "name": "Zülpich"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/familientag-in-den-roemerthermen-zuelpich/2026-11-22",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familienworkshop mit ZWEITZEUGEN e. V.",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/familienworkshop-mit-zweitzeugen-e-v/2026-11-22",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
@@ -31,151 +76,106 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Flohmarkt im LiZ",
+  "name": "Gigantisch gut",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/flohmarkt-im-liz/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/museum/gigantisch-gut/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Kinderschwimmen",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/sport/kinderschwimmen/2026-11-22",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "HerbstSALE bei Pantine & Spielwerk",
+  "name": "Kinderschwimmen",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/sport/1-kinderschwimmen/2026-11-22",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Makramee-Workshop",
+  "location": {
+   "name": "Frechen"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/makramee-workshop/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "HerbstSALE bei Pantine & Spielwerk",
+  "name": "MiniMax: Wunderwald",
   "location": {
-   "name": "Köln"
+   "name": "Brühl"
   },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk-1/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/minimax-wunderwald/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Im Zauberwald",
+  "name": "Wochenendspaß in der MutReiferei: Wandersteine bemalen",
   "location": {
-   "name": "Köln"
+   "name": "Leverkusen"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-wandersteine-bemalen/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Infos zum Filmstudium an der ifs",
+  "name": "„Das Geheimnis der gestohlenen Maske\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/infos-zum-filmstudium-an-der-ifs/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/kino/das-geheimnis-der-gestohlenen-maske-1/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Kinderflohmarkt",
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Festtagsspaß mit Peppa\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-2/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Fridolino Al(l)aaf\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/fridolino-allaaf/2026-11-22",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Fuchs und Hase retten den Wald\"",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/227-kinderflohmarkt/2026-11-21",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "KÄNGURU Jobmesse PÄNG 2026",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/kaenguru-jobmesse-paeng-2026/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Mittelalterlicher Markt zur Weihnachtszeit",
-  "location": {
-   "name": "Siegburg"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Mittelalterlicher Weihnachtsmarkt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/1-mittelalterlicher-weihnachtsmarkt/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Spielzeug-Second-Hand-Markt",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/spielzeug-second-hand-markt/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Tag der offenen Tür",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/tag-der-offenen-tuer-22/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Winterspaß auf der Eisbahn",
-  "location": {
-   "name": "Mechernich"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/winterspass-auf-der-eisbahn/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "neander*Sternchen - Der aktuelle Sternenhimmel für Kinder",
-  "location": {
-   "name": "Erkrath"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/neandersternchen-der-aktuelle-sternenhimmel-fuer-kinder/2026-11-21",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Die Kuh Swantje\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Die Schnecke und der Buckelwal\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Paulina und der Zirkus Papilotte\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21",
+  "url": "https://www.kaenguru-online.de/kalender/kino/fuchs-und-hase-retten-den-wald/2026-11-22",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

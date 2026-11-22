@@ -39,6 +39,19 @@
   "quelle": "https://kinderflohmarkt.com/de/koeln/"
  },
  {
+  "name": "Advents-Flohmarkt rund ums Kind, Psychomotorischer Kindergarten Wolke 7",
+  "startDate": "2026-11-22T10:00:00+01:00",
+  "endDate": "2026-11-22T14:00:00+01:00",
+  "location": {
+   "name": "Psychomotorischer Kindergarten Wolke 7",
+   "address": "Loeschckestraße 55, 53129 Bonn/Kessenich, 53129 Kessenich"
+  },
+  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/psychomotorischer-kindergarten-wolke-7-53129-kessenich-4859/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://kinderflohmarkt.com/de/koeln/"
+ },
+ {
   "name": "Alles rund ums Kind, Pfarrzentrum St. Kilian",
   "startDate": "2026-11-29T10:00:00+01:00",
   "endDate": "2026-11-29T14:00:00+01:00",
@@ -73,6 +86,19 @@
    "address": "Apostelplatz 2, 40625 Düsseldorf"
   },
   "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/duesseldorf/kita-apostelplatz-40625-duesseldorf-10588/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://kinderflohmarkt.com/de/koeln/"
+ },
+ {
+  "name": "Kindersachenflohmarkt Kath. Kita St. Adelheid in Pützchen, Kath. Kita St. Adelheid Pützchen",
+  "startDate": "2027-01-23T10:00:00+01:00",
+  "endDate": "2027-01-23T13:00:00+01:00",
+  "location": {
+   "name": "Kath. Kita St. Adelheid Pützchen",
+   "address": "Am Herz-Jesu-Kloster 34, 53229 Bonn"
+  },
+  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/kath-kita-st-adelheid-puetzchen-53229-bonn-11627/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://kinderflohmarkt.com/de/koeln/"

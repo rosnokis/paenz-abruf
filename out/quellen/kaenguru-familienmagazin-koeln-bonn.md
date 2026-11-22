@@ -5,100 +5,99 @@
 Was ist los in Köln, Bonn und der Region? Schaut auch mal in unsere ausgewählten [Wochenend-Tipps mit Kids](https://www.kaenguru-online.de/themen/ausflug/sechs-tipps-fuer-das-wochenende).
 Informiert euch vor eurem Besuch, ob ihr euch anmelden oder Tickets reservieren müsst!
 Viel Vergnügen!
-© Rido/Adobe Stock
-[KÄNGURU Jobmesse PÄNG 2026 Eure Anlaufstelle, wenn ihr euch für pädagogische Berufe interessiert – am 21. November 2026 21.11.2026, 11:00 Uhr bis 16:00 Uhr Känguru Colonia Verlag, 50823 Köln](https://www.kaenguru-online.de/kalender/fuer-teenager/kaenguru-jobmesse-paeng-2026/2026-11-21)
+© Michael Oréal
+★ [„Fridolino Al(l)aaf" Karnevalistisches Musiktheater rund um Karneval, Freundschaft und kölsche Traditionen für Kinder ab 4 Jahren von engelundesel-Produktionen 22.11.2026, 11:00 Uhr Senftöpfchen Theater, 50667 Köln](https://www.kaenguru-online.de/kalender/theater/fridolino-allaaf/2026-11-22)
 Veranstaltung suchen
 Onlineangebot
-[Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
-[Winterspaß auf der Eisbahn](https://www.kaenguru-online.de/kalender/dies-und-das/winterspass-auf-der-eisbahn/2026-11-21)
-★ Schlittschuhlaufen und Eisstockschießen für die ganze Familie auf dem Krewelshof Eifel
-21.11.2026
-Uhr
-Krewelshof Eifel
-Mechernich
-[Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/227-kinderflohmarkt/2026-11-21)
-im Nachbarschaftszentrum Brüser Berg
-09:00 - 13:00 Uhr
-★ Elterninitiative Brüser Zwerge
-Bonn
-[Tag der offenen Tür](https://www.kaenguru-online.de/kalender/dies-und-das/tag-der-offenen-tuer-22/2026-11-21)
-★ Tag der Offenen Tür an Bonns deutsch-französischer Grundschule und Kindergarten in Bonn-Mehlem
-09:00 - 12:00 Uhr
-Ecole de Gaulle-Adenauer Bonn
-[Spielzeug-Second-Hand-Markt](https://www.kaenguru-online.de/kalender/maerkte/spielzeug-second-hand-markt/2026-11-21)
-★ Spielzeug, Kinderwagen, Autositze, Kinderräder und Roller
-10:00 - 12:30 Uhr
-Gemeindesaal Christ-König Longerich
+[Sport](https://www.kaenguru-online.de/kalender/sport)
+★ [Kinderschwimmen](https://www.kaenguru-online.de/kalender/sport/kinderschwimmen/2026-11-22)
+★ Eltern können mit ihren Kindern von 3 bis 4 Jahren an einem kostenlosen Schwimmerlebnis an der Sporthochschule teilnehmen
+22.11.2026
+10:00 - 10:45 Uhr
+Schwimmzentrum an der Deutschen Sporthochschule Köln
 Köln
-[Feste und Märkte](https://www.kaenguru-online.de/kalender/feste-und-maerkte)
-[Mittelalterlicher Weihnachtsmarkt](https://www.kaenguru-online.de/kalender/feste-und-maerkte/1-mittelalterlicher-weihnachtsmarkt/2026-11-21)
-Erlebt ein festliches Adventswochenende mit Lagerfeuerduft, Handwerkskunst, Leckereien und mittelalterlicher Atmosphäre
-10:00 - 19:00 Uhr
-Alexianer Porz
-★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [„Die Kuh Swantje"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-21)
-★ Das Ensemble Nicopoulos zeigt ein Krabbeltheater für Kinder ab 2 Jahren
-10:00 Uhr
-Horizont Theater
-[Für Teenager](https://www.kaenguru-online.de/kalender/fuer-teenager)
-[Auf in die Welt](https://www.kaenguru-online.de/kalender/fuer-teenager/auf-in-die-welt/2026-11-21)
-Die Messe für Schüleraustausch, High School, Gap Year, Sprachreisen, Freiwilligendienste, Au Pair, Praktika, Work and Travel
-10:00 - 16:00 Uhr
-Jugendherberge Riehl
-★ [Adventsbasar](https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-5/2026-11-21)
-★ Mit Aktionen für Kinder
-10:00 - 17:00 Uhr
-Freie Waldorfschule Erftstadt
+[Natur und Umwelt](https://www.kaenguru-online.de/kalender/natur-und-umwelt)
+★ [Familienbacktag an der Gymnicher Mühle](https://www.kaenguru-online.de/kalender/natur-und-umwelt/familienbacktag-an-der-gymnicher-muehle/2026-11-22)
+★ Die Lehrbäckerei öffnet ihre Türen für Kinder ab 5 Jahre mit ihren Familien
+10:00 - 13:00 Uhr
+Naturparkzentrum Gymnicher Mühle
 Erftstadt
-[Adventskranz gießen](https://www.kaenguru-online.de/kalender/dies-und-das/adventskranz-giessen/2026-11-21)
-★ Kreativworkshop für Kinder ab 10 Jahren zum Gestalten eines Adventskranzes
+[Dies und Das](https://www.kaenguru-online.de/kalender/dies-und-das)
+[Makramee-Workshop](https://www.kaenguru-online.de/kalender/dies-und-das/makramee-workshop/2026-11-22)
+★ Boho-Chic Knüpftechnik für Anfänger:innen ab 10 Jahren
 10:00 - 12:00 Uhr
 Curious Kids
 Frechen
-★ [Flohmarkt im LiZ](https://www.kaenguru-online.de/kalender/maerkte/flohmarkt-im-liz/2026-11-21)
-★ Flohmarkt für Kleidung, Bücher und Kram
+[Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
+★ [Advents-Flohmarkt rund ums Kind](https://www.kaenguru-online.de/kalender/maerkte/advents-flohmarkt-rund-ums-kind/2026-11-22)
+★ Flohmarkt Rund ums Kind
 10:00 - 14:00 Uhr
-LiZ am Markt – Lokales Inklusions-Zentrum Sürth
-[HerbstSALE bei Pantine & Spielwerk](https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk/2026-11-21)
-Spielwerk und Pantine und die bunte Bande erwarten euch mit tollen Schnäpchen
-10:00 - 15:00 Uhr
-Pantine und die bunte Bande
-[HerbstSALE bei Pantine & Spielwerk](https://www.kaenguru-online.de/kalender/dies-und-das/herbstsale-bei-pantine-spielwerk-1/2026-11-21)
-Spielwerk Ehrenfeld
+★ Kita Wolke 7 Kessenich
+Bonn
 [Museum](https://www.kaenguru-online.de/kalender/museum)
-[Figuren-Werkstatt](https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-21)
+[Figuren-Werkstatt](https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-22)
 ★ Der Schokoladenkurs für alle Schokoladenfans ab 8 Jahren
 10:15 Uhr
 Schokoladenmuseum
-[Natur und Umwelt](https://www.kaenguru-online.de/kalender/natur-und-umwelt)
-★ [neander*Sternchen - Der aktuelle Sternenhimmel für Kinder](https://www.kaenguru-online.de/kalender/natur-und-umwelt/neandersternchen-der-aktuelle-sternenhimmel-fuer-kinder/2026-11-21)
-★ Live moderierte Reise durch den Sternenhimmel für Kinder von 4 bis 11 Jahren
+[Die kleine Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-22)
+★ Familienführung durch die vielfältige Welt des Kakaos und der Schokolade
+10:30 Uhr
+[Die Olchis – Das große Weltraumabenteuer](https://www.kaenguru-online.de/kalender/natur-und-umwelt/die-olchis-das-grosse-weltraumabenteuer/2026-11-22)
+★ Animiertes 360°-Weltraumabenteuer mit den Olchis für Kinder ab 5 Jahren
 10:30 - 11:30 Uhr
 Planetarium Erkrath
 Erkrath
-★ [„Paulina und der Zirkus Papilotte"](https://www.kaenguru-online.de/kalender/fuer-minis/paulina-und-der-zirkus-papilotte/2026-11-21)
-★ Ein Zirkusmärchen für Zuschauer ab 3 Jahren
+★ [Kinderschwimmen](https://www.kaenguru-online.de/kalender/sport/1-kinderschwimmen/2026-11-22)
+★ Eltern können mit ihren Kindern von 4 bis 5 Jahren an einem kostenlosen Schwimmerlebnis an der Sporthochschule teilnehmen
+10:45 - 11:30 Uhr
+[Die große Schoko-Schule](https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-22)
+★ Familienführung mit Verkostung
 11:00 Uhr
-Metropol Theater
-[Mittelalterlicher Markt zur Weihnachtszeit](https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-21)
-★ Mittelalterlicher Weihnachtsmarkt mit Gaukler:innen, Musik und Karussell für die ganze Familie
-11:00 - 21:00 Uhr
-Mittelalterlicher Markt Siegburg
-Siegburg
-[Infos zum Filmstudium an der ifs](https://www.kaenguru-online.de/kalender/fuer-teenager/infos-zum-filmstudium-an-der-ifs/2026-11-21)
-Einblicke in die Bachelorstudiengang
-11:00 - 13:00 Uhr
-ifs internationale filmschule köln
-★ [„Die Schnecke und der Buckelwal"](https://www.kaenguru-online.de/kalender/fuer-minis/die-schnecke-und-der-buckelwal-2/2026-11-21)
-★ Aufführung vom Luk Puppentheater für Kinder ab 4 Jahren
-Studio11
-[KÄNGURU Jobmesse PÄNG 2026](https://www.kaenguru-online.de/kalender/fuer-teenager/kaenguru-jobmesse-paeng-2026/2026-11-21)
-Eure Anlaufstelle, wenn ihr euch für pädagogische Berufe interessiert – am 21. November 2026
-11:00 - 16:00 Uhr
-Känguru Colonia Verlag
-[Musik](https://www.kaenguru-online.de/kalender/musik)
-[Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
-★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
-13:00 Uhr
-Philharmonie
+★ [Familientag in den Römerthermen Zülpich](https://www.kaenguru-online.de/kalender/museum/familientag-in-den-roemerthermen-zuelpich/2026-11-22)
+★ Familientag mit kreativen Workshops, römischen Spielen und Mitmachaktionen
+11:00 - 17:00 Uhr
+Römerthermen Zülpich - Museum der Badekultur
+Zülpich
+[Kino](https://www.kaenguru-online.de/kalender/kino)
+[„Das Geheimnis der gestohlenen Maske"](https://www.kaenguru-online.de/kalender/kino/das-geheimnis-der-gestohlenen-maske-1/2026-11-22)
+★ Aufführung für Kinder und Familien im Rahmen des Afrikafilmfestivals
+Lichtspiele Kalk
+[Wochenendspaß in der MutReiferei: Wandersteine bemalen](https://www.kaenguru-online.de/kalender/natur-und-umwelt/wochenendspass-in-der-mutreiferei-wandersteine-bemalen/2026-11-22)
+★ Offenes Bastelangebot für Kinder mit wechselnden Kreativaktionen
+11:00 - 18:00 Uhr
+NaturGut Ophoven
+Leverkusen
+[Theater](https://www.kaenguru-online.de/kalender/theater)
+[„Fridolino Al(l)aaf"](https://www.kaenguru-online.de/kalender/theater/fridolino-allaaf/2026-11-22)
+★ Karnevalistisches Musiktheater rund um Karneval, Freundschaft und kölsche Traditionen für Kinder ab 4 Jahren von engelundesel-Produktionen
+Senftöpfchen Theater
+★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
+★ [MiniMax: Wunderwald](https://www.kaenguru-online.de/kalender/fuer-minis/minimax-wunderwald/2026-11-22)
+★ Familienworkshop für Kinder ab 3 Jahren
+11:00 - 12:30 Uhr
+Max Ernst Museum Brühl im Fantasie Labor
+Brühl
+[Gigantisch gut](https://www.kaenguru-online.de/kalender/museum/gigantisch-gut/2026-11-22)
+★ Führung für Kinder ab 8 Jahren
+Museum Ludwig
+★ [Familienworkshop mit ZWEITZEUGEN e. V.](https://www.kaenguru-online.de/kalender/museum/familienworkshop-mit-zweitzeugen-e-v/2026-11-22)
+★ Familienworkshop über den Holocaust, Erinnerungskultur und Antisemitismus ab 10 Jahren
+11:00 - 14:30 Uhr
+Bundeskunsthalle Bonn
+[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-22)
+Der Regenbogenfisch ist mit seinen schillernden Schuppen der schönste Fisch im ganzen Ozean
+12:45 Uhr
+14:50 Uhr
+16:10 Uhr
+Filmpalast Cineplex Köln
+[Druckwerkstatt Bodenschätze](https://www.kaenguru-online.de/kalender/museum/druckwerkstatt-bodenschaetze/2026-11-22)
+★ mondos Atelier für Kinder ab 4 Jahren
+13:30 Uhr
+15:30 Uhr
+★ mondo mio! Kindermuseum
+Dortmund
+[„Festtagsspaß mit Peppa"](https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-2/2026-11-22)
+★ Ein festliches Kinoabenteuer, in dem Peppa Wutz und ihre Familie Evies erstes Weihnachtsfest feiern
+[„Fuchs und Hase retten den Wald"](https://www.kaenguru-online.de/kalender/kino/fuchs-und-hase-retten-den-wald/2026-11-22)
+Fuchs, Hase und Euli sind beste Freunde
+WOKI

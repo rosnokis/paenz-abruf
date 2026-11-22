@@ -2,34 +2,16 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
-21.11.2026
-11:00
-Uhr
-Philharmonie Köln
-Köln
-★ Im Zauberwald - Interaktives Kinderkonzert
-[OPEN HOUSE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-open-house/)
-13:00
-Foyer
-OPEN HOUSE
-★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert/)
-[Orchesterkonzert - Rhapsody in Blue](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-orchesterkonzert-american-rhapsody/)
-18:30
-Konzertsaal
-Orchesterkonzert - Rhapsody in Blue
-[Musicalabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-06-2021-musicalabend-1-1-1/)
-19:30
-Konzertsaal Wuppertal
-Wuppertal
-Musicalabend
 [Viola da gamba- und Violoncellonachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-viola-da-gamba-und-violoncellonachmittag/)
 22.11.2026
 15:00
+Uhr
 Kammermusiksaal
+Köln
 Viola da gamba- und Violoncellonachmittag
 ★ [Kinderorchester NRW - 20.000 Meilen unter dem Meer](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-kinderorchester-nrw-20000-meilen-unter-dem-meer/)
 16:00
+Konzertsaal
 ★ Kinderorchester NRW - 20.000 Meilen unter dem Meer
 [Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-preistraegerkonzert-brigitte-kempen-wettbewerb-2026/)
 19:00
@@ -44,6 +26,9 @@ Oboenabend
 St. Kunibert
 Lunchtime-Konzerte in St. Kunibert
 [Violoncelloabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-01-2026-violoncelloabend-1-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Violoncelloabend
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-violaabend/)
 Violaabend
@@ -73,6 +58,7 @@ Kammer­musik­abend
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/27-11-2026-kammermusikabend/)
 [Klaviermatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-klaviermatinee/)
 28.11.2026
+11:00
 Klaviermatinee
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
 [FESTLICHES BLÄSERKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-festliches-blaeserkonzert/)
@@ -176,6 +162,7 @@ Musikalische Kaffeetafel
 [Konzert der Rheinischen Musikschule Köln](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-konzert-des-jugendsinfonieorchesters-der-rheinischen-musikschule-koeln/)
 Konzert der Rheinischen Musikschule Köln
 [Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-gesangsabend-zum-3-advent-der-klasse-von-prof-viktor-rud/)
+18:30
 Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-bratschenabend/)
 [WDR3 CAMPUS KONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-wdr3-campus-konzert/)
@@ -217,6 +204,7 @@ Heimspiel
 Saxophone Summit
 [Mittagsmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-mittagsmusik/)
 18.12.2026
+13:00
 Mittagsmusik
 [Weihnachtliches Blechbläserkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2023-weihnachtliches-blechblaeserkonzert-1-1/)
 Weihnachtliches Blechbläserkonzert
@@ -386,13 +374,73 @@ Saxophonabend
 Lions-Musikpreis 2027: Preisträgerkonzert
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-kinderkonzert/
-November 2026
-★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert-1/)
-21.11.2026
-11:00
-Uhr
-Philharmonie Köln
-Köln
-★ Im Zauberwald - Interaktives Kinderkonzert
-★ [Im Zauberwald - Interaktives Kinderkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/21-11-2026-im-zauberwald-interaktives-kinderkonzert/)
-13:00
+Springe zum Haupt-Inhalt
+Veranstaltungen
+[Alle Veranstaltungen in Aachen als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/programm_hfmt_aachen_wise_2026_27.pdf)
+[Highlightveranstaltungen WiSe 2026/27 in Köln](https://epaper-ksta.weekli.de/prospekt/a3-b1-c7703-d5332764-fDE-g50667?page=1)
+[Veranstaltungen Spitzentöne 2026 in Köln als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/2026_programm_spitzentoene.pdf)
+[Alle Veranstaltungen in Wuppertal als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/programm_hfmt_wuppertal_wise_2026_27.pdf)
+Garderobenpflicht im Konzertsaal Akkordeon-Inhalt anzeigen Akkordeon-Inhalt ausblenden
+Aus Gründen des Brandschutzes und der Sicherheit bitten wir Sie, Mäntel, Jacken, Rucksäcke, Instrumente und ähnliche Gegenstände bei Veranstaltungen im Konzertsaal der Hochschule kostenfrei an der bewachten Garderobe abzugeben.
+Der Konzertsaal verfügt über eine feste Bankbestuhlung mit konstruktionsbedingt schmalen und eingeschränkten Gängen. Mitgeführte oder abgelegte Gegenstände können Flucht- und Rettungswege blockieren und stellen insbesondere im Notfall ein erhebliches Sicherheitsrisiko dar. Zudem erhöhen lose Gegenstände die Stolpergefahr und können im Brandfall die Rauchentwicklung verstärken.
+Die Abgabe der genannten Gegenstände an der Garderobe ist daher keine bloße Formalität, sondern eine notwendige Maßnahme zur Einhaltung der brandschutzrechtlichen Vorgaben, zur konsequenten Freihaltung der Flucht- und Rettungswege und vor allem zur Sicherheit aller anwesenden Personen. Vielen Dank für Ihr Verständnis und Ihre Unterstützung für einen sicheren Veranstaltungsablauf.
+Awareness-Team Akkordeon-Inhalt anzeigen Akkordeon-Inhalt ausblenden
+Aufgaben eines Awareness-Teams
+Das Awareness-Team wird bei ausgewählten Veranstaltungen an der HfMT darauf achten, dass sich Menschen möglichst diskriminierungsfrei an der Hochschule bewegen können. Das Team leistet niedrigschwellige Unterstützung, wenn Personen Grenzüberschreitungen, Diskriminierung, Belästigung oder andere Formen von übergriffigem Verhalten erleben oder beobachten.
+Zu den Aufgaben gehören insbesondere:
+Ansprechbar sein: Betroffene können sich vertraulich an das Team wenden.
+Zuhören: Das Team nimmt Wahrnehmungen und Erlebnisse ernst, ohne vorschnell zu bewerten.
+Unterstützen: Es kann gemeinsam mit der betroffenen Person überlegen, was sie jetzt braucht und welche Handlungsmöglichkeiten bestehen.
+Weitermitteln: Bei Bedarf vermittelt es an weitere Stellen (z. B. Gleichstellungs-beauftragte, psychologische Beratungsstelle).
+Pilotprojekt an der HfMT Köln
+Im Rahmen eines Pilotprojekts wird ein Konzept für Awareness-Arbeit bei Veranstaltungen an der HfMT mit externen Expert*innen von [The Guardian Angels](https://theguardianangels.de/) erarbeitet. Dies beinhaltet unter anderem den Aufbau eines Awareness-Teams, einschließlich eines Trainings und die anschließende Begleitung der Team-Mitglieder bei ihren Einsätzen.
+Ansprechperson
+Falls Sie Interesse an einem Engagement oder Fragen haben, dann melde Sie sich gerne bei Isabel Strauß (Referentin des Rektorats).
+E-Mail: [E-Mail]
+Telefon: +49 221 28380 109
+[Weiterführende Informationen](https://www.hfmt-koeln.de/media/redaktion/pdf-Dateien/Hochschule/2026_info_awareness_team.pdf)
+Erhalten Sie unser Monatsprogramm per E-Mail
+Filter Such-Filter anzeigen Such-Filter ausblenden
+Ort
+★ [Köln](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/in-koeln/genre-kinderkonzert/)
+★ [Wuppertal](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/in-wuppertal/genre-kinderkonzert/)
+★ [Aachen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/in-aachen/genre-kinderkonzert/)
+Zeitraum
+von
+bis
+Löschen
+★ [Anwenden](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-kinderkonzert/)
+Genre
+[Alte Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-alte-musik/)
+[Big Band](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-big-band/)
+[Bläserkammermusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-blaeserkammermusik/)
+[Chorkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-chorkonzert/)
+[Festival](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-festival/)
+[Jazz](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-jazz/)
+[Kammermusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-kammermusik/)
+★ [„ Kinderkonzert “ entfernen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/)
+[Klassenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-klassenabend/)
+[Kongress](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-kongress/)
+[Elektronische Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-elektronische-musik/)
+[Konzertexamen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-konzertexamen/)
+[Liederabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-liederabend/)
+[Musiktheater](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-musiktheater/)
+[Neue Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-neue-musik/)
+[Orgelkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-orgelkonzert/)
+[Pop](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-pop/)
+[Ringvorlesung](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-ringvorlesung/)
+[Sinfonie](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-sinfonie/)
+[Solo](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-solo/)
+[Streicherkammermusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-streicherkammermusik/)
+[Symposium](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-symposium/)
+[Tanz](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-tanz/)
+[Weltmusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-weltmusik/)
+[Meisterkurs](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-meisterkurs/)
+[Semestereröffnung](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-semestereroeffnung/)
+[Seminar](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-seminar/)
+[Komposition](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-komposition/)
+[Gesprächskonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-gespraechskonzert/)
+[Mittagskonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-mittagskonzert/)
+[Klassenkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-klassenkonzert/)
+[Oper](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-oper/)
+Keine Veranstaltungen gefunden.

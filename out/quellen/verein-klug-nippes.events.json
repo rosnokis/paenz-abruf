@@ -12,28 +12,6 @@
  },
  {
   "name": "GROßER MITMACHTAG im Stöckchen",
-  "startDate": "2026-11-21T10:00:00+01:00",
-  "endDate": "2026-11-21T20:00:00+01:00",
-  "location": {
-   "name": "GROßER MITMACHTAG im Stöckchen",
-   "address": "GROßER MITMACHTAG im Stöckchen"
-  },
-  "kinder": true,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "Offene Fahrradwerkstatt",
-  "startDate": "2026-11-21T12:00:00+01:00",
-  "endDate": "2026-11-21T17:00:00+01:00",
-  "location": {
-   "name": "Offene Fahrradwerkstatt",
-   "address": "Offene Fahrradwerkstatt"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
-  "name": "GROßER MITMACHTAG im Stöckchen",
   "startDate": "2026-11-25T15:00:00+01:00",
   "endDate": "2026-11-25T21:00:00+01:00",
   "location": {

@@ -1,24 +1,5 @@
 [
  {
-  "name": "Fortbildung: Projektvorstellung &#038; Reflexion",
-  "startDate": "2026-11-21T10:00:00+01:00",
-  "endDate": "2026-11-21T17:00:00+01:00",
-  "location": {
-   "name": "Köln, Gut Leidenhausen",
-   "address": "Gut Leidenhausen 1, 51147 Köln"
-  },
-  "offers": [
-   {
-    "price": "145",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://www.querwaldein.de/events/projektvorstellung-reflexion-18-11-2023-379-341/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.querwaldein.de/"
- },
- {
   "name": "Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein &#038; Groß“",
   "startDate": "2026-11-23T19:30:00+01:00",
   "endDate": "2026-11-23T21:00:00+01:00",
@@ -51,6 +32,25 @@
    }
   ],
   "url": "https://www.querwaldein.de/events/die-gluecksbande-kinder-erleben-nachhaltigkeit/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.querwaldein.de/"
+ },
+ {
+  "name": "Fortbildung: Tierspuren und Zeichen lesen",
+  "startDate": "2027-02-20T10:00:00+01:00",
+  "endDate": "2027-02-20T17:00:00+01:00",
+  "location": {
+   "name": "Wird noch bekannt gegeben",
+   "address": "Wird noch bekannt gegeben"
+  },
+  "offers": [
+   {
+    "price": "145",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://www.querwaldein.de/"

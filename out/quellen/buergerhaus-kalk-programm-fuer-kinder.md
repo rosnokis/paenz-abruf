@@ -13,59 +13,17 @@
 [Kalker KunstRasen](https://www.buergerhauskalk.de/veranstaltungen/kalker-kunstrasen/?no_cache=1)
 [downstairs deluxe feat.](https://www.buergerhauskalk.de/veranstaltungen/downstairs-deluxe-feat/?no_cache=1)
 [Video-Archiv](https://www.buergerhauskalk.de/veranstaltungen/video-archiv/?no_cache=1)
-Samstag,
-21.11.2026
-12:00 Uhr
-KALK ALAAF
-★ Benefiz-Familienparty
-Klicken, um Details einzublenden.
-★ KALK ALAAF - unsere Benefiz-Familienparty zum Sessionsauftakt
-★ Karneval für die ganze Familie, mitten in Kalk.
-Auch in diesem Jahr starten wir mit euch gemeinsam in die neue Session - mit Musik, Tanz, Spielen, leckerem Essen und allem, was zu einem richtig guten Karnevalsnachmittag dazugehört.
-Und das Beste: Mit eurem Besuch unterstützt ihr gleichzeitig unseren Veedelszoch durch Kalk & Humboldt-Gremberg. Denn die Einnahmen von KALK ALAAF helfen uns dabei, den Zug zu finanzieren und auch im kommenden Jahr wieder gemeinsam durchs Veedel ziehen zu können.
-★ Also: Kostüm an, Familie und Freund*innen einpacken und ab ins Bürgerhaus.
-Auf der Bühne
-12:30 Uhr: HöVi Tanzgruppe
-Der Tanznachwuchs aus dem Veedel zeigt, was er draufhat.
-12:45 Uhr: HöVi Einradgruppe
-Zeigt, was auf einem Rad alles möglich ist und bringt ordentlich Bewegung auf die Bühne.
-13:15 Uhr: Finn Elias
-Kölsche Musik und beste Stimmung zum Mitsingen und Einstimmen auf den Nachmittag.
-14:15 Uhr: LUPO
-Kölsche Musik, bei der ziemlich schnell nicht mehr nur die Erwachsenen mitsingen.
-14:45 Uhr: Pimock
-Moderner Kölsch-Sound mit Gitarren, Energie und viel Lust aufs Feiern.
-15:15 Uhr: Kölsche Harlequins
-Karnevalistischer Tanz, bunte Kostüme und jede Menge Schwung auf der Bühne.
-15:45 Uhr: DJK Westwacht 05 Weiden
-Der Tanznachwuchs zeigt sein Können im karnevalistischen Tanzsport.
-16:30 Uhr: Chanterella
-Kölsche Musik mit modernen Tönen und ganz viel Herz.
-★ 17:00 Uhr: Kinder- und Jugendtanzgruppe der Kölner Narrenzunft
-Der jecke Nachwuchs bringt traditionellen Kölner Tanz auf unsere Bühne.
-17:30 Uhr: Mätropolis
-Zum Abschluss gibt’s Kölsch-Pop zum Mitsingen, Tanzen und Weiterfeiern.
-Große Tombola
-Natürlich darf auch unsere große Tombola nicht fehlen. Es warten wieder jede Menge tolle Gewinne - und mit jedem Los unterstützt ihr gleichzeitig unseren Veedelszoch.
-Süß, herzhaft & natürlich Kölsch
-Wer zwischendurch eine Pause braucht, wird bei uns auch versorgt: Es gibt wieder süße und herzhafte Speisen, Limos und andere alkoholfreie Getränke - und für die Großen natürlich auch ein kühles Kölsch.
-Eure Bons für Essen und Getränke bekommt ihr zentral an unserer Bonkasse - dort könnt ihr natürlich auch mit Karte bezahlen.
-★ Und rund um das Bühnenprogramm gibt es für die Pänz natürlich noch das ein oder andere zu entdecken.
-Wir freuen uns auf einen bunten, entspannten und jecken Nachmittag mit euch - und darauf, gemeinsam die neue Session einzuläuten.
-Mer freue uns op üch!
-KALK ALAAF!
-★ Erwachsenen-Ticket 15 € und ein Pänz-Ticket 9 €
-Ermäßigungen für KölnPass-Inhaber:innen
-Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
-Bürgerhaus Kalk, [E-Mail]
 Dienstag,
 24.11.2026
 15:00 Uhr
 Funkelzeit
 ★ Philharmonie Veedel Baby
+Klicken, um Details einzublenden.
 Wenn es draußen kälter wird und der Winter die Welt in leise Töne hüllt, wird es drinnen umso gemütlicher. In dieser magischen Zeit laden wir dazu ein, gemeinsam bekannten und unbekannten Winterliedern zu lauschen. Melodien werden zu Sonnenstrahlen und bunten Farben, die graue Tage verzaubern. Hier darf mitgesummt, mitgebrummt, mitgewippt und mitgesungen werden! Gefördert vom Kuratorium KölnMusik e.V..
 ★ 8,00 € | Kinder unter 2 Jahre: € 4,00, für Kitagruppen 5,00 pro Kind. Pro 4 KiTakinder ist eine Begleitperson frei.
 Karten sind NUR über KölnMusik Ticket erhältlich - (0221 204 08 204) oder https://tickets.koelner-philharmonie.de/webshop/webticket.
+Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
+Bürgerhaus Kalk, [E-Mail]
 Mittwoch,
 25.11.2026
 11:00 Uhr

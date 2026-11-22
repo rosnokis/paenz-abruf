@@ -6,22 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[Im Zauberwald](https://www.kaenguru-online.de/kalender/musik/im-zauberwald/2026-11-21)
-★ Workshop mit anschließendem Konzert für Kinder von 4 bis 8 Jahren
-21.11.2026
-13:00 Uhr
-11:00 Uhr
-Philharmonie
-Köln
-[Metal-Tour Heavysaurus](https://www.kaenguru-online.de/kalender/musik/metal-tour-heavysaurus/2026-11-21)
-★ Metal-Konzert mit Dinosauriern und Drachen für Kinder von 3 bis 11 Jahren
-16:00 Uhr
-MEDIO.RHEIN.ERFT
-Bergheim
 [„20.000 Meilen unter dem Meer“](https://www.kaenguru-online.de/kalender/musik/20-000-meilen-unter-dem-meer-1/2026-11-22)
 ★ Es spielt das Kinderorchester NRW – Orchestererzählung nach Jules Verne für die ganze Familie
 22.11.2026
+16:00 Uhr
 Hochschule für Musik und Tanz
+Köln
 [„Hänsel und Gretel"](https://www.kaenguru-online.de/kalender/musik/haensel-und-gretel-7/2026-11-22)
 ★ Opernklassiker für Familien ab 6 Jahren
 18:00 Uhr
@@ -30,6 +20,7 @@ Bonn
 [„Der Wintertroll“](https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25)
 ★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
 25.11.2026
+11:00 Uhr
 Bürgerhaus Kalk
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
 ★ Eine Insektenoper als mobile Produktion für KiTas
@@ -52,6 +43,7 @@ Pulheim
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
 14:00 Uhr
+Philharmonie
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
 Beethovenhalle Bonn
@@ -63,8 +55,8 @@ Beethovenhalle Bonn
 11:30 Uhr
 ★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-16:30 Uhr
 15:30 Uhr
+16:30 Uhr
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
 ★ [Bilderbuchkonzert „Im Winterschlaf"](https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02)
@@ -80,3 +72,13 @@ Beethovenhalle Bonn
 WDR-Funkhaus
 [Das Konzert mit dem Elefanten](https://www.kaenguru-online.de/kalender/musik/das-konzert-mit-dem-elefanten-1/2026-12-05)
 05.12.2026
+[„Die chinesische Nachtigall"](https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-05)
+★ Familienoper von Esther Hilsberg nach Hans Christian Andersen für Kinder von 5 bis 12 Jahren
+Kammeroper Köln
+Hürth
+[Adventssingen](https://www.kaenguru-online.de/kalender/musik/adventssingen-1/2026-12-06)
+★ Singen für die ganze Familie
+06.12.2026
+13:00 Uhr
+Stiftung Schloss und Park Benrath
+Düsseldorf
