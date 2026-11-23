@@ -21,23 +21,18 @@ SA
 19
 20
 21
-SO 22.11.
-[Frauen, TINAQ+ und Queers Schmuck-Workshop 16:30 · M*treff & Schmuckwerkstatt der Alten Feuerwache](https://altefeuerwachekoeln.de/programm/schmuck-workshop/)
-[Kultur Saba Arat: TEZGAH 17:00 · Halle](https://altefeuerwachekoeln.de/programm/saba-arat-tezgah-2/)
-[SO 22.11. Verein für deutsch-kurdische Freundschaft 14:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/verein-fuer-deutsch-kurdische-freundschaft-7/)
-[SO 22.11. Narcotics Anonymous (persisch) 14:30 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/narcotics-anonymous-persisch-10/)
-[SO 22.11. Narcotics Anonymous 18:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/narcotics-anonymous/)
+22
 MO 23.11.
-[Selbsthilfe The Green Room | psycholgoische Beratung für Künstler*innen 09:30 · Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/the-green-room-psycholgoische-beratung-fuer-kuenstlerinnen-8/)
 ★ [Kinder & Familie, Kreatives Gemeinsames Kochen und Backen 16:00 · Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/gemeinsames-kochen-und-backen-2/)
-[Frauen, TINAQ+ und Queers, Selbsthilfe, Bildung Rechtsberatung Feminist Law Clinic 17:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/rechtsberatung-feminist-law-clinic-fuer-flinta-8/)
 [MO 23.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-38/)
 ★ [MO 23.11. Eltern-Kind-Treff 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-treff-4/)
+[MO 23.11. The Green Room | psycholgoische Beratung für Künstler*innen 09:30 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/the-green-room-psycholgoische-beratung-fuer-kuenstlerinnen-8/)
 [MO 23.11. TPSK - Seniorensport 10:00 Großes Forum | Südtrackt](https://altefeuerwachekoeln.de/programm/tpsk-seniorensport-8/)
 [MO 23.11. YOGA - Back to Basics 10:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-back-to-basics-7/)
 [MO 23.11. YOGA - Inside Out 11:45 Theaterproberaum | Manschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-inside-out-7/)
 [MO 23.11. DAKO - Englisch für Anfänger*innen 16:30 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/englisch-fuer-anfaengerinnen-dako-e-v-8/)
 ★ [MO 23.11. Junior house - Schauspielkurs für Kinder und Jugendliche 17:00 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/junior-house-schauspielkurs-fuer-kinder-und-jugendliche-105/)
+[MO 23.11. Rechtsberatung Feminist Law Clinic 17:00 M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/rechtsberatung-feminist-law-clinic-fuer-flinta-8/)
 [MO 23.11. DAKO - Sprich dich fit - Konversationskurs Deutsch 18:00 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/sprich-dich-fit-konversationskurs-deutsch-dako-e-v-8/)
 [MO 23.11. VCD Köln - Arbeitskreis ÖPNV 18:30 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/vcd-koeln-arbeitskreis-oepnv-2/)
 ★ [MO 23.11. Junior house - Schauspielkurs für Kinder und Jugendliche 18:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/junior-house-schauspielkurs-fuer-kinder-und-jugendliche-14-18-jahre-8/)
@@ -72,7 +67,6 @@ MI 25.11.
 [MI 25.11. Anonyme Alkoholiker (Englisch) 20:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-englisch-8/)
 [MI 25.11. Chorillas 20:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chorillas-8/)
 DO 26.11.
-[Jugend DJ-Angebot 18:00 · Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/dj-angebot-4/)
 [Frauen, TINAQ+ und Queers QUEER BIPOC SPACE 18:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/queer-bipoc-space-9/)
 [Kultur A.TONAL.THEATER: Plädoyer für die unglückliche Liebe 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/a-tonal-theater-plaedoyer-fuer-die-unglueckliche-liebe/)
 [DO 26.11. Activ lernen - Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-41/)
@@ -84,6 +78,7 @@ DO 26.11.
 [DO 26.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-17/)
 [DO 26.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-8/)
 [DO 26.11. CHOR GOOD VIBES 17:40 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-good-vibes-9/)
+[DO 26.11. DJ-Angebot 18:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/dj-angebot-4/)
 [DO 26.11. Himmel un Ääd – Angehörige von Bipolar Erkrankten 18:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/himmel-un-aad-angehoerige-von-bipolar-erkrankten-3/)
 [DO 26.11. SHGD Hansaring – Selbsthilfe Depressionen 18:00 Alte Feuerwache Köln](https://altefeuerwachekoeln.de/programm/shgd-hansaring-selbsthilfe-depressionen-9/)
 [DO 26.11. Brasilianische Tänze – Samba de Gafieira 19:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/brassilianische-tanze-samba-de-gafieira-9/)

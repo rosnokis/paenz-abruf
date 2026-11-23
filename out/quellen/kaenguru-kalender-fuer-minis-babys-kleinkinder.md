@@ -6,21 +6,13 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [MiniMax: Wunderwald](https://www.kaenguru-online.de/kalender/fuer-minis/minimax-wunderwald/2026-11-22)
-★ Familienworkshop für Kinder ab 3 Jahren
-22.11.2026
-11:00 - 12:30 Uhr
-Max Ernst Museum Brühl im Fantasie Labor
-Brühl
-★ [„Der Grüffelo"](https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-22)
-★ Nach dem Bilderbuch von Julia Donaldson und Axel Scheffler für Kinder ab 3 Jahren
-15:00 Uhr
-Junges Theater Bonn
-Bonn
 ★ [„Der Grüffelo"](https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-23)
+★ Nach dem Bilderbuch von Julia Donaldson und Axel Scheffler für Kinder ab 3 Jahren
 23.11.2026
 09:30 Uhr
 11:00 Uhr
+Junges Theater Bonn
+Bonn
 ★ [Baby-Massage](https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-23)
 Kostenfreier Kurs im Rahmen der „Frühen HIlfen"
 10:30 - 11:30 Uhr
@@ -29,6 +21,7 @@ Hennef
 ★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit/2026-11-24)
 Hier erleben die allerkleinsten Besucher:innen von 0 bis 2 Jahren ihr erstes Konzert
 24.11.2026
+15:00 Uhr
 Bürgerhaus Kalk
 Köln
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25)
@@ -81,3 +74,7 @@ KKT Kölner Künstler:innen Theater
 ★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-29)
 ★ Eine Entdeckungsreise für Kinder ab 2 Jahren vom Wolkenstein Theater
 Theater Wolkenstein im Bürgerzentrum Deutz
+★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-30)
+30.11.2026
+★ [„Das kleine Zottel Mottel feiert Weihnachten"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-feiert-weihnachten/2026-12-01)
+01.12.2026

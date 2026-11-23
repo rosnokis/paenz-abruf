@@ -1,25 +1,6 @@
 [
  {
   "name": "Der Zauber von Oz",
-  "startDate": "2026-11-22T18:00:00+01:00",
-  "endDate": "2026-11-22T20:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Roter Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Der Zauber von Oz",
   "startDate": "2026-11-24T09:00:00+01:00",
   "endDate": "2026-11-24T11:00:00+01:00",
   "location": {
@@ -280,6 +261,25 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Helene Bockhorst: LEBEFRAU",
+  "startDate": "2026-11-28T20:00:00+01:00",
+  "endDate": "2026-11-28T22:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/helene-bockhorst-lebefrau/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

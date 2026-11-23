@@ -24,11 +24,11 @@ vorbestellen
 Weihnachtsbaum
 Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
-Sonntag, 22.11.2026
+Montag, 23.11.2026
 Erlebnisgelände
 10.00 – 19.00 Uhr
 Bauernmarktgelände
-11.00 Uhr – 16.00 Uhr
+9.30 Uhr – 18.30 Uhr
 Erlebnis-Gelände auf dem Gertrudenhof
 Geländebereich A
 Gertrudenhof Weihnachts-Park 2026

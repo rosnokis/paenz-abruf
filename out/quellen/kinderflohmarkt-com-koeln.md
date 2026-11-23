@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 11 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 8 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -17,21 +17,19 @@ großer Beliebtheit ❤️
 ★ Kinderflohmärkte & Kinderbasare im November 2026
 in Köln
 + 50 km
-Samstag,
-21. November 2026
-1. Spielzeugbörse
-★ Kindertagesstätte Hl. Drei Könige
-51467 Bergisch Hebborn
-Datum 21.11.2026 Zeit
-16 - 19 Uhr
+Sonntag,
+22. November 2026
+★ Advents-Flohmarkt rund ums Kind
+★ Psychomotorischer Kindergarten Wolke 7
+53129 Kessenich
+Datum 22.11.2026 Zeit
+10 - 14 Uhr
 Typ
-★ vorsortierter Basar
+★ Flohmarkt mit Ständen
 Adresse
-Hebborner Kirchweg 1,
-★ Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre..
-★ weitere Informationen Verkauf von Spielzeugwaren und Bücher für große und kleine Kinder in vorweihnachtlicher Atmosphäre
-Kostenfreie Parkmöglichkeiten an der Kirche
-Kontakt [E-Mail]
+Loeschckestraße 55, 53129 Bonn/Kessenich,
+★ Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, U..
+★ weitere Informationen Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, Umstandsmode und Zubehör. Dazu könnt ihr Kaffee, Kuchen, herzhafte Snacks und Waffeln genießen. Kinder können auf dem weitläufigen Gelände spielen. Wir freuen uns auf Euch!
 Kontakt mit dem Organisator aufnehmen
 * benötigte Angabe
 dein Name *
@@ -44,35 +42,6 @@ Datenschutz
 Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
 ★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
 ★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kindertagesstaette-hl-drei-koenige-51467-bergisch-9616/)
-★ Kindersachenbasar "Rund ums Kind"
-Gesamtschule-Hennef-West
-Schulzentrum Hennef-Mitte
-53773 Hennef (Mitte)
-12:30 - 15 Uhr
-★ Flohmarkt mit Ständen
-Fritz-Jacobi-Straße 10,
-★ Bei diesem Basar kann neben gut erhaltener Kinderbekleidung auch alles andere rund um das Kind gekauft werden. Angeboten..
-★ weitere Informationen Bei diesem Basar kann neben gut erhaltener Kinderbekleidung auch alles andere rund um das Kind gekauft werden. Angeboten werden hierbei insbesondere Spielwaren, Bücher, Bettchen, Kinderwagen, Kindermöbel, Autositze usw. Während des Basars haben Sie die Möglichkeit, sich in unserer Cafeteria mit Kaffee und Kuchen zu stärken. Anmeldung für Nichtmitglieder ausschließlich telefonisch am 01.10.26 um 18.00 Uhr, für Mitglieder während der Woche davor bei Familie Becker, ausschließlich telefonisch unter 02242/4174.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/hennef-sieg/gesamtschule-hennef-west-53773-hennef-1001/)
-★ Kinderflohmarkt
-★ Kita Krebsweg
-51427 Bergisch Gladbach
-10 - 13 Uhr
-Krebsweg 12,
-★ Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, sel..
-★ weitere Informationen Kinderflohmarkt mit Kinderkleidung, Spielzeug und vielen Geschenkideen zu Weihnachten. Dazu gibt es frische Waffeln, selbstgemachten Kuchen, Muffins, Würstchen im Brot, leckeren Kafffee uvm.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/)
-Sonntag,
-22. November 2026
-★ Advents-Flohmarkt rund ums Kind
-★ Psychomotorischer Kindergarten Wolke 7
-53129 Kessenich
-Datum 22.11.2026 Zeit
-10 - 14 Uhr
-Loeschckestraße 55, 53129 Bonn/Kessenich,
-★ Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, U..
-★ weitere Informationen Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, Umstandsmode und Zubehör. Dazu könnt ihr Kaffee, Kuchen, herzhafte Snacks und Waffeln genießen. Kinder können auf dem weitläufigen Gelände spielen. Wir freuen uns auf Euch!
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/psychomotorischer-kindergarten-wolke-7-53129-kessenich-4859/)
 29. November 2026
 ★ Trödelmarkt und Adventsbazar
@@ -85,11 +54,13 @@ Apostelplatz 2,
 ★ weitere Informationen Trödelmarkt für Kinder-und Babykleidung, Spielsachen uvm.
 ★ Gleichzeitig findet der Adventsbazar des Seniorenwohnheimes statt.
 Es gibt auch ein Angebot an Speisen und Getränken.
+Kontakt [E-Mail]
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/duesseldorf/kita-apostelplatz-40625-duesseldorf-10588/)
 ★ Winterbasar 2026 - Förderverein KiTa Bärenhöhle e.V.
 Jugendkulturhaus CULTRA
 50321 Brühl Brühl Ost
 10 - 15 Uhr
+★ vorsortierter Basar
 Schildgesstraße 112,
 ★ Winterbasar 2026 im CULTRA Am 29. November 2026 lädt der Förderverein der KiTa Bärenhöhle e.V. he..
 ★ weitere Informationen Winterbasar 2026 im CULTRA
@@ -110,12 +81,14 @@ Eine mitgebrachte Kleiderstange, Kleiderständer oder Ähnliches darf hinter dem
 ★ Fahrzeuge, großes Spielzeug, Kindersitze oder -wagen etc. müssen am Tisch verkauft werden.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/erftstadt/pfarrzentrum-st-kilian-50374-erftstadt-11467/)
 ★ Kinderflohmärkte & Kinderbasare im Januar 2027
+Samstag,
 23. Januar 2027
 ★ Kindersachenflohmarkt Kath. Kita St. Adelheid in Pützchen
 ★ Kath. Kita St. Adelheid Pützchen
 Zugang für Besucher:innen über Kameliterstr. 3a
 53229 Bonn Pützchen
 Datum 23.01.2027 Zeit
+10 - 13 Uhr
 Am Herz-Jesu-Kloster 34,
 ★ Am Samstag, den 23.01.2027, lädt die katholische Kita St. Adelheid herzlich zum traditionellen Winter-Flohmarkt ein..
 ★ weitere Informationen Am Samstag, den 23.01.2027, lädt die katholische Kita St. Adelheid herzlich zum traditionellen Winter-Flohmarkt ein!

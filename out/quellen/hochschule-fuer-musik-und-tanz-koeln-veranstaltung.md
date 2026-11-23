@@ -2,28 +2,18 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Viola da gamba- und Violoncellonachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-viola-da-gamba-und-violoncellonachmittag/)
-22.11.2026
-15:00
-Uhr
-Kammermusiksaal
-Köln
-Viola da gamba- und Violoncellonachmittag
-★ [Kinderorchester NRW - 20.000 Meilen unter dem Meer](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-kinderorchester-nrw-20000-meilen-unter-dem-meer/)
-16:00
-Konzertsaal
-★ Kinderorchester NRW - 20.000 Meilen unter dem Meer
-[Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-11-2026-preistraegerkonzert-brigitte-kempen-wettbewerb-2026/)
-19:00
-Aachen
-Preisträgerkonzert: Brigitte-Kempen-Wettbewerb 2026
 [Oboenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-06-2026-oboenabend-1/)
 23.11.2026
+19:00
+Uhr
+Konzertsaal
+Aachen
 Oboenabend
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-lunchtime-konzerte-in-st-kunibert/)
 24.11.2026
 13:30
 St. Kunibert
+Köln
 Lunchtime-Konzerte in St. Kunibert
 [Violoncelloabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-01-2026-violoncelloabend-1-1/)
 19:30
@@ -31,6 +21,7 @@ Konzertsaal Wuppertal
 Wuppertal
 Violoncelloabend
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-violaabend/)
+Kammermusiksaal
 Violaabend
 [Trompetenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-trompetenabend/)
 25.11.2026
@@ -69,6 +60,7 @@ Herzensangelegenheit
 [Trompetenmatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-trompetenabend/)
 Trompetenmatinee
 [Fagottnachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-fagottnachmittag/)
+15:00
 Fagottnachmittag
 [Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-jahreskonzert-erstes-koelner-akkordeon-orchester-1935-e-v/)
 17:00

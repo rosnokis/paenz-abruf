@@ -40,20 +40,11 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-21.11.
-Sa 19:00 Uhr
-DJ Session
-Live in der Halle!
-[Tickets](https://halle.comedia-koeln.de/)
-22.11.
-So 18:00 Uhr
-Premiere
+24.11.
+Di 09:00 Uhr
 [Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
 ★ von Sergej Gößner, für alle ab 5 Jahren
 Comedia Theater (Roter Saal)
-Ausverkauft
-24.11.
-Di 09:00 Uhr
 [Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
 Di 11:00 Uhr
 [Tickets](https://comedia-koeln.de/schulvorstellungen/)
@@ -95,7 +86,19 @@ Relaxed Performance
 [Tickets](https://api.qultor.de/wearthere-dress-to-impress-wie-politisch-ist-mode/wearthere-dress-to-impress-wie-politisch-ist-mode-2026-11-27-1930/tickets)
 28.11.
 Sa 15:00 Uhr
+Sa 19:00 Uhr
+DJ Session
+Live in der Halle!
+[Tickets](https://halle.comedia-koeln.de/)
 Sa 19:30 Uhr
 [Tickets](https://api.qultor.de/jugend-ohne-gott/jugend-ohne-gott-2026-11-28-1930/tickets)
+Sa 20:00 Uhr
+[Helene Bockhorst: LEBEFRAU »](https://comedia-koeln.de/programm/unsere-gaeste/helene-bockhorst-lebefrau/)
+[Tickets](https://api.qultor.de/helene-bockhorst-lebefrau/helene-bockhorst-lebefrau-2026-11-28-2000/tickets)
+29.11.
+So 12:00 Uhr
+[24. Kölner Theaternacht - das Festival der darstellenden Künste Köln »](https://comedia-koeln.de/programm/festivals/festival-der-darstellenden-kuenste/)
+Die Kölner Theaternacht geht in die 24. Runde! Auf verschiedenen Bühnen im Depot Köln präsentieren freie Kölner Gruppen, Ensembles und Häuser Ausschnitte aus ihren aktuellen und kommenden Produktionen.
+[Tickets](https://rausgegangen.de/events/24-kolner-theaternacht-das-festival-der-darstellenden-kunste-0/)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

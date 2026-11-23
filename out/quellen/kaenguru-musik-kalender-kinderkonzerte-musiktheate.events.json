@@ -54,15 +54,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
-  "name": "„20.000 Meilen unter dem Meer“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/20-000-meilen-unter-dem-meer-1/2026-11-22",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
   "name": "„Alles Brahms\"",
   "location": {
    "name": "Bonn"
@@ -117,11 +108,11 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
-  "name": "„Hänsel und Gretel\"",
+  "name": "„Die chinesische Nachtigall\"",
   "location": {
-   "name": "Bonn"
+   "name": "Hürth"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/haensel-und-gretel-7/2026-11-22",
+  "url": "https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-06",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
@@ -176,6 +167,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-04",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
+  "name": "„Ox und Esel\"",
+  "location": {
+   "name": "Düsseldorf"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/ox-und-esel/2026-12-06",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  }

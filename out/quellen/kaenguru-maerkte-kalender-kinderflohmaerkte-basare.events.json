@@ -1,14 +1,5 @@
 [
  {
-  "name": "Advents-Flohmarkt rund ums Kind",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/advents-flohmarkt-rund-ums-kind/2026-11-22",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
- },
- {
   "name": "Familienflohmarkt",
   "location": {
    "name": "Köln"
@@ -69,15 +60,6 @@
   },
   "url": "https://www.kaenguru-online.de/kalender/maerkte/3-kindersachen-flohmarkt/2026-11-28",
   "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
- },
- {
-  "name": "Reparatur-Café",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/maerkte/reparatur-cafe/2026-11-22",
-  "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/maerkte"
  },
  {

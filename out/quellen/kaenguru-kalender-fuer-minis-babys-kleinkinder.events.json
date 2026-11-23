@@ -27,15 +27,6 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "MiniMax: Wunderwald",
-  "location": {
-   "name": "Brühl"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/minimax-wunderwald/2026-11-22",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Museumsflöhe",
   "location": {
    "name": "Leverkusen"
@@ -81,11 +72,11 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "„Der Grüffelo\"",
+  "name": "„Das kleine Zottel Mottel feiert Weihnachten\"",
   "location": {
-   "name": "Bonn"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-22",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-feiert-weihnachten/2026-12-01",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -176,6 +167,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Zu Besuch in meinem Buch\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-30",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  }

@@ -4,17 +4,19 @@
 Previous
 Next
 Aktuelle Termine
-22. Nov. 2026
-So.., 08:55 Uhr | [Sonntagskirche im WDR 4](https://www.lutherkirche-nippes.de/termin/kirche-wdr4-261122/)
+27. Nov. 2026
+★ Fr.., 15:30 Uhr | [Zeit für Kinder: Weihnachten zum Mitmachen!](https://www.lutherkirche-nippes.de/termin/weihnachtsstueck-2026/)
+Gemeindehaus
+★ Fest | Gottesdienst Gemeinsam | Theater | Zeit für Kinder
+Fr.., 16:00 Uhr | [Offenes Trauercafé](https://www.lutherkirche-nippes.de/termin/trauercafe-2611/)
+Café Fink
+Dialog
+29. Nov. 2026
+So.., 08:55 Uhr | [Sonntagskirche im WDR 4](https://www.lutherkirche-nippes.de/termin/kirche-wdr4-261129/)
 WDR4 | Radio
 Dialog | Online
-So.., 11:00 Uhr | [Gottesdienst zum Ewigkeitssonntag mit Violinistin Ariadne Daskalakis](https://www.lutherkirche-nippes.de/termin/ewigkeit-2026/)
-Lutherkirche Nippes
-Gedenken | Gottesdienst | Konzert | Kultur | Vielfalt
-So.., 11:00 Uhr | [Angebote zum Ewigkeitssonntag](https://www.lutherkirche-nippes.de/termin/ewigkeitssonntag-2026/)
-Dialog | Gedenken | Gottesdienst
-So.., 17:00 Uhr | [Chorkonzert am Ewigkeitssonntag](https://www.lutherkirche-nippes.de/termin/chorkonzert2026/)
-Chor | Gedenken | Konzert
+★ So.., 11:00 Uhr | [Gottesdienst für Kinder](https://www.lutherkirche-nippes.de/termin/kindergottesdienst-2611/)
+★ Gottesdienst | Gottesdienste für Kinder | Zeit für Kinder
 [Alle Termine](https://www.lutherkirche-nippes.de/termine/)
 [Gottes­dienste](https://www.lutherkirche-nippes.de/lutherkirche/gottesdienste/)
 Podcasts unserer Gemeinde

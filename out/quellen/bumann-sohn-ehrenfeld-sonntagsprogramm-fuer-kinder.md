@@ -1,21 +1,6 @@
 # Bumann & Sohn (Ehrenfeld) – Sonntagsprogramm für Kinder (bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder)
 
 ## Quelle: https://www.bumannundsohn.de/programm
-[Nov 22 2:45 PM 14:45](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
-★ [Event](https://www.bumannundsohn.de/programm?category=Event), [Kinderprogramm](https://www.bumannundsohn.de/programm?category=Kinderprogramm), [Weihnachtsmarkt](https://www.bumannundsohn.de/programm?category=Weihnachtsmarkt)
-★ [FIGURENTHEATER FÜR KINDER](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
-Sunday, November 22, 2026
-2:45 PM
-4:00 PM
-14:45
-16:00
-★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=FIGURENTHEATER%20F%C3%9CR%20KINDER&dates=20261122T134500Z/20261122T150000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel?format=ical)
-SONNTAG / 22.11.26 / 14:45 - 16:00
-KUCKUCK UND ESEL - THEATER ROSENFISCH
-★ Für Kinder ab 3 Jahren und Familienpublikum
-🎟️✨ [TICKETS](https://t.rausgegangen.de/tickets/kuckuck-und-esel-figurentheater-theater-rosenfisch)
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
 [Nov 24 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/11/24/loveatfirstslide)
 [Event](https://www.bumannundsohn.de/programm?category=Event)
 [Love at first slide](https://www.bumannundsohn.de/programm/2026/11/24/loveatfirstslide)
@@ -132,8 +117,13 @@ DJs: TOUCH
 MUSIC: HOUSE x DISCO
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/28/touch)
 ★ [Nov 29 2:45 PM 14:45](https://www.bumannundsohn.de/programm/2026/11/29/vorlesenachmittagmitanna)
+★ [Event](https://www.bumannundsohn.de/programm?category=Event), [Kinderprogramm](https://www.bumannundsohn.de/programm?category=Kinderprogramm), [Weihnachtsmarkt](https://www.bumannundsohn.de/programm?category=Weihnachtsmarkt)
 ★ [VORLESENACHMITTAG FÜR KINDER](https://www.bumannundsohn.de/programm/2026/11/29/vorlesenachmittagmitanna)
 Sunday, November 29, 2026
+2:45 PM
+4:00 PM
+14:45
+16:00
 ★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=VORLESENACHMITTAG%20F%C3%9CR%20KINDER&dates=20261129T134500Z/20261129T150000Z)
 ★ [ICS](https://www.bumannundsohn.de/programm/2026/11/29/vorlesenachmittagmitanna?format=ical)
 SONNTAG / 29.11.26 / 14:45 - 16:00
@@ -205,6 +195,16 @@ DJs: Rubimental & Meskla
 MUSIC: R&B x AFRO x POP x SINGALONGS x HITSx HYMNEN
 [TICKETS](https://t.rausgegangen.de/tickets/silvester-party-liberte-die-schonste-party-der-welt-1)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/31/silvesterparty-liberte)
+[Nov 22 2:45 PM 14:45](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
+★ [FIGURENTHEATER FÜR KINDER](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
+Sunday, November 22, 2026
+★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=FIGURENTHEATER%20F%C3%9CR%20KINDER&dates=20261122T134500Z/20261122T150000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel?format=ical)
+SONNTAG / 22.11.26 / 14:45 - 16:00
+KUCKUCK UND ESEL - THEATER ROSENFISCH
+★ Für Kinder ab 3 Jahren und Familienpublikum
+🎟️✨ [TICKETS](https://t.rausgegangen.de/tickets/kuckuck-und-esel-figurentheater-theater-rosenfisch)
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/22/theaterrosenfisch-kuckuckundesel)
 [Nov 21 to Nov 22](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
 [PARTY // LEKKER NIGHT](https://www.bumannundsohn.de/programm/2026/11/21/lekkernight)
 Sat, Nov 21, 2026
@@ -497,11 +497,3 @@ FREITAG / 30.10.26 / 22:00 - 05:00
 DJ: IONNA
 MUSIC: HOUSE x GLOBAL BEATS x BAILE FUNK
 [View Event →](https://www.bumannundsohn.de/programm/2026/10/30/funkyfresh)
-[Oct 29 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/10/29/bingo)
-[BINGO](https://www.bumannundsohn.de/programm/2026/10/29/bingo)
-Thursday, October 29, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=BINGO&dates=20261029T173000Z/20261029T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/29/bingo?format=ical)
-DONNERSTAG / 29.10.26 / 18:30 - 22:00
-[RESERVIERUNG](https://t.rausgegangen.de/tickets/bingo-157)
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/29/bingo)

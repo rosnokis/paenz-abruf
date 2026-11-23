@@ -25,13 +25,13 @@ Unsere nächsten Aufführungen
 [(Ein) Winternachtstraum](https://www.k-k-t.de/stuecke/winternachtstraum)
 Undine und Paul finden den verlorenen König
 Nächste Termine
-Sonntag, 22. November 2026
-15:00 Uhr
 Dienstag, 24. November 2026
 10:00 Uhr
 fällt leider aus!
 Samstag, 05. Dezember 2026
 16:00 Uhr
+Sonntag, 06. Dezember 2026
+15:00 Uhr
 Jugendtheater
 [THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
 Jugendliche und KI – wie echt ist unser Leben?

@@ -2,11 +2,6 @@
 
 ## Quelle: https://www.ehrenfeldstudios.de
 [Hier findet ihr unser aktuelles Programm im PDF Format](https://www.ehrenfeldstudios.de/wp-content/uploads/2026/07/Broschuere_efs_SeptDez_26_DRUCK.pdf)
-[The Compost Community | Baal](https://www.ehrenfeldstudios.de/the-compost-community-baal/)
-★ Für alle ab 5 Jahren
-Sa, 21.11.2026 | 16 Uhr
-So, 22.11.2026 | 16 Uhr
-[mehr lesen](https://www.ehrenfeldstudios.de/the-compost-community-baal/)
 [Into it | performing:group & Marie-Lena Kaiser](https://www.ehrenfeldstudios.de/into-it-performing-group/)
 ★ Für alle ab 11 Jahren
 Fr, 27.11.2026 | 11 Uhr (Schulvorstellung)
@@ -24,12 +19,7 @@ Sa, 05.12.2026 | 20 Uhr
 Fr, 04.12.2026 | 20 Uhr
 [mehr lesen](https://www.ehrenfeldstudios.de/fragil-compania-nomada-es/)
 [MIT UNS! ZWEI | Silke Z.](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)
-ehrenfeldstudios Köln:
-So, 06.12.2026 | 18 Uhr (PREMIERE)
-mit Physical Introduction um 17:30 Uhr
-Tanzgenerator Bonn:
-So, 06.12.2026 | 11:30 Uhr
-Fr, 04.12.2026 | 18 Uhr
+So, 06.12.2026 | 18 Uhr (KÖLN PREMIERE)
 [mehr lesen](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)
 [dernière! | von Caroline Simon](https://www.ehrenfeldstudios.de/derniere-von-caroline-simon/)
 Fr, 11.12.2026 | 20 Uhr (in deutscher Sprache)

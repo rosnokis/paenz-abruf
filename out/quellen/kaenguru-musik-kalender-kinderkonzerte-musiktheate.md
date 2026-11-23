@@ -6,22 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„20.000 Meilen unter dem Meer“](https://www.kaenguru-online.de/kalender/musik/20-000-meilen-unter-dem-meer-1/2026-11-22)
-★ Es spielt das Kinderorchester NRW – Orchestererzählung nach Jules Verne für die ganze Familie
-22.11.2026
-16:00 Uhr
-Hochschule für Musik und Tanz
-Köln
-[„Hänsel und Gretel"](https://www.kaenguru-online.de/kalender/musik/haensel-und-gretel-7/2026-11-22)
-★ Opernklassiker für Familien ab 6 Jahren
-18:00 Uhr
-Oper Bonn
-Bonn
 [„Der Wintertroll“](https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25)
 ★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
 25.11.2026
 11:00 Uhr
 Bürgerhaus Kalk
+Köln
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
 ★ Eine Insektenoper als mobile Produktion für KiTas
 26.11.2026
@@ -47,6 +37,7 @@ Philharmonie
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
 Beethovenhalle Bonn
+Bonn
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-30)
 30.11.2026
 [„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01)
@@ -82,3 +73,8 @@ Hürth
 13:00 Uhr
 Stiftung Schloss und Park Benrath
 Düsseldorf
+[„Ox und Esel"](https://www.kaenguru-online.de/kalender/musik/ox-und-esel/2026-12-06)
+★ Weihnachtliches Krippenspiel mit Kinderorchester und gemeinsamem Singen für Familien
+Tonhalle Düsseldorf
+Düsseldorf
+[„Die chinesische Nachtigall"](https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-06)

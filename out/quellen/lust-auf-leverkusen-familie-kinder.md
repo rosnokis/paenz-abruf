@@ -3,27 +3,16 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-53 kommende Veranstaltungen in dieser Kategorie
+51 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(53)
-22
-Nov
-★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-[Umwelt & Natur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/umwelt-natur/)
-So
-15:00 Uhr
-[Wald erforschen.](https://lust-auf-leverkusen.de/veranstaltung/wald-erforschen/)
-[Opladen](https://lust-auf-leverkusen.de/veranstaltungsort/opladen/)
-[Theater & Schauspiel](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/theater-schauspiel/)
-★ [Tickets](https://www.kindertheater-papiermond.de/ticketreservierung)
-16:00 Uhr
-★ [Kasperletheater](https://lust-auf-leverkusen.de/veranstaltung/kasperletheater/)
-[NaturGut Ophoven. Standort Stauffenbergstraße.](https://lust-auf-leverkusen.de/veranstaltungsort/naturgut-ophoven-standort-stauffenbergstrasse/)
+(51)
 24
+Nov
 [Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
+★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
 Di
 17:00 Uhr
 [Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-11-24-17-00/)
@@ -37,6 +26,7 @@ Mi
 26
 [Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
 Do
+16:00 Uhr
 [Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-11-26-16-00/)
 [Stadtbibliothek Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/stadtbibliothek/)
 27
@@ -46,6 +36,8 @@ Fr
 [Basteln im Advent für Groß und Klein](https://lust-auf-leverkusen.de/veranstaltung/basteln-im-advent-fuer-gross-und-klein/)
 [Petruskirche](https://lust-auf-leverkusen.de/veranstaltungsort/petruskirche/)
 29
+So
+15:00 Uhr
 ★ [Weihnachtskonzert. Leverkusener Kinder- und Jugendchor.](https://lust-auf-leverkusen.de/veranstaltung/weihnachtskonzert-leverkusener-kinder-und-jugendchor/)
 [Christuskirche](https://lust-auf-leverkusen.de/veranstaltungsort/christuskirche/)
 01
@@ -63,10 +55,10 @@ Ausverkauft
 [Tipps](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/tipps/)
 [Basteln mit Gaby und Anika](https://lust-auf-leverkusen.de/veranstaltung/basteln-mit-gaby-und-anika/2026-12-02-16-00/)
 03
+[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel/2026-12-03-16-00/)
 [Essen & Trinken](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/essen-trinken/)
 ★ [Umzugsparty. Kinder- und Jugendtreff LA.](https://lust-auf-leverkusen.de/veranstaltung/umzugsparty-kinder-und-jugendtreff-la/)
 ★ [Kinder- und Jugendtreff "Treff L.A."](https://lust-auf-leverkusen.de/veranstaltungsort/kinder-und-jugendtreff-treff-l-a/)
-[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel/2026-12-03-16-00/)
 06
 [Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)
 [Der satanarchäolügenialkohöllische Wunschpunsch](https://lust-auf-leverkusen.de/veranstaltung/der-satanarchaeoluegenialkohoellische-wunschpunsch/)
@@ -76,3 +68,5 @@ Mo
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-07-11-30/)
 08
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-09-30/)
+[Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-11-30/)
+[Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-12-08-17-00/)

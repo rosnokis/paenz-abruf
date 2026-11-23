@@ -1,27 +1,27 @@
 {
- "stand": "2026-11-22T06:51",
- "anfragen": 255,
+ "stand": "2026-11-23T06:51",
+ "anfragen": 266,
  "wetter_fehler": null,
  "quellen": [
   {
    "id": "freizeitkalender-bezirk-nippes-woechentliches-pdf",
    "url": "https://bilderstoeckchen.sozialraumkoordination.koeln/",
-   "abgerufen_um": "2026-11-22T06:51",
+   "abgerufen_um": "2026-11-23T06:51",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
    "fehler": null,
    "urls": [
     {
-     "url": "https://bilderstoeckchen.sozialraumkoordination.koeln/downloads/2026/Freizeitkalender_16_November_2026.pdf",
+     "url": "https://bilderstoeckchen.sozialraumkoordination.koeln/downloads/2026/Freizeitkalender_23_November_2026.pdf",
      "http_status": 404,
-     "bytes": 31480,
+     "bytes": 31478,
      "zeilen": 0,
      "termine": 0,
      "leer": true
     },
     {
-     "url": "https://bilderstoeckchen.sozialraumkoordination.koeln/downloads/2026/Freizeitkalender_23_November_2026.pdf",
+     "url": "https://bilderstoeckchen.sozialraumkoordination.koeln/downloads/2026/Freizeitkalender_30_November_2026.pdf",
      "http_status": 404,
      "bytes": 31480,
      "zeilen": 0,
@@ -30,15 +30,15 @@
     }
    ],
    "http_status": 404,
-   "bytes": 62960,
-   "hinweis": "keine aktuelle Ausgabe gefunden (geprüft: Freizeitkalender_16_November_2026.pdf, Freizeitkalender_23_November_2026.pdf)",
+   "bytes": 62958,
+   "hinweis": "keine aktuelle Ausgabe gefunden (geprüft: Freizeitkalender_23_November_2026.pdf, Freizeitkalender_30_November_2026.pdf)",
    "status": "ok"
   },
   {
    "id": "buergerzentrum-nippes-altenberger-hof",
    "url": "https://www.buergerzentrum-nippes.de",
-   "abgerufen_um": "2026-11-22T06:51",
-   "letzter_erfolg": "2026-11-22T06:51",
+   "abgerufen_um": "2026-11-23T06:51",
+   "letzter_erfolg": "2026-11-23T06:51",
    "sha256": "c54b776ed66c687614cdf192fcb24ea3f43577a07b8d53b47920ca8eff07d416",
    "geaendert": false,
    "fehler": null,
@@ -67,22 +67,22 @@
   {
    "id": "verein-klug-nippes",
    "url": "https://klugev.de",
-   "abgerufen_um": "2026-11-22T06:51",
-   "letzter_erfolg": "2026-11-22T06:51",
-   "sha256": "5a405fe0446d020de833fbb94d1e78e6654bb6ccc0be979635af7eb14da7b554",
+   "abgerufen_um": "2026-11-23T06:51",
+   "letzter_erfolg": "2026-11-23T06:51",
+   "sha256": "cf9dc64b195d19f6e40088cfe6c8f44e046990dd96cc2b88ded74b0c6848bdd7",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://klugev.de",
      "http_status": 200,
-     "bytes": 571146,
+     "bytes": 571144,
      "zeilen": 238,
      "termine": 17
     }
    ],
    "http_status": 200,
-   "bytes": 571146,
+   "bytes": 571144,
    "status": "ok",
    "zeilen": 238,
    "termine": 17
@@ -90,9 +90,9 @@
   {
    "id": "stadtbibliothek-koeln-nippes-chorweiler",
    "url": "https://www.stbib-koeln.de",
-   "abgerufen_um": "2026-11-22T06:51",
-   "letzter_erfolg": "2026-11-22T06:51",
-   "sha256": "684fb271acdf364074d2264824d9753dc66ba4ce68de620796665cfb3b8019ea",
+   "abgerufen_um": "2026-11-23T06:51",
+   "letzter_erfolg": "2026-11-23T06:51",
+   "sha256": "7150c39763932fddc6281508c83ad0aeaed712f829a4097d0ede2778a1f5f15c",
    "geaendert": true,
    "fehler": null,
    "urls": [
@@ -106,22 +106,22 @@
     {
      "url": "https://www.stadt-koeln.de/artikel/73374/index.html",
      "http_status": 200,
-     "bytes": 588958,
-     "zeilen": 224,
-     "termine": 145
+     "bytes": 587118,
+     "zeilen": 221,
+     "termine": 143
     }
    ],
    "http_status": 200,
-   "bytes": 672347,
+   "bytes": 670507,
    "status": "ok",
-   "zeilen": 277,
-   "termine": 145
+   "zeilen": 274,
+   "termine": 143
   },
   {
    "id": "programmheft-katholische-familienzentren-koeln-mit",
    "url": "https://www.katholisch-in-koeln.de/export/sites/katholisch-in-koeln/.galleries/Familienzentren-Dokumente/Webversion-KIKM-Familienzentren-2-2026.pdf",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
+   "abgerufen_um": "2026-11-23T06:51",
+   "letzter_erfolg": "2026-11-23T06:51",
    "sha256": "b4413dba0192fe2333422c53d305729e6ed236d879440423919685cc782bd9f7",
    "geaendert": false,
    "fehler": null,
@@ -143,8 +143,8 @@
   {
    "id": "martinszuege-nach-stadtbezirk-koeln-de-stadt-koeln",
    "url": "https://www.koeln.de/leben/ll/martinszuege-koeln-termine/martinszuege-koeln-nippes/",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
+   "abgerufen_um": "2026-11-23T06:51",
+   "letzter_erfolg": "2026-11-23T06:51",
    "sha256": "8f19fdc4979c39d9fde5229651b6c4833a318701619330093507bd21561321df",
    "geaendert": false,
    "fehler": null,
@@ -166,29 +166,29 @@
   {
    "id": "koelner-philharmonie-philharmonieveedel-baby-paenz",
    "url": "https://www.koelner-philharmonie.de/en/d/fuer-familien/philharmonieveedel-panz/503",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "9e0f5e277eb07aac0f933477bb96dd02e8c750de8bac98aa701aa30f677412a4",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.koelner-philharmonie.de/en/d/fuer-familien/philharmonieveedel-panz/503",
      "http_status": 200,
-     "bytes": 514006,
+     "bytes": 513688,
      "zeilen": 63,
      "termine": 0
     },
     {
      "url": "https://www.koelner-philharmonie.de/en/events?tags=26",
      "http_status": 200,
-     "bytes": 456553,
+     "bytes": 456671,
      "zeilen": 44,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 970559,
+   "bytes": 970359,
    "status": "ok",
    "zeilen": 107,
    "termine": 0
@@ -196,32 +196,32 @@
   {
    "id": "guerzenich-orchester-angebote-fuer-familien",
    "url": "https://www.guerzenich-orchester.de/de/programm",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
-   "sha256": "3431eb319face12e236715af8dcd420ed35c958a5a00cfd51d9e48554c4f7b13",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "ab9bd0a9579de082228560fd490d233c134a65d22317d9d8aacf4fd3a18b25c9",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.guerzenich-orchester.de/de/programm",
      "http_status": 200,
-     "bytes": 238197,
-     "zeilen": 301,
+     "bytes": 236342,
+     "zeilen": 294,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 238197,
+   "bytes": 236342,
    "status": "ok",
-   "zeilen": 301,
+   "zeilen": 294,
    "termine": 0
   },
   {
    "id": "kkt-koelner-kuenstler-innen-theater",
    "url": "https://www.k-k-t.de",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
-   "sha256": "78e1be7709630aaf12f4d7e3a75581e57e106d54b166d4b91d7d1332952ccfb7",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "6900aa6377417d6745f4df1858d4ce2df4f7d53e365e554ebe292fa1291c28ad",
    "geaendert": true,
    "fehler": null,
    "urls": [
@@ -242,8 +242,8 @@
   {
    "id": "horizont-theater",
    "url": "https://www.horizont-theater.de",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "6b0e5e90ad462fab02f0f9b5182f1bf611343e111a385505a46dbbb6f6911ed9",
    "geaendert": false,
    "fehler": null,
@@ -265,54 +265,54 @@
   {
    "id": "ehrenfeldstudios",
    "url": "https://www.ehrenfeldstudios.de",
-   "abgerufen_um": "2026-11-22T06:52",
-   "letzter_erfolg": "2026-11-22T06:52",
-   "sha256": "c95f3a0b6e599096cb81084251260b940afd3a0d6666ae92fd40f141b57f0cb8",
-   "geaendert": false,
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "851030971da61faba5fca00a80b1a7c830542fb8360292c809240ff6cb583372",
+   "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.ehrenfeldstudios.de",
      "http_status": 200,
-     "bytes": 260425,
-     "zeilen": 57,
+     "bytes": 259461,
+     "zeilen": 47,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 260425,
+   "bytes": 259461,
    "status": "ok",
-   "zeilen": 57,
+   "zeilen": 47,
    "termine": 0
   },
   {
    "id": "freies-werkstatt-theater-babybuehne",
    "url": "https://www.fwt-koeln.de",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "811a7612ac9e6ec9b023312bd0f23decafef4dab58707dc5a8c9370c4b2b7779",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "b74a2547208bebe986069529dd5a65086d7c45a85b25d0670b5babf521f6c527",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.fwt-koeln.de",
      "http_status": 200,
-     "bytes": 32251,
-     "zeilen": 52,
+     "bytes": 31904,
+     "zeilen": 51,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 32251,
+   "bytes": 31904,
    "status": "ok",
-   "zeilen": 52,
+   "zeilen": 51,
    "termine": 0
   },
   {
    "id": "stadthalle-koeln-muelheim",
    "url": "https://stadthalle.koeln",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "b8ba2ae609dea8e52ba53273e1ea23295134944b6a3c7163e6cf9553553d755d",
    "geaendert": false,
    "fehler": null,
@@ -320,13 +320,13 @@
     {
      "url": "https://stadthalle.koeln",
      "http_status": 200,
-     "bytes": 81880,
+     "bytes": 81778,
      "zeilen": 10,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 81880,
+   "bytes": 81778,
    "status": "ok",
    "zeilen": 10,
    "termine": 0
@@ -334,8 +334,8 @@
   {
    "id": "tante-astrid-e-v-ehrenfeld",
    "url": "https://tante-astrid.de/eventkalender-kindertheater-puppenspiele/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "87480e464186435d7b75fc50c822ea49b7d3629cb1156591b7d94ebf66f9ff2f",
    "geaendert": false,
    "fehler": null,
@@ -343,20 +343,20 @@
     {
      "url": "https://tante-astrid.de/eventkalender-kindertheater-puppenspiele/",
      "http_status": 200,
-     "bytes": 527572,
+     "bytes": 527605,
      "zeilen": 14,
      "termine": 0
     },
     {
      "url": "https://tante-astrid.de/eventkalender/",
      "http_status": 200,
-     "bytes": 649904,
+     "bytes": 649948,
      "zeilen": 58,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 1177476,
+   "bytes": 1177553,
    "status": "ok",
    "zeilen": 72,
    "termine": 0
@@ -364,22 +364,22 @@
   {
    "id": "gut-leidenhausen",
    "url": "https://www.gut-leidenhausen.de",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "a06dcd9b84a2759ee7ee996d7d38020900c502caf0698e4a21f0ff4d4a332c9b",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "119172a50b42c23ef426f6be975c3a3c92400d9a22c25b0637a2291d6fa6dae5",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.gut-leidenhausen.de",
      "http_status": 200,
-     "bytes": 234250,
+     "bytes": 235755,
      "zeilen": 11,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 234250,
+   "bytes": 235755,
    "status": "ok",
    "zeilen": 11,
    "termine": 0
@@ -387,8 +387,8 @@
   {
    "id": "krewelshof-lohmar-eifel",
    "url": "https://krewelshof.de",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "05f4801a6dfa05d3b6b595ed6671074e4ac630c36da3d91a312fe2a56356f263",
    "geaendert": false,
    "fehler": null,
@@ -410,16 +410,16 @@
   {
    "id": "erlebnisbauernhof-gertrudenhof-huerth",
    "url": "http://www.erlebnisbauernhof-gertrudenhof.de",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "5212018c441644c8ea34a49e3c5dbb9573b5dad10dbd5cf24e3a35646d43d4b1",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "116fc6cabd7270e101ed4787f70ef6b4a4b11e0af3eb41143f75104c0478c69d",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "http://www.erlebnisbauernhof-gertrudenhof.de",
      "http_status": 200,
-     "bytes": 404613,
+     "bytes": 404559,
      "zeilen": 116,
      "termine": 0,
      "hinweise": [
@@ -428,7 +428,7 @@
     }
    ],
    "http_status": 200,
-   "bytes": 404613,
+   "bytes": 404559,
    "status": "ok",
    "zeilen": 116,
    "termine": 0
@@ -436,56 +436,56 @@
   {
    "id": "familienhopper-koeln",
    "url": "https://familienhopper.de/koeln/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "c0bba2b08f3d3d8f97f048cb272a91dfb674dc6ff1aad65e8e7d6997c9df0622",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "5843169868ccce9084c0aeca71e14d3d60b7f9825fa27e922f4c79240e2f2e19",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://familienhopper.de/koeln/",
      "http_status": 200,
-     "bytes": 332137,
-     "zeilen": 210,
+     "bytes": 306352,
+     "zeilen": 188,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 332137,
+   "bytes": 306352,
    "status": "ok",
-   "zeilen": 210,
+   "zeilen": 188,
    "termine": 0
   },
   {
    "id": "kaenguru-familienmagazin-koeln-bonn",
    "url": "https://www.kaenguru-online.de/kalender",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "4d2dc41b8c0682456dec8a185c67a4c38be2def0921305447594c5d3dbb31d07",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
+   "sha256": "bc16727292b8674e9ad07cade379b75bb87cc2272e98408a03a5e4013875d5d2",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kaenguru-online.de/kalender",
      "http_status": 200,
-     "bytes": 104379,
-     "zeilen": 100,
+     "bytes": 103770,
+     "zeilen": 91,
      "termine": 20
     }
    ],
    "http_status": 200,
-   "bytes": 104379,
+   "bytes": 103770,
    "status": "ok",
-   "zeilen": 100,
+   "zeilen": 91,
    "termine": 20
   },
   {
    "id": "koeln-de-tageskalender-kinderflohmaerkte",
    "url": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:52",
+   "letzter_erfolg": "2026-11-23T06:52",
    "sha256": "11a708c7e2f68af5e50cf995398e282ff3631b7b3f708bc2639af5c7cd4e3fd1",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -505,22 +505,22 @@
   {
    "id": "kindaling-koeln",
    "url": "https://www.kindaling.de/koeln",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "e32ad92143bcb5b51d4be81187e5790c8fa56c8803505089ae01a1de2ef58efb",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "ffe2e0649ca86c0a553eeb17b8a3ad82c74aa3ca50b793147e5b29479d092b5f",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kindaling.de/koeln",
      "http_status": 200,
-     "bytes": 418438,
+     "bytes": 417156,
      "zeilen": 65,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 418438,
+   "bytes": 417156,
    "status": "ok",
    "zeilen": 65,
    "termine": 0
@@ -528,16 +528,16 @@
   {
    "id": "mvp-de-kinder-events-koeln",
    "url": "https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "d66975bf5a07c16025705784f87ef7f205177bc0301201477f3c5611b032f2bd",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "f904cb5ea057642b88334d2828df1c0e4e247ca6e5954c71c2f6d96410503a7d",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/",
      "http_status": 200,
-     "bytes": 427083,
+     "bytes": 426869,
      "zeilen": 412,
      "termine": 0,
      "hinweise": [
@@ -546,7 +546,7 @@
     }
    ],
    "http_status": 200,
-   "bytes": 427083,
+   "bytes": 426869,
    "status": "ok",
    "zeilen": 412,
    "termine": 0
@@ -554,10 +554,10 @@
   {
    "id": "mit-vergnuegen-koeln-familien-events",
    "url": "https://koeln.mitvergnuegen.com/2026/events-kinder-familien/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "c2a528e3aba50e33bc6158537653e4449e49d5cb607c5107b5d59f7fde23d038",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -580,10 +580,10 @@
   {
    "id": "verliebtinkoeln-wochenendtipps",
    "url": "https://verliebtinkoeln.com/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "0b9c5e3dae3ba936cd22ccbcf930ede0ba75eb9090d0168507990074e0638d59",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -603,23 +603,35 @@
   {
    "id": "rausgegangen-koeln",
    "url": "https://rausgegangen.de/",
-   "abgerufen_um": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
-   "fehler": null,
-   "status": "skip",
-   "hinweis": "robots.txt verbietet den Abruf; wird montags erneut geprüft",
+   "fehler": "https://rausgegangen.de/: robots.txt verbietet den Abruf",
+   "urls": [
+    {
+     "url": "https://rausgegangen.de/",
+     "http_status": null,
+     "bytes": 0,
+     "zeilen": 0,
+     "termine": 0,
+     "fehler": "robots.txt verbietet den Abruf",
+     "blocked": true
+    }
+   ],
    "http_status": null,
-   "bytes": 0
+   "bytes": 0,
+   "status": "blocked",
+   "fehler_seit": "2026-11-23",
+   "fehler_tage": 1
   },
   {
    "id": "haenneschen-puppenspiele-der-stadt-koeln",
    "url": "https://www.haenneschen.de/spillplan/programmuebersicht/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "5712cd34f0249003e123c79543e0d3f37675b0b6085b2096e45ca47b7c1b122d",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -639,22 +651,22 @@
   {
    "id": "cassiopeia-buehne-holweide",
    "url": "https://www.kindaling.de/theater-kinos/cassiopeias-trailerbuehne-puppenspielsommer/koeln-holweide",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
-   "sha256": "166662f9a4461eb7a1326574e59f44f1eea42042a6dd20fd6691ad05a2c8a6bd",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "000ee10b8e116f913283c063b3635dbc018158b3d230787f1aeeabb8bdec41d7",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kindaling.de/theater-kinos/cassiopeias-trailerbuehne-puppenspielsommer/koeln-holweide",
      "http_status": 200,
-     "bytes": 394493,
+     "bytes": 393358,
      "zeilen": 57,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 394493,
+   "bytes": 393358,
    "status": "ok",
    "zeilen": 57,
    "termine": 0
@@ -662,8 +674,8 @@
   {
    "id": "museen-koeln-veranstaltungskalender",
    "url": "https://www.museen.koeln/besuchen/veranstaltungen",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "233936b95c155caca8f1599d815ca6566b3089eec3bb9bb54bdd40b2a692385d",
    "geaendert": false,
    "fehler": null,
@@ -685,8 +697,8 @@
   {
    "id": "stadt-koeln-veranstaltungskalender",
    "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "7ae3f46d6ba876fb3439d2f5912dbc2ed451572a23943ff115e377af965f79cb",
    "geaendert": false,
    "fehler": null,
@@ -708,8 +720,8 @@
   {
    "id": "koeln-interaktiv-weihnachtsmaerkte-koeln",
    "url": "https://koeln-interaktiv.de/weihnachtsmaerkte-koeln/",
-   "abgerufen_um": "2026-11-22T06:53",
-   "letzter_erfolg": "2026-11-22T06:53",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "50f44419031723e7fb3e044231c675ccb467bbe1c613a153fe0f3c26d5f1e420",
    "geaendert": false,
    "fehler": null,
@@ -731,33 +743,33 @@
   {
    "id": "kaenguru-maerkte-kalender-kinderflohmaerkte-basare",
    "url": "https://www.kaenguru-online.de/kalender/maerkte",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "1dfcbdc3d8f1dc4c0cfff7439f2d48c9e52219b0f668d9f4eb25a777b6db83b0",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "df8ddb4c867734ea85d2e9cbfa054cd384f2b4b34d12ceee274d10cdaa43d3f2",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kaenguru-online.de/kalender/maerkte",
      "http_status": 200,
-     "bytes": 67372,
-     "zeilen": 48,
-     "termine": 10
+     "bytes": 62082,
+     "zeilen": 40,
+     "termine": 8
     }
    ],
    "http_status": 200,
-   "bytes": 67372,
+   "bytes": 62082,
    "status": "ok",
-   "zeilen": 48,
-   "termine": 10
+   "zeilen": 40,
+   "termine": 8
   },
   {
    "id": "kinderbasar-online-de-koeln-20-km",
    "url": "https://www.kinderbasar-online.de/Kinderbasar/Termine/Liste/l-K%C3%B6ln/r-20",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "f9aaf737e8790fd99106aff596f573a8fabd7333c0bdf0bd9fc12fac49f5bc01",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -777,31 +789,31 @@
   {
    "id": "kinderflohmarkt-com-koeln",
    "url": "https://kinderflohmarkt.com/de/koeln/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "dc6474e53f5478f832d96e5772556478844995fd6ce00dcc224e259b007f3998",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "be349717223566e332116a83188b9d4f50ebd840336140376f5682d9f3a96d81",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://kinderflohmarkt.com/de/koeln/",
      "http_status": 200,
-     "bytes": 125984,
-     "zeilen": 296,
-     "termine": 11
+     "bytes": 105917,
+     "zeilen": 269,
+     "termine": 8
     }
    ],
    "http_status": 200,
-   "bytes": 125984,
+   "bytes": 105917,
    "status": "ok",
-   "zeilen": 296,
-   "termine": 11
+   "zeilen": 269,
+   "termine": 8
   },
   {
    "id": "barber-s-puppentheater-fuer-kinder-tourneetheater",
    "url": "https://www.puppentheater-fuer-kinder.de",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "d5b29722247f5e15b49d282538cb26af0baa3a3404052fb608d24c3912f5521d",
    "geaendert": false,
    "fehler": null,
@@ -823,33 +835,33 @@
   {
    "id": "lust-auf-leverkusen-familie-kinder",
    "url": "https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "d9f44961f1a8f180c4ba7f46c3bf6c6821c3c96b2fa5b76b4d53c27a3aba723a",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "971e2760ae8b5ca0145effe3ab4c25c4be36437b646e00d84637996d54dabc2e",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/",
      "http_status": 200,
-     "bytes": 781065,
-     "zeilen": 75,
+     "bytes": 776232,
+     "zeilen": 69,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 781065,
+   "bytes": 776232,
    "status": "ok",
-   "zeilen": 75,
+   "zeilen": 69,
    "termine": 0
   },
   {
    "id": "theater-im-walzwerk-pulheim-familienprogramm",
    "url": "https://theaterimwalzwerk.de/familienprogramm/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "c5b30259f256e2bd771046ba482572c0c06e0c9abbc3923943fa16799ae59c5b",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -869,8 +881,8 @@
   {
    "id": "buergerportal-bergisch-gladbach-kinder-familie",
    "url": "https://in-gl.de/event-type/kinder-familie/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "444c44fe7b90e2fc17167b02c52ee96fc6a99ab0aff8f954d75d56a5ff992b7e",
    "geaendert": false,
    "fehler": null,
@@ -878,13 +890,13 @@
     {
      "url": "https://in-gl.de/event-type/kinder-familie/",
      "http_status": 200,
-     "bytes": 713377,
+     "bytes": 713174,
      "zeilen": 973,
      "termine": 12
     }
    ],
    "http_status": 200,
-   "bytes": 713377,
+   "bytes": 713174,
    "status": "ok",
    "zeilen": 973,
    "termine": 12
@@ -892,31 +904,31 @@
   {
    "id": "kaenguru-kalender-fuer-minis-babys-kleinkinder",
    "url": "https://www.kaenguru-online.de/kalender/fuer-minis",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "85ea96340dc6364f1a66b0da39279a73a44119edbabf4f3c42da67df38ac7453",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
+   "sha256": "8e02b4192e032b7a0c38bed3b0855a8600d5209298a461f2c16e984cf97cd291",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kaenguru-online.de/kalender/fuer-minis",
      "http_status": 200,
-     "bytes": 94681,
-     "zeilen": 80,
+     "bytes": 94922,
+     "zeilen": 77,
      "termine": 20
     }
    ],
    "http_status": 200,
-   "bytes": 94681,
+   "bytes": 94922,
    "status": "ok",
-   "zeilen": 80,
+   "zeilen": 77,
    "termine": 20
   },
   {
    "id": "kath-familienzentrum-nippes-bilderstoeckchen-progr",
    "url": "https://www.kathfz-nippesbilderstoeckchen.de/programm-00001/index.html",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "edebd383ce3d49468454bc126c7d26a28aa525c5dfdd5368b98867fe3515fafb",
    "geaendert": false,
    "fehler": null,
@@ -948,8 +960,8 @@
   {
    "id": "kath-familienzentrum-mauenheim-niehl-weidenpesch",
    "url": "https://www.erzbistum-koeln.de/kirche_vor_ort/familienzentren/netzwerke_in_ihrer_region/koeln/mauenheim-niel-weidenpesch/angebote/index.html",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "7064bf82af093f38a2d5645732ccc66e7a3a6ff7e7f47c49fa5a963fd4993dba",
    "geaendert": false,
    "fehler": null,
@@ -971,8 +983,8 @@
   {
    "id": "weihnachtsmarkt-stadtgarten-kinderprogramm",
    "url": "https://www.weihnachtsmarkt-stadtgarten.de/kinderprogramm/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
+   "letzter_erfolg": "2026-11-23T06:53",
    "sha256": "5cf6ad65b16806e881bdeff45f9e50216d1edb006af5cd5949e61339fe641148",
    "geaendert": false,
    "fehler": null,
@@ -994,21 +1006,33 @@
   {
    "id": "tus-koeln-nippes-1919-eltern-kind-turnen",
    "url": "https://www.tusnippes.de/",
-   "abgerufen_um": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:53",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
-   "fehler": null,
-   "status": "skip",
-   "hinweis": "Seite sperrt automatische Abrufe (HTTP 403); wird montags erneut geprüft",
-   "http_status": null,
-   "bytes": 0
+   "fehler": "https://www.tusnippes.de/: gesperrt (HTTP 403)",
+   "urls": [
+    {
+     "url": "https://www.tusnippes.de/",
+     "http_status": 403,
+     "bytes": 4543,
+     "zeilen": 0,
+     "termine": 0,
+     "fehler": "gesperrt (HTTP 403)",
+     "blocked": true
+    }
+   ],
+   "http_status": 403,
+   "bytes": 4543,
+   "status": "blocked",
+   "fehler_seit": "2026-11-23",
+   "fehler_tage": 1
   },
   {
    "id": "disdance-project-tanztheater-fuer-familien-alte-wu",
    "url": "https://disdanceproject.de/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "3db917150b93e665de838d99ce122d6d0534f04faa4f7808ef9276ceb5435071",
    "geaendert": false,
    "fehler": null,
@@ -1016,13 +1040,13 @@
     {
      "url": "https://disdanceproject.de/",
      "http_status": 200,
-     "bytes": 125829,
+     "bytes": 125828,
      "zeilen": 163,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 125829,
+   "bytes": 125828,
    "status": "ok",
    "zeilen": 163,
    "termine": 0
@@ -1030,10 +1054,10 @@
   {
    "id": "buergerhaus-kalk-programm-fuer-kinder",
    "url": "https://buergerhauskalk.de/veranstaltungen/fuer-kinder/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "1db2f2fc7463ca7cc60512f19bf27b6eebf6946dc80598d0968314339d6df369",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -1053,23 +1077,23 @@
   {
    "id": "hochschule-fuer-musik-und-tanz-koeln-veranstaltung",
    "url": "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "29151b81ed9be8286899ce3e43c2138c051d7a3939d6aac62f2419f3fbb4a758",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "8f4cd108221405519243f3ac82bc58a2c8868e44ef64e28b9bfaa830db9cd0d2",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/",
      "http_status": 200,
-     "bytes": 496025,
-     "zeilen": 371,
+     "bytes": 490038,
+     "zeilen": 363,
      "termine": 0
     },
     {
      "url": "https://www.hfmt-koeln.de/aktuelles/veranstaltungen/genre-kinderkonzert/",
      "http_status": 200,
-     "bytes": 170748,
+     "bytes": 170796,
      "zeilen": 70,
      "termine": 0,
      "hinweise": [
@@ -1078,16 +1102,16 @@
     }
    ],
    "http_status": 200,
-   "bytes": 666773,
+   "bytes": 660834,
    "status": "ok",
-   "zeilen": 441,
+   "zeilen": 433,
    "termine": 0
   },
   {
    "id": "familienhopper-st-martin-koeln",
    "url": "https://familienhopper.de/koeln/st-martin/",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "fa275b2f5e5e4356a2407eab66a56c4c5a82ed0466f005f9b17f7f48b4c7cc40",
    "geaendert": false,
    "fehler": null,
@@ -1109,31 +1133,31 @@
   {
    "id": "kaenguru-musik-kalender-kinderkonzerte-musiktheate",
    "url": "https://www.kaenguru-online.de/kalender/musik",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "36e87beee9b353fa389a5575f9eb3b334c73e49ba6cbb30188fa85f78cb2b8f6",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "4b4cdcfd896e404ed95d639bfd10690cef0ebbdd45cf2070c28a2a2fcae4c488",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.kaenguru-online.de/kalender/musik",
      "http_status": 200,
-     "bytes": 94462,
-     "zeilen": 81,
+     "bytes": 94694,
+     "zeilen": 77,
      "termine": 20
     }
    ],
    "http_status": 200,
-   "bytes": 94462,
+   "bytes": 94694,
    "status": "ok",
-   "zeilen": 81,
+   "zeilen": 77,
    "termine": 20
   },
   {
    "id": "foerderverein-kirchenmusik-in-porz-angebote-fuer-k",
    "url": "https://www.kirchenmusik-porz.de/spezielle-musikalische-angebote-fuer-kleinkinder",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "83b1d632fa6803e4ae247e4b680c1982b6be268960ccfa2700a971a08932dd3a",
    "geaendert": false,
    "fehler": null,
@@ -1162,7 +1186,7 @@
   {
    "id": "losgezogen-newsletter-und-blog-wirsindlosgezogen-d",
    "url": "https://www.wirsindlosgezogen.de/",
-   "abgerufen_um": "2026-11-22T06:54",
+   "abgerufen_um": "2026-11-23T06:54",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
@@ -1175,9 +1199,9 @@
   {
    "id": "rodenkirchen-de-veranstaltungskalender-kinder-fami",
    "url": "https://www.rodenkirchen.de/kalender?kinder=1",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "b35f9ee90c02a9a48819a3698121d71f948d7c6c045847bf8b7beeb65cb04ae6",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "b190b51fc136b662526e0e36390daeb64fbf85e138846b1f3cfa7e2819ef999c",
    "geaendert": true,
    "fehler": null,
    "urls": [
@@ -1198,98 +1222,98 @@
   {
    "id": "muelheimer-freiheit-termine",
    "url": "https://koeln-muelheim.de/termine.php",
-   "abgerufen_um": "2026-11-22T06:54",
-   "letzter_erfolg": "2026-11-22T06:54",
-   "sha256": "3e261b85a6f9d57b10d9f8e3ccaa6a292a112ff9d7367d4b895ea7298af13762",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "adda472a96666a88cb02fffe580f025438b052ce09a0be621917dc8b1043e898",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://koeln-muelheim.de/termine.php",
      "http_status": 200,
-     "bytes": 404965,
-     "zeilen": 609,
+     "bytes": 405485,
+     "zeilen": 599,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 404965,
+   "bytes": 405485,
    "status": "ok",
-   "zeilen": 609,
+   "zeilen": 599,
    "termine": 0
   },
   {
    "id": "weisshaus-kino-kidskino",
    "url": "https://www.weisshaus-kino.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "44da4bf4d2d8a43f17cd02dc2821cf20c8fff90b703a84c8dd70853f4129f09e",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "f699ace1f21ced0ecfebff462692a53a3c554f40dd9b1f24e040c4a6691f4400",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.weisshaus-kino.de/",
      "http_status": 200,
-     "bytes": 33643,
-     "zeilen": 51,
+     "bytes": 33305,
+     "zeilen": 53,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 33643,
+   "bytes": 33305,
    "status": "ok",
-   "zeilen": 51,
+   "zeilen": 53,
    "termine": 0
   },
   {
    "id": "eventfrog-koeln-kinder-familie",
    "url": "https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "7f42fbddc1143eed181b8a70b5510f373329dcb0051409a5ef87730c38679733",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "42c4405d96d637676b6455800ea73a182000b02faea5ba75502ecd4aa6e8aa89",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html",
      "http_status": 200,
-     "bytes": 545605,
+     "bytes": 545692,
      "zeilen": 22,
      "termine": 0
     },
     {
      "url": "https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/heute.html",
      "http_status": 200,
-     "bytes": 567833,
-     "zeilen": 6,
+     "bytes": 566537,
+     "zeilen": 5,
      "termine": 0
     },
     {
      "url": "https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/morgen.html",
      "http_status": 200,
-     "bytes": 566796,
+     "bytes": 567037,
      "zeilen": 5,
      "termine": 0
     },
     {
      "url": "https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/wochenende.html",
      "http_status": 200,
-     "bytes": 503374,
-     "zeilen": 5,
+     "bytes": 512146,
+     "zeilen": 7,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 2183608,
+   "bytes": 2191412,
    "status": "ok",
-   "zeilen": 38,
+   "zeilen": 39,
    "termine": 0
   },
   {
    "id": "metropol-theater-koeln",
    "url": "https://www.metropol-theater-koeln.de/spielplan/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "3075d0529ea3cf0fad6d0e2f3d6526bd756e400198591e44e0c16fd5cd66214f",
    "geaendert": false,
    "fehler": null,
@@ -1311,8 +1335,8 @@
   {
    "id": "zirkusfabrik-dellbrueck",
    "url": "https://diezirkusfabrik.com",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "da009faa50a9b6815c0f2fcfa98f1f9b29e7182b2f825d8e8d64aa7637c56c42",
    "geaendert": false,
    "fehler": null,
@@ -1334,54 +1358,54 @@
   {
    "id": "comedia-theater",
    "url": "https://www.comedia-koeln.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "2e374cd6ee9d51d74cc5425a5fdc18da396bbdc7e842f0dd49c77774333bbd52",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "39aaf21816eee9715e6ad9b76b4bcb83eb03da750e3f3d8f88e3f5ac5bf803aa",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.comedia-koeln.de/",
      "http_status": 200,
-     "bytes": 112116,
-     "zeilen": 98,
+     "bytes": 113221,
+     "zeilen": 101,
      "termine": 15
     }
    ],
    "http_status": 200,
-   "bytes": 112116,
+   "bytes": 113221,
    "status": "ok",
-   "zeilen": 98,
+   "zeilen": 101,
    "termine": 15
   },
   {
    "id": "casamax-theater",
    "url": "https://www.casamax-theater.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "8187f402cf5f63ba43883b03514ec0115623644c642d587b24c6e1ba7d648e04",
-   "geaendert": false,
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
+   "sha256": "33b1c8540419b8f2e197a77871ddd2dbb295ae9c395765ccdfd182b16a561282",
+   "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.casamax-theater.de/",
      "http_status": 200,
-     "bytes": 187051,
-     "zeilen": 55,
+     "bytes": 186449,
+     "zeilen": 58,
      "termine": 2
     }
    ],
    "http_status": 200,
-   "bytes": 187051,
+   "bytes": 186449,
    "status": "ok",
-   "zeilen": 55,
+   "zeilen": 58,
    "termine": 2
   },
   {
    "id": "kinderoper-koeln",
    "url": "https://www.oper.koeln/de/kinderoper",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:54",
+   "letzter_erfolg": "2026-11-23T06:54",
    "sha256": "5b15fa45102717d392887a9adeb68741f195975a5b6bcc6fe08117589213cc98",
    "geaendert": false,
    "fehler": null,
@@ -1389,13 +1413,13 @@
     {
      "url": "https://www.oper.koeln/de/kinderoper",
      "http_status": 200,
-     "bytes": 135082,
+     "bytes": 135081,
      "zeilen": 55,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 135082,
+   "bytes": 135081,
    "status": "ok",
    "zeilen": 55,
    "termine": 0
@@ -1403,9 +1427,9 @@
   {
    "id": "volksbuehne-am-rudolfplatz",
    "url": "https://volksbuehne-rudolfplatz.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "878e3de6b1645915a0d9c8c086e49407e33cd8885106b178834649eabfaa93bb",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
+   "sha256": "69ce959c5db23ef3d62395d0f0d20613387c93cf7f4439c361d2fa2a67c5d4b5",
    "geaendert": true,
    "fehler": null,
    "urls": [
@@ -1426,31 +1450,31 @@
   {
    "id": "qultor-kinder",
    "url": "https://www.qultor.de/veranstaltungen",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
-   "sha256": "35d2455777e981ebd0fe24e85a53d285cc707cf5c7f57b7c343e843a2d084670",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
+   "sha256": "b6769579c642f313c568186c1662e1888ab26bf3035c8c4b5ac82d9c0cb6ff17",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.qultor.de/veranstaltungen",
      "http_status": 200,
-     "bytes": 315188,
-     "zeilen": 57,
+     "bytes": 318157,
+     "zeilen": 55,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 315188,
+   "bytes": 318157,
    "status": "ok",
-   "zeilen": 57,
+   "zeilen": 55,
    "termine": 0
   },
   {
    "id": "cinenova-kinderkino",
    "url": "https://www.cinenova.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "0c1865d56664eeebcd3b3131d473e0e095306f04259038ddd0296069f347edf4",
    "geaendert": false,
    "fehler": null,
@@ -1472,8 +1496,8 @@
   {
    "id": "koelner-dommusik",
    "url": "https://www.koelner-dommusik.de/",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "06c4854a9440c03f33291ca5a41b7526eaad363983ab2c9fa17f96754a2003e0",
    "geaendert": false,
    "fehler": null,
@@ -1495,8 +1519,8 @@
   {
    "id": "kunstfreunde-koeln-familie",
    "url": "https://kunstfreunde.koeln/familiekunstfreunde",
-   "abgerufen_um": "2026-11-22T06:55",
-   "letzter_erfolg": "2026-11-22T06:55",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "e7064f8155b776cbef85d89b57a9108878e3f2e2f55fc3bd815514b7c69d3716",
    "geaendert": false,
    "fehler": null,
@@ -1518,21 +1542,32 @@
   {
    "id": "odysseum-museum-mit-der-maus",
    "url": "https://www.odysseum.de/",
-   "abgerufen_um": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
-   "fehler": null,
-   "status": "skip",
-   "hinweis": "Seite antwortet nicht auf automatische Abrufe; wird montags erneut geprüft",
+   "fehler": "https://www.odysseum.de/: robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)",
+   "urls": [
+    {
+     "url": "https://www.odysseum.de/",
+     "http_status": null,
+     "bytes": 0,
+     "zeilen": 0,
+     "termine": 0,
+     "fehler": "robots.txt nicht erreichbar (Netzwerkfehler: ConnectionError)"
+    }
+   ],
    "http_status": null,
-   "bytes": 0
+   "bytes": 0,
+   "status": "fehler",
+   "fehler_seit": "2026-11-23",
+   "fehler_tage": 1
   },
   {
    "id": "koelner-zoo-veranstaltungen",
    "url": "https://www.koelnerzoo.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "890ef8a05d340d97dbc57849a95eb3bbd2d43bcc8a4c1e6fd2549f90d469f9ed",
    "geaendert": false,
    "fehler": null,
@@ -1554,8 +1589,8 @@
   {
    "id": "schokoladenmuseum",
    "url": "https://www.schokoladenmuseum.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "4e49929587fbfbbf1d75ba4099d2a2a155ab052f2bd94101401980fa20282c22",
    "geaendert": false,
    "fehler": null,
@@ -1577,8 +1612,8 @@
   {
    "id": "finkens-garten",
    "url": "http://www.finkensgarten.org",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "42981b78b1da346d1ad8de33c61eea31468fb33e8d09f85be00394325e317ec4",
    "geaendert": false,
    "fehler": null,
@@ -1600,10 +1635,10 @@
   {
    "id": "querwaldein",
    "url": "https://www.querwaldein.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "5428dd7fec50ec218f2f06f822c5f39b5b04925ae2a280ca9b27983bb0cdb202",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -1623,8 +1658,8 @@
   {
    "id": "wildpark-duennwald",
    "url": "http://www.wildpark-duennwald.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "697ad5684ed3c14e1ca81c5e341c88aa872717c6c9df167d4d88763fc7e7d538",
    "geaendert": false,
    "fehler": null,
@@ -1646,8 +1681,8 @@
   {
    "id": "glessener-muehlenhof",
    "url": "https://www.glessener-muehlenhof.de",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "fb1fb87427a194fb58088347576aa8ddb1aa018c647dbd47bea5f35c3f550934",
    "geaendert": false,
    "fehler": null,
@@ -1669,8 +1704,8 @@
   {
    "id": "bueze-ehrenfeld",
    "url": "https://www.bueze.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "ce31bed4261d0a4a555028f6ca2ff0d2177fe4bf5c010b134c8883078455a2ea",
    "geaendert": false,
    "fehler": null,
@@ -1692,8 +1727,8 @@
   {
    "id": "buergerzentrum-chorweiler",
    "url": "https://www.buergerzentrum-chorweiler.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
    "sha256": "3f61dddd27f89e4c8930bc1ba676320fbe7719fefc872dfe8a3410bc2535e77e",
    "geaendert": false,
    "fehler": null,
@@ -1715,68 +1750,68 @@
   {
    "id": "alte-feuerwache-koeln",
    "url": "https://altefeuerwachekoeln.de/gesamtprogramm",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
-   "sha256": "613f805dcfd4db3de4d11247945dc7ca24ef25d54a739bfb9caacf07baa09496",
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
+   "sha256": "1ccfcc1d282ff03ac1f3ab0900e083bf343a2ee0f2aadc5ea13373d8376721ad",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://altefeuerwachekoeln.de/gesamtprogramm",
      "http_status": 200,
-     "bytes": 141202,
-     "zeilen": 127,
+     "bytes": 138086,
+     "zeilen": 122,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 141202,
+   "bytes": 138086,
    "status": "ok",
-   "zeilen": 127,
+   "zeilen": 122,
    "termine": 0
   },
   {
    "id": "lutherkirche-nippes",
    "url": "https://www.lutherkirche-nippes.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
-   "sha256": "4d8d40a0c1b0eeb2f8e50891afa5d17d59b6c6a6abb1c51a918b89d2e505f20c",
-   "geaendert": false,
+   "abgerufen_um": "2026-11-23T06:55",
+   "letzter_erfolg": "2026-11-23T06:55",
+   "sha256": "a39b6b31958d3308d0603ada067e454a0e620f8c6c8b8f9a4999d9f8deff6646",
+   "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.lutherkirche-nippes.de/",
      "http_status": 200,
-     "bytes": 78889,
-     "zeilen": 61,
+     "bytes": 79000,
+     "zeilen": 63,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 78889,
+   "bytes": 79000,
    "status": "ok",
-   "zeilen": 61,
+   "zeilen": 63,
    "termine": 0
   },
   {
    "id": "koelner-karneval-kinderkarneval",
    "url": "https://www.koelner-karneval.org/karneval-tipps/kinderkarneval/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
-   "sha256": "44c7f95f513541aa560e22766e5af6d8b862f733a3832566e2ef6e85a0b6807b",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
+   "sha256": "3aeb6dda8a9f7226266b37d05548a0818653e5952a7e96eca4977c36826064e3",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.koelner-karneval.org/karneval-tipps/kinderkarneval/",
      "http_status": 200,
-     "bytes": 376752,
+     "bytes": 341653,
      "zeilen": 189,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 376752,
+   "bytes": 341653,
    "status": "ok",
    "zeilen": 189,
    "termine": 0
@@ -1784,8 +1819,8 @@
   {
    "id": "koeln-deutz-de-events",
    "url": "https://www.koeln-deutz.de/events.html",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
    "sha256": "396c9bc258b1e7f15f116715fbc326f69cf36b175d264af843a9012049691dd6",
    "geaendert": false,
    "fehler": null,
@@ -1810,8 +1845,8 @@
   {
    "id": "theater-wolkenstein",
    "url": "https://www.wolkenstein-theater.de/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
    "sha256": "baf568956ead7201568bbb21f6f5f62fb3859be4f155e55ebb922a497a84da88",
    "geaendert": false,
    "fehler": null,
@@ -1833,22 +1868,22 @@
   {
    "id": "museum-ludwig-familienprogramm",
    "url": "https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
-   "sha256": "ebf7515fb20ad76f6225a2484ec007673e5d71cbf6c5da4f98bea5488fb57b21",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
+   "sha256": "57930bbb99d662b3cc69afd6f9206233f78fd50f9b7ab257da81ef1105e239ca",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.museum-ludwig.de/de/besuch/programm-fuer-kinder-und-familien/familienfuehrungen",
      "http_status": 200,
-     "bytes": 103376,
+     "bytes": 103165,
      "zeilen": 41,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 103376,
+   "bytes": 103165,
    "status": "ok",
    "zeilen": 41,
    "termine": 0
@@ -1856,8 +1891,8 @@
   {
    "id": "barnes-crossing-kunstzentrum-wachsfabrik-rodenkirc",
    "url": "https://barnescrossing.de/programm/",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
    "sha256": "11a92c8ca3fb2a23343cc691a54704786c0b0247913cb99c69f40b8a1c6ca2e0",
    "geaendert": false,
    "fehler": null,
@@ -1879,31 +1914,31 @@
   {
    "id": "bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder",
    "url": "https://www.bumannundsohn.de/programm",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
-   "sha256": "ce176124b8942302755c9cf04f36d2dccb8dce8125f40af2ef5b5259a77b5e83",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
+   "sha256": "3e64a3525ed26e416acb1fea7bed9b7861f92671db0a911180d6be33a54b6761",
    "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://www.bumannundsohn.de/programm",
      "http_status": 200,
-     "bytes": 283717,
-     "zeilen": 504,
+     "bytes": 279200,
+     "zeilen": 496,
      "termine": 0
     }
    ],
    "http_status": 200,
-   "bytes": 283717,
+   "bytes": 279200,
    "status": "ok",
-   "zeilen": 504,
+   "zeilen": 496,
    "termine": 0
   },
   {
    "id": "max-ernst-museum-bruehl-familienworkshops",
    "url": "https://maxernstmuseum.lvr.de",
-   "abgerufen_um": "2026-11-22T06:56",
-   "letzter_erfolg": "2026-11-22T06:56",
+   "abgerufen_um": "2026-11-23T06:56",
+   "letzter_erfolg": "2026-11-23T06:56",
    "sha256": "5fd9885eac555995b56ccc9c7e0962ea7fdf785fe42e0ffe27e3bb2a5678ee13",
    "geaendert": false,
    "fehler": null,

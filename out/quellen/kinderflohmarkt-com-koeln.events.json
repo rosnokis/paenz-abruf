@@ -1,44 +1,5 @@
 [
  {
-  "name": "Kinderflohmarkt, Kita Krebsweg",
-  "startDate": "2026-11-21T10:00:00+01:00",
-  "endDate": "2026-11-21T13:00:00+01:00",
-  "location": {
-   "name": "Kita Krebsweg",
-   "address": "Krebsweg 12, 51427 Bergisch Gladbach"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kita-krebsweg-51427-bergisch-gladbach-11626/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "Kindersachenbasar &quot;Rund ums Kind&quot;, Gesamtschule-Hennef-West",
-  "startDate": "2026-11-21T12:30:00+01:00",
-  "endDate": "2026-11-21T15:00:00+01:00",
-  "location": {
-   "name": "Gesamtschule-Hennef-West",
-   "address": "Fritz-Jacobi-Straße 10, 53773 Hennef"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/hennef-sieg/gesamtschule-hennef-west-53773-hennef-1001/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
-  "name": "1. Spielzeugbörse, Kindertagesstätte Hl. Drei Könige",
-  "startDate": "2026-11-21T16:00:00+01:00",
-  "endDate": "2026-11-21T19:00:00+01:00",
-  "location": {
-   "name": "Kindertagesstätte Hl. Drei Könige",
-   "address": "Hebborner Kirchweg 1, 51467 Bergisch"
-  },
-  "url": "https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bergisch-gladbach/kindertagesstaette-hl-drei-koenige-51467-bergisch-9616/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://kinderflohmarkt.com/de/koeln/"
- },
- {
   "name": "Advents-Flohmarkt rund ums Kind, Psychomotorischer Kindergarten Wolke 7",
   "startDate": "2026-11-22T10:00:00+01:00",
   "endDate": "2026-11-22T14:00:00+01:00",

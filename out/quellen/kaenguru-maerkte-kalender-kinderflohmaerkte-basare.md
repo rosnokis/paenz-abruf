@@ -7,17 +7,6 @@
 ★ Wenn ihr hier nicht fündig werdet, schaut doch mal in unsere [Übersicht der Baby & Kinder Second Hand Läden in Köln und Bonn](https://www.kaenguru-online.de/themen/familienleben/secondhand-kaufen). Auch hier gibt es tolle Secondhand Sachen und das fast jeden Tag.
 Trödelmarkt-Termine in Köln, Bonn und der Region:
 [Flohmärkte](https://www.kaenguru-online.de/kalender/maerkte)
-★ [Advents-Flohmarkt rund ums Kind](https://www.kaenguru-online.de/kalender/maerkte/advents-flohmarkt-rund-ums-kind/2026-11-22)
-★ Flohmarkt Rund ums Kind
-22.11.2026
-10:00 - 14:00 Uhr
-★ Kita Wolke 7 Kessenich
-Bonn
-[Reparatur-Café](https://www.kaenguru-online.de/kalender/maerkte/reparatur-cafe/2026-11-22)
-Offenes Reparatur-Café mit Unterstützung bei der Reparatur verschiedener Alltagsgegenstände
-11:00 - 15:00 Uhr
-LiZ am Markt – Lokales Inklusions-Zentrum Sürth
-Köln
 ★ [Kindersachen-Flohmarkt](https://www.kaenguru-online.de/kalender/maerkte/1-kindersachen-flohmarkt/2026-11-28)
 Verkaufen, was das Zeug hält!
 28.11.2026
@@ -30,11 +19,14 @@ Krewelshof Eifel
 Mechernich
 ★ [Kinderflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-203/2026-11-28)
 Bunter Marktplatz für kleine und große Schatzjäger
+11:00 - 15:00 Uhr
 GGS Anna-Langohr-Schule Volkhoven
+Köln
 ★ [Kinderbücherflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/kinderbucherflohmarkt/2026-11-28)
 Lesestoff für gemütliche Wintertage
 12:15 - 14:00 Uhr
 Ev. Friedenskirche Bonn
+Bonn
 ★ [Familienflohmarkt](https://www.kaenguru-online.de/kalender/maerkte/familienflohmarkt-4/2026-11-29)
 Tolle Schnäppchen machen in Ehrenfeld
 29.11.2026

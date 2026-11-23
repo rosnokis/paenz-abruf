@@ -1,6 +1,6 @@
 URL: https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-23
-ABGERUFEN: 2026-11-15T05:27
-VON: kaenguru-kalender-fuer-minis-babys-kleinkinder
+ABGERUFEN: 2026-11-23T06:51
+VON: kaenguru-familienmagazin-koeln-bonn
 
 ★ Für Minis
 ★ Baby-Massage
@@ -30,5 +30,4 @@ Veranstalter Info
 Veranstalter Informationen
 [Auf Google Maps anzeigen](https://www.google.de/maps?q=Humperdinckstr. 26+53773+Hennef)
 [seniorenportal.stadt-hennef.de](http://seniorenportal.stadt-hennef.de)
-★ [vorherige Veranstaltung Kinderschwimmen](https://www.kaenguru-online.de/kalender/sport/kinderschwimmen/2026-11-22)
 ★ [nächste Veranstaltung Online-Infoabend zum Thema Mediennutzung von Kindern](https://www.kaenguru-online.de/kalender/fuer-eltern/online-infoabend-zum-thema-mediennutzung-von-kindern/2026-11-24)

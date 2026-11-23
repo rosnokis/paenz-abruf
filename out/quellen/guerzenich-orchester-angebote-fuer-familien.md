@@ -14,18 +14,10 @@ April
 Mai
 Juni
 Juli
-22.11.2026
-Heute
-So., 11:00
-Het Concertgebouw
-Sinfoniekonzert
-[Gastspiel Amsterdam](https://www.guerzenich-orchester.de/de/event-detail/gastspiel-amsterdam-november)
-Werke von Richard Strauss
-ab 21,00 €
-[Tickets](https://www.concertgebouw.nl/concerten/37473495-strauss-also-sprach-zarathustra-en-rosenkavalier-suite)
 29.11.2026
 29.11.
 2026
+So., 11:00
 Flora Köln, Am Botanischen Garten
 Matinee Konzert
 [So klingt Köln im Advent](https://www.guerzenich-orchester.de/de/event-detail/so-klingt-koeln-2026)
@@ -34,6 +26,7 @@ ab 27,00 €
 06.12.2026
 06.12.
 Kölner Philharmonie
+Sinfoniekonzert
 [Schicksalsschläge](https://www.guerzenich-orchester.de/de/event-detail/schicksalsschlaege)
 Werk von Gustav Mahler
 ab 12,00 €

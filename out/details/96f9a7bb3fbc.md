@@ -1,6 +1,6 @@
 URL: https://www.gut-leidenhausen.de/aktuelles/waldweihnacht-2/
-ABGERUFEN: 2026-11-17T05:26
-VON: mit-vergnuegen-koeln-familien-events
+ABGERUFEN: 2026-11-23T06:51
+VON: gut-leidenhausen
 
 Termin: Sa, 28.11.2026, 12:00 - 19:30 Uhr
 Waldweihnacht Sa, 28.11. und So, 29.11.

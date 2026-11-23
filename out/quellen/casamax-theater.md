@@ -41,12 +41,14 @@ Datum auswählen.
 List of Veranstaltungen in Photo View
 ★ [Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren) – Auf Tour](https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-on-tour/)
 Nov.
+24
+10:00
+bis
+11:00
+★ [Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren)](https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-2/)
 29
 14:30
-bis
 15:30
-€10
-★ [Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren)](https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-2/)
 [Google Kalender](https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.casamax-theater.de%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist)
 iCalendar
 [Outlook 365](https://outlook.office.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fwww.casamax-theater.de%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=CASAMAX+Theater+Veranstaltungen+–+CASAMAX+Theater)
@@ -54,5 +56,6 @@ iCalendar
 [.ics-Datei exportieren](https://www.casamax-theater.de/vorstellungen/foto/?shortcode=e89a5463&ical=1)
 [Exportiere Outlook.ics Datei](https://www.casamax-theater.de/vorstellungen/foto/?shortcode=e89a5463&outlook-ical=1)
 Anstehende Veranstaltungen
+10:00 bis 11:00
 14:30 bis 15:30
 [Kalender anzeigen](https://www.casamax-theater.de/vorstellungen/)
