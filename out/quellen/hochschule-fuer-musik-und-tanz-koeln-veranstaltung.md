@@ -2,16 +2,10 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Oboenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/22-06-2026-oboenabend-1/)
-23.11.2026
-19:00
-Uhr
-Konzertsaal
-Aachen
-Oboenabend
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-lunchtime-konzerte-in-st-kunibert/)
 24.11.2026
 13:30
+Uhr
 St. Kunibert
 Köln
 Lunchtime-Konzerte in St. Kunibert
@@ -27,12 +21,16 @@ Violaabend
 25.11.2026
 17:30
 Kirche St. Jakob Aachen
+Aachen
 Trompetenabend
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
 18:00
 Ringvorlesung - KANONS IN DER KRISE
-[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
+[Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
+19:00
+Konzertsaal
 Gitarrenabend
+Fällt leider aus.
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2024-violinabend-1-1-1-1-2-2-1/)
 Violinabend
 [STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-stop-vilence-ein-zeichen-gegen-gewalt-an-frauen/)
@@ -43,6 +41,8 @@ Klavierabend
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
 [„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
 „Vom Lieben und Leiden“ - Gesangsabend
+[Neurotime soll nicht zermahlen werden! Oder: Wenn Stadtkörper Erinnerung säen...](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-neurotime-soll-nicht-zermahlen-werden-oder-wenn-stadtkoerper-erinnerung-saeen/)
+Neurotime soll nicht zermahlen werden! Oder: Wenn Stadtkörper Erinnerung säen...
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1-1/)
 27.11.2026
 Kammer­musik­abend
@@ -187,9 +187,9 @@ Weihnachtssingen Vorchor
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-01-2024-klavierabend-4-1-2-1-2-1/)
 [Björk Revisited](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-bjoerk-revisited/)
 Björk Revisited
-[Schulmusik - Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
+[High-D Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
 17.12.2026
-Schulmusik - Big Band Konzert
+High-D Big Band Konzert
 [Heimspiel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-heimspiel/)
 Heimspiel
 [Saxophone Summit](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-saxophone-summit/)
@@ -198,6 +198,7 @@ Saxophone Summit
 18.12.2026
 13:00
 Mittagsmusik
+[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-klavierabend/)
 [Weihnachtliches Blechbläserkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2023-weihnachtliches-blechblaeserkonzert-1-1/)
 Weihnachtliches Blechbläserkonzert
 [Kammermusikkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-12-2026-kammermusikkonzert/)
@@ -311,6 +312,7 @@ VOC. COLOGNE 2027 MIT VOCAL JOURNEY & THE REAL GROUP
 25.01.2027
 Abschiedskonzert
 [Oboenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2027-oboenabend/)
+Oboenabend
 [Klavierabend - Neue Klaviermusik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2027-klavierabend-neue-klaviermusik/)
 Klavierabend - Neue Klaviermusik
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-01-2027-lunchtime-konzerte-in-st-kunibert/)

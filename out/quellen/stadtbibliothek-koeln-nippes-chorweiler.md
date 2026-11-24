@@ -3,9 +3,9 @@
 ## Quelle: https://www.stbib-koeln.de
 Bibliothekskatalog
 Suchbegriff
-★ Bundesweiter Vorlesetag
-★ Feiern Sie mit uns und besuchen Sie unsere Vorleseveranstaltungen am 20. November 2026.
-[Mehr erfahren](https://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/74763/index.html)
+Ehrenamt
+Engagieren Sie sich ehrenamtlich in unserer Bibliothek – wir haben vielfältige Einsatzmöglichkeiten!
+[Mehr erfahren](https://www.stadt-koeln.de/artikel/61676/index.html)
 Service
 Unsere Standorte
 Bibliothekskarte
@@ -266,10 +266,11 @@ Eintritt frei
 ★ [Code and Create Kreative Technikwerkstatt für Kinder in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/code-and-create-16)
 [Match nach Mittag Schwungvoll ins neue Jahr: Gemeinsam starten wir durch! Actionspiele in der Stadtteilbibliothek Mülheim.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-36)
 ★ [Bilderbuchkino Vorlese- und Malstunde ab 4 Jahren – in der Stadtteilbibliothek Porz.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-55)
-29.01. 2027
-★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-552)
+★ [Comic Lounge 69 Heutiges Thema: Pech und Glück – Coaching für angehende Comiczeichner*innen ab 9 Jahren mit Leo Leowald in der Stadtteilbibliothek Haus Balchem.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/comic-lounge-69-1)
 [<](https://www.stadt-koeln.de/artikel/73374/index.html?start=100)
 [>](https://www.stadt-koeln.de/artikel/73374/index.html?start=140)
+29.01. 2027
+★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-552)
 30.01. 2027
 ★ [Vorlesezeit Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-315)
 ★ [LeseWelten Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek.](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-131)

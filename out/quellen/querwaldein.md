@@ -22,11 +22,6 @@ Natur – Team – Bildung
 Selbsterfahrung und Beratung
 [Hier geht's zu unseren Preisen und Veranstaltungsorten](https://www.querwaldein.de/preise/)
 Anstehende Veranstaltungen
-23. Nov. 2026
-online
-Montag
-[Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein & Groß“](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
-[Details](https://www.querwaldein.de/events/obst-statt-ohnmacht/)
 28. Jan. 2027
 Leverkusen, Naturgut Ophoven
 Donnerstag
@@ -38,6 +33,12 @@ Wird noch bekannt gegeben
 Samstag
 [Fortbildung: Tierspuren und Zeichen lesen](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
 [Details](https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/)
+26 - 27. Feb. 2027
+Bonn, Haus der Natur
+Freitag
+[Fortbildung: Kommunikation und Konfliktlösung in naturpädagogischen Veranstaltungen](https://www.querwaldein.de/events/kommunikation-und-konfliktloesung-in-naturpaedagogischen-veranstaltungen/)
+An der Waldau 48, 53127 Bonn
+[Details](https://www.querwaldein.de/events/kommunikation-und-konfliktloesung-in-naturpaedagogischen-veranstaltungen/)
 Keine Veranstaltung gefunden
 [Weitere Veranstaltungen](https://www.querwaldein.de/kalender/)
 Natur…

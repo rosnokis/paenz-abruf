@@ -1,5 +1,5 @@
 URL: https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623
-ABGERUFEN: 2026-11-23T06:51
+ABGERUFEN: 2026-11-24T06:51
 VON: tickets.yml
 
 Der König verschenkt was
@@ -75,7 +75,6 @@ Tue, 01.12.2026, 11:30
 ★ Auftragswerk der Kinderoper Köln
 ★ Für alle ab 6 Jahren
 [Lena Geiger](https://www.oper.koeln/geiger-lena)
-[Wonjun Kim](https://www.oper.koeln/kim-wonjun)
 Wednesday, 9 December 2026
 Wed
 09
@@ -92,6 +91,7 @@ Thu
 [buy ticket Der König verschenkt was December 10, 2026 11:12](https://shop.oper.koeln/webshop/webticket/shop?event=2232)
 Thu, 10.12.2026, 11:30
 [Lana Sophie Westendorf](https://www.oper.koeln/westendorf-lana-sophie)
+[Wonjun Kim](https://www.oper.koeln/kim-wonjun)
 Friday, 11 December 2026
 Fri
 11

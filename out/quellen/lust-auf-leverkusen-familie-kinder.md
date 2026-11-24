@@ -3,12 +3,12 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-51 kommende Veranstaltungen in dieser Kategorie
+52 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(51)
+(52)
 24
 Nov
 [Workshops & Kurse](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/workshops-kurse/)
@@ -55,10 +55,13 @@ Ausverkauft
 [Tipps](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/tipps/)
 [Basteln mit Gaby und Anika](https://lust-auf-leverkusen.de/veranstaltung/basteln-mit-gaby-und-anika/2026-12-02-16-00/)
 03
-[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel/2026-12-03-16-00/)
+14:30 Uhr
+[In der Weihnachtsbäckerei](https://lust-auf-leverkusen.de/veranstaltung/in-der-weihnachtsbaeckerei/)
+★ [Städtische Tageseinrichtung für Kinder](https://lust-auf-leverkusen.de/veranstaltungsort/staedtische-tageseinrichtung-fuer-kinder/)
 [Essen & Trinken](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/essen-trinken/)
 ★ [Umzugsparty. Kinder- und Jugendtreff LA.](https://lust-auf-leverkusen.de/veranstaltung/umzugsparty-kinder-und-jugendtreff-la/)
 ★ [Kinder- und Jugendtreff "Treff L.A."](https://lust-auf-leverkusen.de/veranstaltungsort/kinder-und-jugendtreff-treff-l-a/)
+[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel/2026-12-03-16-00/)
 06
 [Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)
 [Der satanarchäolügenialkohöllische Wunschpunsch](https://lust-auf-leverkusen.de/veranstaltung/der-satanarchaeoluegenialkohoellische-wunschpunsch/)
@@ -69,4 +72,3 @@ Mo
 08
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-09-30/)
 [Die drei??? Kids – Zirkus der Rätsel](https://lust-auf-leverkusen.de/veranstaltung/die-drei-kids-zirkus-der-raetsel/2026-12-08-11-30/)
-[Einfach Singen. Schwangerenedition.](https://lust-auf-leverkusen.de/veranstaltung/einfach-singen-schwangerenedition/2026-12-08-17-00/)

@@ -11,16 +11,7 @@ ab jetzt für euch geöffnet
 Bauchgefühl 2026, Bittertropfen Series
 Ausstellung: Kamalanetra Hung
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/ausstellung-bauchgefuehl-2026-bittertropfen-series/)
-13+
-Erinnerung eines Mädchens
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/erinnerung-eines-maedchens/)
-Lara Ermer: Leicht entflammbar
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/lara-ermer-leicht-entflammbar/)
-Marco Pogo:
-Lost & Found
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/marco-pogo-lost-found/)
 5+
-Premiere:
 Der Zauber von Oz
 von Sergej Gößner in einer Inszenierung von Manuel Moser
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
@@ -28,11 +19,28 @@ von Sergej Gößner in einer Inszenierung von Manuel Moser
 Titanic
 Schöne Menschen spielen große Gefühle von Bettina Hamel, Tobias Krechel, Birte Schrein, Stefan A. Schulz, Julia Wieninger
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
+14+
+Jugend ohne Gott
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
+WeArtHere!
+Dress to impress - Wie politisch ist Mode?
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/wearthere/)
+Helene Bockhorst: LEBEFRAU
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/helene-bockhorst-lebefrau/)
+24.Kölner Theaternacht
+Festival der darstellenden Künste Köln im Depot
+[Mehr erfahren](https://comedia-koeln.de/programm/festivals/festival-der-darstellenden-kuenste/)
+Südstadtflair Christmas Edition.
+[Mehr erfahren](https://comedia-koeln.de/magazin/suedstadtflair-christmas-edition/)
+Nessi Tausendschön: rum-ei-ern
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/nessi-tausendschoen-rum-ei-ern/)
 Willkommen
 Willkommen in der HALLE
 Ausstellung
-Lara Ermer
-Marco Pogo
+Helene Bockhorst
+Theaternacht
+Südstadtflair
+Nessi Tausendschön
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/barrierefreiheit/)
 COMEDIA
 Theater
@@ -66,7 +74,6 @@ Do 09:30 Uhr
 [Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
 in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
 Comedia Theater (Grüner Saal)
-14+
 Do 11:00 Uhr
 [Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
 Do 12:00 Uhr

@@ -185,5 +185,16 @@
   },
   "kinder": false,
   "quelle": "https://klugev.de"
+ },
+ {
+  "name": "KLuG e.V. intern im Quartiersbüro",
+  "startDate": "2026-12-23T18:00:00+01:00",
+  "endDate": "2026-12-23T20:00:00+01:00",
+  "location": {
+   "name": "KLuG e.V. intern im Quartiersbüro",
+   "address": "KLuG e.V. intern im Quartiersbüro"
+  },
+  "kinder": false,
+  "quelle": "https://klugev.de"
  }
 ]

@@ -24,7 +24,7 @@ vorbestellen
 Weihnachtsbaum
 Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
-Montag, 23.11.2026
+Dienstag, 24.11.2026
 Erlebnisgelände
 10.00 – 19.00 Uhr
 Bauernmarktgelände
@@ -53,12 +53,14 @@ Nichts verpassen
 Unsere nächsten Events auf dem Erlebnis-Gelände
 Weihnachtspark 2026
 🎄 vom 19.11.26 bis 03.01.27 Weihnachtszauber erleben
-Weihnachtszauber erleben
-🗓️ am Sa 21.11.2026 von 18:00 - 21:00 Uhr
 Gertrudenhof After Work Glühwein mit Radio Erft live
 🗓️ immer donnerstags im Weihnachtspark
 Weihnachtspark Take your Bestie Night
 🗓️ immer freitags im Weihnachtspark, von 18 - 21 Uhr
+Family Night – Weihnachtslieder singen & Santa treffen
+🗓️ immer samstags von 18 - 21 Uhr
+Micky & Minnie Maus live im Weihnachtspark
+🗓️ am 28. & 29. Dezember 2026
 Weihnachtshof auf dem Bauernmarkt-Gelände
 Geländebereich B
 Unser 1200 m² großes Bauernmarktgelände ist täglich & ohne Ticket frei zugänglich
@@ -74,8 +76,8 @@ Hausgemachter Kuchen, Waffeln, Crêpes & Flammkuchen ☕🥞
 Mo-Sa: 09.30 – 18.30 Uhr
 Sonn- & Feiertage: 10.30 – 17.30 Uhr
 Unsere nächsten Events auf dem Bauernmarkt-Gelände
-Andy Andress Schlager- & Weihnachtsshow
-🗓️ am Sa 14. November ab 18:30 Uhr
+Weihnachtslieder-Mitsingkonzert mit den Funky Marys
+🗓️ am Sa 12. Dezember von 20 - 22 Uhr
 ★ Puppentheater mit Bluey in der Strohtenne
 🗓️ am 28. & 29. November 2026 ab 15 Uhr
 [Tickets sichern](https://shop.erlebnisbauernhof-gertrudenhof.de/de/tickets/)

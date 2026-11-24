@@ -1,14 +1,5 @@
 [
  {
-  "name": "Baby-Massage",
-  "location": {
-   "name": "Hennef"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-23",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
   "name": "Dr. Mama / Dr. Papa",
   "location": {
    "name": "Köln"
@@ -54,6 +45,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-1/2026-12-01",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„BlubberBlasen SeifenZauber\"",
   "location": {
    "name": "Köln"
@@ -77,15 +77,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-feiert-weihnachten/2026-12-01",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Der Grüffelo\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-23",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -140,6 +131,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-29",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "„Kleiner Drache, wünsch dir was\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-12-01",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

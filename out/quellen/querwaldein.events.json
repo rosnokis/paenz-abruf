@@ -1,23 +1,5 @@
 [
  {
-  "name": "Obst statt Ohnmacht: Projektvorstellung „Streuobstwächter*innen – Klein &#038; Groß“",
-  "startDate": "2026-11-23T19:30:00+01:00",
-  "endDate": "2026-11-23T21:00:00+01:00",
-  "location": {
-   "name": "online"
-  },
-  "offers": [
-   {
-    "price": "0",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://www.querwaldein.de/events/obst-statt-ohnmacht/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.querwaldein.de/"
- },
- {
   "name": "Die GlücksBande – Kinder erleben Nachhaltigkeit",
   "startDate": "2027-01-28T09:30:00+01:00",
   "endDate": "2027-01-28T16:00:00+01:00",
@@ -53,6 +35,25 @@
   "url": "https://www.querwaldein.de/events/tierspuren-und-zeichen-lesen-716-801-596-175/",
   "eventStatus": "EventScheduled",
   "kinder": true,
+  "quelle": "https://www.querwaldein.de/"
+ },
+ {
+  "name": "Fortbildung: Kommunikation und Konfliktlösung in naturpädagogischen Veranstaltungen",
+  "startDate": "2027-02-26T10:00:00+01:00",
+  "endDate": "2027-02-27T17:00:00+01:00",
+  "location": {
+   "name": "Bonn, Haus der Natur",
+   "address": "An der Waldau 48, 53127 Bonn"
+  },
+  "offers": [
+   {
+    "price": "245",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://www.querwaldein.de/events/kommunikation-und-konfliktloesung-in-naturpaedagogischen-veranstaltungen/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
   "quelle": "https://www.querwaldein.de/"
  }
 ]

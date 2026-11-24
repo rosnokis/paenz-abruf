@@ -6,18 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [„Der Grüffelo"](https://www.kaenguru-online.de/kalender/fuer-minis/der-grueffelo/2026-11-23)
-★ Nach dem Bilderbuch von Julia Donaldson und Axel Scheffler für Kinder ab 3 Jahren
-23.11.2026
-09:30 Uhr
-11:00 Uhr
-Junges Theater Bonn
-Bonn
-★ [Baby-Massage](https://www.kaenguru-online.de/kalender/fuer-minis/baby-massage/2026-11-23)
-Kostenfreier Kurs im Rahmen der „Frühen HIlfen"
-10:30 - 11:30 Uhr
-Generationenhaus Hennef
-Hennef
 ★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit/2026-11-24)
 Hier erleben die allerkleinsten Besucher:innen von 0 bis 2 Jahren ihr erstes Konzert
 24.11.2026
@@ -36,7 +24,9 @@ Leverkusen
 Cassiopeia Bühne
 ★ [Krabbel-Konzert](https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25)
 ★ Krabbeln, brabbeln, lauschen – beim Krabbelkonzert dürfen Babys und Kleinkinder Musik ganz frei entdecken
+10:30 - 11:30 Uhr
 Ev. Friedenskirche Bonn
+Bonn
 ★ [Ohrenschmausen](https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25)
 ★ Musik zum Mitmachen für Eltern mit Kleinstkindern
 16:00 Uhr
@@ -49,6 +39,7 @@ Bürgerzentrum Nippes/Altenberger Hof
 ★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
 Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
 27.11.2026
+11:00 Uhr
 Horizont Theater
 ★ [„Die Stoffmarie"](https://www.kaenguru-online.de/kalender/fuer-minis/die-stoffmarie/2026-11-27)
 ★ Das Ensemble Nicopoulos spielt für Kinder ab 2 Jahren.
@@ -76,5 +67,10 @@ KKT Kölner Künstler:innen Theater
 Theater Wolkenstein im Bürgerzentrum Deutz
 ★ [„Zu Besuch in meinem Buch"](https://www.kaenguru-online.de/kalender/fuer-minis/zu-besuch-in-meinem-buch-1/2026-11-30)
 30.11.2026
+09:30 Uhr
 ★ [„Das kleine Zottel Mottel feiert Weihnachten"](https://www.kaenguru-online.de/kalender/fuer-minis/das-kleine-zottel-mottel-feiert-weihnachten/2026-12-01)
 01.12.2026
+★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-12-01)
+★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-1/2026-12-01)
+14:00 Uhr
+COMEDIA Theater

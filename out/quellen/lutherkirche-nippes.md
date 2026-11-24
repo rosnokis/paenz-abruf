@@ -31,7 +31,8 @@ Ihr findet uns auf
 Themen und Geschichten
 [Stolpersteinverlegung](https://www.lutherkirche-nippes.de/2026/11/20/stolperstein/)
 In Gedenken an Julio, Christel & Hans Günter Goslar
-Am Morgen des 12. Novembers war es soweit: Vor unserem Gemeindehaus sind die Stolpersteine für Julio, Christel und Hans Günter Goslar verlegt worden. Um die 150 Menschen aus der Gemeinde und der Nachbarschaft waren bei der berührenden Zeremonie dabei.
+Am Morgen des 12. Novembers war es soweit: Vor unserem Gemeindehaus sind die Stolpersteine für Julio, Christel und Hans Günter Goslar verlegt worden. Um die 150 Menschen aus der Gemeinde und der Nachbarschaft waren bei der berührenden Zeremonie dabei. Der Initiator der Stolpersteine ist der Künstler Gunter Demnig, der auch die Steine vor dem Julio-Goslar-Haus selbst platzierte.
+Miriam Haseleu und Gunter Deming
 ★ Es ist ein Teil der Geschichte unserer Kirchengemeinde, dass der Familie Goslar großes Unrecht und Leid angetan worden ist. Diese Schuld gilt es zu anzuerkennen und zu benennen. Sie muss uns umso wachsamer machen, gegen jedes Unrecht, das geschieht, einzustehen.
 Die jüdische, die biblische und auch unsere christliche Tradition sind durchdrungen von dem Wert des Erinnerns. Es ist zuerst Gott selbst, der sich erinnert und gedenkt. Und aus dem Gedenken Gottes erwächst der Auftrag an die Menschen, sich zu erinnern und zu gedenken.
 Erinnern bedeutet auch, Menschen, denen Unrecht und Leid zugefügt wurden, ihre Würde zu bewahren und zurückzugeben. Ihre Namen zu nennen, von ihren Persönlichkeiten zu erzählen, ihre einzigartigen und unendlich wertvollen Leben zu würdigen.

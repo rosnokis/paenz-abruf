@@ -1,13 +1,13 @@
 # Kölner Dommusik (koelner-dommusik)
 
 ## Quelle: https://www.koelner-dommusik.de/
-[Mozart-Requiem 30 Jahre Vokalensemble Kölner Dom · 21.11.26 · Kölner Dom](https://www.koelner-dommusik.de/veranstaltungen/1093)
+[Die Domchöre singen zum Advent 22.12.2026 · 20 h · Chöre am Kölner Dom](https://www.koelner-dommusik.de/veranstaltungen/1168)
 [SING MIT! Unsere Angebote für Jung und Alt](https://www.koelner-dommusik.de/sing-mit)
 ★ [Vorchor: Noch Plätze frei! Chorangebote für Grundschulkinder](https://www.koelner-dommusik.de/musikschule/vorchor)
 Menschen von jung bis alt mit Freude an Musik und Singen finden bei uns in Köln-Lindenthal eine Heimat. Unser Angebot reicht von [Musischer Vorschule](https://www.koelner-dommusik.de/musikschule/musische-vorschule) über die [Grundschule](https://www.koelner-dommusik.de/grundschule/grundschule-der-koelner-dommusik) bis hin zu [Instrumentalunterricht](https://www.koelner-dommusik.de/musikschule/instrumentalunterricht) und Singen im [Chor](https://www.koelner-dommusik.de/choere/die-choere-im-ueberblick).
 Veranstaltungen der Kölner Dommusik
 [Alle Konzerte & Veranstaltungen](https://www.koelner-dommusik.de/veranstaltungen)
-[21.11.26 · 20 h · Kölner Dom · Vokalensemble Mozart-Requiem](https://www.koelner-dommusik.de/veranstaltungen/1093) [18.12.2026 · 20 h · Kölner Dom Vorweihnachtliches Orgelkonzert](https://www.koelner-dommusik.de/veranstaltungen/1167)
+[18.12.2026 · 20 h · Kölner Dom Vorweihnachtliches Orgelkonzert](https://www.koelner-dommusik.de/veranstaltungen/1167) [22.12.26 · 20 h · Kölner Dom · Chöre am Kölner Dom Die Domchöre singen zum Advent](https://www.koelner-dommusik.de/veranstaltungen/1168)
 Sing mit!
 Von Musischer Vorschule bis zu Erwachsenenchören: Werde Teil der Kölner Dommusik.
 [Zur Übersicht](https://www.koelner-dommusik.de/sing-mit)

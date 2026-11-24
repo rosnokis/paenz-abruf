@@ -48,7 +48,6 @@ Lesung
 ★ Mitmachführung
 Performance
 Podiumsdiskussion
-Tanz
 Vortrag
 Weiterbildung
 Workshop

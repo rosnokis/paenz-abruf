@@ -25,12 +25,24 @@ Sa, 28. Nov. | 15 Uhr · weitere Termine Köln · Gertrudenhof Bauernmarktgelän
 ★ ab 3 Jahren Indoor
 ★ Markt/Flohmarkt
 ★ [Heinzels Wintermärchen](https://familienhopper.de/events/heinzels-wintermaerchen-koeln-2026-11-23)
-Mo, 23. Nov. | 11 Uhr Ruhetage: Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · Heumarkt / Alter Markt
+Di, 24. Nov. | 11 Uhr Ruhetage: Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · Heumarkt / Alter Markt
 Outdoor
 Museum/Ausstellung
 ★ [Schokoladig, bunt und lecker](https://familienhopper.de/events/schokoladig-bunt-und-lecker-koeln-2026-11-28)
 Sa, 28. Nov. | 13:15 Uhr Köln · Schokoladenmuseum
 8–10 Jahre Tickets
+Bild: Winterzauber Event GmbH / Weihnachtscircus Düsseldorf
+1 Gutschein über 66 € gewinnen
+Weihnachtscircus Düsseldorf
+Staufenplatz Düsseldorf · 10. Dez. 2026 bis 3. Jan. 2027
+Teilnahme bis 29.11.2026, 23:59 Uhr
+★ [Newsletter abonnieren & teilnehmen](https://familienhopper.de/index.html) Teilnahmebedingungen
+★ Veranstalter: Familienhopper, Markus Keller. Anschrift und Kontakt findest du im [Impressum](https://familienhopper.de/impressum). Der Gewinn wird von Winterzauber Event GmbH bereitgestellt.
+★ Gewinn: Eine Person gewinnt einen Gutschein über 66 € für den Weihnachtscircus Düsseldorf, [Staufenplatz Düsseldorf · 10. Dez. 2026 bis 3. Jan. 2027](https://familienhopper.de/events/weihnachtscircus-duesseldorf-duesseldorf-2026-12-10). Anreise und weitere Kosten sind nicht enthalten. Keine Barauszahlung.
+★ Teilnahme: Vom 23.11.2026, 00:00 Uhr bis 29.11.2026, 23:59 Uhr, jeweils deutsche Zeit (Europe/Berlin). Teilnahmeberechtigt sind Personen ab 18 Jahren, die sich in diesem Zeitraum erstmals für den Familienhopper-Newsletter anmelden und die Anmeldung bis zum Teilnahmeschluss über den Link in der Bestätigungsmail abschließen. Bereits bestehende Abonnements und erneute Anmeldungen sind ausgeschlossen. Eine Teilnahme pro Person.
+★ Newsletter und Gewinnchance: Die Teilnahme ist mit dem Abonnement des Familienhopper-Newsletters verbunden. Du erhältst jeden Donnerstag ausgewählte Familientipps per E-Mail. Der Newsletter ist jederzeit abbestellbar; eine bereits gültige Gewinnspielteilnahme bleibt davon unberührt.
+★ Auslosung: Nach Teilnahmeschluss wird der Gewinn am Montag, 30.11.2026 unter den gültigen Neuanmeldungen zufällig ausgelost. Die Gewinnerin oder der Gewinner wird von Familienhopper per E-Mail benachrichtigt. Bitte antworte innerhalb von sieben Tagen; andernfalls wird erneut ausgelost. Namen werden nicht öffentlich bekanntgegeben.
+★ Deine Daten: Anmeldung und Bestätigung werden über Brevo verarbeitet. Familienhopper verwendet E-Mail-Adresse und Anmeldezeitpunkte für die Prüfung der Teilnahme und die Gewinnerbenachrichtigung. Nur im Gewinnfall werden die für die Einlösung des Gutscheins erforderlichen Angaben nach Abstimmung mit dir an den Veranstaltungspartner übermittelt. Die Teilnehmerliste wird nicht an den Partner weitergegeben. Weitere Informationen zur Newsletter-Verarbeitung und deinen Rechten stehen in der [Datenschutzerklärung](https://familienhopper.de/datenschutz).
 Weihnachtszauber
 10 ausgewählte Veranstaltungen
 ★ [Alle Weihnachtsmärkte in Köln →](https://familienhopper.de/koeln/weihnachtsmarkt/)
@@ -39,27 +51,27 @@ Laufend
 Besucher streicheln auf dem Hof Tiere, dazu leuchten viele Lichter.
 ★ Laufend | [Uhrzeit beim Veranstalter](https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/) Köln · Gertrudenhof
 ★ [Lindenthaler Adventstreff](https://familienhopper.de/events/lindenthaler-adventstreff-koeln-2026-11-19)
-Mo, 23. Nov. | 12 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
+Di, 24. Nov. | 12 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
 Kostenlos Outdoor
 ★ [Ehrenfelder Weihnachtsmarkt im Bumann & Sohn](https://familienhopper.de/events/ehrenfelder-weihnachtsmarkt-im-bumann-sohn-koeln-2026-11-12)
-Mo, 23. Nov. | 17 Uhr · weitere Termine Köln · Bumann & Sohn
+Di, 24. Nov. | 17 Uhr · weitere Termine Köln · Bumann & Sohn
 ★ [Weihnachtsmarkt im Stadtgarten](https://familienhopper.de/events/weihnachtsmarkt-im-stadtgarten-koeln-2026-11-13)
 ★ Besucher stöbern in Hütten nach Handwerk und Design, Kinder haben ein Programm.
-Mo, 23. Nov. | 16 Uhr · weitere Termine Köln · Stadtgarten
+Di, 24. Nov. | 16 Uhr · weitere Termine Köln · Stadtgarten
 ★ [Santas Weihnachtsmarkt im MediaPark](https://familienhopper.de/events/santas-weihnachtsmarkt-im-mediapark-koeln-2026-11-19)
 Am See vor dem KölnTower gibt es ein Programm im Elfenhaus zu entdecken.
-Mo, 23. Nov. | 14 Uhr · weitere Termine Köln · MediaPark, Platz am KölnTower
+Di, 24. Nov. | 14 Uhr · weitere Termine Köln · MediaPark, Platz am KölnTower
 ★ [Weihnachtsmarkt an St. Aposteln](https://familienhopper.de/events/weihnachtsmarkt-an-st-aposteln-koeln-2026-11-16)
-Mo, 23. Nov. | 11 Uhr Ruhetage: Sonntag, 22. November 2026, Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · an der Kirche St. Aposteln
+Di, 24. Nov. | 11 Uhr Ruhetage: Sonntag, 22. November 2026, Donnerstag, 24. Dezember 2026 und Freitag, 25. Dezember 2026 · weitere Termine Köln · an der Kirche St. Aposteln
 ★ [Hafen-Weihnachtsmarkt am Schokoladenmuseum](https://familienhopper.de/events/hafen-weihnachtsmarkt-am-schokoladenmuseum-koeln-2026-11-13)
 Am Rheinauhafen schlendern Besucher zwischen Buden mit Blick aufs Wasser.
-Mo, 23. Nov. | 11 Uhr · weitere Termine Köln · Rheinauhafen am Schokoladenmuseum
+Di, 24. Nov. | 11 Uhr · weitere Termine Köln · Rheinauhafen am Schokoladenmuseum
 ★ [Weihnachtsmarkt Köln-West](https://familienhopper.de/events/weihnachtsmarkt-koeln-west-koeln-2026-11-19)
-Mo, 23. Nov. | 14 Uhr · weitere Termine Köln · Quartier B, ehemaliges 4711-Gelände
+Di, 24. Nov. | 14 Uhr · weitere Termine Köln · Quartier B, ehemaliges 4711-Gelände
 Drinnen & draußen
 ★ [Vringsadvent – Weihnachtsmarkt auf dem Chlodwigplatz](https://familienhopper.de/events/vringsadvent-weihnachtsmarkt-auf-dem-chlodwigplatz-koeln-2026-11-19)
 ★ [Nikolausdorf auf dem Rudolfplatz](https://familienhopper.de/events/nikolausdorf-auf-dem-rudolfplatz-koeln-2026-11-16)
-Mo, 23. Nov. | 11 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
+Di, 24. Nov. | 11 Uhr Ruhetag: Sonntag, 22. November 2026 · weitere Termine Köln
 Hier entsteht etwas zum Mitnehmen
 8 ausgewählte Veranstaltungen
 26 NOV
@@ -158,13 +170,13 @@ Sa, 28. Nov. | 10 Uhr · weitere Termine Köln · Horizont Theater
 ★ Das bekannte Märchen kommt als Kinderstück auf die Bühne, ab vier Jahren.
 Sa, 28. Nov. | 16 Uhr · weitere Termine Köln · Metropol Theater
 ★ [Alle Familien-Events in Köln →](https://familienhopper.de/alle-events/)
-★ [Alle 273 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
+★ [Alle 272 Familien-Events in Köln als Liste](https://familienhopper.de/koeln/alle/)
 Keine passenden Veranstaltungen gefunden
 Ändere deine Auswahl oder setze einzelne Filter zurück.
 Diese Woche besonders interessant
-★ [23. Nov. Heinzels Wintermärchen](https://familienhopper.de/events/heinzels-wintermaerchen-koeln-2026-11-23)
 ★ [24. Nov. Der Zauber von Oz](https://familienhopper.de/events/der-zauber-von-oz-koeln-2026-11-24)
 ★ [24. Nov. Spieletester*innen](https://familienhopper.de/events/spieletester-innen-koeln-2026-11-24)
+★ [25. Nov. E Leech zom Chressfess](https://familienhopper.de/events/e-leech-zom-chressfess-koeln-2026-11-25)
 ★ Köln mit Kindern: der Guide
 Stand November 2026
 Top-Ziele in Köln
@@ -178,9 +190,9 @@ Indoorspielplatz [Jackelino Safari Godorf](https://www.jackelino-safari.de/preis
 Indoorspielplatz [Silly Billy's Indoor-Spielpark](https://www.silly-billy.de/preise)
 Häufige Fragen
 ★ Wo gibt es Kindertheater oder Weihnachtstheater für Kinder in Köln?
-★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 65 Vorstellungen, der nächste am 23.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
+★ Auf unserer Seite „Kindertheater in Köln“ stehen aktuell 64 Vorstellungen, der nächste am 24.11.. Alle Angaben mit Link zur Originalquelle. [Kindertheater in Köln ansehen](https://familienhopper.de/koeln/kindertheater/)
 ★ Was kann man in Köln mit Kindern unternehmen?
-★ Aktuell stehen 273 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
+★ Aktuell stehen 272 Familien-Events in Köln im Kalender, von Theater und Festen bis zu Workshops. Alle Termine verlinken auf die Originalquelle. [Ideen fürs Wochenende](https://familienhopper.de/koeln/wochenende/)
 ★ Gibt es kostenlose Angebote für Kinder in Köln?
 ★ Ja, 74 der aktuellen Termine sind laut Quelle kostenlos. [Kostenlose Familien-Events](https://familienhopper.de/koeln/kostenlos/)
 ★ Was tun mit Kindern in Köln bei Regen?

@@ -3,7 +3,7 @@
 ## Quelle: https://kinderflohmarkt.com/de/koeln/
 ★ [Kinderflohmärkte Köln](https://kinderflohmarkt.com/de/koeln/) [Nordrhein-Westfalen / NRW, DE](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/)
 ★ Termine für Flohmärkte und Basare in Köln, um gebrauchte Kindersachen zu verkaufen & zu finden
-★ 8 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
+★ 7 aktuelle Kinderflohmarkt / Babybasar-Termine in Köln
 ★ 🙋🏻‍♀️ Der Kauf von Baby- und Kinder-Ausstattung sowie -bekleidung ist erfahrungsgemäß nicht billig 💸 und
 die lieben Kleinen wachsen schnell heraus, so dass oft schöne und gut erhaltene Teile einfach
 nicht mehr benötigt werden.
@@ -18,37 +18,15 @@ großer Beliebtheit ❤️
 in Köln
 + 50 km
 Sonntag,
-22. November 2026
-★ Advents-Flohmarkt rund ums Kind
-★ Psychomotorischer Kindergarten Wolke 7
-53129 Kessenich
-Datum 22.11.2026 Zeit
-10 - 14 Uhr
-Typ
-★ Flohmarkt mit Ständen
-Adresse
-Loeschckestraße 55, 53129 Bonn/Kessenich,
-★ Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, U..
-★ weitere Informationen Bei unserem gemütlichen Adventsflohmarkt erwarten euch Schnäppchen rund ums Kind: Kinderkleidung, Spielzeug, Umstandsmode und Zubehör. Dazu könnt ihr Kaffee, Kuchen, herzhafte Snacks und Waffeln genießen. Kinder können auf dem weitläufigen Gelände spielen. Wir freuen uns auf Euch!
-Kontakt mit dem Organisator aufnehmen
-* benötigte Angabe
-dein Name *
-bitte nicht befüllen *
-deine E-Mail-Adresse *
-★ Nachricht an den Organisator des Flohmarktes *
-Newsletter
-★ Ja, ich möchte gern den Kinderflohmarkt.com-Newsletter mit neuen und aktuellen Terminen für meine Region erhalten. Dieser wird höchstens 1x pro Woche versendet und ist jederzeit kündbar.
-Datenschutz
-Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
-★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
-★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
-★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bonn/psychomotorischer-kindergarten-wolke-7-53129-kessenich-4859/)
 29. November 2026
 ★ Trödelmarkt und Adventsbazar
 ★ Kita Apostelplatz
 40625 Düsseldorf Düsseldorf Gerresheim
 Datum 29.11.2026 Zeit
 15 - 18 Uhr
+Typ
+★ Flohmarkt mit Ständen
+Adresse
 Apostelplatz 2,
 ★ Trödelmarkt für Kinder-und Babykleidung, Spielsachen uvm. Gleichzeitig findet der Adventsbazar des Seniorenw..
 ★ weitere Informationen Trödelmarkt für Kinder-und Babykleidung, Spielsachen uvm.
@@ -68,10 +46,23 @@ Schildgesstraße 112,
 ★ Sie möchten selbst Kleidung oder Spielsachen verkaufen? Dann melden Sie sich einfach per E-Mail an [E-Mail] oder nutzen Sie das Anmeldeformular auf der Website des Fördervereins. Als Teilnahmebeitrag bringt jede verkaufende Familie einen Kuchen mit. Außerdem werden 20 % des Verkaufserlöses einbehalten, um die Durchführung des Basars sowie zukünftige Projekte des Fördervereins zu unterstützen.
 ★ Wer den Winterbasar aktiv unterstützen möchte, kann sich auch als Helferin oder Helfer engagieren. Als Dankeschön reduziert sich die Verkaufsabgabe bei vier Stunden Hilfe auf 15 % und bei sechs Stunden Hilfe auf 10 %.
 ★ Der Förderverein freut sich auf zahlreiche Besucher, Verkäufer und helfende Hände, die gemeinsam zu einem gelungenen Winterbasar beitragen. 🎄❄️
+Kontakt mit dem Organisator aufnehmen
+* benötigte Angabe
+dein Name *
+bitte nicht befüllen *
+deine E-Mail-Adresse *
+★ Nachricht an den Organisator des Flohmarktes *
+Newsletter
+★ Ja, ich möchte gern den Kinderflohmarkt.com-Newsletter mit neuen und aktuellen Terminen für meine Region erhalten. Dieser wird höchstens 1x pro Woche versendet und ist jederzeit kündbar.
+Datenschutz
+Ich habe die Datenschutzhinweise gelesen und stimme diesen zu *
+★ [(Datenschutzhinweise im neuen Fenster öffnen)](https://kinderflohmarkt.com/datenschutz/)
+★ Hinweise: Du erhältst nach dem Absenden zunächst einen Bestätigungslink. Die übermittelten Daten werden zur Vorbeugung und der Verfolgung von Missbrauch für einen angemessenen Zeitraum gespeichert und natürlich an den Flohmarktbetreiber übermittelt.
 ★ [Details & Kontakt](https://kinderflohmarkt.com/de/nordrhein-westfalen-nrw/bruehl/jugendkulturhaus-cultra-50321-bruehl-11607/)
 ★ Alles rund ums Kind
 Pfarrzentrum St. Kilian
 50374 Erftstadt Lechenich
+10 - 14 Uhr
 Franz-Busbach Str. 9,
 Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranst..
 weitere Informationen Die Tischgebühr beträgt 5 Euro pro Tisch (130cmx60cm). Bezahlung per Überweisung 2 Wochen vor der Veranstaltung.

@@ -59,7 +59,7 @@ Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
 Bürgerhaus Kalk, KÖLN
 ★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
 24.11.2026
-(morgen)
+(heute)
 ab
 4 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
@@ -69,15 +69,16 @@ ab
 ★ Puppenspiele der Stadt Köln, KÖLN
 ★ Mittwoch, 25. November 2026 bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech...
 25.11. bis 20.12.26
+(morgen)
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-24&checkout=2026-11-28&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-25&checkout=2026-11-29&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-24.11. bis 28.11.26
+25.11. bis 29.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-24&checkout=2026-11-28&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-25&checkout=2026-11-29&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
@@ -94,7 +95,7 @@ Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabaret
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Senftöpfchen-Theater, Köln
-★ bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
+★ Samstag, 28. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
 28.11.26 - 30.01.27
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
