@@ -1,5 +1,14 @@
 [
  {
+  "name": "Bilderbuchkino",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/bilderbuchkino/2026-12-01",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "Dr. Mama / Dr. Papa",
   "location": {
    "name": "Köln"
@@ -33,15 +42,6 @@
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25",
   "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit/2026-11-24",
-  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {

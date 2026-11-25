@@ -1,5 +1,5 @@
 URL: https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534
-ABGERUFEN: 2026-11-24T06:51
+ABGERUFEN: 2026-11-25T05:26
 VON: tickets.yml
 
 Fri 11:00
@@ -54,10 +54,6 @@ Mauenheimer Str. 92
 [More about your visit](https://www.koelner-philharmonie.de/en/visit)
 Print
 Tue
-24.11.2026
-15:00
-Bürgerhaus Kalk
-★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9529)
 01.12.2026
 COMEDIA Theater
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9530)
@@ -74,6 +70,10 @@ Bürgerzentrum Chorweiler
 Fri
 04.12.2026
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9535)
+24.11.2026
+15:00
+Bürgerhaus Kalk
+★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9529)
 Schaltfläche: Agree
 Schaltfläche: Decline
 Schaltfläche: Change settings

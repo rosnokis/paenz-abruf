@@ -26,29 +26,23 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Fr. 20
-November
-19:00 - 20:30
-Scheune
-[Zwischen-T-Räume – Queeres Theater jenseits der 60](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
-„ZWISCHEN-T-RÄUME“ ist ein Theaterstück der „Zeitlosen Talente“, einem achtköpfigen Kölner Theaterensemble aus lesbischen, schwulen und trans* Personen jenseits der 60.Mit diesem Stück machen sie die Lebensrealitäten älterer queerer Menschen sichtbar, fördern Verständnis und leisten einen Beitrag zum Abbau von Vorurteilen und Diskriminierung. Gleichzeitig möchten sie den generationsübergreifenden Austausch über queere Lebensgeschichten fördern und die Sichtbarkeit […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20)
-Mo. 23
-20:00 - 21:20
-[Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
-★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&time=1795464000)
 Di. 24
+November
 19:30 - 21:00
+Scheune
 [LESUNG mit Ulrike Herrmann: Geld als Waffe](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
 Wie entstehen Kriege? Und wie Frieden? Ulrike Herrmann untersucht in diesem Buch große internationale Konflikte und analysiert, dass die Gründe nicht nur historisch, psychologisch oder politisch sind. Sondern dass oft ökonomische Faktoren ausschlaggebend sind. Sie zeigt am Beispiel Russlands, wie die wirtschaftliche Entwicklung des Landes permanente Kriege auch in Zukunft wahrscheinlich macht. Und sie beschreibt […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
 Mi. 25
+16:00 - 17:00
+[OHRENschmausen](https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&time=1795622400)
+Michael Hübner singt mit Zwergen und Riesen.Wer nicht bis vier zählen kann, klopft intuitive Beats mit dem Keks, schüttelt triolisch die Rassel bis zur Ekstase oder Hirsebrei auf den Boden. Erwachsene Chorsänger brillieren mit Variationen von „Nananünü“ bis „Lüllüleilu“ und fühlen sich hörbar wohl. Spenden erwünscht! Einlass ab 15:30 Uhr....
+[Details anzeigen](https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&time=1795622400)
 17:00 - 20:00
 Innenhof
 Bürgerzentrum Nippes Altenberger Hof
 [HofKultur goes Christmas – Wunschbaumaktion 2026](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
-★ Bei Dämmerung eröffnen wir im Lichterglanz die Wunschbaumaktion 2026: Nimm dir ein Stern von unserem Baum und erfülle bis zum 10. Dezember einen Wunsch für die Bewohner:innen des Haus Adelheidt.Es erwartet euch ein musikalischer Abend zum winterlich-weihnachtlichen Einstimmen und Mitsingen, u.a. mit dem Kinder & Jugendchor der Jazzhausschule und dem Feierabendchor Nippes.Bei heißem Punsch und […]...
+★ Bei Dämmerung eröffnen wir im Lichterglanz die Wunschbaumaktion 2026: Es erwartet euch ein musikalischer Abend zum winterlich-weihnachtlichen Einstimmen und Mitsingen, u.a. mit dem Kinder & Jugendchor der Jazzhausschule und dem Feierabendchor Nippes.Bei heißem Punsch und köstlichen Schnuckeleien lassen wir den Abend gemütlich ausklingen. Altenberger Hof: Innenhof, bei Schlechtwetter in der ScheuneEintritt frei! Wie funktioniert die […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
 Do. 26
 10:00 - 12:00
@@ -56,6 +50,11 @@ Herrenhaus
 [„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
 Sie möchten neue Kontakte in Ihrem Viertel knüpfen, Ihren Ruhestand aktiv gestalten, Informationen und Angebote für unsere Generation erhalten? Dann kommen Sie zum Kennenlernen zu unserem „Offenen Treff“. Eine Anmeldung ist notwendig. Mail: [E-Mail] oder Tel.: 0157 – 55718091 Neuinteressierte begrüßen wir ab 09:45 Uhr im Foyer für eine Vorabinformation.Beim „Offenen Treff“ frühstücken wir gemeinsam, […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
+Mo. 30
+20:00 - 21:20
+[Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&time=1796068800)
+★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&time=1796068800)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)

@@ -1,5 +1,5 @@
 URL: https://www.qultor.de/veranstaltungen/die-schoene-und-das-biest
-ABGERUFEN: 2026-11-24T06:51
+ABGERUFEN: 2026-11-25T05:26
 VON: tickets.yml
 
 Die Schöne und das Biest
@@ -23,6 +23,7 @@ Alle Termine: Metropol Theater, Eifelstraße 33, 50677 Köln
 Samstag 28.11.2026 16:00 Uhr
 [Metropol Theater](https://www.qultor.de/kulturschaffende/metropol-theater)
 Eifelstraße 33 | 50677 Köln
+ab 10,00 €
 Tickets
 Sonntag 29.11.2026 14:00 Uhr
 Dienstag 15.12.2026 11:00 Uhr

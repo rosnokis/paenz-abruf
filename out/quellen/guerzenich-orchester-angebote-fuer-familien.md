@@ -21,6 +21,7 @@ So., 11:00
 Flora Köln, Am Botanischen Garten
 Matinee Konzert
 [So klingt Köln im Advent](https://www.guerzenich-orchester.de/de/event-detail/so-klingt-koeln-2026)
+Werke von Händel, Humperdinck, Verhelst, Rudin, Svoboda und Bass
 ab 27,00 €
 [Tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26380&language=de)
 06.12.2026

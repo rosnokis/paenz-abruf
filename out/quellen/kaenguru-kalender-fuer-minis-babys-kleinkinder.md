@@ -6,12 +6,6 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit/2026-11-24)
-Hier erleben die allerkleinsten Besucher:innen von 0 bis 2 Jahren ihr erstes Konzert
-24.11.2026
-15:00 Uhr
-Bürgerhaus Kalk
-Köln
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25)
 ★ Mit Kleinkindern ins Museum Morsbroich
 25.11.2026
@@ -22,6 +16,7 @@ Leverkusen
 ★ Lustiges Abenteuer für Theaterstarter ab 3 Jahren und ihre Eltern
 10:30 Uhr
 Cassiopeia Bühne
+Köln
 ★ [Krabbel-Konzert](https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25)
 ★ Krabbeln, brabbeln, lauschen – beim Krabbelkonzert dürfen Babys und Kleinkinder Musik ganz frei entdecken
 10:30 - 11:30 Uhr
@@ -48,6 +43,7 @@ Horizont Theater
 28.11.2026
 10:00 Uhr
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-28)
+15:00 Uhr
 ★ [„Moby Dünn"](https://www.kaenguru-online.de/kalender/fuer-minis/moby-duenn/2026-11-29)
 ★ Ein Krabbeltheaterstück für Kinder von 2 bis 5 Jahren
 29.11.2026
@@ -72,5 +68,9 @@ Theater Wolkenstein im Bürgerzentrum Deutz
 01.12.2026
 ★ [„Kleiner Drache, wünsch dir was"](https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-12-01)
 ★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-1/2026-12-01)
+Hier erleben die allerkleinsten Besucher:innen von 0 bis 2 Jahren ihr erstes Konzert
 14:00 Uhr
 COMEDIA Theater
+★ [Bilderbuchkino](https://www.kaenguru-online.de/kalender/fuer-minis/bilderbuchkino/2026-12-01)
+★ Bilderbuchkino für Kinder von 3 bis 6 Jahren
+16:00 - 17:00 Uhr

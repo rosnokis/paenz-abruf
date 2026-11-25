@@ -2,29 +2,17 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-lunchtime-konzerte-in-st-kunibert/)
-24.11.2026
-13:30
-Uhr
-St. Kunibert
-Köln
-Lunchtime-Konzerte in St. Kunibert
-[Violoncelloabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-01-2026-violoncelloabend-1-1/)
-19:30
-Konzertsaal Wuppertal
-Wuppertal
-Violoncelloabend
-[Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/24-11-2026-violaabend/)
-Kammermusiksaal
-Violaabend
 [Trompetenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-trompetenabend/)
 25.11.2026
 17:30
+Uhr
 Kirche St. Jakob Aachen
 Aachen
 Trompetenabend
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
 18:00
+Kammermusiksaal
+Köln
 Ringvorlesung - KANONS IN DER KRISE
 [Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
 19:00
@@ -32,6 +20,9 @@ Konzertsaal
 Gitarrenabend
 Fällt leider aus.
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2024-violinabend-1-1-1-1-2-2-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Violinabend
 [STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-stop-vilence-ein-zeichen-gegen-gewalt-an-frauen/)
 STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen
@@ -41,8 +32,8 @@ Klavierabend
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
 [„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
 „Vom Lieben und Leiden“ - Gesangsabend
-[Neurotime soll nicht zermahlen werden! Oder: Wenn Stadtkörper Erinnerung säen...](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-neurotime-soll-nicht-zermahlen-werden-oder-wenn-stadtkoerper-erinnerung-saeen/)
-Neurotime soll nicht zermahlen werden! Oder: Wenn Stadtkörper Erinnerung säen...
+[Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-neurotime-soll-nicht-zermahlen-werden-oder-wenn-stadtkoerper-erinnerung-saeen/)
+Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1-1/)
 27.11.2026
 Kammer­musik­abend
@@ -69,6 +60,9 @@ Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V
 Dezember 2026
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-lunchtime-konzerte-in-st-kunibert/)
 01.12.2026
+13:30
+St. Kunibert
+Lunchtime-Konzerte in St. Kunibert
 [Violinenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-violinenabend/)
 Violinenabend
 [Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-big-band-konzert/)
@@ -157,6 +151,7 @@ Konzert der Rheinischen Musikschule Köln
 18:30
 Gesangsabend zum 3. Advent der Klasse von Prof. Viktor Rud
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/13-12-2026-bratschenabend/)
+Violaabend
 [WDR3 CAMPUS KONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-12-2026-wdr3-campus-konzert/)
 14.12.2026
 WDR3 CAMPUS KONZERT

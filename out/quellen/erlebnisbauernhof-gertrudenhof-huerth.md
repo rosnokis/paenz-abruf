@@ -24,7 +24,7 @@ vorbestellen
 Weihnachtsbaum
 Verkauf ab dem 19.11.26
 Heutige Öffnungszeiten
-Dienstag, 24.11.2026
+Mittwoch, 25.11.2026
 Erlebnisgelände
 10.00 – 19.00 Uhr
 Bauernmarktgelände

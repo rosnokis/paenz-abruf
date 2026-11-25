@@ -15,27 +15,27 @@
   "https://eventfrog.de/de/p/gruppen/circus-charles-monroe-im-glanz-der-weihnachtszeit-7525991049405145911.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512528862162468940.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512530867866044697.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/klamauk-kinder-und-jugendzirkus-koeln-7435670043994649978.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "verfuegbar",
    "txt": "Tickets: Tickets kaufen für KLAMAUK - Kinder- und Jugendzirkus, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
   },
@@ -125,10 +125,16 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
+  },
+  "https://familienhopper.de/events/antik-und-troedelmarkt-auf-dem-parkplatz-der-rennbahn-koeln-weidenpesch-koeln-2026-11-25": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "Auf dem Parkplatz der Pferderennbahn an der Scheibenstraße 40 in Köln-Weidenpesch findet mehrmals wöchentlich ein Antik- und Trödelmarkt im Freien statt. Die Te"
   },
   "https://familienhopper.de/events/deine-schokoladentafel-koeln-2026-11-15": {
    "art": "detailseite",
@@ -204,7 +210,7 @@
   },
   "https://familienhopper.de/koeln/indoor/": {
    "art": "detailseite",
-   "geprueft": "2026-11-21T06:52",
+   "geprueft": "2026-11-25T05:26",
    "s": "ausverkauft",
    "txt": "Ausgebucht"
   },
@@ -364,9 +370,27 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-26/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-2026-11-27/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-nachmittagsveranstaltung-2026-11-14/": {
    "art": "detailseite",
    "geprueft": "2026-11-13T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
+  "https://volksbuehne-rudolfplatz.de/programm/mathias-richling-ki-keine-identitaet-2026-11-25/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
@@ -385,13 +409,13 @@
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "verfuegbar",
    "txt": "Schaltfläche: Tickets kaufen"
   },
@@ -413,7 +437,7 @@
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
-   "versucht": "2026-11-24T06:51"
+   "versucht": "2026-11-25T05:26"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -442,7 +466,14 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
+   "s": "unklar",
+   "txt": ""
+  },
+  "https://www.horizont-theater.de/produktionen/maryhappy.html": {
+   "art": "ticketliste",
+   "folge": "kein Shop-Link auf der Seite",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -532,7 +563,7 @@
   },
   "https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn": {
    "art": "detailseite",
-   "geprueft": "2026-11-21T06:52",
+   "geprueft": "2026-11-25T05:26",
    "s": "verfuegbar",
    "txt": "[Jetzt buchen*](https://tixu-shop.variete.de/tickets/9?date=2026-10-01&utm_source=tixu&utm_medium=kindaling&utm_campaign=eventportale)"
   },
@@ -605,7 +636,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -617,7 +648,7 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
@@ -629,7 +660,7 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
@@ -663,6 +694,12 @@
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://www.eventim.de/noapp/event/21434443/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)"
   },
+  "https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-so-bin-ich-fuer-kinder-ab-2-jahren-buergerzentrum/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "[Tickets kaufen](https://www.eventim.de/noapp/event/22319360/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)"
+  },
   "https://www.mvp.de/nordrhein-westfalen/veranstaltungen/das-schaefchen-und-der-stern-kita-familienkonzert-frechen/": {
    "art": "detailseite",
    "geprueft": "2026-11-13T05:26",
@@ -689,7 +726,7 @@
   },
   "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "ausverkauft",
    "txt": "sold out"
   },
@@ -705,9 +742,15 @@
    "s": "verfuegbar",
    "txt": "[Ticketlink](https://kabarett-a-z.de/start/karten/)"
   },
+  "https://www.qultor.de/veranstaltungen/der-zauber-von-oz": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://comedia-koeln.de/schulvorstellungen/)"
+  },
   "https://www.qultor.de/veranstaltungen/die-schoene-und-das-biest": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "ausverkauft",
    "txt": "Ausverkauft"
   },
@@ -737,7 +780,7 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-24T06:51",
+   "geprueft": "2026-11-25T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
   },
@@ -830,6 +873,12 @@
    "geprueft": "2026-11-19T06:52",
    "s": "verfuegbar",
    "txt": "[zur Anmeldung](https://stadt-koeln.easy2book.de/code-create-event-5940)"
+  },
+  "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/comic-lounge-69": {
+   "art": "detailseite",
+   "geprueft": "2026-11-25T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://stadt-koeln.easy2book.de/?s=ComicLounge)"
   },
   "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/comic-lounge-69-1": {
    "art": "detailseite",
@@ -970,5 +1019,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-24T06:51"
+ "stand": "2026-11-25T05:26"
 }

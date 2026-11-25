@@ -1,41 +1,5 @@
 [
  {
-  "name": "Zwischen-T-Räume &#8211; Queeres Theater jenseits der 60",
-  "startDate": "2026-11-20",
-  "endDate": "2026-11-20",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei - wir freuen uns über Spenden!",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/zwischen-t-raeume-queeres-theater-jenseits-der-60/?occurrence=2026-11-20",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "Kölner Geschichten Haus &#8211; Systemisch",
-  "startDate": "2026-11-23",
-  "endDate": "2026-11-23",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "10€/ erm.5€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-23&",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "LESUNG mit Ulrike Herrmann: Geld als Waffe",
   "startDate": "2026-11-24",
   "endDate": "2026-11-24",
@@ -73,6 +37,24 @@
   "quelle": "https://www.buergerzentrum-nippes.de"
  },
  {
+  "name": "OHRENschmausen",
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-25",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei - Spenden sind herzlich willkommen!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
   "name": "„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein",
   "startDate": "2026-11-26",
   "endDate": "2026-11-26",
@@ -88,6 +70,24 @@
   "url": "https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&",
   "eventStatus": "EventScheduled",
   "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kölner Geschichten Haus &#8211; Systemisch",
+  "startDate": "2026-11-30",
+  "endDate": "2026-11-30",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "10€/ erm.5€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]

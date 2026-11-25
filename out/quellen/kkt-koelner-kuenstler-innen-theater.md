@@ -21,23 +21,21 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-★ Kindertheater
-[(Ein) Winternachtstraum](https://www.k-k-t.de/stuecke/winternachtstraum)
-Undine und Paul finden den verlorenen König
-Nächste Termine
-Dienstag, 24. November 2026
-10:00 Uhr
-fällt leider aus!
-Samstag, 05. Dezember 2026
-16:00 Uhr
-Sonntag, 06. Dezember 2026
-15:00 Uhr
 Jugendtheater
 [THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
 Jugendliche und KI – wie echt ist unser Leben?
+Nächste Termine
 Mittwoch, 25. November 2026
+10:00 Uhr
 Bitte vorab reservieren
+★ Kindertheater
 [Pettersson und Findus: Feuerwerk für den Fuchs](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)
 Pettersson und Findus erleben ein Abenteuer
 Donnerstag, 26. November 2026
 Samstag, 28. November 2026
+16:00 Uhr
+Erwachsenentheater
+[Five Kinds of Silence / Pesë fytyrat e heshtjes](https://www.k-k-t.de/stuecke/five-kinds-of-silence-pese-fytyrat-e-heshtjes)
+“Five Kinds of Silence” by playwright Shelagh Stephenson is a harrowing drama about violence and abuse within the family.
+Freitag, 27. November 2026
+20:00 Uhr

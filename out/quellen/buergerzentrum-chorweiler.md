@@ -49,6 +49,7 @@ Mit einem breiten Angebot an kulturellen Veranstaltungen wie Konzerten und Kabar
 Unsere Räumlichkeiten werden für kleine und größere Veranstaltungen mit bis zu 650 Personen vermietet. Private Feierlichkeiten finden hier genauso ihren Platz wie Seminare, Tanz- und Sportgruppen.
 Jeder und Jede ist herzlich willkommen in unseren freundlich gestalteten Räumen!
 Wir freuen uns auf Ihren Besuch!
+Jetzt auch auf WhatsApp:
 Demnächst:
 Kabarett/Musik
 [Vocaldente](https://www.buergerzentrum-chorweiler.de/116.html?eid=1085)
@@ -68,6 +69,7 @@ Ausstellung
 [ [mehr Ausstellungen](http://www.buergerzentrum-chorweiler.de/index.php?id=90) ]
 ★ Kindertheater/-konzert
 ★ [ [mehr für Kinder](http://www.buergerzentrum-chorweiler.de/index.php?id=91) ]
+Unser Tipp:
 [Chorweiler](https://www.buergerzentrum-chorweiler.de/index.php?id=88)
 [Stadtbezirksfest](https://www.buergerzentrum-chorweiler.de/index.php?id=88)
 [Fotos/Bilder](https://www.buergerzentrum-chorweiler.de/index.php?id=88)

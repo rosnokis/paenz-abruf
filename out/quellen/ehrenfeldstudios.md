@@ -10,14 +10,13 @@ Sa, 28.11.2026 | 16 Uhr
 [The Ageing Body – das Fest! | Performance Labor mit Silke Z. & Caroline Simon](https://www.ehrenfeldstudios.de/the-ageing-body-das-fest-performance-labor-mit-silke-z-caroline-simon/)
 Mo, 30.11.2026 – Fr, 04.12.2026 | 10 – 15 Uhr
 [mehr lesen](https://www.ehrenfeldstudios.de/the-ageing-body-das-fest-performance-labor-mit-silke-z-caroline-simon/)
-[The Ageing Body Pro Series #1 | von Silke Z. in Kooperation mit Liisa Pentti (FIN)](https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/)
-Do, 03.12.2026 | 20 Uhr
-Sa, 05.12.2026 | 20 Uhr
-[mehr lesen](https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/)
 [Frágil | Compañía Nómada (ES)](https://www.ehrenfeldstudios.de/fragil-compania-nomada-es/)
 ★ Für alle ab 16 Jahren
 Fr, 04.12.2026 | 20 Uhr
 [mehr lesen](https://www.ehrenfeldstudios.de/fragil-compania-nomada-es/)
+[The Ageing Body Pro Series #1 | von Silke Z. in Kooperation mit Liisa Pentti (FIN)](https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/)
+Sa, 05.12.2026 | 20 Uhr
+[mehr lesen](https://www.ehrenfeldstudios.de/the-ageing-body-on-stage-von-silke-z-in-kooperation-mit-liisa-pentti-fin/)
 [MIT UNS! ZWEI | Silke Z.](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)
 So, 06.12.2026 | 18 Uhr (KÖLN PREMIERE)
 [mehr lesen](https://www.ehrenfeldstudios.de/mit-uns-zwei-silke-z/)

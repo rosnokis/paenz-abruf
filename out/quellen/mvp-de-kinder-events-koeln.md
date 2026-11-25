@@ -49,49 +49,41 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 90
+1 - 40 von 89
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerhaus Kalk](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
-★ Kinderfreundliches Event
-Bürgerhaus Kalk, KÖLN
-★ Dienstag, 24. November 2026 - Bürgerhaus Kalk - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
-24.11.2026
-(heute)
-ab
-4 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-kinder-buergerhaus-kalk/)
-[Tickets kaufen](https://www.eventim.de/noapp/event/22057649/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 ★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
 ★ Puppenspiele der Stadt Köln, KÖLN
 ★ Mittwoch, 25. November 2026 bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech...
 25.11. bis 20.12.26
-(morgen)
+(heute)
+ab
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+[random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
+★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
+Klüngelpütz Kabarett &Theater, Köln
+Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabarett &Theater - Köln - random. Kölner Jugendtheaterpreis 2025 - Kristina Geßner, Olexandra...
+26.11.26 - 09.04.27
+(morgen)
+24 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-25&checkout=2026-11-29&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-26&checkout=2026-11-30&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-25.11. bis 29.11.26
+26.11. bis 30.11.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-25&checkout=2026-11-29&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-26&checkout=2026-11-30&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-[random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
-★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
-Klüngelpütz Kabarett &Theater, Köln
-Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabarett &Theater - Köln - random. Kölner Jugendtheaterpreis 2025 - Kristina Geßner, Olexandra...
-26.11.26 - 09.04.27
-24 €
-[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Senftöpfchen-Theater, Köln
@@ -107,10 +99,6 @@ Theater im Walzwerk, Pulheim
 14,75 €
 ★ [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2618717)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Kinderkonzert „Das Schäfchen und der Stern“ - Zauberhaftes Schauspiel und Streicherklang](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/kinderkonzert-das-schaefchen-und-der-stern-zauberhaftes-pulheim/)
 ★ Konzert - Klassik, Kinderfreundliches Event
 LVR-Kulturzentrum Abtei Brauweiler - Kaisersaal, Pulheim
@@ -118,7 +106,12 @@ LVR-Kulturzentrum Abtei Brauweiler - Kaisersaal, Pulheim
 7,20 €
 ★ [zum Konzert](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/kinderkonzert-das-schaefchen-und-der-stern-zauberhaftes-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2589737)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Yakari - Freunde fürs Leben - HÜRTH](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/yakari-freunde-fuers-leben-buergerhaus-huerth-huerth/)
+★ Kinderfreundliches Event
 Bürgerhaus Hürth, HÜRTH
 ★ Samstag, 28. November 2026 - Bürgerhaus Hürth - Yakari - Freunde fürs Leben - Yakari - Freunde fürs Leben - Das Musical für die ganze Familie
 32 €
@@ -146,6 +139,7 @@ Sonntag, 29. November 2026 - Kulturkirche Brüggen - KERPEN - Große Musik für 
 Comedia - Roter Saal, KÖLN
 ★ Dienstag, 1. Dezember 2026 und Dienstag, 1. Dezember 2026 - Comedia - Roter Saal - KÖLN - PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre
 01.12.2026
+4 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-funkelzeit-fuer-comedia-roter-saal/)
 ★ [PhilharmonieVeedel: Baby »Funkelzeit« - für Kinder bis 2 Jahre - Bürgerzentrum Ehrenfeld (Büze)](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-baby-buergerzentrum-ehrenfeld-bueze/)
 Bürgerzentrum Ehrenfeld (Büze), KÖLN
@@ -310,6 +304,11 @@ Freitag, 5. Februar 2027 - Dorint Hotel an der Messe - KÖLN - KölleAlarm - Die
 18,35 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/koellealarm-die-benefiz-kostuem-karnevalsparty-fuer-jugendliche/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/21304049/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+★ [PhilharmonieVeedel: Pänz »So bin ich« - für Kinder ab 2 Jahren - Bürgerzentrum Chorweiler](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-so-bin-ich-fuer-kinder-ab-2-jahren-buergerzentrum/)
+★ Donnerstag, 11. Februar 2027 - Bürgerzentrum Chorweiler - KÖLN - PhilharmonieVeedel: Pänz »So bin ich« - für Kinder ab 2 Jahren
+11.02.2027
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-so-bin-ich-fuer-kinder-ab-2-jahren-buergerzentrum/)
+[Tickets kaufen](https://www.eventim.de/noapp/event/22319360/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege

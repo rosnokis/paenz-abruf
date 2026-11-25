@@ -9,9 +9,9 @@ Freitag, 27. November
 ★ [17:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 Samstag, 28. November
 [8:00 Kölner Gebraucht-Fahrradmarkt Köln Innenstadt](https://www.kindaling.de/flohmaerkte/koelner-gebraucht-fahrradmarkt/koeln-innenstadt)
-★ [9:00 Erste Hilfe am Säugling und Kind Kurs Köln Innenstadt](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
-[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
 ★ [9:00 Kinderflohmarkt auf dem Krewelshof Lohmar](https://www.kindaling.de/flohmaerkte/kinderflohmarkt-auf-dem-krewelshof/lohmar)
+[ALLE VERANSTALTUNGEN](https://www.kindaling.de/veranstaltungen/koeln)
+★ [9:00 Erste Hilfe am Säugling und Kind Kurs Köln Innenstadt](https://www.kindaling.de/erste-hilfe-am-baby-kind/erste-hilfe-am-saeugling-und-kind-kurs/koeln-innenstadt)
 [12:00 Christmas Werkstatt Köln Innenstadt](https://www.kindaling.de/kreatives/christmas-werkstatt/koeln-innenstadt)
 [13:00 Regelmäßige Naturerlebnisse Köln Sülz](https://www.kindaling.de/natur/regelmaessige-naturerlebnisse/koeln-suelz)
 [14:30 Räuber, Schätze und geheime Orte vor über 200 Jahren in Köln Köln Innenstadt](https://www.kindaling.de/sonstige-veranstaltungen/raeuber-schaetze-und-geheime-orte-vor-ueber-200-jahren-in-koeln-e9ce5941-3c95-4059-bbf0-cba60c91455e/koeln-innenstadt)
@@ -19,7 +19,6 @@ Samstag, 28. November
 ★ [16:00 Pettersson und Findus: Ein Feuerwerk für den Fuchs Köln Ehrenfeld](https://www.kindaling.de/kindertheater-shows/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs-kkt-koelner-kuenstler-innen-theater/koeln-ehrenfeld)
 Sonntag, 29. November
 ★ [9:30 Familiencafé im Curious Kids Frechen-Königsdorf](https://www.kindaling.de/sonstige-veranstaltungen/familiencafe-im-curious-kids/frechen-koenigsdorf)
-★ [10:00 Betongießen für Kinder Frechen](https://www.kindaling.de/malen-basteln/betongiessen-fuer-kinder/frechen)
 ★ [11:00 Der große Kinderflohmarkt in Köln Köln Ehrenfeld](https://www.kindaling.de/flohmaerkte/der-grosse-kinderflohmarkt-in-koeln/koeln-ehrenfeld)
 ★ [14:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 ★ [15:00 Improvisationstheater für Kinder: Das improvisierte Märchen! Pulheim](https://www.kindaling.de/kindertheater-shows/improvisationstheater-fuer-kinder-das-improvisierte-maerchen/pulheim)
@@ -32,6 +31,7 @@ Mittwoch, 02. Dezember
 ★ [18:00 Wir bekommen ein Baby! - Hilfe bei Bürokratiedschungel Köln Innenstadt](https://www.kindaling.de/sonstige-veranstaltungen/wir-bekommen-ein-baby-hilfe-bei-buerokratiedschungel/koeln-innenstadt)
 Donnerstag, 03. Dezember
 [10:00 KölnTag in den Museen der Stadt Köln Ort nach Vereinbarung](https://www.kindaling.de/sonstige-veranstaltungen/koelntag-in-den-museen-der-stadt-koeln/koeln)
+★ [19:30 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
 [Die schönsten Indoorspielplätze in und um Köln herum](https://www.kindaling.de/magazin/die-schoensten-indoorspielplaetze-in-koeln-bonn)
 BELIEBTE KURSE & FERIENANGEBOTE
 ★ [Jetzt buchen mit Gutscheinoption](https://www.kindaling.de/kreativcamps/winterferienwerkstatt-fuer-familien-im-atelier/frechen)

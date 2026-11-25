@@ -67,30 +67,26 @@ Bürgerzentrum Engelshof e. V.
 
 ## Quelle: https://www.koelner-philharmonie.de/en/events?tags=26
 Concerts
-Tue
-24.11.2026
-15:00
-[0-2 years](https://www.koelner-philharmonie.de/en/events?tags=46)
-[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
-[Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
-Bürgerhaus Kalk
-★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9529)
-»Funkelzeit«
 Sun
 29.11.2026
 1. Advent
 11:00
 [6-10 years](https://www.koelner-philharmonie.de/en/events?tags=58)
 [Christmas](https://www.koelner-philharmonie.de/en/events?tags=52)
+[Family](https://www.koelner-philharmonie.de/en/events?tags=26)
 [»Jauchzet, frohlocket!«](https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205)
 ★ Familienkonzert
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=7896&language=en)
 14:00
 [»Jauchzet, frohlocket!«](https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9206)
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=300&event=7899&language=en)
+Tue
 01.12.2026
+[0-2 years](https://www.koelner-philharmonie.de/en/events?tags=46)
+[Im Veedel](https://www.koelner-philharmonie.de/en/events?tags=29)
 COMEDIA Theater
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9530)
+»Funkelzeit«
 ★ [PhilharmonieVeedel Baby](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9531)
 Wed
 02.12.2026
@@ -110,3 +106,6 @@ Bürgerzentrum Nippes – Altenberger Hof
 ★ [Das Geheimnis der Weihnachtswichtel – Familienkonzert](https://www.koelner-philharmonie.de/en/events/das-geheimnis-der-weihnachtswichtel-familienkonzert/9372)
 Gürzenich-Orchester Köln
 [Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=260&event=26343&language=en)
+[#comecloser](https://www.koelner-philharmonie.de/en/events?tags=38)
+★ [Das Geheimnis der Weihnachtswichtel – Familienkonzert](https://www.koelner-philharmonie.de/en/events/das-geheimnis-der-weihnachtswichtel-familienkonzert/9432)
+[Tickets](https://tickets.koelner-philharmonie.de/webshop/webticket/shop?mandant=260&event=26350&language=en)
