@@ -48,7 +48,6 @@ Unterwegs
 Führung, Kooperationen, kunstfreunde besuchen
 Anbetung der Heiligen Drei Könige, Skulpturen vom Hochaltar des Kölner Doms, um 1310, ca. 38-42 x 34-41 x 9 cm, Inv.-Nr. K210a, 2102. 210m, © Rheinisches Bildarchiv
 ★ Zwischen Engeln, Königen und kostbaren Kunstwerken entdecken wir die Ursprünge unserer Weihnachtsbilder. Eine stimmungsvolle Führung für Erwachsene mit Baby durch die weihnachtliche Sammlung des Museums Schnütgen.
-→ Anmelden
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/madonnen-engel-christkind-advent-special/)
 16.12.
 Museum Ludwig
@@ -57,6 +56,7 @@ Museum Ludwig
 Führung
 Max Ernst: Die Jungfrau züchtigt das Jesuskind vor drei Zeugen, 1926. Köln, Museum Ludwig, Inv.-Nr. ML 10056, Öl auf Leinwand, 196 x 130 cm. Foto: © VG Bild-Kunst, Bonn 2026. Das Bild wird Bestandteil der Führung sein.
 Gemeinsam tauchen wir ein in die faszinierende und oft überraschende Welt des Surrealismus.
+→ Anmelden
 [→ Weitere Informationen](https://kunstfreunde.koeln/events/surrealismus-traumhaft-verrueckt/)
 01.01. - 31.12.
 Museum Ludwig, Wallraf, Unterwegs

@@ -1,51 +1,30 @@
 [
  {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-11-25T10:45:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-514",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Vorlesen mit dem Kamishibai-Erzähltheater",
-  "endDate": "2026-11-25T17:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-149",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Let's Quiz! – Unter Wasser",
-  "endDate": "2026-11-25T17:15:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lets-quiz-unter-wasser",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Bilderbuchkino",
-  "endDate": "2026-11-26T00:00:00+01:00",
+  "endDate": "2026-11-26T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-53",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Match nach Mittag",
-  "endDate": "2026-11-26T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-35",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Wir zünden eine Kerze an",
-  "endDate": "2026-11-26T00:00:00+01:00",
+  "endDate": "2026-11-26T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-zuenden-eine-kerze",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Code and Create",
-  "endDate": "2026-11-26T:00+01:00",
+  "endDate": "2026-11-26T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/code-and-create-13",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Match nach Mittag",
+  "endDate": "2026-11-26T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-35",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -56,31 +35,31 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "MINT-Vorlesen",
+  "name": "Vorlesezeit",
   "endDate": "2026-11-27T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-310",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "MINT-Vorlesen",
+  "endDate": "2026-11-27T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-35",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2026-11-27T00:00:00+01:00",
+  "endDate": "2026-11-27T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-39",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Nippes spielt!",
-  "endDate": "2026-11-27T00:00:00+01:00",
+  "endDate": "2026-11-27T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-29",
   "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Vorlesezeit",
-  "endDate": "2026-11-27T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-310",
-  "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -127,50 +106,50 @@
  },
  {
   "name": "Wir spielen Schach",
-  "endDate": "2026-12-01T:00+01:00",
+  "endDate": "2026-12-01T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-spielen-schach-7",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Vorlesezeit mit Bilderbüchern",
-  "endDate": "2026-12-02T17:00:00+01:00",
+  "endDate": "2026-12-02T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-mit-bilderbuechern-7",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2026-12-02T17:30:00+01:00",
+  "endDate": "2026-12-02T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-48",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-03T00:00:00+01:00",
+  "endDate": "2026-12-03T12:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-527",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Storytime at the Library",
+  "endDate": "2026-12-03T16:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/storytime-library-10",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "Vorlesen mit dem Kamishibai – Erzähltheater",
-  "endDate": "2026-12-03T00:00:00+01:00",
+  "endDate": "2026-12-03T17:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-150",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Wir zünden eine Kerze an",
-  "endDate": "2026-12-03T00:00:00+01:00",
+  "endDate": "2026-12-03T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-zuenden-eine-kerze-1",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Storytime at the Library",
-  "endDate": "2026-12-03T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/storytime-library-10",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -190,7 +169,7 @@
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2026-12-04T00:00:00+01:00",
+  "endDate": "2026-12-04T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-40",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
@@ -224,6 +203,13 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2026-12-08T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-524",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "SchachXperten",
   "endDate": "2026-12-08T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schachxperten-33",
@@ -239,72 +225,65 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-08T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-524",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-09T10:45:00+01:00",
+  "endDate": "2026-12-09T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-530",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2026-12-09T17:30:00+01:00",
+  "endDate": "2026-12-09T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-45",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bilderbuchkreativzeit",
-  "endDate": "2026-12-10T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-13",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Kreativ-Tag",
-  "endDate": "2026-12-10T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kreativ-tag-44",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Offener Spieletreff",
-  "endDate": "2026-12-10T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/offener-spieletreff-6",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Wir zünden eine Kerze an",
-  "endDate": "2026-12-10T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-zuenden-eine-kerze-3",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-10T:00+01:00",
+  "endDate": "2026-12-10T12:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-532",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bilderbuchkreativzeit",
+  "endDate": "2026-12-10T17:30:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-13",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Wir zünden eine Kerze an",
+  "endDate": "2026-12-10T17:30:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-zuenden-eine-kerze-3",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "Bücherbande-Treff",
-  "endDate": "2026-12-10T:00+01:00",
+  "endDate": "2026-12-10T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff-1",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Code and Create",
-  "endDate": "2026-12-10T:00+01:00",
+  "endDate": "2026-12-10T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/code-and-create-14",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Kreativ-Tag",
+  "endDate": "2026-12-10T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kreativ-tag-44",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Offener Spieletreff",
+  "endDate": "2026-12-10T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/offener-spieletreff-6",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -322,23 +301,30 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "MINT-Vorlesen",
+  "name": "Vorlesezeit",
   "endDate": "2026-12-11T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-308",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "MINT-Vorlesen",
+  "endDate": "2026-12-11T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-43",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2026-12-11T00:00:00+01:00",
+  "endDate": "2026-12-11T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-41",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Vorlesezeit",
-  "endDate": "2026-12-11T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-308",
+  "name": "Die Schneekönigin",
+  "endDate": "2026-12-12T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/die-schneekoenigin",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -350,13 +336,6 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Ratoncitos de biblioteca",
-  "endDate": "2026-12-12T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/ratoncitos-de-biblioteca-23",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Vorlesezeit",
   "endDate": "2026-12-12T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-306",
@@ -364,9 +343,9 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Die Schneekönigin",
+  "name": "Ratoncitos de biblioteca",
   "endDate": "2026-12-12T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/die-schneekoenigin",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/ratoncitos-de-biblioteca-23",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -392,6 +371,13 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2026-12-15T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-525",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "Spieletester*innen",
   "endDate": "2026-12-15T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spieletesterinnen-42",
@@ -406,16 +392,23 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-15T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-525",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Spielend neue Welten entdecken",
   "endDate": "2026-12-15T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spielend-neue-welten-entdecken-19",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "LeseWelten",
+  "endDate": "2026-12-16T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-548",
+  "kinder": false,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Let's Quiz! – Weihnachtsedition",
+  "endDate": "2026-12-16T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lets-quiz-weihnachtsedition",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -427,52 +420,38 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "LeseWelten",
-  "endDate": "2026-12-16T16:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-548",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Vorlesezeit für Vorschulkinder",
-  "endDate": "2026-12-16T17:00:00+01:00",
+  "endDate": "2026-12-16T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-fuer-vorschulkinder-5",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Let's Quiz! – Weihnachtsedition",
-  "endDate": "2026-12-16T17:15:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lets-quiz-weihnachtsedition",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Bilderbuchkino",
-  "endDate": "2026-12-17T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-54",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-17T00:00:00+01:00",
+  "endDate": "2026-12-17T12:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-528",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Kleines Adventskonzert des Chor \"Kanti\"",
-  "endDate": "2026-12-17T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kleines-adventskonzert-des-chor-kanti-2",
-  "kinder": false,
+  "name": "Bilderbuchkino",
+  "endDate": "2026-12-17T17:30:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-54",
+  "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Wir zünden eine Kerze an",
-  "endDate": "2026-12-17T00:00:00+01:00",
+  "endDate": "2026-12-17T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-zuenden-eine-kerze-2",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Kleines Adventskonzert des Chor \"Kanti\"",
+  "endDate": "2026-12-17T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kleines-adventskonzert-des-chor-kanti-2",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -490,13 +469,6 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "MINT-Vorlesen",
-  "endDate": "2026-12-18T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-42",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Schere, Stift, Papier",
   "endDate": "2026-12-18T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schere-stift-papier-34",
@@ -507,6 +479,13 @@
   "name": "Vorlesezeit auf Türkisch",
   "endDate": "2026-12-18T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-auf-tuerkisch-10",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "MINT-Vorlesen",
+  "endDate": "2026-12-18T:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-42",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -553,6 +532,13 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2026-12-22T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-526",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "Spieletester*innen",
   "endDate": "2026-12-22T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spieletesterinnen-43",
@@ -561,14 +547,7 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-22T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-526",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-12-23T10:45:00+01:00",
+  "endDate": "2026-12-23T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-531",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
@@ -596,50 +575,50 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-05T:00+01:00",
+  "endDate": "2027-01-05T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-1",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Wir spielen Schach",
-  "endDate": "2027-01-05T:00+01:00",
+  "endDate": "2027-01-05T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/wir-spielen-schach-8",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Vorlesezeit mit Bilderbüchern",
-  "endDate": "2027-01-06T17:00:00+01:00",
+  "endDate": "2027-01-06T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-mit-bilderbuechern-8",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-07T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-281",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Vorlesen mit dem Kamishibai – Erzähltheater",
-  "endDate": "2027-01-07T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-152",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-07T:00+01:00",
+  "endDate": "2027-01-07T10:45:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-534",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2027-01-07T12:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-281",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "Storytime at the Library",
-  "endDate": "2027-01-07T:00+01:00",
+  "endDate": "2027-01-07T16:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/storytime-library-11",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Vorlesen mit dem Kamishibai – Erzähltheater",
+  "endDate": "2027-01-07T17:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-152",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -658,16 +637,16 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "MINT-Vorlesen",
+  "name": "Vorlesezeit",
   "endDate": "2027-01-08T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-44",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-316",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Vorlesezeit",
+  "name": "MINT-Vorlesen",
   "endDate": "2027-01-08T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-316",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-44",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -679,17 +658,17 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Offener Spieletreff",
-  "endDate": "2027-01-09T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/offener-spieletreff-7",
-  "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Vorlesezeit",
   "endDate": "2027-01-09T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-312",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Offener Spieletreff",
+  "endDate": "2027-01-09T:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/offener-spieletreff-7",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -701,43 +680,43 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-12T:00+01:00",
+  "endDate": "2027-01-12T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-278",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Vorlesen mit dem Kamishibai-Erzähltheater",
-  "endDate": "2027-01-13T17:00:00+01:00",
+  "endDate": "2027-01-13T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesen-mit-dem-kamishibai-erzaehltheater-153",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bilderbuchkreativzeit",
-  "endDate": "2027-01-14T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-14",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-14T:00+01:00",
+  "endDate": "2027-01-14T12:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-537",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bücherbande-Treff",
-  "endDate": "2027-01-14T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff-2",
+  "name": "Bilderbuchkreativzeit",
+  "endDate": "2027-01-14T17:30:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkreativzeit-14",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "LEVEL UP!",
-  "endDate": "2027-01-14T:00+01:00",
+  "endDate": "2027-01-14T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/level-15",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Bücherbande-Treff",
+  "endDate": "2027-01-14T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbande-treff-2",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
@@ -791,6 +770,13 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2027-01-19T00:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-279",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "SchachXperten",
   "endDate": "2027-01-19T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/schachxperten-34",
@@ -805,73 +791,66 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-19T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-279",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Vorlesezeit",
-  "endDate": "2027-01-20T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-317",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "LeseWelten",
-  "endDate": "2027-01-20T16:00:00+01:00",
+  "endDate": "2027-01-20T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-553",
   "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Vorlesezeit für Vorschulkinder",
-  "endDate": "2027-01-20T17:00:00+01:00",
+  "endDate": "2027-01-20T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-fuer-vorschulkinder-6",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
+  "name": "Vorlesezeit",
+  "endDate": "2027-01-20T17:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-317",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
   "name": "MINT-Vorlesen",
-  "endDate": "2027-01-20T17:30:00+01:00",
+  "endDate": "2027-01-20T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-46",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2027-01-20T17:30:00+01:00",
+  "endDate": "2027-01-20T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-49",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "MINT-Vorlesen",
-  "endDate": "2027-01-20T17:30:00+01:00",
+  "endDate": "2027-01-20T:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-50",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-21T00:00:00+01:00",
+  "endDate": "2027-01-21T10:45:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-535",
+  "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Bücherbabys – die literarische Krabbelgruppe",
+  "endDate": "2027-01-21T12:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-282",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Kreativ-Tag",
-  "endDate": "2027-01-21T00:00:00+01:00",
+  "endDate": "2027-01-21T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kreativ-tag-46",
   "kinder": false,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-21T:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-535",
-  "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -879,13 +858,6 @@
   "endDate": "2027-01-22T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-551",
   "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
-  "name": "Nippes spielt!",
-  "endDate": "2027-01-22T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-30",
-  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -897,9 +869,16 @@
  },
  {
   "name": "Vorlesezeit",
-  "endDate": "2027-01-22T:00+01:00",
+  "endDate": "2027-01-22T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-318",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Nippes spielt!",
+  "endDate": "2027-01-22T:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-30",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
@@ -932,37 +911,37 @@
  },
  {
   "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2027-01-26T:00+01:00",
+  "endDate": "2027-01-26T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-280",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Bilderbuchkino",
-  "endDate": "2027-01-28T00:00:00+01:00",
+  "endDate": "2027-01-28T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-55",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
   "name": "Code and Create",
-  "endDate": "2027-01-28T00:00:00+01:00",
+  "endDate": "2027-01-28T18:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/code-and-create-16",
   "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Comic Lounge 69",
-  "endDate": "2027-01-28T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/comic-lounge-69",
-  "kinder": true,
+  "name": "Match nach Mittag",
+  "endDate": "2027-01-28T18:00:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-36",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Match nach Mittag",
-  "endDate": "2027-01-28T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/match-nach-mittag-36",
-  "kinder": false,
+  "name": "Comic Lounge 69",
+  "endDate": "2027-01-28T18:45:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/comic-lounge-69",
+  "kinder": true,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {

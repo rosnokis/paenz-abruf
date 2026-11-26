@@ -21,10 +21,10 @@ Dialog | Online
 [Gottes­dienste](https://www.lutherkirche-nippes.de/lutherkirche/gottesdienste/)
 Podcasts unserer Gemeinde
 Aktuelle Ausgabe WDR4 Sonntagskirche
-[Welchen Frieden?](https://www.lutherkirche-nippes.de/podcast/wdr4-welchenfrieden/)
-"Ich lese gerade das Buch: „Die Achse der Autokraten“, geschrieben von der Historikerin Anne Applebaum. …"
+[Goldstaub](https://www.lutherkirche-nippes.de/podcast/wdr4-goldstaub/)
+"Mit einem lauten Klirren schlägt die Porzellanschale auf dem Boden auf und zerbricht. Die Scherben fliegen in alle Richtungen und bleiben verstreut auf dem Boden liegen. Dann ist Stille. Die Schale ist nicht mehr zu erkennen. Selbst wenn ich alle Scherben aufsammeln und sie wieder zusammenkleben würde, sie würde nie wieder so sein wie vorher …"
 Eine Andacht von Miriam Haseleu.
-[Zum Podcast](https://www.lutherkirche-nippes.de/podcast/wdr4-welchenfrieden/)
+[Zum Podcast](https://www.lutherkirche-nippes.de/podcast/wdr4-goldstaub/)
 Ihr findet uns auf
 [spotify](https://open.spotify.com/show/35rUU6JkkJZpYw8OBgRQzT), [deezer](https://www.deezer.com/de/show/995302) und [itunes](https://podcasts.apple.com/de/podcast/gott-und-klopapier/id1505054843)
 [Alle Podcast-Folgen](https://www.lutherkirche-nippes.de/podcast/)

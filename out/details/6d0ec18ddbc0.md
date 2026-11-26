@@ -1,5 +1,5 @@
 URL: https://www.koelner-karneval.org/author/peter-schwegmann/
-ABGERUFEN: 2026-11-12T05:26
+ABGERUFEN: 2026-11-26T05:26
 VON: koelner-karneval-kinderkarneval
 
 Peter Schwegmann
@@ -16,12 +16,16 @@ Verantwortung
 Jeder Beitrag wird vor der Veröffentlichung redaktionell geprüft. Presserechtlich verantwortlich ist Thomas Stollenwerk. Es gelten die Redaktionsrichtlinien von koelner-karneval.org.
 [Als bevorzugte Quelle bei Google merken](https://www.google.com/preferences/source?q=koelner-karneval.org)
 Beiträge von Peter Schwegmann
-[Wer kümmert sich um die Kamelle? Eine Anlaufstelle für Vereine in Hürth](https://www.koelner-karneval.org/karneval-tipps/kamelle-wurfmaterial-huerth-kamellebud/)
-★ [Holweider Kinderdreigestirn proklamiert](https://www.koelner-karneval.org/karnevalsvereine/holweider-kinderdreigestirn-proklamation-2026/)
-[Kölsch-Hop trifft Blech: Colo & Fred und wellBlech bringen „Bachelor em Jeck Sinn“](https://www.koelner-karneval.org/musikgruppen-im-koelner-karneval/bachelor-em-jeck-sinn-colo-fred-wellblech/)
-[11.11. in Köln: Petrus droht mit einer feuchtfröhlichen Sessionseröffnung!](https://www.koelner-karneval.org/karneval-tipps/11-11-in-koeln-petrus-droht-mit-einer-feuchtfroehlichen-sessionseroeffnung/)
+★ [Stage för Pänz: Elf Nachwuchs-Tanzgruppen, 22.222 Euro Spende und zwei Verdienstorden](https://www.koelner-karneval.org/karnevalsvereine/stage-foer-paenz-2026/)
+[Ein Orden wie ein Puzzle: KG Naaksühle startet mit Ordensabend in die Session](https://www.koelner-karneval.org/karnevalsvereine/naaksuehle-ordensabend-2026/)
+[Mit Reimen gegen die Mächtigen: „Et Rumpelstilzje“ Fritz Schopps wäre 80 geworden](https://www.koelner-karneval.org/redner/fritz-schopps/)
+[Zusammen 100 Jahre jung: Dreigestirn 2027 feiert mit der Kölner Narren-Zunft](https://www.koelner-karneval.org/karnevalsvereine/knz-elfter-im-elften-dreigestirn-2027/)
 Jecken-Post
 Neue Berichte, Interviews und Termine aus dem Kölner Karneval – unregelmäßig und kostenlos.
 [Jecken-Post abonnieren](https://www.koelner-karneval.org/newsletter/)
 Schaltfläche: Suchen
 Schaltfläche: Menü öffnen
+Schaltfläche: Vorlesen Anhalten Fortsetzen
+Schaltfläche: Absatz zurück
+Schaltfläche: Absatz vor
+Schaltfläche: Beenden

@@ -48,35 +48,19 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-24.11.
-Di 09:00 Uhr
+26.11.
+Do 09:00 Uhr
 [Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
 ★ von Sergej Gößner, für alle ab 5 Jahren
 Comedia Theater (Roter Saal)
-[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-24-0900/tickets)
-Di 11:00 Uhr
-[Tickets](https://comedia-koeln.de/schulvorstellungen/)
-Di 19:00 Uhr
-[Titanic »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
-Eine Komödie über schöne Menschen, die große Gefühle spielen
-Halle
-[Tickets](https://api.qultor.de/titanic/titanic-2026-11-24-1900/tickets)
-25.11.
-Mi 09:00 Uhr
 Entfällt
-Mi 11:00 Uhr
-[Tickets](https://api.qultor.de/der-zauber-von-oz/der-zauber-von-oz-2026-11-25-1100/tickets)
-Mi 19:00 Uhr
-[Tickets](https://api.qultor.de/titanic/titanic-2026-11-25-1900/tickets)
-26.11.
-Do 09:00 Uhr
-Do 09:30 Uhr
-[Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
-in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
-Comedia Theater (Grüner Saal)
 Do 11:00 Uhr
 [Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
 Do 12:00 Uhr
+[Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
+in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
+Comedia Theater (Grüner Saal)
+[Tickets](https://comedia-koeln.de/schulvorstellungen/)
 27.11.
 Fr 09:00 Uhr
 Fr 11:00 Uhr
@@ -107,5 +91,23 @@ So 12:00 Uhr
 [24. Kölner Theaternacht - das Festival der darstellenden Künste Köln »](https://comedia-koeln.de/programm/festivals/festival-der-darstellenden-kuenste/)
 Die Kölner Theaternacht geht in die 24. Runde! Auf verschiedenen Bühnen im Depot Köln präsentieren freie Kölner Gruppen, Ensembles und Häuser Ausschnitte aus ihren aktuellen und kommenden Produktionen.
 [Tickets](https://rausgegangen.de/events/24-kolner-theaternacht-das-festival-der-darstellenden-kunste-0/)
+[Südstadtflair Christmas Edition. »](https://comedia-koeln.de/magazin/suedstadtflair-christmas-edition/)
+In der Halle der Comedia.
+Eintritt frei!
+So 19:30 Uhr
+So 20:00 Uhr
+[Nessi Tausendschön: rum•ei•ern »](https://comedia-koeln.de/programm/unsere-gaeste/nessi-tausendschoen-rum-ei-ern/)
+[Tickets](https://api.qultor.de/nessi-tausendschoen-rumoeioern/nessi-tausendschoen-rumoeioern-2026-11-29-2000/tickets)
+1.12.
+Di 11:00 Uhr
+★ [PhilharmonieVeedel Baby Funkelzeit »](https://comedia-koeln.de/programm/unsere-gaeste/philharmonieveedel-baby-funkelzeit/)
+Ausverkauft
+Di 14:00 Uhr
+2.12.
+Mi 11:00 Uhr
+[Emil und die Detektive »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/emil-und-die-detektive/)
+Die Kölner Fassung für drei Spieler nach Erich Kästner
+6+
+[Tickets »](https://comedia-koeln.de/schulvorstellungen/)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

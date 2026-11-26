@@ -1,5 +1,14 @@
 [
  {
+  "name": "BabyBühne",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/babybuehne/2026-12-02",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "Bilderbuchkino",
   "location": {
    "name": "Köln"
@@ -18,11 +27,11 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
-  "name": "Krabbel-Konzert",
+  "name": "KUNST+KIND: Mit Baby unterwegs ins Museum Schnütgen",
   "location": {
-   "name": "Bonn"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kunstkind-mit-baby-unterwegs-ins-museum-schnuetgen/2026-12-02",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -31,16 +40,7 @@
   "location": {
    "name": "Leverkusen"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "Ohrenschmausen",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-12-02",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -50,6 +50,15 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-1/2026-12-01",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
+  "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-2/2026-12-02",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
@@ -104,15 +113,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Kleiner Drache, wünsch dir was\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

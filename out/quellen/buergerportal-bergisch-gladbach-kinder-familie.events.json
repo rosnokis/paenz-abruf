@@ -13,19 +13,6 @@
   "quelle": "https://in-gl.de/event-type/kinder-familie/"
  },
  {
-  "name": "&quot;Die schönste Laterne der Welt&quot;",
-  "startDate": "2026-11-12T17:00+1:00",
-  "endDate": "2026-11-13T00:50+1:00",
-  "location": {
-   "name": "Stadtbücherei",
-   "address": "Hauptstraße 250, 51465 Bergisch Gladbach"
-  },
-  "url": "https://in-gl.de/events/familienzeit-bilderbuchkinodie-schoenste-laterne-der-welt/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://in-gl.de/event-type/kinder-familie/"
- },
- {
   "name": "Terre des Hommes Kunstbasar",
   "startDate": "2026-11-14T11:00+1:00",
   "endDate": "2026-11-14T23:50+1:00",
@@ -131,6 +118,19 @@
   "startDate": "2026-11-8T12:00+1:00",
   "endDate": "2026-11-8T15:00+1:00",
   "url": "https://in-gl.de/events/offenes-angebot-experimentelles-papierschoepfen-fuer-familien/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
+  "name": "Nikolaus-Turnen und Parkour",
+  "startDate": "2026-12-6T10:00+1:00",
+  "endDate": "2026-12-6T12:45+1:00",
+  "location": {
+   "name": "TS 79",
+   "address": "Langemarckweg 24, Bergisch Gladbach"
+  },
+  "url": "https://in-gl.de/events/nikolaus-turnen-und-parkour/",
   "eventStatus": "EventScheduled",
   "kinder": true,
   "quelle": "https://in-gl.de/event-type/kinder-familie/"

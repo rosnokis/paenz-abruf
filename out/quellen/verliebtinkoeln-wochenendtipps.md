@@ -3,24 +3,28 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Adventsverkehr in Köln: Stadt setzt kostenlose Shuttle-Busse ein](https://verliebtinkoeln.com/adventsverkehr-koeln-deutzer-bruecke-b55a/)
+Wer am ersten Adventswochenende mit dem Auto zu den Kölner Weihnachtsmärkten fährt, muss auf der rechten Rheinseite mit zwei Umleitungen rechnen. Am Samstag, 28. November, leitet die Stadt den Autoverkehr Richtung Innenstadt vor der Deutzer Brücke um. Am Abend kommt eine Vollsperrung…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 2 Min. Lesedauer
+[Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
+25.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+[Neuer Weihnachtsmarkt im Mediapark kommt laut Umfrage sehr unterschiedlich an](https://verliebtinkoeln.com/weihnachtsmarkt-mediapark-koeln-stimmen/)
+25.11.2026 • [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [1. FC Köln nach dem 1:1 beim FC Bayern: Was gegen Elversberg jetzt zählt](https://verliebtinkoeln.com/1-fc-koeln-bayern-elversberg-dreierkette/)
-Mikey Moore schießt sein erstes Tor für den 1. FC Köln, der FC nimmt beim FC Bayern einen Punkt mit. Nach dem 1:1 in München geht es am Samstag gegen die SV Elversberg (28. November, 15.30 Uhr). In Folge 235 des FC-Podcasts…
-[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 24.11.2026 • 3 Min. Lesedauer
+24.11.2026 • [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [Rückblick: Über den Ursprung des Veedel-Lieds 1973](https://verliebtinkoeln.com/en-unserem-veedel-blaeck-foeoess/)
 24.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
 [Test: Welches Kölner Veedel passt wirklich zu dir?](https://verliebtinkoeln.com/nach-diesen-11-fragen-weisst-du-in-welchem-koelschen-veedel-du-leben-solltest/)
 24.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
 [Wie gut kennst du das Köln zur Römerzeit? Mach den Test](https://verliebtinkoeln.com/koeln-zur-roemerzeit/)
 24.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
-[Erkennst du nur an den Zutaten, welche 8 kölschen Gerichte gemeint sind?](https://verliebtinkoeln.com/erkennst-du-an-den-zutaten-um-welches-koelsche-gericht-es-sich-handelt/)
-[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-[7 Fragen zum Colonius – wie gut kennst du Kölns Fernsehturm?](https://verliebtinkoeln.com/colonius-koeln-quiz/)
-En unserem Veedel: Das Veedel-Lied der Bläck Fööss ist fast 50 Jahre alt – und dennoch aktueller denn je. Zuletzt hat die Corona-Krise gezeigt, wie…
-[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 24.11.2026 • 2 Min. Lesedauer
-Hast Du dich auch schonmal gefragt, welches Veedel in Köln eigentlich das Richtige für dich ist? Dann habe ich hier den perfekten Test für dich.…
-[Köln](https://verliebtinkoeln.com/category/koeln/) • 24.11.2026 • 2 Min. Lesedauer
+Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 25.11.2026 • 2, 2, 2 Min. Lesedauer
+Seit dem 19. November gibt es in Köln einen neuen Weihnachtsmarkt. Auf dem Platz vor dem KölnTower findet zum ersten Mal „Santas Weihnachtsmarkt“ statt. Die…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
 En unserem Veedel: Das Veedel-Lied der Bläck Fööss ist fast 50 Jahre alt – und dennoch aktueller denn je. Zuletzt hat die Corona-Krise…
+[Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 24.11.2026 • 2 Min. Lesedauer
 [Kaufhof Hohe Straße schließt: Die 110-jährige Geschichte des Kölner Warenhauses](https://verliebtinkoeln.com/kaufhof-hohe-strasse-koeln-geschichte/)
 Es war ein ganz harte Nachricht, die die Kölner am 20. November verkraften mussten: Im Frühjahr 2027 soll der Galeria-Standort an der Hohe…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 22.11.2026 • 3 Min. Lesedauer
@@ -44,6 +48,7 @@ Wenn die Tage kälter werden, kommt auch wieder die Zeit der Frostbeulen. Kalte 
 Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stück Prummetaat. An Latein denken dabei wohl die wenigsten. Dabei reicht die…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
+Seit dem 19. November gibt es in Köln einen neuen Weihnachtsmarkt. Auf dem Platz vor dem KölnTower findet zum ersten Mal „Santas Weihnachtsmarkt“…
 [Das ist neu beim Markt der Heinzel in der Kölner Altstadt](https://verliebtinkoeln.com/weihnachtsmarkt-heumarkt-alter-markt-koeln/)
 ★ Seit Montag, 23. November, ist Heinzels Wintermärchen auf dem Alter Markt und dem Heumarkt geöffnet. Auf dem Heumarkt könnt ihr bis zum 10.…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 23.11.2026 • 3 Min. Lesedauer
@@ -53,20 +58,19 @@ Finder auf dem Handy speichern So habt ihr das Weihnachtsmarkt-Programm schnell 
 ★ [Der Gertrudenhof bei Köln ist jetzt ein Weihnachtspark für Familien](https://verliebtinkoeln.com/weihnachtspark-gertrudenhof-huerth/)
 ★ Eine beleuchtete Weihnachtspyramide, ein Streichelzoo und eine Scheune zum Toben: Der Erlebnisbauernhof Gertrudenhof in Hürth hat seinen Familien-Weihnachtspark geöffnet. Vom 19. November 2026…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 22.11.2026 • 2 Min. Lesedauer
-[Strecke Köln – Berlin: Fast jeder zweite ICE hat mehr als 30 Minuten Verspätung](https://verliebtinkoeln.com/strecke-koeln-berlin-fast-jeder-zweite-ice-hat-mehr-als-30-minuten-verspaetung/)
-Wer seit Oktober zwischen Köln und Berlin mit der Deutschen Bahn unterwegs ist, muss sehr viel Geduld und Zeit mitbringen. Seit die Bahn…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 22.11.2026 • 2 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
 Wenn man durch die Straßen der Kölner Altstadt läuft, ahnt man manchmal gar nicht, wie viel Geschichte unter den eigenen Füßen liegt. Denn…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 24.11.2026 • 2 Min. Lesedauer
 Koelsche Gerichte
+[Erkennst du nur an den Zutaten, welche 8 kölschen Gerichte gemeint sind?](https://verliebtinkoeln.com/erkennst-du-an-den-zutaten-um-welches-koelsche-gericht-es-sich-handelt/)
 Was gibt es schöneres als zu einem lecker Kölsch auch ein schönes deftiges kölsches Gericht zu essen? Natürlich haben wir in Köln auch…
+[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
 Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 24.11.2026 • 2, 2 Min. Lesedauer
-Er gehört neben dem Kölner Dom zu den markantesten Bauwerken der Stadt: der Colonius. Seit den 80er-Jahren prägt der Fernsehturm an der Inneren…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 24.11.2026 • 3 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 Mikey Moore schießt sein erstes Tor für den 1. FC Köln, der FC nimmt beim FC Bayern einen Punkt mit. Nach dem 1:1…
+[1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 24.11.2026 • 3 Min. Lesedauer
 [1. FC Köln: So blickt Vize Jörg Alvermann auf die aktuelle Saison](https://verliebtinkoeln.com/1-fc-koeln-joerg-alvermann-saison-trainer-wagner/)
 Beim 1. FC Köln stehen nach neun Spielen neun Punkte auf dem Konto – ein durchwachsener Saisonstart, der im Umfeld des Klubs für…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/) • 17.11.2026 • 3 Min. Lesedauer

@@ -2,37 +2,22 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Trompetenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-trompetenabend/)
-25.11.2026
-17:30
-Uhr
-Kirche St. Jakob Aachen
-Aachen
-Trompetenabend
-[Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-ringvorlesung-kanons-in-der-krise/)
-18:00
-Kammermusiksaal
-Köln
-Ringvorlesung - KANONS IN DER KRISE
-[Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-gitarrenabend/)
+[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1-1/)
+26.11.2026
 19:00
+Uhr
 Konzertsaal
-Gitarrenabend
-Fällt leider aus.
-[Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-01-2024-violinabend-1-1-1-1-2-2-1/)
+Aachen
+Klavierabend
+[„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
+Köln
+„Vom Lieben und Leiden“ - Gesangsabend
+[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
 19:30
 Konzertsaal Wuppertal
 Wuppertal
-Violinabend
-[STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/25-11-2026-stop-vilence-ein-zeichen-gegen-gewalt-an-frauen/)
-STOP VI♀LENCE - Ein Zeichen gegen Gewalt an Frauen
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1-1/)
-26.11.2026
-Klavierabend
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
-[„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
-„Vom Lieben und Leiden“ - Gesangsabend
 [Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-neurotime-soll-nicht-zermahlen-werden-oder-wenn-stadtkoerper-erinnerung-saeen/)
+Kammermusiksaal
 Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1-1/)
 27.11.2026
@@ -42,7 +27,9 @@ Kammer­musik­abend
 28.11.2026
 11:00
 Klaviermatinee
-[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
+[Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
+Gitarrenabend
+Fällt leider aus.
 [FESTLICHES BLÄSERKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-festliches-blaeserkonzert/)
 FESTLICHES BLÄSERKONZERT
 [Herzensangelegenheit](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-11-2025-herzensangelegenheit-1/)
@@ -69,6 +56,8 @@ Violinenabend
 Big Band Konzert
 [Ringvorlesung - KANONS IN DER KRISE](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-ringvorlesung-kanons-in-der-krise/)
 02.12.2026
+18:00
+Ringvorlesung - KANONS IN DER KRISE
 [WDR 3 Campus Jazz](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-12-2026-wdr-3-campus-jazz/)
 20:00
 Loft
@@ -132,6 +121,7 @@ Cello Matinée
 [Kontrabassabend der Klasse Róbert Grondžel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-kontrabassabend-der-klasse-robert-grondzel/)
 Kontrabassabend der Klasse Róbert Grondžel
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-violinabend/)
+Violinabend
 [Die Zauberflöte - W. A. Mozart](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-12-2026-die-zauberfloete-w-a-mozart/)
 [Klangwelten](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-05-2026-carte-de-tendre-1/)
 Klangwelten
@@ -208,6 +198,7 @@ Domstädter
 Neue-Musik-Abend 1/2
 [Klarinettenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/19-12-2026-klarinettenabend/)
 Klarinettenabend
+[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1-2/)
 [Flötenmatinée](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/02-02-2024-floetenabend-1-1-3-1-2-2-1/)
 20.12.2026
 Flötenmatinée

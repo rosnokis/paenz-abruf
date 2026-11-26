@@ -1,0 +1,35 @@
+URL: https://www.kaenguru-online.de/kalender/fuer-teenager/messe-der-koelner-berufskollegs-2026/2026-11-26
+ABGERUFEN: 2026-11-26T05:26
+VON: kaenguru-familienmagazin-koeln-bonn
+
+Für Teenager
+Messe der Kölner Berufskollegs 2026
+Donnerstag, 26.11.2026
+09:00 Uhr bis 15:30 Uhr
+zurück zur Übersicht
+© halfpoint
+★ Welche Möglichkeiten gibt es nach der Schule? Die Kölner Berufskollegs informieren über Ausbildungswege, Schulabschlüsse und Studienmöglichkeiten. Mit Vorträgen, Beratung und einem Elternabend.
+★ Welche Möglichkeiten gibt es nach dem Schulabschluss? Wie lässt sich die Fachhochschulreife oder das Abitur erwerben? Und welche Wege führen in eine Ausbildung oder ein Studium? Antworten auf diese und weitere Fragen bietet die Bildungsmesse für Schüler:innen, Eltern und alle, die sich über berufliche und schulische Perspektiven informieren möchten.
+An Messeständen, bei Vorträgen und in persönlichen Beratungsgesprächen stellen Expert:innen verschiedene Berufsfelder, Bildungsgänge und Qualifizierungsmöglichkeiten vor. Dabei geht es auch um die Unterschiede zwischen beruflichem Gymnasium, Berufskolleg und Weiterbildungskolleg sowie um Übergänge zwischen Schule, Ausbildung und Studium.
+Insgesamt präsentieren sich 17 städtische Berufskollegs, sieben Berufskollegs privater Träger und ein Weiterbildungskolleg. Ergänzt wird das Angebot durch zahlreiche Beratungsstellen und Institutionen, darunter die Industrie- und Handelskammer, die Handwerkskammer, die Berufsberatung der Bundesagentur für Arbeit und die Bildungsberatung der Stadt Köln. Weitere Informationen gibt es unter anderem zu Pflegeberufen, assistierter Ausbildung, Schüler-BAföG und der Bewerbung um Schulplätze in der Sekundarstufe II.
+★ Besonderes Angebot für Eltern: Am Mittwoch, 25. November, um 18 Uhr findet eine Informationsveranstaltung für Eltern und Erziehungsberechtigte statt. Ein Einführungsvortrag der Bildungsberatung der Stadt Köln und der Schulleitungen gibt einen Überblick über die Berufskollegs. Anschließend können Eltern bei einem Messerundgang individuelle Fragen klären.
+Da Schüler:innengruppen die Messe vor allem vormittags besuchen, empfiehlt sich für Einzelbesucher:innen ein Besuch am frühen Nachmittag oder bei der Abendveranstaltung.
+Anmeldung nicht erforderlich.
+Eintritt frei!
+Geeignete Altersgruppe(n):
+Teenager
+Erwachsene
+Weiterführender Link:
+[www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/34055/index.html](http://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/34055/index.html)
+Weitere Infos:
+[PDF-Download](https://www.kaenguru-online.de/files/Kaenguru/Veranstaltungen/Administrator Monatsordner/11.2026/bilder-schule-uebergang-messe_kölner_berufskollegs_2026_plakat_320.pdf)
+Veranstaltungsort
+KOMED Köln
+Im Mediapark 6
+50670 Köln
+[www.komed.de](http://www.komed.de)
+[Alles von diesem Veranstalter anzeigen](https://www.kaenguru-online.de/veranstalter/komed-koeln)
+Veranstalter Info
+Veranstalter Informationen
+[Auf Google Maps anzeigen](https://www.google.de/maps?q=Im Mediapark 6+50670+Köln)
+★ [nächste Veranstaltung KinderTreff](https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-27)

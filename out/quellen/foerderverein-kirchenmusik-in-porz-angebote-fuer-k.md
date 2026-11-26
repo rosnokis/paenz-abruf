@@ -22,7 +22,7 @@ Weitere Termine und Angebote
 [Musikalische Angebote der evangelischen Kirchengemeinde Köln-Porz](https://www.kirchenmusik-porz.de/weitere-musikalische-angebote)
 
 ## Quelle: https://www.kirchenmusik-porz.de/veranstaltungstermine
-[Datei herunterladen](https://cdn.website-editor.net/s/35a5488e2a9845ddb8c264a9e8bcdfd0/files/uploaded/Jahresprogramm_2024_web.pdf?Expires=1797703756&Signature=MhvDfeDBhFjF8b9LP8eA5tmmMFBBmKgY2pV9RmaDUWRirexhdB2U8Kr8lnyGwUHzXnGgUi0CZf5mSO0NpU0AwiKdLOBd6eMKGjuocAZgK-EQEKLefltyufCJLrGMx3HDuHc5rs4wieDexLkigzH8ymYqFUM0G0oggX3oU2qrZtrO4RsuWwAvvoEpOFnFYXCwA4jwzQ1oA02bbEdEbCzOnSYMpztoVflf8TpMQVlrpcL6DU6yJKh1uTYVcCQE4z-Cj~8w3KPV3TJSVDsGTXXoksJhIqcNFkiesL9KKrIFFbyqLQUCX7uU2cywWsa3-18mdI5xqInrpNnK5gpamrI9vA__&Key-Pair-Id=K2NXBXLF010TJW)
+[Datei herunterladen](https://cdn.website-editor.net/s/35a5488e2a9845ddb8c264a9e8bcdfd0/files/uploaded/Jahresprogramm_2024_web.pdf?Expires=1798227855&Signature=kIOoLakqSfyufAH7XINdpp-BhVrB-NgCCFw0EraK~DOnfP~Los4GrQ~ZuK83KUkuVNoNx8cElTaWBL8GiIxgPyxQdtfBfbka0AZLhTEA4w-ydoJcnWU1UdIWq6aP8YYxwtIWO2fqotwjAklgVUO3nmG79yX5nsghNUM9PvRcF8X1l0tgO-ArWD1Q55YVAsgsfE63E5YroPCpsq-gVRdXIhFK2gs2gg6vXY4pc6N-baSyfj0GnvIHmA6GW4WOsnejvzftAPuhuuIoeQMRSi4bdVDJoSiEyblGVqBmHhanb9tvdY~VVQFsxgr7q3Q949WwpgP5wyJnQ~sFgv-75E-fbA__&Key-Pair-Id=K2NXBXLF010TJW)
 Konzerte und Veranstaltungen 2026
 Sie möchten über unsere Termine auf dem Laufenden bleiben? Abonnieren Sie unseren Newsletter!
 Sonntag, 13. Dezember, 17 Uhr

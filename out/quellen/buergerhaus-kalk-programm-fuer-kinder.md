@@ -14,33 +14,18 @@
 [downstairs deluxe feat.](https://www.buergerhauskalk.de/veranstaltungen/downstairs-deluxe-feat/?no_cache=1)
 [Video-Archiv](https://www.buergerhauskalk.de/veranstaltungen/video-archiv/?no_cache=1)
 Dienstag,
-24.11.2026
-15:00 Uhr
-Funkelzeit
-★ Philharmonie Veedel Baby
-Klicken, um Details einzublenden.
-Wenn es draußen kälter wird und der Winter die Welt in leise Töne hüllt, wird es drinnen umso gemütlicher. In dieser magischen Zeit laden wir dazu ein, gemeinsam bekannten und unbekannten Winterliedern zu lauschen. Melodien werden zu Sonnenstrahlen und bunten Farben, die graue Tage verzaubern. Hier darf mitgesummt, mitgebrummt, mitgewippt und mitgesungen werden! Gefördert vom Kuratorium KölnMusik e.V..
-★ 8,00 € | Kinder unter 2 Jahre: € 4,00, für Kitagruppen 5,00 pro Kind. Pro 4 KiTakinder ist eine Begleitperson frei.
-Karten sind NUR über KölnMusik Ticket erhältlich - (0221 204 08 204) oder https://tickets.koelner-philharmonie.de/webshop/webticket.
-Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
-Bürgerhaus Kalk, [E-Mail]
-Mittwoch,
-25.11.2026
-11:00 Uhr
-Der Wintertroll
-★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
-★ Der mehrfach ausgezeichnete Kinderliedermacher Toni Geiling lädt zu einer winterlichen Reise ein. Als Wintertroll stapft er mit Gitarre, Maultrommel, singender Säge und Violine durch Schnee und Eis. Er trifft dabei einen seltsamen Vogel, der Bücherwurm Hildebrandt verspeist die Weihnachtsgeschichten und auf dem Berg kommt es zu einer Begegnung der dritten Art. Zu hören sind dabei Klassiker und neue Stücke aus der Liederwerkstatt des Künstlers. Mehr Infos unter www.tonilieder.de
-Eintritt: 5,00 € | Anmeldung unter [E-Mail]
 01.12.2026
 15:30 Uhr
 & 16:30 Uhr
 ★ KinderHausMusik
 Singen im Advent
+Klicken, um Details einzublenden.
 ★ Kinder im Alter von 4-8 Jahren können bei der KinderHausMusik ganz nach Lust und Laune in unterschiedliche Klangwelten eintauchen. Das Konzept basiert auf der Idee der Community Music und bietet „Musik für alle“ - so wird ein unkomplizierter und spielerischer Zugang zur Musik ermöglicht. Passend zur Jahreszeit steht im Dezember adventliches Singen mit der Musikpädagogin Mia Stuart auf dem Programm.
 Eintritt frei - Spende erwünscht | Ohne Anmeldung
 Glashaus (Eingang über den Hof),
 Kalk-Mülheimer Str. 58, 51103 Köln
 Annette Pelzer-Ettaissi, [E-Mail]
+Mittwoch,
 09.12.2026
 09:30 Uhr
 & 11:00 Uhr
@@ -49,6 +34,8 @@ Mimikry Theater
 ★ Jetzt dauert es gar nicht mehr lange, dann ist Weihnachten! Eine Zeit der Kerzen und der Tannenbäume. Und: eine Zeit der Engel. Und: Es gibt unsichtbare Engel - die können wir im Herzen fühlen, und die machen uns glücklich. Der kleinste aller Engel, Amadeus, hat einen großen Wunsch: Einmal hinab auf die Erde zu fliegen und einem Menschen den sehnlichsten Weihnachtswunsch erfüllen! Ob ihm das wohl gelingt, erfahrt ihr in diesem Kindertheater.
 ★ Alter: 3-7 Jahre | Eintritt: 5,00 €/Person
 Anmeldung unter: [E-Mail]
+Großer Saal, Kalk-Mülheimer Str. 58, 51103 Köln
+Bürgerhaus Kalk, [E-Mail]
 Donnerstag,
 10.12.2026
 ★ Kasperle und der Weihnachtsroboter

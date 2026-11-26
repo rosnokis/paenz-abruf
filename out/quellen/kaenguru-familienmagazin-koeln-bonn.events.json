@@ -1,11 +1,20 @@
 [
  {
-  "name": "Krabbel-Konzert",
+  "name": "Jobmesse im Klarissenkloster",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jobmesse-im-klarissenkloster/2026-11-26",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "MINT-Basteln im Advent",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/krabbel-konzert/2026-11-25",
-  "kinder": true,
+  "url": "https://www.kaenguru-online.de/kalender/literatur/mint-basteln-im-advent/2026-11-26",
+  "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
@@ -13,7 +22,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/messe-der-koelner-berufskollegs-2026/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/messe-der-koelner-berufskollegs-2026/2026-11-26",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Mit dem Nachtwächter durch Bonn",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuehrung/mit-dem-nachtwaechter-durch-bonn/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -22,25 +40,34 @@
   "location": {
    "name": "Siegburg"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Museumsflöhe",
-  "location": {
-   "name": "Leverkusen"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Ohrenschmausen",
+  "name": "Stockpuppen Hänneschen und Bärbelchen",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/3-ohrenschmausen/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/stockpuppen-haenneschen-und-baerbelchen/2026-11-26",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-26",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -49,52 +76,7 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-3/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-25",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Wintertroll“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -103,7 +85,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -112,7 +94,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/der-zerbrochne-krug/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/der-zerbrochne-krug/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -121,16 +103,25 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Kleiner Drache, wünsch dir was\"",
+  "name": "„Jugend ohne Gott“",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/kleiner-drache-wuensch-dir-was/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jugend-ohne-gott/2026-11-26",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Marla, die Maifliege\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -139,7 +130,16 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/mission-laika/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/theater/mission-laika/2026-11-26",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Pettersson und Findus - Ein Feuerwerk für den Fuchs\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -148,34 +148,34 @@
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
+  "name": "„Wie verhext“",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-3/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„THE ME.Echo\"",
+  "name": "„Wie verhext“",
   "location": {
-   "name": "Köln"
+   "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/the-me-echo/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Wildwood“",
+  "name": "„Wie verhext“",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wildwood-2/2026-11-25",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-2/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

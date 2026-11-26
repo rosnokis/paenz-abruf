@@ -23,33 +23,8 @@ SA
 21
 22
 23
-DI 24.11.
-[Jugend, Kreatives Graffiti-Angebot 16:30 · JugendTreff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/graffiti-angebot-2/)
-[Frauen, TINAQ+ und Queers 'Let´s learn how to talk about sex' Workshop 18:00 · M*treff | Steigeturm](https://altefeuerwachekoeln.de/programm/lets-learn-how-to-talk-about-sex-workshop/)
-[Politik & Gesellschaft, Bildung Köln gegen Rechts | antifaschistisches Aktionsbündnis 19:00 · Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/koeln-gegen-rechts-4/)
-[DI 24.11. Activ lernen | Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-39/)
-★ [DI 24.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-6/)
-★ [DI 24.11. Töpfer-Werkstatt 16:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/toepfer-werkstatt-3/)
-[DI 24.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-11/)
-[DI 24.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-16/)
-[DI 24.11. Mosaik-Kurs für Anfänger*innen und Fortgeschrittene 16:30 Mosaik-Werkstatt | Steigeturm](https://altefeuerwachekoeln.de/programm/mosaik-kurs-fuer-anfaengerinnen-und-fortgeschrittene-4/)
-[DI 24.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-7/)
-[DI 24.11. Horus | Selbsthilfegruppe 18:00 Raum 5 | Steigeturm](https://altefeuerwachekoeln.de/programm/horus-selbsthilfegruppe-4/)
-[DI 24.11. Singen1 19:00 Säulenraum | Südtrakt](https://altefeuerwachekoeln.de/programm/singen1-8/)
-[DI 24.11. Anonyme Alkoholiker 19:30 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker/)
-MI 25.11.
-[Frauen, TINAQ+ und Queers, Kreatives Nähen mit Paula 18:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/naehen-mit-paula-8/)
-[MI 25.11. DAKO | Yoga für Frauen 08:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-fuer-frauen-dako-e-v-8/)
-[MI 25.11. Activ lernen | Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-40/)
-★ [MI 25.11. Eltern-Kind-Gruppe 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-gruppe-4/)
-[MI 25.11. DAKO | Seniorinnen-Treff 09:30 Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/seniorinnen-treff-dako-e-v-9/)
-[MI 25.11. Neue Energie Tanken durch Freien Tanz 10:00 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/neue-energie-tanken-durch-freien-tanz/)
-[MI 25.11. Neue Energie Tanken durch Freien Tanz | 60+ 11:30 Theaterprobenraum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/neue-energie-tanken-durch-freien-tanz-109/)
-★ [MI 25.11. Sprachförderung 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/sprachfoerderung-6/)
-★ [MI 25.11. Lernförderung 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/lernfoerderung-7/)
-[MI 25.11. Living Colours | Musicalgruppe 19:30 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/living-colours-8/)
-[MI 25.11. Anonyme Alkoholiker | englisch 20:00 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-englisch-8/)
-[MI 25.11. Chorillas | Chor 20:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chorillas-8/)
+24
+25
 DO 26.11.
 [Frauen, TINAQ+ und Queers QUEER BIPOC SPACE 18:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/queer-bipoc-space-9/)
 [Kultur A.TONAL.THEATER: Plädoyer für die unglückliche Liebe 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/a-tonal-theater-plaedoyer-fuer-die-unglueckliche-liebe/)

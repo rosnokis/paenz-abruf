@@ -1,21 +1,6 @@
 # Bumann & Sohn (Ehrenfeld) – Sonntagsprogramm für Kinder (bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder)
 
 ## Quelle: https://www.bumannundsohn.de/programm
-[Nov 25 9:00 PM 21:00](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
-[Sport](https://www.bumannundsohn.de/programm?category=Sport)
-[Champions League](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
-Wednesday, November 25, 2026
-9:00 PM
-11:00 PM
-21:00
-23:00
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Champions%20League&dates=20261125T200000Z/20261125T220000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/25/championsleague?format=ical)
-MITTWOCH / 25.11.26 / 21.00 - 23:00
-21:00 - Inter - Stuttgart oder Lille - Bayern
-LIVE IM BACKYARD
-BACKYARD ÖFFNET UM 19:00
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
 [Nov 26 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 [Party](https://www.bumannundsohn.de/programm?category=Party), [Event](https://www.bumannundsohn.de/programm?category=Event)
 [Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
@@ -74,6 +59,7 @@ SAMSTAG / 28.11.26 / 14:00 - 22:00
 [TICKETS](https://t.rausgegangen.de/tickets/extasia-day-party-3)
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/28/extasia)
 [Nov 28 2:00 PM 14:00](https://www.bumannundsohn.de/programm/2026/11/28/koeln-elversberg)
+[Sport](https://www.bumannundsohn.de/programm?category=Sport)
 [1. FC Köln - Elversberg](https://www.bumannundsohn.de/programm/2026/11/28/koeln-elversberg)
 5:30 PM
 17:30
@@ -174,6 +160,16 @@ Saturday, December 5, 2026
 SAMSTAG / 05.12.26 / 14:00 - 18:00
 [TICKETS](https://ticket2go.de/tickets-kaufen/xmas-day-raves-k%C3%B6ln-k%C3%B6ln-ehrenfeld-05-12-2026-6036)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/5/girlhoodxmastour)
+[Dec 5 3:30 PM 15:30](https://www.bumannundsohn.de/programm/2026/12/5/augsburgkoeln)
+[Augsburg - 1. FC Köln](https://www.bumannundsohn.de/programm/2026/12/5/augsburgkoeln)
+3:30 PM
+15:30
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Augsburg%20-%201.%20FC%20K%C3%B6ln&dates=20261205T143000Z/20261205T163000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/12/5/augsburgkoeln?format=ical)
+SAMSTAG / 05.12.26 / 15:30 - 17:30
+Augsburg - 1. FC Köln
+LIVE auf dem Ehrenfelder Weihnachtsmarkt
+[View Event →](https://www.bumannundsohn.de/programm/2026/12/5/augsburgkoeln)
 [Dec 5 to Dec 6](https://www.bumannundsohn.de/programm/2026/12/5/boogienights)
 [PARTY // BOOGIE NIGHTS](https://www.bumannundsohn.de/programm/2026/12/5/boogienights)
 Sun, Dec 6, 2026
@@ -187,9 +183,7 @@ MUSIC: HOUSE
 ★ [DER NIKOLAUS KOMMT](https://www.bumannundsohn.de/programm/2026/12/06/dernikolauskommtaufdenehrenfelderweihnachtsmarkt)
 Sunday, December 6, 2026
 2:30 PM
-3:30 PM
 14:30
-15:30
 ★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=DER%20NIKOLAUS%20KOMMT&dates=20261206T133000Z/20261206T143000Z)
 ★ [ICS](https://www.bumannundsohn.de/programm/2026/12/06/dernikolauskommtaufdenehrenfelderweihnachtsmarkt?format=ical)
 SONNTAG / 06.12.26 / 14:30 - 15:30
@@ -200,6 +194,8 @@ SONNTAG / 06.12.26 / 14:30 - 15:30
 ★ [View Event →](https://www.bumannundsohn.de/programm/2026/12/06/dernikolauskommtaufdenehrenfelderweihnachtsmarkt)
 [Dec 6 4:30 PM 16:30](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly)
 [XMAS DAYDRINKING - SINGLES ONLY](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly)
+9:00 PM
+21:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=XMAS%20DAYDRINKING%20-%20SINGLES%20ONLY&dates=20261206T153000Z/20261206T200000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly?format=ical)
 SAMSTAG / 06.12.26 / 16:30 - 21:00
@@ -243,6 +239,26 @@ FREITAG / 11.12.26 / 22:00 - 05:00
 DJs: Quartett der Liebe
 Music: Hits x Hits x Hits
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/11/hitsdontlie)
+★ [Dec 12 12:00 PM 12:00](https://www.bumannundsohn.de/programm/2026/12/12/charity-winterflohmarkt-kramkultur)
+★ [Charity-Winterflohmarkt](https://www.bumannundsohn.de/programm/2026/12/12/charity-winterflohmarkt-kramkultur)
+Saturday, December 12, 2026
+12:00 PM
+12:00
+★ [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Charity-Winterflohmarkt&dates=20261212T110000Z/20261212T170000Z)
+★ [ICS](https://www.bumannundsohn.de/programm/2026/12/12/charity-winterflohmarkt-kramkultur?format=ical)
+pres. by Kramkultur
+[STANDANMELDUNG](https://kramkultur.de/stand-anmelden.php)
+★ [View Event →](https://www.bumannundsohn.de/programm/2026/12/12/charity-winterflohmarkt-kramkultur)
+[Dec 12 2:00 PM 14:00](https://www.bumannundsohn.de/programm/2026/12/12/koelnleipzig)
+[1. FC Köln - Leipzig](https://www.bumannundsohn.de/programm/2026/12/12/koelnleipzig)
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=1.%20FC%20K%C3%B6ln%20-%20Leipzig&dates=20261212T130000Z/20261212T163000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/12/12/koelnleipzig?format=ical)
+SAMSTAG / 12.12.26 / 14:00 - 17:30
+1. FC Köln - Leipzig (Anstoß: 15:30 Uhr)
+LIVE im Backyard
+[RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-1-fc-koln-leipzig-2)
+Auch ohne Reservierung dürft ihr das Spiel bei uns gucken.
+[View Event →](https://www.bumannundsohn.de/programm/2026/12/12/koelnleipzig)
 [Dec 12 to Dec 13](https://www.bumannundsohn.de/programm/2026/12/12/housegemacht)
 [PARTY // HOUSEGEMACHT](https://www.bumannundsohn.de/programm/2026/12/12/housegemacht)
 Sun, Dec 13, 2026
@@ -300,6 +316,13 @@ Saturday, December 19, 2026
 SAMSTAG / 19.12.26 / 14:00 - 22:00
 [TICKETS](https://t.rausgegangen.de/tickets/retro-ragazzi-christmas-special)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/19/christmasspecial)
+[Dec 19 3:30 PM 15:30](https://www.bumannundsohn.de/programm/2026/12/19/mainz-koeln)
+[Mainz - 1. FC Köln](https://www.bumannundsohn.de/programm/2026/12/19/mainz-koeln)
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Mainz%20-%201.%20FC%20K%C3%B6ln&dates=20261219T143000Z/20261219T163000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/12/19/mainz-koeln?format=ical)
+SAMSTAG / 19.12.26 / 15:30 - 17:30
+Mainz - 1. FC Köln
+[View Event →](https://www.bumannundsohn.de/programm/2026/12/19/mainz-koeln)
 [Dec 19 to Dec 20](https://www.bumannundsohn.de/programm/2026/12/19/bestfootforward)
 [PARTY // BEST FOOT FORWARD](https://www.bumannundsohn.de/programm/2026/12/19/bestfootforward)
 Sun, Dec 20, 2026
@@ -361,6 +384,18 @@ DJs: Rubimental & Meskla
 MUSIC: R&B x AFRO x POP x SINGALONGS x HITSx HYMNEN
 [TICKETS](https://t.rausgegangen.de/tickets/silvester-party-liberte-die-schonste-party-der-welt-1)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/31/silvesterparty-liberte)
+[Nov 25 9:00 PM 21:00](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
+[Champions League](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
+Wednesday, November 25, 2026
+11:00 PM
+23:00
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Champions%20League&dates=20261125T200000Z/20261125T220000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/25/championsleague?format=ical)
+MITTWOCH / 25.11.26 / 21.00 - 23:00
+21:00 - Inter - Stuttgart oder Lille - Bayern
+LIVE IM BACKYARD
+BACKYARD ÖFFNET UM 19:00
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
 [Nov 24 9:00 PM 21:00](https://www.bumannundsohn.de/programm/2026/11/24/championsleague)
 [Champions League](https://www.bumannundsohn.de/programm/2026/11/24/championsleague)
 Tuesday, November 24, 2026
@@ -637,14 +672,3 @@ Union - 1. FC Köln (Anstoß: 15:30 Uhr)
 Backyard öffnet um 14 Uhr
 [RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-union-1-fc-koln)
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/01/union-1-fc-koeln)
-[Oct 31 to Nov 1](https://www.bumannundsohn.de/programm/2026/10/31/bootylicious)
-[PARTY // BOO - TYLICIOUS](https://www.bumannundsohn.de/programm/2026/10/31/bootylicious)
-Sat, Oct 31, 2026
-Sun, Nov 1, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20BOO%20-%20TYLICIOUS&dates=20261031T210000Z/20261101T040000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/10/31/bootylicious?format=ical)
-SAMSTAG / 31.10.26 / 22:00 - 05:00
-DJs: TJAMO
-Music: HIP HOP x RnB
-KOSTÜM? -> Kann. Kein Muss.
-[View Event →](https://www.bumannundsohn.de/programm/2026/10/31/bootylicious)

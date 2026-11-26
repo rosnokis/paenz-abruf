@@ -6,17 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Der Wintertroll“](https://www.kaenguru-online.de/kalender/musik/der-wintertroll/2026-11-25)
-★ Kinderkonzert mit Toni Geiling für Kinder ab 4 Jahren
-25.11.2026
-11:00 Uhr
-Bürgerhaus Kalk
-Köln
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
 ★ Eine Insektenoper als mobile Produktion für KiTas
 26.11.2026
 10:30 Uhr
 ★ Kinderoper Köln
+Köln
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
 27.11.2026
 ★ [Kinder singen hier & jetzt](https://www.kaenguru-online.de/kalender/musik/kinder-singen-hier-jetzt-1/2026-11-28)
@@ -32,6 +27,7 @@ Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
+11:00 Uhr
 14:00 Uhr
 Philharmonie
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
@@ -48,6 +44,7 @@ Bonn
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
 15:30 Uhr
 16:30 Uhr
+Bürgerhaus Kalk
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
 ★ [Bilderbuchkonzert „Im Winterschlaf"](https://www.kaenguru-online.de/kalender/musik/bilderbuchkonzert-im-winterschlaf/2026-12-02)
@@ -78,3 +75,5 @@ Düsseldorf
 Tonhalle Düsseldorf
 Düsseldorf
 [„Die chinesische Nachtigall"](https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-06)
+[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-09)
+09.12.2026

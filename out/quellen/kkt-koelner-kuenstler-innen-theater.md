@@ -3,11 +3,13 @@
 ## Quelle: https://www.k-k-t.de
 Herzlich willkommen!
 Liebes Publikum,
-[Die anderen Anderen/ Öteki Ötekiler](https://k-k-t.de/stuecke/die-anderen-anderen-oteki-otekiler-jugend) feiert Abendpremiere am 20. November. Drei Jugendliche haben nichts gemeinsam außer einem Talent dafür, nicht dazuzugehören. Und sie können sich nicht ausstehen! 😠😠😠
-★ Verpasst nicht unser neues Jugendstück für alle ab 14 Jahre!
-Nach einer langen Pause machen sich Udine und Paul ab 21. November wieder mutig auf den Weg. Im [Winternachtstraum](https://k-k-t.de/stuecke/winternachtstraum) lösen sie das Rätsel um die Königsgeschwister und wundersame Knollentrolle 🧌, Linge und Elfen 🧝🏼‍♀️ helfen ihnen dabei.
-Das Stück [THE ME.ECHO](https://k-k-t.de/jungestheater) widmet sich dem Thema Jugendliche und KI – wie echt ist unser Leben?
-★ Eine Coming-of-Age-Geschichte über drei Jugendliche auf der Suche nach sich selbst - zwischen Gaming 🎮, Alltag und einer KI, die ihre Gedanken, Wünsche und Ängste aufnimmt und verstärkt. Für Menschen ab 11 Jahre.
+wenn es draußen kalt ist, macht ein Besuch in unserem Theater besonders viel Spaß! Im Café könnt ihr vor und nach der Vorstellung heißen Kaffee und Kakao ☕️ genießen, dazu leckere Muffins oder Donuts 🍩.
+Jetzt in der Adventszeit 🕯️ spielen wir unsere beliebten Weihnachtsstücke.
+Udine und Paul machen sich mutig auf den Weg ins wundersame Land Pherasekeas im [Winternachtstraum](https://k-k-t.de/stuecke/winternachtstraum). Sie lösen das Rätsel um die Königsgeschwister und Knollentrolle 🧌, Linge und Elfen 🧝🏼‍♀️ helfen ihnen dabei.
+★ [Ein Weihnachtsmärchen](https://www.k-k-t.de/ganzjungestheater) bringt die bekannte Geschichte über den geizigen Mr. Scrooge 🎩 auf die Bühne. Schauspiel mit Figurentheater
+nimmt euch mit auf eine ganz besondere Reise und zeigt, was Weihnachten 🎄 bedeuten kann.
+★ Was braucht man eigentlich alles für Weihnachten? 💫 Das erfahrt ihr in [Das kleine Zottel Mottel feiert Weihnachten](https://www.k-k-t.de/ganzjungestheater). Die Kinder fiebern mit und werden zum Mitsingen von Weihnachtsliedern 🎵🎵 eingeladen.
+Und noch ein besonderer Tipp: Am 4. Dezember um 19 Uhr kommen fünf Künstler:innen zum [Wortcafé](https://www.k-k-t.de/stuecke/wortcafe) zusammen. Sie bringen ihre Texte, Musik und ganz eigenen Perspektiven mit. Poetry Texte treffen auf Comedy und Live Musik und machen den Abend zu einem bunten Potpourri ganz unterschiedlicher künstlerischer Stimmen. Nicht verpassen!
 Weitere Termine für die Spielzeit 26/27 findet ihr in unserem [SPIELPLAN](https://www.k-k-t.de/spielplan).
 Wir freuen uns auf euch! 🧡
 Euer KKT - das Theater der Vielfalt in Ehrenfeld
@@ -21,21 +23,25 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-Jugendtheater
-[THE ME.ECHO](https://www.k-k-t.de/stuecke/the-me)
-Jugendliche und KI – wie echt ist unser Leben?
-Nächste Termine
-Mittwoch, 25. November 2026
-10:00 Uhr
-Bitte vorab reservieren
 ★ Kindertheater
 [Pettersson und Findus: Feuerwerk für den Fuchs](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)
 Pettersson und Findus erleben ein Abenteuer
+Nächste Termine
 Donnerstag, 26. November 2026
+10:00 Uhr
+Bitte vorab reservieren
 Samstag, 28. November 2026
 16:00 Uhr
+Samstag, 23. Januar 2027
 Erwachsenentheater
 [Five Kinds of Silence / Pesë fytyrat e heshtjes](https://www.k-k-t.de/stuecke/five-kinds-of-silence-pese-fytyrat-e-heshtjes)
 “Five Kinds of Silence” by playwright Shelagh Stephenson is a harrowing drama about violence and abuse within the family.
 Freitag, 27. November 2026
 20:00 Uhr
+[Das kleine Zottel Mottel feiert Weihnachten](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-feiert-weihnachten)
+Das kleine Zottel Mottel erlebt sein erstes Weihnachtsfest
+Sonntag, 29. November 2026
+15:00 Uhr
+Montag, 30. November 2026
+verschoben auf den 1.12.
+Dienstag, 01. Dezember 2026

@@ -6,6 +6,12 @@
    "s": "ausverkauft",
    "txt": "2015 gründete er die Bierpartei - ursprünglich als Satire gedacht, erlangte er aber schnell überraschenden politischen Erfolg. Bei der Bundespräsidentenwahl 202"
   },
+  "https://comedia-koeln.de/programm/unsere-gaeste/philharmonieveedel-baby-funkelzeit/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "ausverkauft",
+   "txt": "Ausverkauft"
+  },
   "https://erlebnisbauernhof-gertrudenhof.de/event/familien-weihnachtspark-2026-uebersicht/": {
    "art": "detailseite",
    "geprueft": "2026-11-17T05:26",
@@ -15,27 +21,27 @@
   "https://eventfrog.de/de/p/gruppen/circus-charles-monroe-im-glanz-der-weihnachtszeit-7525991049405145911.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512528862162468940.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/gruppen/warten-auf-das-christkind-kindertheater-zauberfloeckchen-7512530867866044697.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kinderzirkus/klamauk-kinder-und-jugendzirkus-koeln-7435670043994649978.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "verfuegbar",
    "txt": "Tickets: Tickets kaufen für KLAMAUK - Kinder- und Jugendzirkus, Kinderveranstaltungen / Kinderzirkus, Zirkusfabrik Köln Dellbrück"
   },
@@ -125,7 +131,7 @@
   },
   "https://eventfrog.de/de/p/kinderveranstaltungen/kurs/workshop-offener-kreativraum-fuer-kinder-ab-1-jahr-koeln-7517244742163237767.html": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "teilweise",
    "txt": "Wunschtermin AUSGEBUCHT? Warteliste hier klicken! / Tickets sichern",
    "ueber": "https://tante-astrid.de/klebstoffsyndikat-offener-kreativraum-fuer-kinder/"
@@ -231,6 +237,12 @@
    "geprueft": "2026-11-13T05:26",
    "s": "verfuegbar",
    "txt": "[Tickets kaufen](https://galileum.ticketfritz.de/Event/Detail?Event=7028)"
+  },
+  "https://kabarett-a-z.de/start/karten/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "teilweise",
+   "txt": "KEINE Stornierung bei ausverkauftem Haus oder am Tag der Vorstellung möglich. / Stornierung bezahlter Tickets:"
   },
   "https://koelner-weihnachtscircus.de/": {
    "art": "detailseite",
@@ -388,6 +400,12 @@
    "s": "verfuegbar",
    "txt": "TICKETS:"
   },
+  "https://volksbuehne-rudolfplatz.de/programm/himmel-und-koelle-das-comedy-musical-nachmittagsvorstellung-2026-11-28/": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "verfuegbar",
+   "txt": "TICKETS:"
+  },
   "https://volksbuehne-rudolfplatz.de/programm/mathias-richling-ki-keine-identitaet-2026-11-25/": {
    "art": "detailseite",
    "geprueft": "2026-11-25T05:26",
@@ -408,14 +426,13 @@
   },
   "https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/start/index.html": {
    "art": "ticketliste",
-   "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
-   "s": "unklar",
-   "txt": ""
+   "geprueft": "2026-11-26T05:26",
+   "s": "verfuegbar",
+   "txt": "[Zur Anmeldung](https://www.erzbistum-koeln.de/thema/adventmitspielkonzert/anmeldung/)"
   },
   "https://www.eventbrite.de/e/eintritt-frei-kinder-impro-show-mit-den-taubenhauchern-tickets-1984487222704": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "verfuegbar",
    "txt": "Schaltfläche: Tickets kaufen"
   },
@@ -437,7 +454,7 @@
    "geprueft": "2026-11-16T05:26",
    "s": "knapp",
    "txt": "[Remaining tickets](https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=en)",
-   "versucht": "2026-11-25T05:26"
+   "versucht": "2026-11-26T05:26"
   },
   "https://www.guitar-night.de/": {
    "art": "detailseite",
@@ -466,14 +483,14 @@
   "https://www.horizont-theater.de/produktionen/kuhswantje.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
   "https://www.horizont-theater.de/produktionen/maryhappy.html": {
    "art": "ticketliste",
    "folge": "kein Shop-Link auf der Seite",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -482,6 +499,18 @@
    "geprueft": "2026-11-18T05:35",
    "s": "verfuegbar",
    "txt": "Karten kaufen"
+  },
+  "https://www.k-k-t.de/ganzjungestheater": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "knapp",
+   "txt": "nur noch Restkarten"
+  },
+  "https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-feiert-weihnachten": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "knapp",
+   "txt": "nur noch Restkarten"
   },
   "https://www.kaenguru-online.de/kalender/fuer-minis/familientag-bei-barnes-crossing/2026-11-21": {
    "art": "detailseite",
@@ -636,7 +665,7 @@
   "https://www.koelner-philharmonie.de/en/events/jauchzet-frohlocket/9205": {
    "art": "ticketliste",
    "folge": "Shop-Seite nicht lesbar: robots.txt verbietet den Abruf",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "unklar",
    "txt": ""
   },
@@ -648,7 +677,7 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-baby/9534": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
@@ -660,7 +689,7 @@
   },
   "https://www.koelner-philharmonie.de/en/events/philharmonieveedel-panz/9540": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "ausverkauft",
    "txt": "Schaltfläche: Soldout"
   },
@@ -726,7 +755,7 @@
   },
   "https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "ausverkauft",
    "txt": "sold out"
   },
@@ -750,7 +779,7 @@
   },
   "https://www.qultor.de/veranstaltungen/die-schoene-und-das-biest": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "ausverkauft",
    "txt": "Ausverkauft"
   },
@@ -759,6 +788,12 @@
    "geprueft": "2026-11-14T05:26",
    "s": "verfuegbar",
    "txt": "[Ticketlink](https://zeitfuerzirkus.de/events/greatest-hits/)"
+  },
+  "https://www.qultor.de/veranstaltungen/genuss-speiseweise": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://kabarett-a-z.de/start/karten/)"
   },
   "https://www.qultor.de/veranstaltungen/ich-1": {
    "art": "detailseite",
@@ -780,9 +815,15 @@
   },
   "https://www.qultor.de/veranstaltungen/peppa-feiert-weihnachten-tanztheater-clowneske-fuer-kinder-ab-3-jahren": {
    "art": "ticketliste",
-   "geprueft": "2026-11-25T05:26",
+   "geprueft": "2026-11-26T05:26",
    "s": "verfuegbar",
    "txt": "TICKETS: [disdanceproject.de/reservierung/peppa-feiert-weihnachten-family](https://disdanceproject.de/reservierung/peppa-feiert-weihnachten-family)"
+  },
+  "https://www.qultor.de/veranstaltungen/road-movies": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://orangerie-theater.reservix.de/p/reservix/group/552144)"
   },
   "https://www.qultor.de/veranstaltungen/robodonien-leuchtet-2026": {
    "art": "detailseite",
@@ -801,6 +842,12 @@
    "geprueft": "2026-11-23T06:51",
    "s": "verfuegbar",
    "txt": "[Ticketlink](https://scala.koeln/termine-tickets/)"
+  },
+  "https://www.qultor.de/veranstaltungen/vertrieben-ins-paradies-neobarock-und-alexandra-lowygina": {
+   "art": "detailseite",
+   "geprueft": "2026-11-26T05:26",
+   "s": "verfuegbar",
+   "txt": "[Ticketlink](https://www.koelnticket.de/artist/neobarock/)"
   },
   "https://www.qultor.de/veranstaltungen/what-zeitgenoessisches-zirkusvariete": {
    "art": "detailseite",
@@ -1019,5 +1066,5 @@
    "txt": "[Tickets kaufen](https://rausgegangen.de/events/greatest-hits-0/)"
   }
  },
- "stand": "2026-11-25T05:26"
+ "stand": "2026-11-26T05:26"
 }

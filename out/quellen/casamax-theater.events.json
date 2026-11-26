@@ -1,18 +1,5 @@
 [
  {
-  "name": "Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren) &#8211; Auf Tour",
-  "startDate": "2026-11-24T10:00:00+01:00",
-  "endDate": "2026-11-24T11:00:00+01:00",
-  "location": {
-   "name": "Kita Matthäuskirche",
-   "address": "Herbert-Lewin-Str. 4, 50931 Köln"
-  },
-  "url": "https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-on-tour/",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.casamax-theater.de/"
- },
- {
   "name": "Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren)",
   "startDate": "2026-11-29T14:30:00+01:00",
   "endDate": "2026-11-29T15:30:00+01:00",

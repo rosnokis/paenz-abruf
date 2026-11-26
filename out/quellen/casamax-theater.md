@@ -32,6 +32,7 @@ Ein neuer Podcast über "Mein Freund, der Baum, sieht rot" im CASAMAX Theater
 Große Freude über die Nominierung des neuen Stücks!
 [HEUREKA! gewinnt den goldenen Pinguin 2025!](https://www.casamax-theater.de/nominierung-theaterpreis/)
 "HEUREKA!" ausgezeichnet mit dem Goldenen Pinguin auf dem Penguin's Days Festival 2025
+1 Veranstaltung gefunden.
 Veranstaltungen
 Ansichten-Navigation
 Veranstaltung Ansichten-Navigation
@@ -39,15 +40,11 @@ Veranstaltung Ansichten-Navigation
 [Heute](https://www.casamax-theater.de/vorstellungen/foto/?shortcode=e89a5463)
 Datum auswählen.
 List of Veranstaltungen in Photo View
-★ [Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren) – Auf Tour](https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-on-tour/)
-Nov.
-24
-10:00
-bis
-11:00
 ★ [Wer? Wie? Was? Wo? Wal! Warum? (ab 3 Jahren)](https://www.casamax-theater.de/vorstellung/wer-wie-was-wo-wal-warum-ab-3-jahren-2/)
+Nov.
 29
 14:30
+bis
 15:30
 [Google Kalender](https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.casamax-theater.de%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist)
 iCalendar
@@ -56,6 +53,5 @@ iCalendar
 [.ics-Datei exportieren](https://www.casamax-theater.de/vorstellungen/foto/?shortcode=e89a5463&ical=1)
 [Exportiere Outlook.ics Datei](https://www.casamax-theater.de/vorstellungen/foto/?shortcode=e89a5463&outlook-ical=1)
 Anstehende Veranstaltungen
-10:00 bis 11:00
 14:30 bis 15:30
 [Kalender anzeigen](https://www.casamax-theater.de/vorstellungen/)

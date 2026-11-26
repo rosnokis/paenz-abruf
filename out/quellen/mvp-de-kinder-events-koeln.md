@@ -54,30 +54,29 @@ Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
-★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
-★ Puppenspiele der Stadt Köln, KÖLN
-★ Mittwoch, 25. November 2026 bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech...
-25.11. bis 20.12.26
-(heute)
-ab
-17,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 [random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 ★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
 Klüngelpütz Kabarett &Theater, Köln
 Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabarett &Theater - Köln - random. Kölner Jugendtheaterpreis 2025 - Kristina Geßner, Olexandra...
 26.11.26 - 09.04.27
-(morgen)
+(heute)
+ab
 24 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
+★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
+★ Puppenspiele der Stadt Köln, KÖLN
+★ bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech zom Chressfess | Puppenspiele...
+26.11. bis 20.12.26
+17,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-26&checkout=2026-11-30&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-27&checkout=2026-12-01&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-26.11. bis 30.11.26
+27.11. bis 01.12.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-26&checkout=2026-11-30&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-27&checkout=2026-12-01&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere

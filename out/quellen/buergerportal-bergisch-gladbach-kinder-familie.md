@@ -747,6 +747,7 @@ Orchester und Big Band des RBB Bensberg e.V.
 ★ Organist von St. Nikolaus, Ludwig Goßner
 Ortsring Sand
 Otto-Hahn-Realschule
+Otto-Hahn-Schule
 Partnerschaftsverein Luton und Runnymede
 Partnerschaftsverein und amnesty international Bergisch Gladbach
 Partout-Kunstkabinett
@@ -856,6 +857,7 @@ Team des Projekts Zanders-Areal
 terre des hommes Arbeitsgruppe Bergisch Gladbach in Kooperation mit dem Bergischen Museum für Bergbau, Handwerk und Gewerbe
 Terre des Hommes Arbeitsgruppe Bergisch Gladbach in Kooperation mit der Volkshochschule und Partnern
 Terre des Hommes Arbeitsgruppe GL in Kooperation mit THEAS Theater, Aktion Neue Nachbarn und Kath. Bildungswerk RBK
+test
 THEAS THEATER mit der INITIATIVE KLIMAGERECHT LEBEN
 Theas-Theater
 Tinnitus Selbsthilfegruppe
@@ -974,3 +976,14 @@ Vorsortierte Spielzeugbörse.
 ★ [Kita Heilige Drei Könige](https://in-gl.de/event-organizer/kita-heilige-drei-koenige/)
 ★ [Kalender](https://in-gl.de/export-events/381860_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Spielzeugb%C3%B6rse&dates=20261121T150000Z/20261121T180000Z&ctz=Europe/Berlin&details=Spielzeugb%C3%B6rse&location=Kita+Heilige+Drei+K%C3%B6nigeHebborner+Kirchweg+1%2C+Bergisch+Gladbach)
 ★ [24 Nov 19:00 Welche weiterführende Schule passt zu meinem Kind? Kostenfreier Online-Impulsvortrag](https://in-gl.de/?p=384026)
+Dezember
+TS 79 Langemarckweg 24, Bergisch Gladbach
+★ 06 Dez 10:00 12:45 Nikolaus-Turnen und Parkour
+Kostenfreies Angebot für Kids von 5 – 12 Jahren.Unter folgendem Link läuft die Anmeldung für das Turnen: https://www.ts79.de/de/sportangebot/kids-und-junge-leute/ferienangebote/
+Kostenfreies Angebot für Kids von 5 – 12 Jahren.
+Unter folgendem Link läuft die Anmeldung für das Turnen: [https://www.ts79.de/de/sportangebot/kids-und-junge-leute/ferienangebote/](https://www.ui-deref.de/r/?to=https://www.ts79.de/de/sportangebot/kids-und-junge-leute/ferienangebote/&tt1=qx65L7rArYXFkvAFK_Vc8EEzHUHB5MEvIr9vqVGMzrRrygZr6zoHa9hlPF-2V3SaOkiU3r7HeY0a8oGa2VkLAFEzTmrWmNrUiO3mn47yQBy)
+6. Dezember 2026 10:00 - 12:45 (GMT+01:00)
+[Ort](https://in-gl.de/event-location/ts-79/)
+[TS 79](https://in-gl.de/event-location/ts-79/)
+[Langemarckweg 24, Bergisch Gladbach](https://in-gl.de/event-location/ts-79/)
+★ [Kalender](https://in-gl.de/export-events/384923_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Nikolaus-Turnen+und+Parkour&dates=20261206T090000Z/20261206T114500Z&ctz=Europe/Berlin&details=Nikolaus-Turnen+und+Parkour&location=TS+79Langemarckweg+24%2C+Bergisch+Gladbach)
