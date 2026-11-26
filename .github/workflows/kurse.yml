@@ -20,6 +20,7 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 20
+          persist-credentials: false
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
           python-version: "3.12"
@@ -34,7 +35,12 @@ jobs:
       - name: Kursliste bauen
         run: python -m scraper.kurse
       - name: Ergebnis committen
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          # Schreibrecht erst hier setzen: Beim Abruf (Playwright, fremde Seiten) liegt kein Token im Checkout.
+          git config --local http.https://github.com/.extraheader \
+            "AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add out/kurse

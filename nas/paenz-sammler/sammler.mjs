@@ -14,6 +14,8 @@ const GRUPPEN = (E.GRUPPEN || '').split(';').map(s => s.trim()).filter(Boolean);
 const SENDEZEIT = E.SENDEZEIT || '05:30';
 const MAIL_AN = E.MAIL_AN, SMTP_USER = E.SMTP_USER, SMTP_PASS = (E.SMTP_PASS || '').replace(/\s/g, '');
 const MAX_MB = Number(E.MAX_MB || 18);
+// Größte Einzeldatei, die der Sammler lädt. Größere Dateien kommen nur als Hinweis in die Mail.
+const MAX_DATEI_MB = Number(E.MAX_DATEI_MB || 15);
 const AUFBEWAHREN_TAGE = Number(E.AUFBEWAHREN_TAGE || 30);
 const EINGANG = path.join(DATEN, 'eingang'), LISTE = path.join(DATEN, 'eingang.jsonl'), STATUS = path.join(DATEN, 'status.json');
 fs.mkdirSync(EINGANG, { recursive: true });
@@ -21,7 +23,7 @@ const log = (...a) => console.log(new Date().toLocaleString('de-DE', { timeZone:
 
 // ---------- Zustand ----------
 const lies = (f, d) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return d; } };
-const status = Object.assign({ gesendetAm: null, abgemeldetGemeldet: false }, lies(STATUS, {}));
+const status = Object.assign({ gesendetAm: null, abgemeldetGemeldet: false, gruppen: {} }, lies(STATUS, {}));
 const sichern = () => fs.writeFileSync(STATUS, JSON.stringify(status, null, 1));
 const eintraege = () => fs.existsSync(LISTE) ? fs.readFileSync(LISTE, 'utf8').split('\n').filter(Boolean).map(l => JSON.parse(l)) : [];
 const gesehen = new Set(eintraege().map(e => e.id));
@@ -31,12 +33,14 @@ const uhr = d => d.toLocaleTimeString('de-DE', { timeZone: 'Europe/Berlin', hour
 // ---------- Was wird gesammelt ----------
 export const DATUM = /\b\d{1,2}\.\s?\d{1,2}\.|\b\d{1,2}\.\s?(jan|feb|mär|maer|apr|mai|jun|jul|aug|sep|okt|nov|dez)|\b(montag|dienstag|mittwoch|donnerstag|freitag|samstag|sonntag)\b|\b\d{1,2}(:\d\d)?\s?uhr\b/i;
 export const LINK = /https?:\/\/\S+/i;
+// Baileys liefert fileLength als Zahl oder als Long-Objekt.
+export const groesse = v => v == null ? 0 : (typeof v === 'object' && typeof v.toNumber === 'function') ? v.toNumber() : (Number(v) || 0);
 export function auswerten(m) {
   const c = m.message || {};
   const inner = c.ephemeralMessage?.message || c.viewOnceMessage?.message || c.documentWithCaptionMessage?.message || c;
-  if (inner.imageMessage) return { art: 'bild', text: inner.imageMessage.caption || '', endung: 'jpg' };
+  if (inner.imageMessage) return { art: 'bild', text: inner.imageMessage.caption || '', endung: 'jpg', bytes: groesse(inner.imageMessage.fileLength) };
   const doc = inner.documentMessage;
-  if (doc && /pdf|image\//.test(doc.mimetype || '')) return { art: 'datei', text: doc.caption || doc.fileName || '', endung: doc.mimetype.includes('pdf') ? 'pdf' : (doc.mimetype.split('/')[1] || 'bin').replace('jpeg', 'jpg') };
+  if (doc && /pdf|image\//.test(doc.mimetype || '')) return { art: 'datei', text: doc.caption || doc.fileName || '', endung: doc.mimetype.includes('pdf') ? 'pdf' : (doc.mimetype.split('/')[1] || 'bin').replace('jpeg', 'jpg').replace(/[^a-z0-9]/gi, '').slice(0, 5) || 'bin', bytes: groesse(doc.fileLength) };
   const text = inner.conversation || inner.extendedTextMessage?.text || '';
   if (text && (DATUM.test(text) || LINK.test(text))) return { art: 'text', text };
   return null;
@@ -89,6 +93,29 @@ function zeitplan() {
   }, 60_000);
 }
 
+// ---------- Gruppen ----------
+// Gruppen werden beim ersten Treffer über ihre feste ID (JID) gemerkt (status.json, Feld "gruppen").
+// Danach zählt nur noch die ID. Eine fremde Gruppe mit gleichem Namen oder eine umbenannte Gruppe
+// wird so nie mitgelesen. Neu zuordnen: Feld "gruppen" in data/status.json löschen, Container neu starten.
+export function gruppenZuordnen(konto, namen, gemerkt) {
+  // konto: [[name, jid], ...] aller Gruppen des Kontos; namen: GRUPPEN; gemerkt: {jid: name}
+  const neu = {}, warnungen = [];
+  const imKonto = new Set(konto.map(([, id]) => id));
+  for (const name of namen) {
+    const alt = Object.entries(gemerkt).find(([, n]) => n === name);
+    if (alt) {
+      if (imKonto.has(alt[0])) neu[alt[0]] = name;
+      else warnungen.push(`${name}: gemerkte Gruppe nicht mehr im Konto`);
+      continue;
+    }
+    const treffer = konto.filter(([n]) => n === name);
+    if (treffer.length === 1) neu[treffer[0][1]] = name;
+    else if (treffer.length > 1) warnungen.push(`${name}: ${treffer.length} Gruppen mit diesem Namen, keine wird ausgewertet`);
+    else warnungen.push(`${name}: nicht gefunden`);
+  }
+  return { neu, warnungen };
+}
+
 // ---------- WhatsApp ----------
 let gruppenJids = new Map();
 async function start() {
@@ -107,9 +134,11 @@ async function start() {
       const alle = await sock.groupFetchAllParticipating();
       const namen = Object.values(alle).map(g => [g.subject, g.id]);
       log('Gruppen des Kontos:', namen.map(n => n[0]).join(' | ') || '(keine)');
-      gruppenJids = new Map(namen.filter(([n]) => GRUPPEN.includes(n)).map(([n, id]) => [id, n]));
-      const fehlt = GRUPPEN.filter(n => ![...gruppenJids.values()].includes(n));
-      log('Ausgewertet:', [...gruppenJids.values()].join(' | ') || '(keine)', fehlt.length ? '– nicht gefunden: ' + fehlt.join(' | ') : '');
+      const { neu, warnungen } = gruppenZuordnen(namen, GRUPPEN, status.gruppen || {});
+      for (const [id, n] of Object.entries(neu)) if (!(status.gruppen || {})[id]) log('Gruppe fest zugeordnet:', n, id);
+      status.gruppen = neu; sichern();
+      gruppenJids = new Map(Object.entries(neu));
+      log('Ausgewertet:', [...gruppenJids.values()].join(' | ') || '(keine)', warnungen.length ? '– ' + warnungen.join(' | ') : '');
     }
     if (u.connection === 'close') {
       const code = u.lastDisconnect?.error?.output?.statusCode;
@@ -122,7 +151,6 @@ async function start() {
       } else { log('Verbindung getrennt (' + code + '), neuer Versuch in 15 s.'); setTimeout(start, 15_000); }
     }
   });
-  sock.ev.on('groups.update', ups => { for (const g of ups) if (g.subject && GRUPPEN.includes(g.subject)) gruppenJids.set(g.id, g.subject); });
   sock.ev.on('messages.upsert', async ({ messages }) => {
     for (const m of messages) {
       const jid = m.key?.remoteJid, id = m.key?.id;
@@ -132,9 +160,12 @@ async function start() {
       const ts = Number(m.messageTimestamp || Date.now() / 1000) * 1000, d = new Date(ts);
       const tag = d.toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
       const e = { id, gruppe: gruppenJids.get(jid), ts, tag, uhr: uhr(d), art: a.art, text: a.text.slice(0, 1500) };
-      if (a.art !== 'text') {
+      if (a.art !== 'text' && a.bytes > MAX_DATEI_MB * 1024 * 1024) {
+        log('Datei zu groß, nicht geladen:', e.gruppe, Math.round(a.bytes / 1048576) + ' MB');
+        e.text = (e.text + ` [Datei zu groß (${Math.round(a.bytes / 1048576)} MB), nicht geladen]`).trim();
+      } else if (a.art !== 'text') {
         try {
-          const buf = await downloadMediaMessage(m, 'buffer', {}, { logger: pino({ level: 'warn' }), reuploadRequest: sock.updateMediaMessage });
+          const buf = await ladeBegrenzt(m, sock, MAX_DATEI_MB * 1024 * 1024);
           fs.mkdirSync(path.join(EINGANG, tag), { recursive: true });
           e.datei = path.join(EINGANG, tag, `${uhr(d).replace(':', '')}-${id.slice(-6)}.${a.endung}`);
           fs.writeFileSync(e.datei, buf);
@@ -144,6 +175,19 @@ async function start() {
       log('Gesammelt:', e.gruppe, e.art, e.datei ? path.basename(e.datei) : '');
     }
   });
+}
+
+// Lädt ein Medium als Stream und bricht ab, sobald die Grenze überschritten ist
+// (die Größenangabe in der Nachricht kann falsch sein).
+async function ladeBegrenzt(m, sock, maxBytes) {
+  const stream = await downloadMediaMessage(m, 'stream', {}, { logger: pino({ level: 'warn' }), reuploadRequest: sock.updateMediaMessage });
+  const teile = []; let n = 0;
+  for await (const chunk of stream) {
+    n += chunk.length;
+    if (n > maxBytes) { stream.destroy?.(); throw new Error(`Datei größer als ${Math.round(maxBytes / 1048576)} MB`); }
+    teile.push(chunk);
+  }
+  return Buffer.concat(teile);
 }
 
 if (process.argv[2] === '--testmail') {
