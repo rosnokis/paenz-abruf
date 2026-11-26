@@ -1,5 +1,5 @@
 URL: https://www.horizont-theater.de/produktionen/kuhswantje.html
-ABGERUFEN: 2026-11-26T20:22
+ABGERUFEN: 2026-11-26T21:15
 VON: tickets.yml
 
 Die Kuh Swantje
