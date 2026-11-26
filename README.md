@@ -1,9 +1,12 @@
 # paenz-abruf
 
 Nächtlicher Abruf der Quellen für den Pänz-Kalender (Kinder-Termine 0–6 Jahre in Köln), **ohne KI**.
-Die GitHub Action `.github/workflows/abruf.yml` läuft täglich um 03:30 UTC (04:30 Winter / 05:30 Sommer)
-und per Hand über *Actions → Quellen abrufen → Run workflow*. Sie legt das Ergebnis in `out/` ab und
-committet. Die Git-Historie ist damit das Archiv.
+Die GitHub Action `.github/workflows/abruf.yml` startet nachts zu fünf Zeiten zwischen 01:17 und 04:07 UTC,
+weil GitHub geplante Läufe oft verspätet startet. Der erste Lauf des Tages ruft die Quellen ab, spätere Läufe
+am selben Tag brechen sofort ab. Per Hand: *Actions → Quellen abrufen → Run workflow* (ruft immer ab).
+Die Action legt das Ergebnis in `out/` ab und committet. Die Git-Historie ist damit das Archiv.
+Samstags ruft `.github/workflows/kurse.yml` die Kursanbieter ab (`out/kurse/`).
+Der Morgenlauf des Pänz-Kalenders (geplante Claude-Aufgabe, 06:16 Uhr) liest dieses Repository.
 
 ## Ausgabe
 
@@ -104,6 +107,9 @@ Quelle in `out/heute.md` unter „Dauerfehler“ (am dritten Tag mit dem Zusatz 
 python -m unittest discover -s tests -v
 ```
 
+`tests/test_fetch.py` prüft die Sperre interner Adressen mit einem lokalen Testserver. Die Browser-Tests darin
+laufen nur, wenn Playwright installiert ist (`pip install -r requirements-js.txt`), sonst überspringt sie der Test.
+
 Die Tests arbeiten mit einem Attrappen-Abruf in einem Temp-Ordner (`--root`), nie in `config/` oder
 `out/`. Der echte Abruf weigert sich, Platzhalter-Adressen (`.example`, `localhost` …) abzurufen, und
 ein Test schlägt fehl, wenn solche Adressen in `out/` oder `config/` stehen.
@@ -129,3 +135,52 @@ Wenn trotzdem zu viel Rauschen in `out/quellen/<id>.md` steht:
 - Abgerufene Inhalte gelten als untrusted: nur geparst, nie ausgeführt. Nur HTML und erwartete PDFs,
   max. 5 MB und 30 s pro Antwort. E-Mail-Adressen im Text werden durch `[E-Mail]` ersetzt.
 - Keine Secrets, keine Anmeldungen, keine Umgehung von Sperren. Keine persönlichen Daten im Repository.
+
+## Sicherheit (Audit vom 26.11.2026)
+
+- **Keine internen Adressen (SSRF):** Vor jeder Anfrage prüft `scraper/fetch.py` (`address_problem`) das Schema
+  und alle DNS-Adressen des Hosts. Erlaubt sind nur `http(s)` und nur öffentliche Adressen. Gesperrt sind
+  Loopback, private Netze, Link-Local (z. B. der Metadaten-Dienst `169.254.169.254`), Carrier-NAT, IPv6 ULA
+  und IPv4-mapped IPv6. Eine gesperrte Adresse steht als `gesperrt: …` in `out/status.json`.
+- **Weiterleitungen:** Der Fetcher folgt Weiterleitungen selbst und prüft jede einzeln, höchstens 5.
+  Im Browser (Playwright) läuft jede Anfrage durch dieselbe Prüfung. Weiterleitungen der Hauptseite folgt
+  `render()` selbst, Frames folgen keinen Weiterleitungen.
+- **Token nur beim Push:** Alle Workflows checken mit `persist-credentials: false` aus. Den Token mit
+  Schreibrecht setzt erst der Schritt „Ergebnis committen“. Während Playwright fremde Seiten lädt,
+  liegt kein Token im Checkout.
+- **Bekannte Grenze:** Zwischen Prüfung und Verbindung löst das System den Namen erneut auf (DNS-Rebinding).
+  Auf GitHub-Runnern gibt es kaum interne Ziele.
+
+## Pänz-Sammler (Synology, `nas/paenz-sammler`)
+
+Der Sammler liest freigegebene WhatsApp-Gruppen über ein verknüpftes Gerät mit. Er sammelt Flyer (Bilder,
+PDFs) und Nachrichten mit Datum oder Link und schickt einmal am Tag eine Sammelmail. Er schreibt nie in
+Gruppen. Absender und Telefonnummern stehen nicht in der Mail. Stand 26.11.2026: noch nicht in Betrieb.
+
+Einrichten:
+
+1. Kopieren Sie `env.beispiel` als `einstellungen.env` und füllen Sie die Werte aus. Laden Sie
+   `einstellungen.env` nie ins Repository hoch.
+2. Starten Sie den Container im Ordner `nas/paenz-sammler`: `docker compose up -d --build`.
+3. Öffnen Sie `data/qr.png` und scannen Sie den QR-Code mit dem Zweithandy
+   (WhatsApp → Verknüpfte Geräte → Gerät hinzufügen).
+4. Prüfen Sie im Log die Zeilen „Gruppe fest zugeordnet“ und „Ausgewertet“.
+
+Verhalten:
+
+- **Gruppen fest über die ID:** Beim ersten Treffer merkt sich der Sammler die feste ID jeder Gruppe aus
+  `GRUPPEN` (`data/status.json`, Feld `gruppen`). Danach zählt nur die ID. Eine fremde Gruppe mit gleichem
+  Namen oder eine umbenannte Gruppe liest er nicht mit. Haben beim ersten Start zwei Gruppen denselben
+  Namen, wertet er keine davon aus und schreibt eine Warnung ins Log. Neu zuordnen: Feld `gruppen` in
+  `data/status.json` löschen und den Container neu starten.
+- **Dateigröße:** Bilder und PDFs lädt der Sammler nur bis `MAX_DATEI_MB` (Standard 15 MB). Größere Dateien
+  stehen nur als Hinweis in der Mail.
+- **Ohne root:** Der Container startet als root, übergibt `data/` an den Benutzer `node` (uid 1000) und
+  läuft danach nur mit dessen Rechten. `docker-compose.yml` entfernt alle Capabilities außer den nötigen
+  und setzt `no-new-privileges`.
+- **Neu koppeln:** Meldet der Sammler „neu koppeln nötig“, löschen Sie den Ordner `data/anmeldung`,
+  starten den Container neu und scannen den neuen QR-Code.
+- **Zugangsdaten:** `data/anmeldung` enthält die WhatsApp-Sitzung mit vollem Zugriff auf das Konto.
+  Geben Sie den Ordner `data/` auf der Synology nur für Ihr eigenes Konto frei.
+
+Tests: `npm ci && npm test` im Ordner `nas/paenz-sammler` (startet keine WhatsApp-Verbindung).
