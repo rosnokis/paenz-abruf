@@ -144,402 +144,453 @@ Müller-Mohaupt, Gisela, Albiez, Cornelia,
 ★ Suchst du einen Ort, an dem du ganz unkompliziert mit deinem Kind Zeit verbringen und gleichzeitig andere...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/offener-eltern-kind-treff.php)
 
-## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/
-★ Familie & Co.
-★ Von Babys erstem Jahr bis zum "Pubertier" genießt du in den Kursen wertvolle Familienzeit mit anderen Eltern/Großeltern.
-★ Familienalltag ist kunterbunt und Eltern stehen jeden Tag vor neuen Herausforderungen. Nutze unsere Angebote zu Elternthemen und Erziehungsfragen als Orientierungshilfe, um diese Herausforderungen zu meistern.
-★ ElternStart NRW
-★ Kostenfreie Familienangebote für Eltern mit ihren Kindern im ersten LebensjahrAndere Eltern kennenlernen, sich austauschen, vernetzen und gegenseitig unterstützen. Fragen zur Entwicklung, Pflege und Ernährung des Babys besprechen und die Angebote...
-★ FB Angebot der FiB Familienbildung
-Hardt, Johanna,
-Krabbe, Valeska,
-★ Elternstart NRW
-★ KOSTENFREIE FAMILIENANGEBOTEFÜR ELTERN MIT KINDERN IM 1. LEBENSJAHRAndere Eltern kennenlernen,...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/elternstart.php)
-Hardt, Johanna
-Beobachten-Spielen-Begleiten
-★ Eltern-Baby-Gruppe ab 2 MonatenIn dieser Gruppe treffen sich Eltern mit ihren Babys an fünf...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/beobachten-spielen-begleiten.php)
-Remmert, Cordelia,
-Müller-Mohaupt, Gisela,
-Holz-Schöttler, Brigitte,
-★ Elterntreff - "Die Fibys"
-★ Offener Treff für Eltern und Babys In unseren offenen Treffs für Eltern mit Babys im ersten...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/elterncafe-die-fibys.php)
-Stephan Rust
-"Lass das mal den Papa machen"
-★ Vater-Kind-KursIn vielen Familien haben Väter aufgrund ihres Jobs oft zu wenig Zeit für Ihre...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/vater-kind-kurs-lass-das-mal-den-papa-machen.php)
-Zurück an den Seitenanfang
-Erstes Lebensjahr
-★ Das erste Lebensjahr des Kindes ist für Eltern eine besonders spannende Zeit. Fast wöchentlich sind Fortschritte in der motorischen, sozialen und sprachlichen Entwicklung zu bestaunen. In unseren Kursen kannst du andere Eltern kennenlernen, sich...
-Wang, Hung-Sung,
-★ Babymassage
-★ Für Eltern und Babys von 2-5 Monaten
-★ Die Babymassage berührt dich und dein Baby – auf...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/babymassage.php)
-Ludwig, Vanessa,
-Lamina, Katherine,
-PEKiP®
-★ Nach dem Erziehungskonzept "Prager-Eltern-Kind-Programm"
-In diesen Gruppen erleben wir gemeinsam...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php)
-Neumann, Katrin
-DELFI®
-★ Eltern-Kind-Gruppe im 1. LebensjahrKinder liebevoll begeleiten
-In einem wohlig warmen Raum...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/delfi.php)
-Begleitung im ersten Lebensjahr
-Nach dem Erziehungskonzept von Emmi Pikler
-★ Der Kurs für dich und dein Baby orientiert sich an der...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/begleitung-im-ersten-lebensjahr.php)
-★ Kinder von 1-3 Jahren
-★ Entdecke gemeinsam mit deinem Kind mit allen Sinnen, die Musik, den Tanz und die Natur in unseren (Groß-) Eltern-Kind Gruppen.
-Neumann, Katrin,
-Speck, Christine,
-★ Spiel & Spaß für junge Familien
-★ Eltern-Kind-Gruppe ab 1 Jahr
-Bei uns ist immer was los - Bewegung, Musik, Spielen, Basteln, Lachen...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/spiel-und-spass-fuer-junge-familien.php)
-Albiez, Cornelia,
+## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikspielmaeuse.php
 Musikspielmäuse
 ★ Spielgruppe für Eltern und Kinder ab 1 Jahr
-In der ersten halben Stunde begeben wir uns mit den...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikspielmaeuse.php)
-Augusiak, Eva,
-★ Wingold, Martina,
-Ebtehaj, Yalda,
-Schüller-Standt, Verena,
-Barbara Ruthmann,
+★ In der ersten halben Stunde begeben wir uns mit den Kindern auf eine Erlebnis- und Entdeckungstour durch die Welt der Musik. Wir singen gemeinsam, lauschen aufmerksam und bringen selbst vieles zum Klingen. Im zweiten Teil der Stunde haben die Kinder Raum für freies Spielen, während wir Eltern uns in entspannter Atmosphäre über Erlebnisse im Familienalltag austauschen oder aktuelle Themen zur Erziehung, Kindergesundheit und mehr besprechen können.
+★ Geschwisterkinder zahlen den halben Preis.
+Wer auch zuhause musizieren möchte, kann im FiB-Büro ein Musiksäckchen kaufen.
+FB
+★ "Musikspielmäuse" ist ein Angebot von FiB Familienbildung
+Remmert, Cordelia
+PEKiP® Gruppenleiterin
+Albiez, Cornelia
+★ Kursleiterin für Musikgarten, QEKK Eltern-Kind-Kursleiterin
+Bereits begonnen
+★ Musikspielmäuse – ab 1 Jahr
+49,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19422)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10.
+Mi. 09:15 – 10:15 Uhr
+Cornelia Albiez
+MK-16-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19425)
+Mi. 10:15 – 11:15 Uhr
+MK-17-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19421)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Mi. 14:00 – 15:00 Uhr
+Cordelia Remmert
+MK-15-K
+Storniert
+77,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19419)
+Kursstart: 23.09.2026
+Mi., –16.12. 09:00 – 10:00 Uhr
+storniert
+MK-13-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19420)
+Mi., –16.12. 10:00 – 11:00 Uhr
+MK-14-K
+42,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19426)
+Kursstart: 04.11.2026
+Mi., –09.12. 09:00 – 10:00 Uhr
+MK-18-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19436)
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+MK-21-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19429)
+Mi., –09.12. 10:00 – 11:00 Uhr
+MK-19-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19438)
+MK-22-B
+Ausgebucht
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19432)
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12., 16.12.
+MK-20-K
+Legende
+Genügend Plätze frei
+Nur noch wenige Plätze frei
+Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
+Zuschuss der Krankenkasse möglich
+Ermäßigungen und Zuschüsse
+Neben Zuschüssen von Krankenkassen gibt es viele weitere Möglichkeiten eine [Ermäßigung oder Förderung](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php) zu erhalten. Sprich uns gerne an!
+[Mehr erfahren](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php)
+
+## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikzwerge.php
 Musikzwerge
 ★ Für Eltern und Kinder von 1 - 3 Jahren
-In einer behaglichen und fröhlichen Atmosphäre begibst du...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikzwerge.php)
+★ In einer behaglichen und fröhlichen Atmosphäre begibst du dich gemeinsam mit deinem Kind auf eine Erlebnis- und Entdeckungstour in die Welt der Musik.
+Wir singen, klatschen, sprechen und lauschen gemeinsam Melodien und Rhythmen. Die Bewegung, das Tanzen, Experimentieren und Musizieren mit Orff- oder selbst gebauten Rhythmus- und Musikinstrumenten machen nicht nur Spaß, sondern bieten auch Anregungen für musikalische Abenteuer zu Hause.
+★ Geschwisterkinder zahlen den halben Preis.
+Wer auch zuhause musizieren möchte, kann im FiB-Büro ein Musiksäckchen kaufen.
+FB
+★ "Musikzwerge" ist ein Angebot von FiB Familienbildung
+Augusiak, Eva
+Musikpädagogin
+★ Wingold, Martina
+Musikpädagogin, Gesangsdozentin
 Ebtehaj, Yalda
+Lehrkraft für musikalische Erziehung
+Schüller-Standt, Verena
+Musikwissenschaftlerin
+Barbara Ruthmann
+alle anzeigen
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19434)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10.
+Mi. 15:15 – 16:00 Uhr
+Yalda Ebtehaj
+MZ-37-B
+Ausgebucht
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19435)
+Mi. 16:00 – 16:45 Uhr
+MZ-38-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19430)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
+Do. 15:15 – 16:00 Uhr
+Eva Augusiak
+MZ-34-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19431)
+Do. 16:00 – 16:45 Uhr
+MZ-35-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19439)
+Do. 16:05 – 16:50 Uhr
+★ Martina Wingold
+MZ-40-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19433)
+Do. 16:45 – 17:30 Uhr
+MZ-36-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19440)
+Do. 16:55 – 17:40 Uhr
+MZ-41-K
+42,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19447)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str. 12
+51063 Köln
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
+Di. 09:30 – 10:15 Uhr
+Verena Schüller-Standt
+MZ-44-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19448)
+Di. 10:20 – 11:05 Uhr
+MZ-45-K
+Storniert
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19443)
+Brück, kugelrund
+kugelrund
+Olpener Str. 978
+51109 Köln − Brück
+Kursstart: 09.09.2026
+Mi., –14.10. 09:30 – 10:15 Uhr
+storniert
+MZ-42-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19445)
+Mi., –14.10. 10:20 – 11:05 Uhr
+MZ-43-K
+35,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19437)
+Kursstart: 17.09.2026
+Do., –15.10. 15:15 – 16:00 Uhr
+MZ-39-K
+77,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19423)
+Kursstart: 22.09.2026
+Di., –15.12. 15:30 – 16:15 Uhr
+MZ-30-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19424)
+Di., –15.12. 16:20 – 17:05 Uhr
+MZ-31-B
+56,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19427)
+Kursstart: 07.10.2026
+Mi., –09.12. 15:15 – 16:00 Uhr
+MZ-32-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19428)
+Mi., –09.12. 16:00 – 16:45 Uhr
+MZ-33-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19461)
+Kursstart: 03.11.2026
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12.
+MZ-58-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19462)
+MZ-59-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19449)
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
+Di. 15:30 – 16:15 Uhr
+MZ-46-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19450)
+Di. 16:20 – 17:05 Uhr
+MZ-47-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19459)
+Kursstart: 04.11.2026
+Mi., –09.12. 09:30 – 10:15 Uhr
+MZ-56-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19460)
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 10:20 – 11:05 Uhr
+MZ-57-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19454)
+MZ-51-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19455)
+MZ-52-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19456)
+Kursstart: 05.11.2026
+Do., –10.12. 15:15 – 16:00 Uhr
+MZ-53-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19451)
+MZ-48-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19452)
+05.11., 12.11., 19.11., 26.11., 03.12., 10.12.
+MZ-49-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19457)
+MZ-54-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19453)
+MZ-50-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19458)
+MZ-55-K
+Legende
+Genügend Plätze frei
+Nur noch wenige Plätze frei
+Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
+Zuschuss der Krankenkasse möglich
+Ermäßigungen und Zuschüsse
+Neben Zuschüssen von Krankenkassen gibt es viele weitere Möglichkeiten eine [Ermäßigung oder Förderung](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php) zu erhalten. Sprich uns gerne an!
+[Mehr erfahren](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php)
+
+## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musik_riesen.php
 Musik-Riesen
 ★ Für Eltern und Kinder von 4 - 5 Jahren
-★ Durch spielerisches Musizieren entdeckt dein Kind die Welt...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musik_riesen.php)
-★ Offener Eltern-Kind-Treff
-★ Für Eltern mit Kindern von 1 - 2 Jahren
-Suchst du einen Ort, an dem du ganz unkompliziert mit...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/offener-eltern-kind-treff.php)
-Yalcinkaya, Hasibe
-★ Zeit für uns! - Offenes Elterncafé
-★ Ein offener Treff für Eltern mit Kindern von 1-2 Jahren
-In gemütlicher Runde bei Kaffee und Tee...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/zeit-fuer-uns.php)
-Roith-Moll, Evelyn
-★ Eineltern-Treff
-★ Treff für alleinerziehende Mütter und Väter mit Kindern von 1-6 Jahren
-Bist du auf der Suche...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/eineltern-treff.php)
-Peer, Jeanette
-Die Waldwichtel
-★ Für (Gross-) Eltern und (Enkel-) Kinder von 1,5 - 3 Jahren
-Einmal in der Woche erkunden wir...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/waldwichtel.php)
-Kukies, Hannah
-Morgendlicher Waldtreff
-★ Für (Gross-) Eltern und (Enkel-) Kinder von 0 - 6 Jahren
-Für einen positiven Start in die Wochen...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/morgendlicher_waldtreff.php)
+★ Durch spielerisches Musizieren entdeckt dein Kind die Welt der Klänge und Rhythmen, fördert seine Kreativität und schult seine Wahrnehmung – ein wertvoller Baustein für die Persönlichkeitsentwicklung.
+★ Geschwisterkinder zahlen den halben Preis.
+Wer auch zuhause musizieren möchte, kann im FiB-Büro ein Musiksäckchen kaufen.
+FB
+★ "Musik-Riesen" ist ein Angebot von FiB Familienbildung
+Ebtehaj, Yalda
+Lehrkraft für musikalische Erziehung
+Storniert
+★ Musik-Riesen – 4 - 5 Jahre
+28,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19463)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 23.09.2026
+Mi., –14.10. 16:45 – 17:30 Uhr
+Yalda Ebtehaj
+storniert
+MZ-60-K
+42,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19464)
+Kursstart: 04.11.2026
+Mi., –09.12. 16:45 – 17:30 Uhr
+MZ-61-K
+Legende
+Genügend Plätze frei
+Nur noch wenige Plätze frei
+Bereits begonnen
+Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
+Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
+Zuschuss der Krankenkasse möglich
+Ermäßigungen und Zuschüsse
+Neben Zuschüssen von Krankenkassen gibt es viele weitere Möglichkeiten eine [Ermäßigung oder Förderung](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php) zu erhalten. Sprich uns gerne an!
+[Mehr erfahren](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php)
+
+## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/spiel-und-spass-fuer-junge-familien.php
+★ Spiel & Spaß für junge Familien
+★ Eltern-Kind-Gruppe ab 1 Jahr
+★ Bei uns ist immer was los - Bewegung, Musik, Spielen, Basteln, Lachen und Singen stehen auf dem Programm. Auf spielerische Art und Weise entdecken und lernen die Kinder viel Neues und nehmen eine Menge Anregungen mit.
+★ Du kommst hier in entspannter Atmosphäre mit anderen ins Gespräch. Gemeinsam könnt ihr Beobachtungen aus dem Familienalltag austauschen, Fragen zur Erziehung und Gesundheit besprechen und auf Wunsch Informationen zu verschiedenen Themen erhalten.
+FB
+★ "Spiel & Spaß für junge Familien" ist ein Angebot von FiB Familienbildung
+Neumann, Katrin
+Gymnastiklehrerin, Delfi-Kursleiterin
+Remmert, Cordelia
+PEKiP® Gruppenleiterin
+Speck, Christine
+Erzieherin
+Bereits begonnen
+★ Spiel & Spaß für junge Familien – ab 1 Jahr
+56,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19408)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
+Do. 09:15 – 10:45 Uhr
+Cordelia Remmert
+KK-16-B
+★ Spiel & Spaß für junge Familien – 1-2 Jahre
+48,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19389)
+Kursstart: 07.09.2026
+07.09., 14.09., 21.09., 28.09., 05.10., 12.10.
+Mo. 10:30 – 12:00 Uhr
+Katrin Neumann
+KK-12-B
+Storniert
+★ Spiel & Spaß für junge Familien – 1-3 Jahre
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19413)
+Mo., –12.10. 15:00 – 16:30 Uhr
+Christine Speck
+storniert
+KK-17-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19392)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
+Di. 09:00 – 10:30 Uhr
+KK-13-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19398)
+Kursstart: 02.11.2026
+02.11., 09.11., 16.11., 23.11., 30.11., 07.12., 14.12.
+KK-14-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19417)
+Mo., –14.12. 15:00 – 16:30 Uhr
+KK-19-B
+Ausgebucht
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19403)
+Kursstart: 03.11.2026
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
+KK-15-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19415)
+Kursstart: 05.11.2026
+05.11., 12.11., 19.11., 26.11., 03.12., 10.12., 17.12.
+KK-18-B
+40,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19731)
+Kursstart: 11.11.2026
+11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 11:20 – 12:50 Uhr
+Cornelia Albiez
+KK-23-B
+Legende
+Genügend Plätze frei
+Nur noch wenige Plätze frei
+Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
+Zuschuss der Krankenkasse möglich
+Ermäßigungen und Zuschüsse
+Neben Zuschüssen von Krankenkassen gibt es viele weitere Möglichkeiten eine [Ermäßigung oder Förderung](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php) zu erhalten. Sprich uns gerne an!
+[Mehr erfahren](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php)
+Ähnliche und
+weiterführende Angebote
+★ FB Angebot der FiB Familienbildung
 Rafi, Yvonne
 ★ Berührung mit Respekt - Kindermassage
 ★ Kurs für Eltern und Kinder von 3-4 Jahren
-★ Die Kindermassage bietet dir und deinem Kind...
+★ Die Kindermassage bietet dir und deinem Kind eine wohltuende gemeinsame Auszeit vom Alltag. In den...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/kindermassage.php)
-★ Wasserkurse Kinder
-★ VOM BABYSCHWIMMEN ZUM SEEPFERDCHEN Vom ersten Kontakt mit dem Element Wasser bis zum selbstständigen Schwimmen erlebst du und dein Kind mit Spiel und Spaß eine nass fröhliche Zeit - natürlich angstfrei und altersgerecht.
-Aissa, Felicitas,
-Buschbacher, Laura,
-★ Babyschwimmen
-★ Für Eltern und Kinder ab 3, 8 bzw. 12 Monate
-Gemeinsam macht ihr euch behutsam und spielerisch mit...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/wasserkurse-kinder/babyschwimmen.php)
-Keller, Pia,
-Wibberenz, Laura,
-Bambinis - Spiel & Spaß im Wasser
-★ Für Eltern und Kinder von 2-4 Jahren
-Hier dreht sich alles ums fröhliche Wasserentdecken....
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/wasserkurse-kinder/spiel-und-spass-im-wasser.php)
-Wasserfrösche
-★ Für Eltern und Kinder ab 4 Jahren
-★ Als „Wasserfrosch" knüpft dein Kind an seine...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/wasserkurse-kinder/wasserfroesche.php)
-Seepferdchen
-★ Für Eltern und Kinder ab 5 Jahren
-★ Springt dein Kind schon allein ins Wasser und bewegt sich...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/wasserkurse-kinder/seepferdchen.php)
-★ Bewegungskurse für Kinder
-★ Krabbeln, Rollen, Klettern, Ringen, Raufen und Tanzen - der Bewegungslust von Kindern sind keine Grenzen gesetzt.
-Peters, Jana,
-Roith-Moll, Evelyn,
-Musnadi, Mia,
-Ingenhoff, Sonja,
-Dederichs, Madeline,
-Lüttges, Annika,
-★ Krabbelturnen für Eltern und Kinder
-★ Für Eltern und Kinder im Krabbelalter
-★ Gemeinsam krabbeln, laufen, rollen, drehen, groïße und...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/bewegungskurse-kinder/krabbelturnen.php)
-Esser, Corinna,
-Trojahn, Ilona,
-Abenteuer Bewegung
-★ Spielerisches Turnen für (Groïß-) Eltern & Kinder
-Komm mit in unsere...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/bewegungskurse-kinder/abenteuer-bewegung.php)
-SV Angebot des FiB Sportverein
-Corona, Christiane,
-Nußbaum, Sarah,
-★ Kreativer Kindertanz
-★ Suchst du nach einer Möglichkeit, bei der dein Kind seiner Kreativität und seinem natürlichen...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/bewegungskurse-kinder/kreativer-kindertanz.php)
-Corona, Christiane
-★ Kinderballett
-★ Im Ballettunterricht wird dein Kind sowohl an der Ballettstange als auch am Boden arbeiten. Dort...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/bewegungskurse-kinder/kinderballett.php)
-Andretta, Danielle,
-Kriegesmann-Kauth, Jessica,
-★ Eltern-Kind-Yoga Workshop
-★ Für Eltern mit ihren Kindern ab 3 Jahren
-Nicht nur bei Erwachsenen erfreut sich Yoga immer...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/bewegungskurse-kinder/eltern-kind-yoga.php)
-★ Achtsamkeit für Kinder und Eltern im Wald
-★ Für (Gross-) Eltern und Kinder von 1,5 Jahren bis Grundschulalter
-Angenehme Sommernachmittage im...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/zeit-fuer-uns-achtsankeitskur-fuer-kinder-mit-eltern.php)
-Angebote für Jugendliche
-Infos, Kreativität, Bewegung, Improvisation, Choreographie und viel Spaß!
-Dengler, Jennifer
-"Die Zyklusshow"
-Ein aufklärender sexualpädagogischer Workshop für Mädchen von 9–12 JahrenBei der Zyklusshow...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/angebote-fuer-jugendliche/zyklusshow.php)
-Giese, Svenja,
-Schiefen, Brigitte,
-★ Fit fürs Babysitting
-★ Für Jugendliche ab 14 Jahren
-In unserem Kurs lernst du praxisnah von A wie Aufsichtspflicht bis Z...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/angebote-fuer-jugendliche/fit-fuers-babysitting.php)
-Entdeckungstouren in der Natur
-Unsere Angebote draußen in der Natur sind für Groß - und Klein. Hier kannst du die Natur und seine Bewohner in den verschiedenen Jahreszeiten, mal in der Nacht, beim Floßbau oder in einer Waldwoche erforschen, erwandern und erfühlen.
-Fett, Christiane
-Abenteuer Wald I
-★ Draußen-Zeit für Kinder – für Kinder ab Vorschulalter-1. Klasse - ohne ElternEinmal im Monat...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/abenteuer-wald.php)
-Abenteuer Wald II
-★ Draußen-Zeit für Kinder - ab 2.-3. Klasse - ohne Eltern
-Einmal im Monat verbringen wir zwei...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/abenteuer-wald-2-4-klasse.php)
-Abenteuer Wald III
-★ Draußen-Zeit für Kinder – ab 3.-4. Klasse - ohne ElternEinmal im Monat verbringen wir zwei...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/abenteuer-wald-3klasse.php)
-Abenteuer Wald IV
-★ Draußen-Zeit für Kinder – ab 5. Klasse - ohne ElternEinmal im Monat verbringen wir zwei...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/abenteuer-wald-4-6-klasse.php)
-Sandmann, Ulrike
-Der Wald im Herbst
-★ Für (Groß-) Eltern mit Kindern ab 3 Jahren
-Eine spielerische Reise in die herbstliche Natur:...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/der-wald-im-herbst.php)
-"Finster, finster, finster, finster...
-...nur der Glühwurm grinst im Ginsterund die Eule ruft im Grunde - Geisterstunde!"Für (Groß-)...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/finster-finster-finster.php)
-Wunderwelt der Pilze
-★ Für (Groß-) Eltern mit Kindern ab 5 Jahren
-Das, was man gemeinhin Pilz nennt, dient nur der...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/wunderwelt-der-pilze.php)
-★ Laternenlicht im Winterwald
-★ Bunte Laternen, stockdunkler Himmel. Irgendwo ruft ein...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/laternenlicht-im-winterwald.php)
-Was(s)erleben - Leben in Bach und Teich
-An Teich und Bach erforschen wir raffinierte...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/wasser-marsch.php)
-Spinnen - Leben am seidenen Faden
-Wie viele Augen haben Spinnen eigentlich und wie viele...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/spinnen-leben-am-seidenen-faden.php)
-Expedition Boden
-★ Für (Groß-) Eltern mit Kindern ab 3 JahrenBei unserem Waldspaziergang erkunden wir die...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/expedition_boden.php)
-Ein Nachmittag am Bach
-★ Für (Groß-) Eltern mit Kindern von 5-6 Jahren
-Der "Bach" ist ein lebendiger Lebensraum, der nur...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/entdeckungstouren-in-der-natur/ein-nachmittag-am-bach.php)
-★ Elternvorträge
-★ Viele Informationen und interessante Neuigkeiten zu Gesundheits-, Ernährungs- und pädagogischen Themen rund um die Familie erfährst du in unseren Elternvorträgen.
-Bonin, Arved,
-Römer, Dr. Uta,
-★ Erste Hilfe bei Babys und Kleinkindern
-Wenn du deine Kenntnisse aus dem letzten Erste Hilfe Kurs auffrischen und auch viele neue Aspekte...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/im-notfall-richtig-handeln.php)
-Flege, Nancy
-Achtsames Trockenwerden
-★ Beim Trockenwerden tauchen viele Fragen und Unsicherheiten auf. Sollten wir warten, bis das Kind...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/achtsames-trockenwerden.php)
-Azrak, Elke
-★ Hilfreiche Kommunikationsmethoden für den Familienalltag
-★ Klare, respektvolle und aufmerksame Kommunikation in Familien ist keine Zauberei!!Das sogenannte...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/hilfreiche-kommunikationsmethoden-fuer-den-familienalltag.php)
-Berghaus, Regina
-Regeln und Grenzen
-★ Neben Liebe, Fürsorge und persönlicher Freiheit brauchen Kinder auch Regeln und Grenzen. Sie...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/regeln-und-grenzen.php)
-Trotz
-★ Das Trotzalter - eine spannende und herausfordernde Lebensphase für Eltern und Kinder
-★ Wenn Kinder...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/trotz.php)
-★ Mit Konsequenz statt Strafen die Eigenverantwortung von Kindern fördern
-★ Für Eltern von Kindergarten- und Grundschulkindern
-★ Viele Eltern versuchen, unerwünschtes...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/mit-konsequenzen-statt-strafen-die-eigenverantwortung-von-kindern-foerdern.php)
-★ Kooperation bei Kindern fördern - Anleitung zum Miteinander
-Zu kooperieren bedeutet ein gemeinsames Ziel zu verfolgen und auf einander Rücksicht zu nehmen. Es...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/kooperation-bei-kindern-foerdern.php)
-Kirsch, Yvonne
-★ Babyschlaf verstehen und liebevoll begleiten
-★ "Na, schläft dein Baby schon durch?"- Diese Frage beschäftigt fast alle Eltern früher oder...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/babyschlaf-verstehen-und-liebevoll-begleiten.php)
-Schrader, Gerit
-★ Mobbing unter Kindern
-★ Mobbing unter Kindern ist weit verbreitet. Jeder sechste Schüler war schon Opfer von Mobbing...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/mobbing-unter-kindern.php)
-★ Doktorspiele unter Kindern - wie gehe ich die Sexualerziehung an
-★ Kinder sind von Natur aus neugierig auf sich selbst und ihre Umgebung. Bereits im Babyalter...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/dokorspiele-unter-kindern.php)
-Holz-Schöttler, Brigitte
-Resilienz - aufbauen und stärken
-★ Für Eltern von Kindern von 0 - 10 Jahren
-Was bedeutet Resilienz?Resilienz aufbauen – wie geht...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/resilienz-aufbauen-und-staerken.php)
-Azrak, Elke,
-Schrader, Gerit,
-★ Fit für die Schule - was braucht mein Kind?
-★ Der Übergang von der Kita in die Grundschule ist für dich und dein Kind eine große Veränderung....
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/fit-fuer-die-schule.php)
-★ Kinder lassen sich nicht scheiden
-★ Scheidung und Trennung stellt für alle Beteiligten eine Krise dar. Die Kinder treffen diese...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/kinder-lassen-sich-nicht-scheiden.php)
-Digitale Medien in der Erziehung
-★ Sucht und Gefahrenpotential oder Bildungsunterstützung? Kinder 0-10 Jahre
-In unserer Welt, in der...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/digitale-medien-in-der-erziehung.php)
-Mental-Health
-★ Raus aus der "Familien-Überforderungsfalle"Besonders bei Müttern, aber auch bei Vätern,...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/mental_health.php)
-Reden, damit es wirkt
-Kennst du das? Ein einziges Wort bringt alles ins Wanken, oder du wiederholst etwas zehnmal - und...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/reden-damit-es-wirkt.php)
-Vossen, Regina
-★ Starke Familien - gut abgesichert in die Zukunft
-★ Familie heißt Verantwortung - egal, wie sie aussieht. In diesem Angebot bekommst du einen...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/starke_familien_gut_abgesichert.php)
-★ Risky Play - Kinder brauchen Mut zum Spielen
-★ Für Eltern und Fachkräfte in der KinderbetreuungKinder entdecken die Welt am liebsten selbst,...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternvortraege/risky-play.php)
-★ Familienangebote
-★ Familienzeit - durch gemeinsame Erlebnisse, gemeinsam Neues entdecken...
-Blumberg, Stefan
-Führung & Fossiliensuche
-★ Ein Hammererlebnis in der Lindlarer GrauwackeFür (Groß-) Eltern und Kinder ab 5 Jahren
-Entdeckt...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/fuehrungen-und-fossiliensuche.php)
-Eselwanderung
-★ Für (Groß-) Eltern mit Kindern ab 4 Jahren
-Gemeinsam mit den vier Zwergeseln machen wir uns in...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/eselwanderung.php)
-Spicher, Leonie
-Entdeckungstour Bauernhof
-★ Für (Groß-) Eltern und Kinder ab 3 Jahren
-Wusstet ihr, dass auch weibliche Kühe Hörner haben?...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/entdeckungstour-bauernhof.php)
-Schnabel, Kertin
-Riesenvögel unter uns
-★ Führung auf der StraußenfarmFür (Groß-) Eltern und Kinder ab 4 Jahren
-Wusstest du, dass...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/riesenvoegel-unter-uns.php)
-Fröhning, Silvia
-★ Preiswerte und schnelle Familienküche
-★ Für (Groß-) Eltern und Kinder ab 4 Jahren
-Kochen und Haushalten: Wie findest du dafür die...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/preiswerte-und-schnelle-familienkueche.php)
-Müller, Michael
-Äpfel - ernten, pressen und genießen
-★ Ein Tag, an dem der Apfel vom Baum direkt ins Glas wandertFür (Groß-) Eltern und Kinder ab 3...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/ernten-pressen-geniessen.php)
-Ein (Hefe-) Teig für kleine Hände
-★ Für (Groß-) Eltern und Kinder ab 4 JahrenWas passiert, wenn große und kleine Hände gemeinsam...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/ein-hefeteig-fuer-kleine-haende.php)
-Heute duftet es nach Advent
-★ Für (Groß-) Eltern und Kinder von 3-12 JahrenBald ist der 1. Advent. Was gibt es Schöneres, als...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/heute-duftet-es-nach-advent.php)
-Fabritius, Hannah
-Trockenfilzen - Weihnachten steht vor der Tür
-★ Für (Groß-) Eltern und Kinder
-★ In diesem Kurs haben Eltern und Kinder die Möglichkeit, gemeinsam...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/Trockenfilzen.php)
-★ Achtsamkeit für Kinder & Eltern im Wald
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/achtsamkeitfuerkinderundelternimwald.php)
-Schnabel, Ludmila
-Pause im Grünen
-★ Lass dich in der Natur wandelnFür (Groß-) Eltern und Kinder von 0 - 4 JahrenMach dich mit deiner...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/pause-im-gruenen.php)
-Jarrar, Sinan
-Waldbaden & Snoezeln im Wald
-★ Für (Groß-) Eltern und Kinder von 4 - 7 JahrenBist du bereit, den Wald mit allen Sinnen zu...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/waldbaden-und-snoezeln-im-wald.php)
-Kleine Entdecker - Natur, Tiere & Kreativität
-★ Für (Groß-) Eltern und Kinder von 4 - 7 JahrenHast du Lust, die Natur einmal ganz genau unter die...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/kleine-entdecker.php)
-Tippkötter, Jens
-Piratentag am Rhein
-★ Für (Groß-) Eltern und Kinder von 4 - 8 JahrenAhoi, ihr kleinen und großen Entdecker*innen!...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/piratentag-am-rhein.php)
-Weber, Rebekka
-Theaterwelt entdecken - Bühne frei für Dich!
-★ Für (Groß-)Eltern und Kinder im GrundschalterHast Du Lust, in verschiedene Rollen zu schlüpfen...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/theaterwelt-entdecken.php)
-★ Spitzley, Manuel Martin,
-Rodriguez Pina, Diana,
-Zirkus-Yoga-Kids
-★ Kreativer Bewegungsworkshop Eltern mit Kindern von 4-6 JahrenIn unserem Workshop verbinden wir auf...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/zirkus-yoga-kids.php)
-Visky, Ruth Boglár
-Stempelspaß
-★ Karten und Geschenkpapier gestaltenFür (Groß-) Eltern und Kinder ab 6 JahrenWie wär's, wenn wir...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/stempelspass.php)
-Weihnachtsgeschenke im Textildruck gestalten
-★ Karten und Geschenkpapier gestaltenFür (Groß-) Eltern und Kinder ab 6 JahrenWas gibt es...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/weihnachtsgeschenke-im-textildruck.php)
-Schlüter, Benno
-Weihnachtskrippen selbst gemacht
-★ Für ein (Groß-) Elternteil und Kinder ab 4 Jahren
-Was ist schöner, als unter dem Tannenbaum eine...
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/familienangebote/weihnachtskrippen-selbst-gemacht.php)
-Väterangebote
-★ Du willst dich aktiv auch im Alltag um dein Kinder kümmern? Du wünschst dir vielfach noch mehr Zeit für die Familie und willst für deine Kinder da sein? Wir unterstützen dich dabei!
+Müller-Mohaupt, Gisela, Albiez, Cornelia,
+★ Offener Eltern-Kind-Treff
+★ Für Eltern mit Kindern von 1 - 2 Jahren
+★ Suchst du einen Ort, an dem du ganz unkompliziert mit deinem Kind Zeit verbringen und gleichzeitig andere...
+★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/offener-eltern-kind-treff.php)
+
+## Quelle: https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/babymassage.php
+★ Babymassage
+★ Für Eltern und Babys von 2-5 Monaten
+★ Die Babymassage berührt dich und dein Baby – auf körperlicher und emotionaler Ebene. Die Kommunikation über die Haut stärkt deine Fähigkeit, die Bedürfnisse deines Kindes zu spüren und vertieft so die Verbindung zwischen dir und deinem Baby.
+★ In der traditionellen indischen Babymassage nach Frederick Leboyer lernst du durch sanfte Berührung die motorische und geistige Entwicklung deines Kindes zu unterstützen. Das Streicheln und Massieren hilft deinem Baby, Vertrauen zu entwickeln und die Sinne zu stimulieren. Es spendet Trost, kann Spannungen lösen und bei schmerzhaften Koliken lindernd wirken.
+Bitte mitbringen: 2 Handtücher, Mandel- oder Jojobaöl, saugfähige, wasserdichte Wickelunterlage
+FB
+★ "Babymassage" ist ein Angebot von FiB Familienbildung
+Krabbe, Valeska
+★ Kursleiterin für Babymassage
 Wang, Hung-Sung
+★ Kursleiter für Babymassage
+Storniert
+★ Babymassage – 2 - 5 Monate
+75,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19600)
+Refrath, Refrather Treff
+Refrather Treff
+Steinbrecher Weg 2
+51427 Bergisch Gladbach − Refrath
+Gruppenraum im Erdgeschoss
+Kursstart: 08.09.2026
+Di., –06.10. 09:00 – 10:30 Uhr
+Valeska Krabbe
+storniert
+BM-11-B
+Bereits begonnen
+65,00 €
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19603)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str. 12
+51063 Köln
+Kursstart: 18.09.2026
+18.09., 25.09., 02.10., 09.10., 16.10.
+Fr. 14:45 – 16:15 Uhr
+Hung-Sung Wang
+BM-12-K
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19594)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 21.09.2026
+Mo., –02.11. 14:45 – 16:15 Uhr
+BM-09-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19596)
+Kursstart: 09.11.2026
+Mo., –07.12. 14:45 – 16:15 Uhr
+BM-10-B
+[Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19593)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 20.11.2026
+Fr., –18.12. 14:00 – 15:30 Uhr
+BM-08-K
+Legende
+Genügend Plätze frei
+Nur noch wenige Plätze frei
+Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
+Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
+Zuschuss der Krankenkasse möglich
+Ermäßigungen und Zuschüsse
+Neben Zuschüssen von Krankenkassen gibt es viele weitere Möglichkeiten eine [Ermäßigung oder Förderung](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php) zu erhalten. Sprich uns gerne an!
+[Mehr erfahren](https://www.fibev.de/kurse-und-angebote/ermaessigungen-und-zuschuesse.php)
+Ähnliche und
+weiterführende Angebote
+★ FB Angebot der FiB Familienbildung
+Hardt, Johanna, Remmert, Cordelia, Müller-Mohaupt, Gisela, Holz-Schöttler, Brigitte,
+★ Elterntreff - "Die Fibys"
+★ Offener Treff für Eltern und Babys In unseren offenen Treffs für Eltern mit Babys im ersten Lebensjahr hast du die Möglichkeit, in gemütlicher...
+★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/elterncafe-die-fibys.php)
 ★ Väter-Babymassage
 ★ Für Väter und Babys von 3-5 Monaten
-Unter der Woche bist du oft bei der Arbeit und hast nur wenig...
+Unter der Woche bist du oft bei der Arbeit und hast nur wenig Zeit für innige Kuschelmomente. Nimm dir bewusst...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/vaeterangebote/vaeter-babymassage.php)
-★ Eineltern Angebote
-Alleinerziehende leisten jeden Tag Großes. Unsere Angebote unterstützen dabei, den Alltag leichter zu gestalten, Orientierung zu finden und neue Kraft zu schöpfen.
-★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/eineltern-angebote/eineltern-treff.php)
-Kurse
-zu weiteren Themen
-[Zur Kursübersicht](https://www.fibev.de/kurse-und-angebote/index.php)
-Aktiv durch die Ferien
-Langeweile in den Ferien? Wir können Abhilfe schaffen! In unserem Ferienprogramm ist für jeden etwas dabei.
-[Zu den Kursen](https://www.fibev.de/kurse-und-angebote/aktiv-durch-die-ferien/index.php)
-Entspannt, gesund und fit
-Entspannung, Gesundheit und Fitness werden bei uns großgeschrieben!Eine bunte Palette an Kursen und Workshops wartet auf...
-[Zu den Kursen](https://www.fibev.de/kurse-und-angebote/entspannt-gesund-fit/index.php)
-Zeit für mich - Zeit für uns
-★ Um sich den großen Herausforderungen des Alltags, des Beruflebens und der Familie dauerhaft stellen zu können, findet man...
-[Zu den Kursen](https://www.fibev.de/kurse-und-angebote/zeit-fuer-mich-zeit-fuer-uns/index.php)
-Willkommen - Von Anfang an
-★ Das Abenteuer "Familie" ist ein wunderschöne, spannende Zeit durch die wir dich / euch mit unseren Angeboten vor und nach...
-[Zu den Kursen](https://www.fibev.de/kurse-und-angebote/willkommen-von-anfang-an/index.php)
-Unser neues Programm!
-Jetzt das neue Programm herbst / Winter 2026 als PDF herunterladen.
-[Jetzt downloaden pdf (15,63 MB)](https://www.fibev.de/media/pdf/FiB_Programm_2-2026_Web.pdf)
+Rafi, Yvonne
+★ Berührung mit Respekt - Kindermassage
+★ Kurs für Eltern und Kinder von 3-4 Jahren
+★ Die Kindermassage bietet dir und deinem Kind eine wohltuende gemeinsame Auszeit vom Alltag. In den...
+★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/kindermassage.php)
