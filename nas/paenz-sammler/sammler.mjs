@@ -151,7 +151,7 @@ if (process.argv[2] === '--testmail') {
 } else if (process.argv[2] === '--jetzt-senden') {
   await sammelmail(); process.exit(0);
 } else if (!process.env.SAMMLER_KEIN_START) {
-  for (const [k, v] of Object.entries({ GRUPPEN: GRUPPEN.length, MAIL_AN, SMTP_USER, SMTP_PASS })) if (!v) { log('Einstellung fehlt in .env:', k); process.exit(1); }
+  for (const [k, v] of Object.entries({ GRUPPEN: GRUPPEN.length, MAIL_AN, SMTP_USER, SMTP_PASS })) if (!v) { log('Einstellung fehlt in einstellungen.env:', k); process.exit(1); }
   log('Pänz-Sammler startet. Gruppen:', GRUPPEN.join(' | '), '· Sammelmail um', SENDEZEIT);
   zeitplan(); start();
 }
