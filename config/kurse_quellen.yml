@@ -21,6 +21,7 @@ quellen:
   url: https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488
   note: Eltern-Kind-Kurse, Anmeldung teils per Telefon/Mail.
 - id: fbs-koeln
+  doppelt: true
   name: Ev. Familienbildungsstätte Köln (fbs)
   group: Kurse
   url: https://www.fbs-koeln.org/kurse/eltern-kinder-familien
@@ -29,6 +30,7 @@ quellen:
   - https://www.fbs-koeln.org/kurse/schwanger-baby
   - https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse
 - id: fib-familienbildung
+  doppelt: true
   name: FiB e.V. Familienbildung
   group: Kurse
   url: https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php
