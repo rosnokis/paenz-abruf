@@ -6,10 +6,12 @@ renderer runs the page's JavaScript only inside the sandboxed browser).
 """
 from __future__ import annotations
 
+import ipaddress
+import socket
 import time
 import urllib.robotparser
 from dataclasses import dataclass, field
-from urllib.parse import urlsplit
+from urllib.parse import urljoin, urlsplit
 
 import requests
 
@@ -23,8 +25,48 @@ MAX_CRAWL_DELAY = 10    # cap for a robots.txt Crawl-delay
 HTML_TYPES = ("text/html", "application/xhtml+xml")
 PDF_TYPES = ("application/pdf", "application/x-pdf")
 BLOCK_CODES = {401, 403, 429, 451}
+REDIRECT_CODES = {301, 302, 303, 307, 308}
+MAX_REDIRECTS = 5
 CHALLENGE_MARKERS = (b"cf-chl", b"challenge-platform", b"Just a moment...", b"captcha-delivery",
                      b"Attention Required! | Cloudflare", b"_Incapsula_Resource")
+
+
+def _resolve(host: str, port: int) -> list[str]:
+    return [info[4][0] for info in socket.getaddrinfo(host, port, proto=socket.IPPROTO_TCP)]
+
+
+def address_problem(url: str, resolve=_resolve) -> str | None:
+    """None if the URL may be fetched, else the reason.
+
+    Only http(s) and only hosts whose every address is public. This blocks requests to the runner
+    itself, to private networks and to cloud metadata services (SSRF), also after a redirect.
+    """
+    p = urlsplit(url)
+    if p.scheme not in ("http", "https"):
+        return f"nur http/https erlaubt ({p.scheme or 'ohne Schema'})"
+    host = p.hostname
+    if not host:
+        return "Adresse ohne Host"
+    try:
+        port = p.port or (443 if p.scheme == "https" else 80)
+    except ValueError:
+        return "ungültiger Port"
+    try:
+        addrs = resolve(host, port)
+    except (OSError, UnicodeError):
+        return None  # the request itself reports the DNS error
+    if not addrs:
+        return None
+    for a in addrs:
+        try:
+            ip = ipaddress.ip_address(a.split("%")[0])
+        except ValueError:
+            return f"unbekannte Adresse ({a})"
+        if ip.version == 6 and ip.ipv4_mapped:
+            ip = ip.ipv4_mapped
+        if not ip.is_global or ip.is_multicast:
+            return f"interne Adresse nicht erlaubt ({host} -> {ip})"
+    return None
 
 
 @dataclass
@@ -56,6 +98,14 @@ class Fetcher:
         self._pw = None
         self._browser = None
         self.requests = 0
+        self._host_ok: dict[str, str | None] = {}
+
+    def _address_problem(self, url: str) -> str | None:
+        p = urlsplit(url)
+        key = f"{p.scheme}://{p.netloc}"
+        if key not in self._host_ok:
+            self._host_ok[key] = address_problem(url)
+        return self._host_ok[key]
 
     # ------------------------------------------------------------------ helpers
     def _wait(self, host: str, extra: float = 0.0) -> None:
@@ -78,6 +128,10 @@ class Fetcher:
 
     def _raw_get_once(self, url: str, accept: tuple[str, ...]) -> Response:
         res = Response(url=url, final_url=url)
+        problem = self._address_problem(url)
+        if problem:
+            res.error = f"gesperrt: {problem}"
+            return res
         host = urlsplit(url).netloc
         rp = self._robots.get(_origin(url), (None, None))[0]
         crawl_delay = 0.0
@@ -89,9 +143,26 @@ class Fetcher:
         self._wait(host, crawl_delay)
         self.requests += 1
         try:
-            with self.session.get(url, timeout=TIMEOUT, stream=True, allow_redirects=True) as r:
+            current = url
+            for hop in range(MAX_REDIRECTS + 1):
+                r = self.session.get(current, timeout=TIMEOUT, stream=True, allow_redirects=False)
+                location = r.headers.get("Location")
+                if r.status_code not in REDIRECT_CODES or not location:
+                    break
+                r.close()
+                current = urljoin(current, location)
+                problem = self._address_problem(current)
+                if problem:
+                    res.status, res.final_url = r.status_code, current
+                    res.error = f"Weiterleitung gesperrt: {problem}"
+                    return res
+                if hop == MAX_REDIRECTS:
+                    res.error = "zu viele Weiterleitungen"
+                    return res
+                self._wait(urlsplit(current).netloc)
+            with r:
                 res.status = r.status_code
-                res.final_url = r.url
+                res.final_url = current
                 res.ctype = (r.headers.get("Content-Type") or "").split(";")[0].strip().lower()
                 length = r.headers.get("Content-Length")
                 if length and length.isdigit() and int(length) > MAX_BYTES:
@@ -180,6 +251,9 @@ class Fetcher:
 
     def render(self, url: str, click: str | None = None, clicks: int = 0) -> Response:
         """Render a JavaScript page with Playwright (only for sources marked js: true)."""
+        problem = self._address_problem(url)
+        if problem:
+            return Response(url=url, final_url=url, error=f"gesperrt: {problem}")
         allowed, why = self.robots_allowed(url)
         if not allowed:
             return Response(url=url, final_url=url, error=why, blocked=True)
@@ -197,10 +271,50 @@ class Fetcher:
         ctx = self._browser.new_context(user_agent=USER_AGENT, locale="de-DE",
                                         accept_downloads=False, java_script_enabled=True)
         page = ctx.new_page()
-        page.route("**/*", lambda route: route.abort()
-                   if route.request.resource_type in ("image", "media", "font") else route.continue_())
+        redirect: dict[str, str | None] = {"ziel": None}
+
+        def _route(route):
+            req = route.request
+            if req.resource_type in ("image", "media", "font") or self._address_problem(req.url):
+                route.abort()  # no media; no requests to internal addresses
+                return
+            # Load without following redirects, so every hop passes this check.
+            try:
+                resp = route.fetch(max_redirects=0, timeout=TIMEOUT * 1000)
+            except Exception:
+                route.abort()
+                return
+            if 300 <= resp.status < 400 and req.is_navigation_request():
+                # Chromium would follow a navigation redirect itself, without this check.
+                # Main frame: stop here and let render() follow the redirect after checking it.
+                # Frames: not needed for the text, so they do not follow redirects at all.
+                if req.frame == page.main_frame and resp.headers.get("location"):
+                    redirect["ziel"] = urljoin(req.url, resp.headers["location"])
+                    # An empty page ends this navigation cleanly (an abort would race with
+                    # Chromium's error page and break the next goto).
+                    route.fulfill(status=200, content_type="text/html", body="")
+                else:
+                    route.abort()
+                return
+            # Redirects of sub-requests (fetch, scripts, ...) are requested anew by the browser
+            # and pass this check again.
+            route.fulfill(response=resp)
+        page.route("**/*", _route)
         try:
-            resp = page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+            target, resp = url, None
+            for hop in range(MAX_REDIRECTS + 1):
+                redirect["ziel"] = None
+                resp = page.goto(target, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+                if not redirect["ziel"]:
+                    break
+                target = redirect["ziel"]
+                problem = self._address_problem(target)
+                if problem:
+                    res.final_url, res.error = target, f"Weiterleitung gesperrt: {problem}"
+                    return res
+                if hop == MAX_REDIRECTS:
+                    res.error = "zu viele Weiterleitungen"
+                    return res
             res.status = resp.status if resp else None
             res.final_url = page.url
             try:
