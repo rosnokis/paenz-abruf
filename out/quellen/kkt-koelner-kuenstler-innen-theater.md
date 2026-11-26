@@ -23,25 +23,26 @@ Lia. L. Shoshann: „Ihr schafft es, einen sehr warmen, respektvollen und aufmer
 Wir werden gefördert von der Stadt Köln
 ★ sowie von weiteren [Förderern](https://www.k-k-t.de/mitmachen/foerderer).
 Unsere nächsten Aufführungen
-★ Kindertheater
-[Pettersson und Findus: Feuerwerk für den Fuchs](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)
-Pettersson und Findus erleben ein Abenteuer
-Nächste Termine
-Donnerstag, 26. November 2026
-10:00 Uhr
-Bitte vorab reservieren
-Samstag, 28. November 2026
-16:00 Uhr
-Samstag, 23. Januar 2027
 Erwachsenentheater
 [Five Kinds of Silence / Pesë fytyrat e heshtjes](https://www.k-k-t.de/stuecke/five-kinds-of-silence-pese-fytyrat-e-heshtjes)
 “Five Kinds of Silence” by playwright Shelagh Stephenson is a harrowing drama about violence and abuse within the family.
+Nächste Termine
 Freitag, 27. November 2026
 20:00 Uhr
+★ Kindertheater
+[Pettersson und Findus: Feuerwerk für den Fuchs](https://www.k-k-t.de/stuecke/pettersson-und-findus-fuchs)
+Pettersson und Findus erleben ein Abenteuer
+Samstag, 28. November 2026
+16:00 Uhr
+Ausverkauft
+Samstag, 23. Januar 2027
+Sonntag, 24. Januar 2027
+15:00 Uhr
 [Das kleine Zottel Mottel feiert Weihnachten](https://www.k-k-t.de/stuecke/das-kleine-zottel-mottel-feiert-weihnachten)
 Das kleine Zottel Mottel erlebt sein erstes Weihnachtsfest
 Sonntag, 29. November 2026
-15:00 Uhr
 Montag, 30. November 2026
+10:00 Uhr
 verschoben auf den 1.12.
 Dienstag, 01. Dezember 2026
+Bitte vorab reservieren

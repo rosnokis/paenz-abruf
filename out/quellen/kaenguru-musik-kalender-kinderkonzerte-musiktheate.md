@@ -27,8 +27,8 @@ Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
-11:00 Uhr
 14:00 Uhr
+11:00 Uhr
 Philharmonie
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
@@ -42,8 +42,8 @@ Bonn
 11:30 Uhr
 ★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-15:30 Uhr
 16:30 Uhr
+15:30 Uhr
 Bürgerhaus Kalk
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
@@ -74,6 +74,8 @@ Düsseldorf
 ★ Weihnachtliches Krippenspiel mit Kinderorchester und gemeinsamem Singen für Familien
 Tonhalle Düsseldorf
 Düsseldorf
+★ [Familientag beim Winterfest der HfMT Köln](https://www.kaenguru-online.de/kalender/musik/familientag-beim-winterfest-der-hfmt-koeln/2026-12-06)
+★ Familientag mit Konzerten, Tanzaufführungen und musikalischen Mitmachangeboten
+11:00 - 18:00 Uhr
+Hochschule für Musik und Tanz
 [„Die chinesische Nachtigall"](https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-06)
-[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-09)
-09.12.2026

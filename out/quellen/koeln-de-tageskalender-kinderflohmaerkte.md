@@ -13,11 +13,13 @@ Foto: IMAGO / Eibner
 11:00
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-11-29/)
 [Adventsmarkt und Spielzeugmarkt in Raderthal](https://www.koeln.de/event/adventsmarkt-und-spielzeugmarkt-in-raderthal/)
+★ [Spiele- und Geschenkeflohmarkt in Raderthal](https://www.koeln.de/event/spiele-und-geschenkeflohmarkt-in-raderthal/)
 6. Dezember 2026
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-06/)
 13. Dezember 2026
 ★ [Kinderflohmarkt in Ehrenfeld](https://www.koeln.de/event/kinderflohmarkt-von-tante-astrid-e-v/2026-12-13/)
 ★ Ich kenne noch einen Kinderflohmarkt:
+Company
 Dieses Feld dient zur Validierung und sollte nicht verändert werden.
 Name (erforderlich)
 Name

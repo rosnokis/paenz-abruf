@@ -27,6 +27,8 @@ Kammer­musik­abend
 28.11.2026
 11:00
 Klaviermatinee
+[Cello Klassenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-cello-klassenabend/)
+Cello Klassenabend
 [Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
 Gitarrenabend
 Fällt leider aus.
@@ -357,6 +359,7 @@ Lions-Musikpreis 2027: Preisträgerkonzert
 Springe zum Haupt-Inhalt
 Veranstaltungen
 [Alle Veranstaltungen in Aachen als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/programm_hfmt_aachen_wise_2026_27.pdf)
+[Alle Veranstaltungen in Köln als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/programm_hfmt_koeln_dez_2026.pdf)
 [Highlightveranstaltungen WiSe 2026/27 in Köln](https://epaper-ksta.weekli.de/prospekt/a3-b1-c7703-d5332764-fDE-g50667?page=1)
 [Veranstaltungen Spitzentöne 2026 in Köln als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/2026_programm_spitzentoene.pdf)
 [Alle Veranstaltungen in Wuppertal als PDF](https://www.hfmt-koeln.de/media/redaktion/Medien/Flyer/Veranstaltungen/Programme/programm_hfmt_wuppertal_wise_2026_27.pdf)

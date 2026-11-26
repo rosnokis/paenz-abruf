@@ -47,6 +47,15 @@
   "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
  },
  {
+  "name": "Spiele- und Geschenkeflohmarkt in Raderthal",
+  "startDate": "2026-11-29T11:00:00+01:00",
+  "endDate": "2026-11-29T16:00:00+01:00",
+  "url": "https://www.koeln.de/event/spiele-und-geschenkeflohmarkt-in-raderthal/",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.koeln.de/flohmaerkte/kinderflohmarkt-koeln-termine/"
+ },
+ {
   "name": "Kinderflohmarkt in Ehrenfeld",
   "startDate": "2026-12-06T11:00:00+01:00",
   "endDate": "2026-12-06T14:00:00+01:00",

@@ -36,6 +36,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
+  "name": "Familientag beim Winterfest der HfMT Köln",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/familientag-beim-winterfest-der-hfmt-koeln/2026-12-06",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "Kinder singen hier & jetzt",
   "location": {
    "name": "Köln"
@@ -86,15 +95,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-01",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Der König verschenkt was\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-09",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },

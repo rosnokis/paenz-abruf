@@ -26,25 +26,8 @@ Veranstaltungen
 ★ So bunt & divers das Veedel, so unterschiedlich sind auch unsere Veranstaltungen. Einiges organisiert das Team des Bürgerzentrums, anderes wird von externen Veranstaltern angeboten… Von Kabarett, Lesungen, Podiumsdiskussionen, Kindertheater, (Open-Air-) Konzerten über Tischtennis-Rundlauf-Turnieren bis hin zu den mitreißenden Sinfonie-Konzerten des Flora Sinfonie Orchesters…
 Alle zwei Monate erscheint hier auch der Veranstaltungskalender als PDF zum Download.
 [Mehr erfahren](https://buergerzentrum-nippes.de/veranstaltungen/)
-Di. 24
-November
-19:30 - 21:00
-Scheune
-[LESUNG mit Ulrike Herrmann: Geld als Waffe](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
-Wie entstehen Kriege? Und wie Frieden? Ulrike Herrmann untersucht in diesem Buch große internationale Konflikte und analysiert, dass die Gründe nicht nur historisch, psychologisch oder politisch sind. Sondern dass oft ökonomische Faktoren ausschlaggebend sind. Sie zeigt am Beispiel Russlands, wie die wirtschaftliche Entwicklung des Landes permanente Kriege auch in Zukunft wahrscheinlich macht. Und sie beschreibt […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24)
-Mi. 25
-16:00 - 17:00
-[OHRENschmausen](https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&time=1795622400)
-Michael Hübner singt mit Zwergen und Riesen.Wer nicht bis vier zählen kann, klopft intuitive Beats mit dem Keks, schüttelt triolisch die Rassel bis zur Ekstase oder Hirsebrei auf den Boden. Erwachsene Chorsänger brillieren mit Variationen von „Nananünü“ bis „Lüllüleilu“ und fühlen sich hörbar wohl. Spenden erwünscht! Einlass ab 15:30 Uhr....
-[Details anzeigen](https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&time=1795622400)
-17:00 - 20:00
-Innenhof
-Bürgerzentrum Nippes Altenberger Hof
-[HofKultur goes Christmas – Wunschbaumaktion 2026](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
-★ Bei Dämmerung eröffnen wir im Lichterglanz die Wunschbaumaktion 2026: Es erwartet euch ein musikalischer Abend zum winterlich-weihnachtlichen Einstimmen und Mitsingen, u.a. mit dem Kinder & Jugendchor der Jazzhausschule und dem Feierabendchor Nippes.Bei heißem Punsch und köstlichen Schnuckeleien lassen wir den Abend gemütlich ausklingen. Altenberger Hof: Innenhof, bei Schlechtwetter in der ScheuneEintritt frei! Wie funktioniert die […]...
-[Details anzeigen](https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25)
 Do. 26
+November
 10:00 - 12:00
 Herrenhaus
 [„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
@@ -52,9 +35,24 @@ Sie möchten neue Kontakte in Ihrem Viertel knüpfen, Ihren Ruhestand aktiv gest
 [Details anzeigen](https://buergerzentrum-nippes.de/events/offener-treff-das-seniorennetzwerk-nippes-laedt-ein-603-691-893-170-586-607-474-544-107-548-330-197-233-519-504/?occurrence=2026-11-26&time=1795687200)
 Mo. 30
 20:00 - 21:20
+Scheune
 [Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&time=1796068800)
 ★ Systemisch – Eine Tragödie in 3 Akten 1992 – Mira hat das Abitur bestanden. Sie möchte studieren, aber ihre Eltern verwehren ihr diesen Wunsch. Für Mira gibt es keine Chance zu ergreifen, sondern eine Ordnung zu akzeptieren. Es stellt sich die Frage, warum die Wünsche des einen als Argumente zählen und die Wünsche der anderen […]...
 [Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&time=1796068800)
+Di. 01
+Dezember
+20:00 - 22:00
+Clubraum
+[Offene Worte- Die offene Bühne für Texte, Töne und Zwischentöne](https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-12-01&time=1796155200)
+Das Leben und die Welt sind bunt. Es gibt so viel darüber zu erzählen. Offene Worte ist die neue Veranstaltungsreihe im Altenberger Hof, die Raum für eigene Lieder und Texte geben möchte. Bei “Offene Worte” bekommen Worte und Kreativität eine Bühne. Ob gesungen oder gesprochen, vorgelesen oder frei erzählt. Ein eigenes Lied, ein eigener Text, […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-12-01&time=1796155200)
+[Kölner Geschichten Haus – Systemisch](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-12-01&time=1796155200)
+[Details anzeigen](https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-12-01&time=1796155200)
+Mi. 02
+19:30 - 21:00
+[De Knippschaff – Hinger de Stääne](https://buergerzentrum-nippes.de/events/de-knippschaff-hinger-de-staeaene/?occurrence=2026-12-02)
+Winter- und Weihnachtslieder zum Mitsingen Die „Knippsche Weihnachtszeit“ beschert uns nicht nur adventliche Musik, die uns in urige Nostalgie versetzt, sondern die Lieder verbinden uns auch. Hans Knipps einzigartig beschriebenen Szenerien lassen einen unmittelbaren Teil dieser Welt werden und vermitteln Wärme und Geborgenheit. Auch seine Lieder für die Winter- und Vorweihnachtszeit speisen sich zumeist aus Beobachtungen […]...
+[Details anzeigen](https://buergerzentrum-nippes.de/events/de-knippschaff-hinger-de-staeaene/?occurrence=2026-12-02)
 [Aktuelles – der Bürgerzentrum Blog](https://buergerzentrum-nippes.de/aktuelles/)
 [30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/) 14. August 2026
 Unglaublich aber war – das Bürgerzentrum Nippes gibt es schon seit 30 Jahren im Altenberger Hof – Zeit sich einmal… [Weiterlesen: 30 Jahre Altenberger Hof – Teil 2: Der Förderverein](https://buergerzentrum-nippes.de/30-jahre-altenberger-hof-teil-2-der-foerderverein/)

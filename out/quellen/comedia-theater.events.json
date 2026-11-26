@@ -1,63 +1,6 @@
 [
  {
   "name": "Der Zauber von Oz",
-  "startDate": "2026-11-26T09:00:00+01:00",
-  "endDate": "2026-11-26T11:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Roter Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
-  "eventStatus": "EventCancelled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Der Zauber von Oz",
-  "startDate": "2026-11-26T11:00:00+01:00",
-  "endDate": "2026-11-26T13:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Roter Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Jugend ohne Gott",
-  "startDate": "2026-11-26T12:00:00+01:00",
-  "endDate": "2026-11-26T14:00:00+01:00",
-  "location": {
-   "name": "Comedia Theater (Grüner Saal)",
-   "address": "Vondelstraße 4–8, 50677 Köln"
-  },
-  "offers": [
-   {
-    "price": "5.00",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.comedia-koeln.de/"
- },
- {
-  "name": "Der Zauber von Oz",
   "startDate": "2026-11-27T09:00:00+01:00",
   "endDate": "2026-11-27T11:00:00+01:00",
   "location": {
@@ -104,7 +47,7 @@
   },
   "offers": [
    {
-    "price": "5.00",
+    "price": "8.20",
     "priceCurrency": "EUR"
    }
   ],
@@ -142,7 +85,7 @@
   },
   "offers": [
    {
-    "price": "5.00",
+    "price": "17.00",
     "priceCurrency": "EUR"
    }
   ],
@@ -204,6 +147,63 @@
    }
   ],
   "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/emil-und-die-detektive/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Emil und die Detektive",
+  "startDate": "2026-12-03T09:00:00+01:00",
+  "endDate": "2026-12-03T10:05:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/emil-und-die-detektive/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Was für ein Chaos",
+  "startDate": "2026-12-03T11:00:00+01:00",
+  "endDate": "2026-12-03T13:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Grüner Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/was-fuer-ein-chaos/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.comedia-koeln.de/"
+ },
+ {
+  "name": "Netzlehrer Bob Blume: FUN FACTS",
+  "startDate": "2026-12-03T19:00:00+01:00",
+  "endDate": "2026-12-03T21:00:00+01:00",
+  "location": {
+   "name": "Comedia Theater (Roter Saal)",
+   "address": "Vondelstraße 4–8, 50677 Köln"
+  },
+  "offers": [
+   {
+    "price": "5.00",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-mit-netzlehrer-bob-blume/",
   "eventStatus": "EventScheduled",
   "kinder": false,
   "quelle": "https://www.comedia-koeln.de/"

@@ -1,5 +1,5 @@
 URL: https://www.qultor.de/veranstaltungen/die-schoene-und-das-biest
-ABGERUFEN: 2026-11-26T05:26
+ABGERUFEN: 2026-11-26T20:03
 VON: tickets.yml
 
 Die Schöne und das Biest

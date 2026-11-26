@@ -3,9 +3,11 @@
 ## Quelle: https://verliebtinkoeln.com/
 Anzeige
 Aktuelles
+[Das Köln-Rätsel: Welche kölschen Wörter gehören zusammen?](https://verliebtinkoeln.com/koeln-raetsel-koeln-hoch-vier/)
+★ Was haben der Dom, Groß St. Martin, St. Gereon und St. Kunibert gemeinsam? Es sind vier Kölner Kirchen. Genau solche Verbindungen suchst du in unserem Köln-Rätsel. Vor dir liegen 16 Karten mit Begriffen rund um die Stadt. Jeweils vier davon gehören zusammen.…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 26.11.2026 • 2 Min. Lesedauer
 [Adventsverkehr in Köln: Stadt setzt kostenlose Shuttle-Busse ein](https://verliebtinkoeln.com/adventsverkehr-koeln-deutzer-bruecke-b55a/)
-Wer am ersten Adventswochenende mit dem Auto zu den Kölner Weihnachtsmärkten fährt, muss auf der rechten Rheinseite mit zwei Umleitungen rechnen. Am Samstag, 28. November, leitet die Stadt den Autoverkehr Richtung Innenstadt vor der Deutzer Brücke um. Am Abend kommt eine Vollsperrung…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 2 Min. Lesedauer
+25.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/)
 [Kölsche Sudoku am Mittwoch: Hier kostenlos am Handy oder Computer spielen](https://verliebtinkoeln.com/koelsche-sudoku-am-mittwoch-hier-kostenlos-am-handy-oder-computer-spielen/)
 25.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
 [Neuer Weihnachtsmarkt im Mediapark kommt laut Umfrage sehr unterschiedlich an](https://verliebtinkoeln.com/weihnachtsmarkt-mediapark-koeln-stimmen/)
@@ -16,12 +18,10 @@ Wer am ersten Adventswochenende mit dem Auto zu den Kölner Weihnachtsmärkten f
 24.11.2026 • [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/)
 [Test: Welches Kölner Veedel passt wirklich zu dir?](https://verliebtinkoeln.com/nach-diesen-11-fragen-weisst-du-in-welchem-koelschen-veedel-du-leben-solltest/)
 24.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/)
-[Wie gut kennst du das Köln zur Römerzeit? Mach den Test](https://verliebtinkoeln.com/koeln-zur-roemerzeit/)
-24.11.2026 • [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+Wer am ersten Adventswochenende mit dem Auto zu den Kölner Weihnachtsmärkten fährt, muss auf der rechten Rheinseite mit zwei Umleitungen rechnen. Am Samstag, 28. November,…
+[Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 2 Min. Lesedauer
 Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder direkt auf…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 25.11.2026 • 2, 2, 2 Min. Lesedauer
-Seit dem 19. November gibt es in Köln einen neuen Weihnachtsmarkt. Auf dem Platz vor dem KölnTower findet zum ersten Mal „Santas Weihnachtsmarkt“ statt. Die…
-[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 3 Min. Lesedauer
 [Köln Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/)
 En unserem Veedel: Das Veedel-Lied der Bläck Fööss ist fast 50 Jahre alt – und dennoch aktueller denn je. Zuletzt hat die Corona-Krise…
 [Echt kölsche Geschichten](https://verliebtinkoeln.com/category/koeln-geschichten-infos/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 24.11.2026 • 2 Min. Lesedauer
@@ -49,6 +49,7 @@ Wer „Prumm“ sagt, denkt wahrscheinlich an Pflaumen oder an ein schönes Stü
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/), [Kölsche Sprache](https://verliebtinkoeln.com/category/koelsche-sprache-und-koelsch-als-sprache-und-dialekt/) • 28.10.2026 • 3 Min. Lesedauer
 [Ausflugstipps Köln](https://stage.verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/)
 Seit dem 19. November gibt es in Köln einen neuen Weihnachtsmarkt. Auf dem Platz vor dem KölnTower findet zum ersten Mal „Santas Weihnachtsmarkt“…
+[Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 25.11.2026 • 3 Min. Lesedauer
 [Das ist neu beim Markt der Heinzel in der Kölner Altstadt](https://verliebtinkoeln.com/weihnachtsmarkt-heumarkt-alter-markt-koeln/)
 ★ Seit Montag, 23. November, ist Heinzels Wintermärchen auf dem Alter Markt und dem Heumarkt geöffnet. Auf dem Heumarkt könnt ihr bis zum 10.…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 23.11.2026 • 3 Min. Lesedauer
@@ -59,15 +60,14 @@ Finder auf dem Handy speichern So habt ihr das Weihnachtsmarkt-Programm schnell 
 ★ Eine beleuchtete Weihnachtspyramide, ein Streichelzoo und eine Scheune zum Toben: Der Erlebnisbauernhof Gertrudenhof in Hürth hat seinen Familien-Weihnachtspark geöffnet. Vom 19. November 2026…
 [Ausflugstipps Köln](https://verliebtinkoeln.com/category/ausflugstipps-koeln-eifel-bergisches-land-reisetipps/), [Köln](https://verliebtinkoeln.com/category/koeln/) • 22.11.2026 • 2 Min. Lesedauer
 [Köln-Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/)
+★ Was haben der Dom, Groß St. Martin, St. Gereon und St. Kunibert gemeinsam? Es sind vier Kölner Kirchen. Genau solche Verbindungen suchst du…
 Willkommen beim kölschen Sudoku am Mittwoch und schön, dat Do do bes! Das kölsche Sudoku ist KOSTENLOS. Du kannst es am Computer oder…
+[Wie gut kennst du das Köln zur Römerzeit? Mach den Test](https://verliebtinkoeln.com/koeln-zur-roemerzeit/)
 Wenn man durch die Straßen der Kölner Altstadt läuft, ahnt man manchmal gar nicht, wie viel Geschichte unter den eigenen Füßen liegt. Denn…
 [Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 24.11.2026 • 2 Min. Lesedauer
 Koelsche Gerichte
 [Erkennst du nur an den Zutaten, welche 8 kölschen Gerichte gemeint sind?](https://verliebtinkoeln.com/erkennst-du-an-den-zutaten-um-welches-koelsche-gericht-es-sich-handelt/)
 Was gibt es schöneres als zu einem lecker Kölsch auch ein schönes deftiges kölsches Gericht zu essen? Natürlich haben wir in Köln auch…
-[Dat kölsche Sudoku am Dienstag – hier kostenlos Rätseln](https://verliebtinkoeln.com/sudoku-koeln-dienstag/)
-Herzlich Wlilkommen beim kölschen Sudoku am Dienstag. Hier kannst du kostenlos und ohne werbung zwischen den Artikeln testen, ob du das heutige Zahlenrätsel…
-[Köln](https://verliebtinkoeln.com/category/koeln/), [Kölsche Quizze](https://verliebtinkoeln.com/category/koeln-quiz-raetsel/) • 24.11.2026 • 2, 2 Min. Lesedauer
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/)
 Mikey Moore schießt sein erstes Tor für den 1. FC Köln, der FC nimmt beim FC Bayern einen Punkt mit. Nach dem 1:1…
 [1. FC Köln](https://verliebtinkoeln.com/category/aktuelle-nachrichten-zum-1-fc-koeln/), [Köln](https://verliebtinkoeln.com/category/koeln/), [Köln Nachrichten](https://verliebtinkoeln.com/category/koeln-nachrichten-aktuelle-news-aus-koeln/) • 24.11.2026 • 3 Min. Lesedauer

@@ -4,21 +4,21 @@
  "stand": "2026-11-26",
  "tage": {
   "2026-11-26": {
-   "w": "Teilweise bewölkt",
-   "i": "teils",
-   "max": 3,
-   "min": -3,
+   "w": "Bewölkt",
+   "i": "wolke",
+   "max": -1,
+   "min": -2,
    "mm": 0.0
   },
   "2026-11-27": {
    "w": "Sonnig",
    "i": "sonne",
-   "max": 1,
+   "max": 2,
    "min": -4,
    "mm": 0.0
   },
   "2026-11-28": {
-   "w": "Überwiegend sonnig",
+   "w": "Teilweise bewölkt",
    "i": "teils",
    "max": 3,
    "min": -3,
@@ -27,50 +27,50 @@
   "2026-11-29": {
    "w": "Leichter Schneeregen",
    "i": "regen",
-   "max": 3,
+   "max": 4,
    "min": 0,
-   "mm": 0.8
+   "mm": 1.1
   },
   "2026-11-30": {
    "w": "Bewölkt",
    "i": "wolke",
    "max": 4,
    "min": 1,
-   "mm": 0.1
+   "mm": 0.3
   },
   "2026-12-01": {
-   "w": "Bewölkt",
-   "i": "wolke",
-   "max": 6,
-   "min": 1,
-   "mm": 0.0
-  },
-  "2026-12-02": {
    "w": "Bewölkt",
    "i": "wolke",
    "max": 4,
    "min": 1,
    "mm": 0.0
   },
+  "2026-12-02": {
+   "w": "Regen",
+   "i": "regen",
+   "max": 5,
+   "min": 2,
+   "mm": 9.0
+  },
   "2026-12-03": {
    "w": "Bewölkt",
    "i": "wolke",
-   "max": 3,
-   "min": -1,
-   "mm": 0.0
+   "max": 8,
+   "min": 4,
+   "mm": 0.2
   },
   "2026-12-04": {
-   "w": "Bewölkt",
-   "i": "wolke",
-   "max": 1,
-   "min": -3,
+   "w": "Teilweise bewölkt",
+   "i": "teils",
+   "max": 3,
+   "min": 0,
    "mm": 0.0
   },
   "2026-12-05": {
    "w": "Teilweise bewölkt",
    "i": "teils",
-   "max": 3,
-   "min": -4,
+   "max": 2,
+   "min": -1,
    "mm": 0.0
   }
  }

@@ -47,9 +47,16 @@ Pütz-Roth, Kürtener Str. 10, 51465 Bergisch Gladbach (© Alle Bilder Pütz-Rot
 [Aktuelle Termine](https://www.puetz-roth.de/termine.aspx)
 [Bestattungshaus Pütz-Roth](http://www.puetz-roth.de/)
 Tanz auf dem Vulkan - bei Pütz-Roth
-Bergisch Gladbach - Am Donnerstag, den 26.11.26 ist das Swing-Ensemble Die Glühwürmchen von 19:00 bis 21:30 Uhr im Bestattungshaus Pütz-Roth. Ihr Thema ganz im Stil der goldenen 20er: „Tanz auf dem Vulkan".
+Bergisch Gladbach - Am Donnerstag, den 26. November 2026 ist das Swing-Ensemble Die Glühwürmchen von 19:00 bis 21:30 Uhr im Bestattungshaus Pütz-Roth. Ihr Thema ganz im Stil der goldenen 20er: „Tanz auf dem Vulkan".
 Das Bestattungshaus Pütz-Roth ist zum einen bekannt für seinen innovativen Zugang zum Thema Tod und Sterben. Die Hinterbliebenen und die Begräbniskultur als Ganzes erfahren im Bestattungshaus viel Zuwendung.
 Darüber hinaus bietet das Bestattungshaus auch Kleinkunst, Vorträge, Lesungen, Infotage, Trauerbegleitung und Benefiz-Veranstaltungen. Die Homepage von Pütz-Roth informiert über die jeweils aktuellen Termine. (rb/MF)
+Kulturveranstaltungen im Burghaus Bielstein, Burgstraße 9, 51674 Wiehl
+[Aktuelle Termine](https://www.kulturkreis-wiehl.de/veranstaltungen/)
+[Kulturkreis Wiehl](http://kulturkreis-wiehl.de/Default.aspx?Kat=0&Deb=-60)
+New Orleans Jazzband of Cologne im Burghaus Wiehl
+Wiehl - Am Donnerstag, den 26. November 2026, um 20:00 Uhr, ist die New Orleans Jazzband of Cologne im Burghaus zu Gast.
+Kultur auf dem Land, das ist für uns eine spannende Angelegenheit. Die mit vielen Locations und Events überversorgten Großstädter neigen schon mal zu Gedankenlosigkeit und Undankbarkeit.
+Es gibt viele Künstler, die gezielt zuerst auf dem Land auftreten, um die Qualität ihres neuen Programms zu testen. Was sagt das über den Kulturgeschmack der Städter aus? Der ist eher ländlich? (rb/MF)
 Essigfabrik, Siegburger Straße 110, 50679 Köln-Deutz (Grafik OSM)
 [Aktuelle Termine](https://essig-fabrik.de/programm/)
 [Essig-Fabrik](https://essig-fabrik.de/)
@@ -63,19 +70,6 @@ Zu früh gestorben - Selbsthilfegruppe
 ★ Köln - Die Initiative ["Zu früh gestorben"](https://www.zu-frueh-gestorben.de/) lädt am Donnerstag, den 26. November 2026 um 20:00 Uhr zum Treffen der Selbsthilfegruppe, ein, einem Gesprächskreis für Familien und Angehörige.
 ★ Wir sind ein Gesprächskreis für Eltern, die ihr Kind durch Fehlgeburt, Totgeburt oder unmittelbar nach der Geburt verloren haben. Sie finden hier Solidariät und Verständnis bei Betroffenen.
 Einmal im Jahr laden wir zu einem ökumenischen Gedenkgottesdienst ein. Wir treffen uns an jedem 4. Donnerstag im Monat ab 20:00Uhr in der Selbsthilfe Kontaktstelle Köln, [Marsilstein 4-6](https://www.openstreetmap.org/), 50676 Köln. (PR)
-Kulturveranstaltungen im Burghaus Bielstein, Burgstraße 9, 51674 Wiehl
-[Aktuelle Termine](https://www.kulturkreis-wiehl.de/veranstaltungen/)
-[Kulturkreis Wiehl](http://kulturkreis-wiehl.de/Default.aspx?Kat=0&Deb=-60)
-New Orleans Jazzband of Cologne im Burghaus Wiehl
-Wiehl - Am Donnerstag, den 26. November 2026, um 20:00 Uhr, ist die New Orleans Jazzband of Cologne im Burghaus zu Gast.
-Kultur auf dem Land, das ist für uns eine spannende Angelegenheit. Die mit vielen Locations und Events überversorgten Großstädter neigen schon mal zu Gedankenlosigkeit und Undankbarkeit.
-Es gibt viele Künstler, die gezielt zuerst auf dem Land auftreten, um die Qualität ihres neuen Programms zu testen. Was sagt das über den Kulturgeschmack der Städter aus? Der ist eher ländlich? (rb/MF)
-Herrengedeck – Schöne Bescherung! - Stadthalle Köln Mülheim, Jan-Wellem-Platz 2, 51065 Köln (© Stadthalle Köln)
-[Stadthalle Köln-Mülheim](http://www.stadthalle-koeln-muelheim.de/)
-Herrengedeck – Schöne Bescherung!
-★ Mülheim - Am Donnerstag, den 26. November 2026 um 19:00 Uhr, gibt es in der Stadthalle Köln Mülheim Weihnachten mit dem Herrengedeck, eine Weihnachtsshow mit Martin Schopps, JP Weber und Volker Weininger sowie einem exquisiten Drei-Gänge-Menü.
-Zur Geschichte der Stadthalle: Pläne für eine Veranstaltungs- halle gab es lange. Aber der Stadtgarten war schon 50 Jahre alt, als die Stadthalle 1963 endlich eröffnet wurde. In den 70- und 80ern zog sie internationale Rockgrößen an:
-Hier waren The Cure, Mother’s Finest und Klaus Lage zu Gast. 1983 auch die damals wenig bekannte Band Metallica. Zum 01. November 2022 übergab der bisherige Leiter Marco Jülich den Betrieb an das Ehepaar Rabe. (PR)
 Evangelische Christuskirche Leverkusen, Dönhoffstraße 2, 51373 Leverkusen-Wiesdorf (Bild © jr/MF)
 [Christuskirche - Homepage](https://www.kirche-leverkusen-mitte.de/)
 [Christuskirche / Wikipedia](https://de.wikipedia.org/wiki/Christuskirche_(Wiesdorf))
@@ -85,6 +79,12 @@ Erzählt wird in „Ein Mann der Kunst“, wie kunstsinnige Bildungsbürger im R
 Prößdorf wird von einem Fagott-Trio musikalisch begleitet. Zur Pause gibt es ein vom Kochteam der Gemeinde zubereitetes Buffet. Ein Abend, der geistreich, humorvoll und lecker wird! Der Eintritt beträgt inklusive eines Pausenbuffets 10€ / 8€. [(Ev. Kirchengemeinde)](https://www.kirche-leverkusen-mitte.de/events/buch-fuer-die-stadt-ein-mann-der-kunst/)
 Kommentar von Redaktion am 10.11.2026
 Vom Bahnhof Mülheim bis zum Bahnhof Leverkusen-Mitte sind es nur ein paar Minuten. Wie auch vom Bahnhof Lev weiter zu Fuß zur Christuskirche..
+Herrengedeck – Schöne Bescherung! - Stadthalle Köln Mülheim, Jan-Wellem-Platz 2, 51065 Köln (© Stadthalle Köln)
+[Stadthalle Köln-Mülheim](http://www.stadthalle-koeln-muelheim.de/)
+Herrengedeck – Schöne Bescherung!
+★ Mülheim - Am Donnerstag, den 26. November 2026 um 19:00 Uhr, gibt es in der Stadthalle Köln Mülheim Weihnachten mit dem Herrengedeck, eine Weihnachtsshow mit Martin Schopps, JP Weber und Volker Weininger sowie einem exquisiten Drei-Gänge-Menü.
+Zur Geschichte der Stadthalle: Pläne für eine Veranstaltungs- halle gab es lange. Aber der Stadtgarten war schon 50 Jahre alt, als die Stadthalle 1963 endlich eröffnet wurde. In den 70- und 80ern zog sie internationale Rockgrößen an:
+Hier waren The Cure, Mother’s Finest und Klaus Lage zu Gast. 1983 auch die damals wenig bekannte Band Metallica. Zum 01. November 2022 übergab der bisherige Leiter Marco Jülich den Betrieb an das Ehepaar Rabe. (PR)
 Lichtspiele Kalk, Kalk-Mülheimer Straße 130-132, 51103 Köln (Alle Bilder © Lichtspiele Kalk)
 [Lageplan / OSM](http://www.openstreetmap.org/search?query=K%C3%B6ln%2C%20kalk-m%C3%BClheimer%20stra%C3%9Fe%20130)
 [Lichtspiele Kalk](http://www.lichtspiele-kalk.de/)
@@ -100,6 +100,13 @@ Ein Buch für Mülheim - Lesung und Meinung
 Mülheim - Am Freitag, den 27. November 2026 beschäftigen wir uns ab 19:30 Uhr mit dem Buch für die Stadt [Ein Mann der Kunst](https://www.amazon.de/Ein-Mann-Kunst-Kristof-Magnusson/dp/3442493366/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3KHE7RG3OVR6X&dib=eyJ2IjoiMSJ9.Wts6YQcluYeD1GsX13mtbe5P7DZDIsrIIvfc3y2QFoAqcqVAk20og3uSESKJXwNqoWWcbeISA488aMs1pmeAupCX7AVWmccqXMMerdcUI6HNf3E9Jk6mwioA6fno-ZSMY6wczAgM5r5-oh6c0G3oDlnyCgb8JDt0Jji1ycURcrDXKpyJoTsuIsyfTTaR4OQ51UzPkQP089ruxZWmeAyc9xtTijWT2fOzVYn9X4lZgwA.n7SHPaly1tNdPnBFBbCPMePXrSt0UVWolj95VvkbIOI&dib_tag=se&keywords=Ein+mann+der+ku …
 Der Museumsdirektor, der dem Förderverein viel Geld abringen muss. Ein Maler, der sich auf einer Burg am Rhein verschanzt. Das sind die Zutaten für die unterhaltsame Persiflage auf den Kunstbetrieb. Wie lesen zentrale Szenen aus dem Roman vor.
 Anschließend befragen wir Patrick Görtsgen (Kunsthistoriker) und [Tim Ossege](https://koeln-muelheim.de/adressen.php?ID=30468) (Street Art-Künstler): Ist Kunst wichtig? Wer entscheidet, was Kunst ist? Braucht Kunst Werbung? Wen erreicht Kunst? Mit Irina Funk am Piano. Der Eintritt ist frei! (PR)
+Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln-Kalk (Bild BhK)
+[Aktuelle Termine](http://www.buergerhauskalk.de/veranstaltungen/?size=698)
+[Bürgerhaus Kalk](http://www.buergerhauskalk.de/)
+Hofkantine im Bürgerhaus Kalk
+Kalk - Am Freitag, den 27. November 2026 heißt es um 17:00 Uhr in der Hofkantine im Bürgerhaus Kalk wieder "Essen fassen." Jeden Monat laden wir das Veedel in unserem Hof zum Essen ein.
+Um die Nachbar*innen kennen zu lernen, den Feierabend im Freien zu genießen, lecker zu essen und sich locker auszutauschen. Diesmal gemeinsam mit Nur ein Karnevalsverein e.V.
+★ Wer gerne kocht und bei der HofKantine mitmachen möchte, kann sich melden unter [E-Mail]. Ansonsten gilt: Einfach vorbeikommen und mitessen, denn gemeinsam schmeckt‘s am besten! (Bürgerhaus Kalk)
 ★ Jeden Freitag von 12 bis 14 Uhr Reibekuchen beim Café Kind, Waldecker Straße 35, 51065 Köln-Buchforst (© rb/MF)
 ★ [Café Kind](https://cafe-kind.de/)
 ★ Café Kind - heiß und fettig!
@@ -140,13 +147,6 @@ Critical Mass Cologne
 Köln - Am Freitag, den 27. November 2026 fahren unter dem Motto "Erobere die Straßen zurück" Teilnehmer der Fahrrad-Bewegung [Critical Mass durch Köln](https://criticalmass.in/koeln) und nehmen die Fahrspuren in Beschlag.
 Weil Radler im Straßenverkehr oft das Nachsehen haben, kommen immer mehr Teilnehmer zu der Fahrrad-Demo. Die Critical Mass ist jeden letzten Freitag im Monat, Treffpunkt ist um 17:30 Uhr am Hahnentor am Rudolfplatz. (PR)
 Kommentar: Viele Radler sind auch Autofahrer. Es geht also nicht um Konfrontation, sondern um Toleranz. Wer das Thema auf Autoraser und Fahrradrambos verkürzt, denkt zu kurz: "Radler stören den Verkehr nicht, sie sind Verkehr." (rb/MF)
-dIRE sTRATS im Scala-Club, Uhlandstr. 9, 51379 Leverkusen
-[Aktuelle Termine](http://www.scala-leverkusen.de/club/)
-[Scala Leverkusen](http://www.scala-leverkusen.de/club/)
-dIRE sTRATS im Scala
-Leverkusen - Am Freitag, den 27. November 2026 ist ab 20:00 Uhr im Scala Club Leverkusen die Band dIRE sTRATS, die meistgebuchte Dire Straits-Tribute-Band Europas, zu Gast.
-Der Scala-Club in Leverkusen hat drei Bereiche: den Club mit Konzerten und Kleinkunst, die Cantina fürs Essen und das Cinema zeigt Filme. Bekannt ist der Scala-Club auch als Spielstätte der Leverkusener Jazztage.
-Werfen Sie einen Blick in den Veranstaltungs- Kalender, Sie könnten überrascht sein. Radler planen für die 13 km eine 3/4 Stunde ein. Die Regionalbahn braucht vom Mülheimer Bahnhof aus bis Bhf Opladen unschlagbare 10 Minuten.. (rb)
 Topos, Hauptstraße 124, 51373 Leverkusen-Wiesdorf (Bild Jazz Lev e.V.)
 [Aktuelle Termine](https://www.jazz-lev.de/vorschau-2026.html)
 [Jazz Leverkusen e.V.](http://www.jazz-lev.de/)
@@ -154,13 +154,13 @@ Nuberg Trio im Topos
 Leverkusen - Am Freitag den 27. November 2026 ist die Band [Nuberg Trio](https://www.jazz-lev.de/27.11.-26-nuberg-trio.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
 In unserem Vereinslokal topos bieten wir von Jazz und Blues - Konzerten, Lesungen, Jazzfestivals, Riverboatshuffles, Street Life und dem Leverkusener Kneipenfestival ein vielfältiges Programm an.
 Wir verfolgen auschließlich gemeinnützige Zwecke zur Förderung von Kunst und Kultur, besonders aller live dargestellten Musikrichtungen, um ihren Freunden lebendige Konzerte bieten zu können. (PR)
-Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln-Kalk (Bild BhK)
-[Aktuelle Termine](http://www.buergerhauskalk.de/veranstaltungen/?size=698)
-[Bürgerhaus Kalk](http://www.buergerhauskalk.de/)
-Hofkantine im Bürgerhaus Kalk
-Kalk - Am Freitag, den 27. November 2026 heißt es um 17:00 Uhr in der Hofkantine im Bürgerhaus Kalk wieder "Essen fassen." Jeden Monat laden wir das Veedel in unserem Hof zum Essen ein.
-Um die Nachbar*innen kennen zu lernen, den Feierabend im Freien zu genießen, lecker zu essen und sich locker auszutauschen. Diesmal gemeinsam mit Nur ein Karnevalsverein e.V.
-★ Wer gerne kocht und bei der HofKantine mitmachen möchte, kann sich melden unter [E-Mail]. Ansonsten gilt: Einfach vorbeikommen und mitessen, denn gemeinsam schmeckt‘s am besten! (Bürgerhaus Kalk)
+dIRE sTRATS im Scala-Club, Uhlandstr. 9, 51379 Leverkusen
+[Aktuelle Termine](http://www.scala-leverkusen.de/club/)
+[Scala Leverkusen](http://www.scala-leverkusen.de/club/)
+dIRE sTRATS im Scala
+Leverkusen - Am Freitag, den 27. November 2026 ist ab 20:00 Uhr im Scala Club Leverkusen die Band dIRE sTRATS, die meistgebuchte Dire Straits-Tribute-Band Europas, zu Gast.
+Der Scala-Club in Leverkusen hat drei Bereiche: den Club mit Konzerten und Kleinkunst, die Cantina fürs Essen und das Cinema zeigt Filme. Bekannt ist der Scala-Club auch als Spielstätte der Leverkusener Jazztage.
+Werfen Sie einen Blick in den Veranstaltungs- Kalender, Sie könnten überrascht sein. Radler planen für die 13 km eine 3/4 Stunde ein. Die Regionalbahn braucht vom Mülheimer Bahnhof aus bis Bhf Opladen unschlagbare 10 Minuten.. (rb)
 Wilfried Schmickler im Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach
 [Aktuelle Termine](https://www.bergischerloewe.de/programm.aspx)
 [Bergischer Löwe](http://www.bergischerloewe.de/)
@@ -253,6 +253,9 @@ Burgweihnacht auf Burg Satzvey 2026
 Mechernich - Am Samstag, den 28. November und Sonntag, den 29. November 2026 ist wieder Burgweihnacht auf Burg Satzvey. Samstag von 12:00 bis 20:00 Uhr, und am Sonntag von 12:00 bis 19:00 Uhr.
 Die mittelalterliche Wasserburg ist aus dem 12. Jahrhundert und in Mechernich-Satzvey gelegen. Mit der Burgweihnacht findet das Veranstaltungsjahr seinen stimmungsvollen Ausklang mit dem wohl schönsten und romantischsten Weihnachtsmarkt mit mittelalterlichem Krippenspiel.
 ★ Um die Burg erhalten zu können, machte sie der Eigentümer dem Publikum zugänglich. Regelmäßige Veranstaltungen wie Ritterfestspiele, Fantasydays, historische Basare, saisonale Märkte und Feste finden auf dem Burggelände statt. [(Wikipedia)](http://de.wikipedia.org/wiki/Burg_Satzvey)
+Stax Masters im Topos
+Leverkusen - Am Samstag den 28. November 2026 ist die Band [Stax Masters](https://www.jazz-lev.de/28.11.-26-stax-masters.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
+Kalk - Am Samstag, den 28. November 2026 zeigen die Lichtspiele Kalk um 18:00 Uhr den Film [Barrio Triste](https://www.filmstarts.de/kritiken/1000027882.html) in der spanischen Originalsprachfassung mit deutschen Untertiteln.
 Bild "Auf die Welt"
 [Auf in die Welt](https://www.aufindiewelt.de/)
 [Auf in die Welt - Köln](https://www.aufindiewelt.de/koeln)
@@ -275,7 +278,6 @@ WDR4 Disco - Die Party zum Tanzen
 Wipperfürth - Am Samstag, den 28. November 2026, präsentiert WDR4 ab 20:00 Uhr ist in der alten Drahtzieherei: Dico 44 - Die Party zum Tanzen.
 Lichtdurchflutet und großzügig präsentiert sich das Kultur- und Veranstaltungs- Zentrum "Alte Drahtzieherei" in der Wupperstraße mit der Hausnummer 8 in Wipperfürth.
 Hier veranstaltet die Bürgerstiftung "Wir Wipperfürther" ein abwechslungsreiches Kulturprogramm. Ob Konzerte, Kleinkunst, Lesungen oder Theateraufführungen - hier ist für jeden Geschmack etwas dabei. (Alte Drahtzieherei)
-Kalk - Am Samstag, den 28. November 2026 zeigen die Lichtspiele Kalk um 18:00 Uhr den Film [Barrio Triste](https://www.filmstarts.de/kritiken/1000027882.html) in der spanischen Originalsprachfassung mit deutschen Untertiteln.
 Galileum, Walter-Horn-Weg 1, 42697 Solingen
 [Aktuelle Termine](https://galileum-solingen.de/programm/)
 [Galileum Solingen](http://galileum-solingen.de/)
@@ -284,8 +286,6 @@ Der Stern von Bethlehem - im Galileum
 Solingen - Am Samstag, den 28. November 2026 geht es um 15:00 Uhr im Planetarium im Rahmen unsereres Weihnachtsprogramms um das Thema [Der Stern von Bethlehem](https://galileum-solingen.de/shows/der-stern-von-bethlehem/).
 ★ Die Show ist für die ganze Familie mit Kindern ab dem Grundschulalter geeignet. Viele Jahre sammelte der Verein Walter-Horn-Gesellschaft Geld, jetzt ist das Planetarium fertig.
 Entstanden ist ein hochmodernes Planetarium, das in Europa einzigartig sein dürfte. m Juli 2019 wurde das Planetarium das erste Mal für's Publikum geöffnet. (Galileum)
-Stax Masters im Topos
-Leverkusen - Am Samstag den 28. November 2026 ist die Band [Stax Masters](https://www.jazz-lev.de/28.11.-26-stax-masters.html) zu Gast im Topos, dem Vereinslokal des Jazz e.V. Einlass ist um 19:00 Uhr, Konzertbeginn um 20:00 Uhr.
 Adventsmarkt im Kapellche, Holsteinstraße 1, 51065 Köln-Mülheim (© rb/MF)
 [Et Kapellche e.V.](http://etkapellche.de/)
 Adventsmarkt im Kapellche 2026
@@ -372,21 +372,14 @@ Geologica 2026
 Bergisch Gladbach - Am Sonntag, den 29. November 2026 ist von 10:00 Uhr bis 16:00 Uhr die Rheinisch-Bergische Mineralien- und Fossilienbörse. Sie ist ein Treffpunkt für Fachleute und Sammler zum Tausch oder Kauf.
 Sie ist auch Anlaufpunkt für alle, die die Wunderwelt der Steine neu entdecken möchten. Dafür setzt sich der Verein Landschaft und Geschichte e.V. ein, der die Börse mit dem Kulturbüro des Rheinisch-Bergischen Kreises veranstaltet.
 Junge Besucher sind zum Goldwaschen und zum Fossilienmalen eingeladen. Im GeoTreff von LuGeV können sich Aussteller und Besucher bei einer Tasse Kaffee und einem Stück Kuchen austauschen und stärken. (LuGeV)
-Lichtspiele Kalk: Shaun das Schaf
-★ Kalk - Am Sonntag, den 29. November 2026 zeigen die Lichtspiele Kalk um 11:00 Uhr [Shaun das Schaf - Spuk im Kürbisfeld](https://www.filmstarts.de/kritiken/1000024131.html), einen Film für die ganze Familie.
-Ber­gisch-​Glad­ba­cher-​Straße 1006 (Bild BG1006)
-[Mietshäuser Syndikat](https://de.wikipedia.org/wiki/Mietsh%C3%A4user_Syndikat)
-Öffentlicher Bautag - Bergisch Gladbacher Straße 1006
-Dellbrück - Am Sonntag, den 29. November 2026 ist von 10:00 Uhr bis 18:00 Uhr der nächste öffentliche Bautag im Haus [Bergisch Gladbacher Straße 1006](https://www.openstreetmap.org/). Wir renovieren das Gebäude gemeinsam.
-Der sanierungsbedürftige Altbau steht größtenteils leer, im Erdgeschoss bietet der Verein [„Bürgertreff“](https://www.buergertreff1006.koeln/) Veranstaltungen für das Gemeinwesen an, wie das Theater [Klapperkasten](https://www.theater-klapperkasten.de/). Eine Initiative für obdachlose Frauen und [SSM](https://www.ssm-koeln.org/start/start.htm) hatten das Gebäude 2019 besetzt.
-Im Januar 2023 berichtete der [Stadt-Anzeiger](https://www.ksta.de/koeln/muelheim/dellbrueck/koeln-dellbrueck-verein-pachtet-altbau-fuer-gemeinnuetziges-wohnen-420370): "Der Verein [Tausendsechs e.V.](https://www.tausendsechs.de/) will einen Altbau in ein gemeinnütziges Wohnprojekt umwandeln. Die Stadt überlässt dem Verein das Haus Bergisch-Gladbacher Straße 1006 in Erbpacht." (rb/MF)
-Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach (Bild Pingsjong / Wikipedia)
-[Bergischer Löwe](https://www.bergischerloewe.de/)
-[Veranstaltungsbüro Grote & Hiller](https://www.grote-hiller.de/)
-★ Mädelsflohmarkt im Bergischen Löwen
-Bergisch Gladbach - Am Sonntag, den 29. November 2026 von 10:30 bis 15:30 Uhr, findet im Bürgerhaus Bergischer Löwe wieder einer der beliebten Mödelsflohmärkte statt.
-★ Nicht nur Kleidung, sondern auch Schuhe und Accessoires (Hüte, Gürtel, Handschuhe, Taschen, Tücher und Schmuck), aber auch Kinder- und Babykleidung kann verkauft werden.
-★ Der Eintritt kostet 3,50 €, Kinder bis 12 Jhare haben in Begleitung eines Erwachsenen freien Eintritt. Adresse: Bergischer Löwe, Konrad-Adenauer-Platz 1, 51465 Bergisch Gladbach. (Grote & Hiller)
+Bergisches Museum, Burggraben 9–21, 51429 Bergisch-Gladbach (Pingsjong, Wikipedia)
+[Aktuelle Termine](https://www.bergisches-museum.de/veranstaltungen.aspx)
+[Bergisches Museum](http://www.bergisches-museum.de/)
+[Wikipedia](https://de.wikipedia.org/wiki/Bergisches_Museum_f%C3%BCr_Bergbau%2C_Handwerk_und_Gewerbe)
+Öffentliche Führung im Bergischen Museum - Neues Programm
+Bensberg - Am Sonntag, den 29. November 2026 laden fachkundige Museumkenner des Bergischen Museums von 14:00 Uhr bis 15:00 Uhr wieder zu einem unterhaltsamen und informativen Spaziergang ein.
+Das Bergische Museum für Bergbau, Handwerk und Gewerbe widmet sich dem früheren Erzbergbau im Bensberger Erzrevier und dem handwerklich-ländlichen Leben der Bevölkerung.
+Dabei liegt der Schwerpunkt auf dem 19. und frühen 20. Jhdt. In Handwerker- Vorführungen wird geschmiedet, gebacken und gesponnen. Es gibt Schul- Unterricht wie zu Kaisers Zeiten und Führungen durch die Bergbauabteilung. (rb/MF)
 Bild Deutsch-Holländischer Stoffmarkt
 [Deusch-Holländischer Stoffmarkt](https://stoffmarkt-expo.de)
 Deutsch-Holländischer Stoffmarkt in Langenfeld
@@ -403,14 +396,21 @@ Dünnwalder Adventsmarkt 2026
 Dünnwald - Am Sonntag, den 29. November 2026 veranstaltet der Dünnwalder Bürgerverein von 12:00 Uhr bis 18:00 Uhr einen Adventsmarkt auf dem [Kirchplatz](https://www.openstreetmap.org/) vor der Kirche St. Hermann-Josef.
 ★ Der Adventsmarkt wird zentral organisiert und von einem bunten Rahmenprogramm für die ganze Familie begleitet. Es gibt einen Kunsthandwerk, einen Familien - Gottesdienst, eine Mitsingaktion, einen Nikolausbesuch und mehr. [(Dünnwalder Bürgerverein)](https://www.duennwalder.de/)
 Kommentar: Wie andere Veranstaltungen in Dünnwald auch, zeichnet sich der Markt durch einen angenehm dörflichen Charakter aus: Keinen Stress, keine Hektik und wir hoffen wieder auf besonders leckere Reibekuchen.. (rb/MF)
-Bergisches Museum, Burggraben 9–21, 51429 Bergisch-Gladbach (Pingsjong, Wikipedia)
-[Aktuelle Termine](https://www.bergisches-museum.de/veranstaltungen.aspx)
-[Bergisches Museum](http://www.bergisches-museum.de/)
-[Wikipedia](https://de.wikipedia.org/wiki/Bergisches_Museum_f%C3%BCr_Bergbau%2C_Handwerk_und_Gewerbe)
-Öffentliche Führung im Bergischen Museum - Neues Programm
-Bensberg - Am Sonntag, den 29. November 2026 laden fachkundige Museumkenner des Bergischen Museums von 14:00 Uhr bis 15:00 Uhr wieder zu einem unterhaltsamen und informativen Spaziergang ein.
-Das Bergische Museum für Bergbau, Handwerk und Gewerbe widmet sich dem früheren Erzbergbau im Bensberger Erzrevier und dem handwerklich-ländlichen Leben der Bevölkerung.
-Dabei liegt der Schwerpunkt auf dem 19. und frühen 20. Jhdt. In Handwerker- Vorführungen wird geschmiedet, gebacken und gesponnen. Es gibt Schul- Unterricht wie zu Kaisers Zeiten und Führungen durch die Bergbauabteilung. (rb/MF)
+Lichtspiele Kalk: Shaun das Schaf
+★ Kalk - Am Sonntag, den 29. November 2026 zeigen die Lichtspiele Kalk um 11:00 Uhr [Shaun das Schaf - Spuk im Kürbisfeld](https://www.filmstarts.de/kritiken/1000024131.html), einen Film für die ganze Familie.
+Ber­gisch-​Glad­ba­cher-​Straße 1006 (Bild BG1006)
+[Mietshäuser Syndikat](https://de.wikipedia.org/wiki/Mietsh%C3%A4user_Syndikat)
+Öffentlicher Bautag - Bergisch Gladbacher Straße 1006
+Dellbrück - Am Sonntag, den 29. November 2026 ist von 10:00 Uhr bis 18:00 Uhr der nächste öffentliche Bautag im Haus [Bergisch Gladbacher Straße 1006](https://www.openstreetmap.org/). Wir renovieren das Gebäude gemeinsam.
+Der sanierungsbedürftige Altbau steht größtenteils leer, im Erdgeschoss bietet der Verein [„Bürgertreff“](https://www.buergertreff1006.koeln/) Veranstaltungen für das Gemeinwesen an, wie das Theater [Klapperkasten](https://www.theater-klapperkasten.de/). Eine Initiative für obdachlose Frauen und [SSM](https://www.ssm-koeln.org/start/start.htm) hatten das Gebäude 2019 besetzt.
+Im Januar 2023 berichtete der [Stadt-Anzeiger](https://www.ksta.de/koeln/muelheim/dellbrueck/koeln-dellbrueck-verein-pachtet-altbau-fuer-gemeinnuetziges-wohnen-420370): "Der Verein [Tausendsechs e.V.](https://www.tausendsechs.de/) will einen Altbau in ein gemeinnütziges Wohnprojekt umwandeln. Die Stadt überlässt dem Verein das Haus Bergisch-Gladbacher Straße 1006 in Erbpacht." (rb/MF)
+Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach (Bild Pingsjong / Wikipedia)
+[Bergischer Löwe](https://www.bergischerloewe.de/)
+[Veranstaltungsbüro Grote & Hiller](https://www.grote-hiller.de/)
+★ Mädelsflohmarkt im Bergischen Löwen
+Bergisch Gladbach - Am Sonntag, den 29. November 2026 von 10:30 bis 15:30 Uhr, findet im Bürgerhaus Bergischer Löwe wieder einer der beliebten Mödelsflohmärkte statt.
+★ Nicht nur Kleidung, sondern auch Schuhe und Accessoires (Hüte, Gürtel, Handschuhe, Taschen, Tücher und Schmuck), aber auch Kinder- und Babykleidung kann verkauft werden.
+★ Der Eintritt kostet 3,50 €, Kinder bis 12 Jhare haben in Begleitung eines Erwachsenen freien Eintritt. Adresse: Bergischer Löwe, Konrad-Adenauer-Platz 1, 51465 Bergisch Gladbach. (Grote & Hiller)
 SPD Bürgerbüro, Mülheimer Freiheit 132, 51063 Köln-Mülheim (rb/MF)
 Bürgersprechstunde der SPD - online
 Mülheim - Am Montag, den 30. November 2026 lädt von 14:00 Uhr bis 16:00 Uhr die SPD-Landtagsabgeordnete des Stadtbezirks Mülheim, [Carolin Kirsch](https://de.wikipedia.org/wiki/Carolin_Kirsch), zu einer [Bürgersprechstunde](https://www.carolin-kirsch.de/termine/) ein.
@@ -427,15 +427,15 @@ Porz - Am Dienstag, den 01. Dezember 2026 wird ab 17:00 Uhr im Eltzhof wieder wi
 Heute beherbergt der Eltzhof u.a. ein Theater und eine Brauhaus- Gaststätte, die in den Räumen der ehemaligen Landarbeiter ist. Auf dem geschlossenen Innenhof finden Open Air-Veranstaltungen aller Art statt. [(Wikipedia)](https://de.wikipedia.org/wiki/Eltzhof)
 Lichtspiele Kalk: Butterfly - Rückkehr nach Gran Canaria
 Kalk - Am Dienstag, den 01. Dezember 2026 zeigen die Lichtspiele Kalk um 14:45 Uhr den Film [Butterfly - Rückkehr nach Gran Canaria](https://www.filmstarts.de/kritiken/1000037553.html) in der Originalsprachfassung mit deutschen Untertiteln.
+Wir spielen Schach
+★ Mülheim - Am Dienstag, den 01. Dezember 2026 ist von 16:00 Uhr bis 18:00 Uhr, heißt es in der Stadtteilbibliothek Mülheim für Kinder ab 8 Jahren wieder: [Wir spielen Schach](https://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/stadtteilbibliothek-muelheim)
+Egal ob Neuling oder bereits Schachprofi – bei uns kannst du dein Wissen im königlichen Spiel teilen und erweitern oder dir das Spiel ganz neu aneignen.
+Wir spielen miteinander und gegeneinander und lernen gemeinsam, was das Spiel so faszinierend macht. Eine Anmeldung über das Buchungssystem der Stadtteilbibliothek ist notwendig. (Stadt Köln / VHS)
 Glashaus im Bürgerhaus Kalk, Kalk-Mülheimer Straße 58, 51103 Köln-Kalk (Bild BhK)
 ★ KinderHausMusik im Bürgerhaus Kalk
 ★ Kalk - Am Dienstag, den 01. Dezember 2026 um 15:30 Uhr und um 16:30 Uhr, veranstaltet das Bürgerhaus Kalk wieder die "KinderHausMusik". Passend zur Jahreszeit steht im Dezember adventliches Singen mit der Musikpädagogin Mia Stuart auf dem Programm.
 ★ In der Reihe KinderHausMusik können Kinder zwischen vier und acht Jahren an zwei Nachmittagen pro Monat Musik und Instrumente auf vielfältige Art und Weise kennenlernen.
 Inspiriert durch den Grundgedanken der Community Music ist das Angebot Musik für alle und gemeinsame Entdeckungstour. Der Eintritt ist frei; eine Anmeldung ist nicht erforderlich. (Bürgerhaus Kalk)
-Wir spielen Schach
-★ Mülheim - Am Dienstag, den 01. Dezember 2026 ist von 16:00 Uhr bis 18:00 Uhr, heißt es in der Stadtteilbibliothek Mülheim für Kinder ab 8 Jahren wieder: [Wir spielen Schach](https://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/stadtteilbibliothek-muelheim)
-Egal ob Neuling oder bereits Schachprofi – bei uns kannst du dein Wissen im königlichen Spiel teilen und erweitern oder dir das Spiel ganz neu aneignen.
-Wir spielen miteinander und gegeneinander und lernen gemeinsam, was das Spiel so faszinierend macht. Eine Anmeldung über das Buchungssystem der Stadtteilbibliothek ist notwendig. (Stadt Köln / VHS)
 KaKiWeiKos 2026 - Stadthalle Köln Mülheim, Jan-Wellem-Platz 2, 51065 Köln
 [Frau Höpker](https://frauhoepker.de/)
 [Tickets: koelnticket.de](https://www.koelnticket.de/)
@@ -565,8 +565,7 @@ Peter Nonn Blues Band im Topos
 Leverkusen - Am Freitag, den 04. Dezember 2026 ist ab 20:00 Uhr die Peter Nonn Blues Band zu Gast im Topos.
 Blues ist zwar nicht die Wurzel allen Übels, aber die Grundlage für viele schöne Lieder. Ob Country, Reggae, Folk, Rock, was auch immer, der Blues ist stets enthalten. Dies spiegelt sich auch im Repertoire der Peter Nonn Blues Band wieder.
 Das Topos (griechisch für Ort, Stelle) ist das Vereinslokal des Vereins Jazz Lev e.V. zur Förderung der Jazzmusik, Hauptstraße 124, Leverkusen-Wiesdorf, Tel 0214/41555 (ab 19:00 Uhr).
-Der Sternenhimmel im Dezember - Planetarium Köln
-Nippes - Am Samstag, den 05. Dezember 2026 ist im Planetarium Köln Zeit für Astronomie für alle. Das Thema der allgemeinen Führung lautet: Der Sternenhimmel im Oktober. Einlass ist um 17:30 Uhr, Beginn um 18:00 Uhr. Ein späterer Einlass ist leider nicht möglich.
+Jüchen - Am Samstag, den 05. und Sonntag, den 06. Dezember 2026 ist von 10:00 Uhr bis 20:00 Uhr vor dem Wasserschloss der Weihnachtsmarkt. Es duftet nach Tannengrün, Plätzchen und gebrannten Mandeln.
 Alarmsirene (Bild Fernmeldeamt.de)
 [Katastrophenwarnung / Wikipedia](http://de.wikipedia.org/wiki/Sirenensignal)
 [Stadt Köln](https://www.stadt-koeln.de/politik-und-verwaltung/feuerwehr/probealarm-der-sirenen)

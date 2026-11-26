@@ -37,7 +37,7 @@ Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
 26.11.2026
 Do, 20:00 Uhr
 Grenzerfahrungen und Lebensläufe | Theater-Performance von Emel Aydoğdu | Dieser außergewöhnlich sinnliche Theaterabend macht das Unsagbare spürbar, lässt Raum für zutiefst persönliche Erinnerungen und zeigt, wie intensiv uns familiäre Bande prägen, halten und bewegen. Die tief emotionale Musik und der kurdisch-türkische Gesang entstehen live auf der Bühne. Nominiert für den Kurt-Hackenberg-Preis für politisches Theater 2026
-[Zugang über Stufen](https://www.fwt-koeln.de/spielplan/zugang-ueber-stufen?tx_calendarize_calendar%5BendDate%5D=2026-12-25&tx_calendarize_calendar%5BstartDate%5D=2026-11-25&cHash=cdd0aaf7aa41f359a330609486e28093)
+[Zugang über Stufen](https://www.fwt-koeln.de/spielplan/zugang-ueber-stufen?tx_calendarize_calendar%5BendDate%5D=2026-12-26&tx_calendarize_calendar%5BstartDate%5D=2026-11-26&cHash=dec376a0d82dbd605fe9b47d688484c7)
 [Tickets](https://tickets.qultor.de/event/touch-the-line/touch-the-line-2026-11-26-2000)
 27.11.2026
 Fr, 10:00 Uhr

@@ -15,10 +15,6 @@ Ausstellung: Kamalanetra Hung
 Der Zauber von Oz
 von Sergej Gößner in einer Inszenierung von Manuel Moser
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
-15+
-Titanic
-Schöne Menschen spielen große Gefühle von Bettina Hamel, Tobias Krechel, Birte Schrein, Stefan A. Schulz, Julia Wieninger
-[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/titanic/)
 14+
 Jugend ohne Gott
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
@@ -34,6 +30,10 @@ Südstadtflair Christmas Edition.
 [Mehr erfahren](https://comedia-koeln.de/magazin/suedstadtflair-christmas-edition/)
 Nessi Tausendschön: rum-ei-ern
 [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/nessi-tausendschoen-rum-ei-ern/)
+Philharmonie
+★ Veedel Baby
+Funkelzeit
+★ [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/philharmonieveedel-baby-funkelzeit/)
 Willkommen
 Willkommen in der HALLE
 Ausstellung
@@ -41,6 +41,7 @@ Helene Bockhorst
 Theaternacht
 Südstadtflair
 Nessi Tausendschön
+★ PhilharmonieVeedel Baby
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/barrierefreiheit/)
 COMEDIA
 Theater
@@ -48,21 +49,12 @@ Zentrum der Kultur für Junges Publikum
 Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
-26.11.
-Do 09:00 Uhr
+27.11.
+Fr 09:00 Uhr
 [Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
 ★ von Sergej Gößner, für alle ab 5 Jahren
 Comedia Theater (Roter Saal)
-Entfällt
-Do 11:00 Uhr
-[Hinweis](https://tickets.qultor.de/veranstaltungshinweis)
-Do 12:00 Uhr
-[Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
-in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
-Comedia Theater (Grüner Saal)
 [Tickets](https://comedia-koeln.de/schulvorstellungen/)
-27.11.
-Fr 09:00 Uhr
 Fr 11:00 Uhr
 Fr 17:00 Uhr
 [Das Haus vom Klaus »](https://comedia-koeln.de/magazin/das-haus-vom-klaus/)
@@ -82,6 +74,9 @@ DJ Session
 Live in der Halle!
 [Tickets](https://halle.comedia-koeln.de/)
 Sa 19:30 Uhr
+[Jugend ohne Gott »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/jugend-ohne-gott/)
+in einer Bearbeitung von Markolf Naujoks nach dem Roman von Ödön von Horváth
+Comedia Theater (Grüner Saal)
 [Tickets](https://api.qultor.de/jugend-ohne-gott/jugend-ohne-gott-2026-11-28-1930/tickets)
 Sa 20:00 Uhr
 [Helene Bockhorst: LEBEFRAU »](https://comedia-koeln.de/programm/unsere-gaeste/helene-bockhorst-lebefrau/)
@@ -95,6 +90,7 @@ Die Kölner Theaternacht geht in die 24. Runde! Auf verschiedenen Bühnen im Dep
 In der Halle der Comedia.
 Eintritt frei!
 So 19:30 Uhr
+Entfällt
 So 20:00 Uhr
 [Nessi Tausendschön: rum•ei•ern »](https://comedia-koeln.de/programm/unsere-gaeste/nessi-tausendschoen-rum-ei-ern/)
 [Tickets](https://api.qultor.de/nessi-tausendschoen-rumoeioern/nessi-tausendschoen-rumoeioern-2026-11-29-2000/tickets)
@@ -109,5 +105,14 @@ Mi 11:00 Uhr
 Die Kölner Fassung für drei Spieler nach Erich Kästner
 6+
 [Tickets »](https://comedia-koeln.de/schulvorstellungen/)
+3.12.
+Do 09:00 Uhr
+[Hinweis](https://qultor.de/veranstaltungshinweis)
+Do 11:00 Uhr
+[Was für ein Chaos »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/was-fuer-ein-chaos/)
+eine Stückentwicklung von Manuel Moser und Ensemble, eine Produktion des theaterkohlenpott, Herne
+Do 19:00 Uhr
+[Netzlehrer Bob Blume: FUN FACTS »](https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-mit-netzlehrer-bob-blume/)
+[Tickets](https://api.qultor.de/netzlehrer-bob-blume-fun-facts/netzlehrer-bob-blume-fun-facts-2026-10-08-1900/tickets)
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

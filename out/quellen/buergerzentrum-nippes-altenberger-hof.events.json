@@ -1,60 +1,5 @@
 [
  {
-  "name": "LESUNG mit Ulrike Herrmann: Geld als Waffe",
-  "startDate": "2026-11-24",
-  "endDate": "2026-11-24",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "20€",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/lesung-mit-ulrike-herrmann-geld-als-waffe/?occurrence=2026-11-24",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "HofKultur goes Christmas &#8211; Wunschbaumaktion 2026",
-  "startDate": "2026-11-25",
-  "endDate": "2026-11-25",
-  "location": {
-   "name": "Innenhof",
-   "address": "Bürgerzentrum Nippes Altenberger Hof"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei!",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/hofkultur-goes-christmas-wunschbaumaktion-2025-200/?occurrence=2026-11-25",
-  "eventStatus": "EventScheduled",
-  "kinder": true,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
-  "name": "OHRENschmausen",
-  "startDate": "2026-11-25",
-  "endDate": "2026-11-25",
-  "location": {
-   "name": "Scheune"
-  },
-  "offers": [
-   {
-    "price": "Eintritt frei - Spenden sind herzlich willkommen!",
-    "priceCurrency": "EUR"
-   }
-  ],
-  "url": "https://buergerzentrum-nippes.de/events/ohrenschmausen-4-704-807-484-185-180-647-148-557-779-580-109-959-616-884-103-226-975-772/?occurrence=2026-11-25&",
-  "eventStatus": "EventScheduled",
-  "kinder": false,
-  "quelle": "https://www.buergerzentrum-nippes.de"
- },
- {
   "name": "„Offener Treff“ – Das SeniorenNetzwerk Nippes lädt ein",
   "startDate": "2026-11-26",
   "endDate": "2026-11-26",
@@ -88,6 +33,60 @@
   "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-11-30&",
   "eventStatus": "EventScheduled",
   "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Kölner Geschichten Haus &#8211; Systemisch",
+  "startDate": "2026-12-01",
+  "endDate": "2026-12-01",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "10€/ erm.5€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/premiere-koelner-geschichten-haus-systemisch-277/?occurrence=2026-12-01&",
+  "eventStatus": "EventScheduled",
+  "kinder": true,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "Offene Worte- Die offene Bühne für Texte, Töne und Zwischentöne",
+  "startDate": "2026-12-01",
+  "endDate": "2026-12-01",
+  "location": {
+   "name": "Clubraum"
+  },
+  "offers": [
+   {
+    "price": "Eintritt frei - Hut geht rum!",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/offene-worte-die-offene-buehne-fuer-texte-toene-und-zwischentoene/?occurrence=2026-12-01&",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://www.buergerzentrum-nippes.de"
+ },
+ {
+  "name": "De Knippschaff &#8211; Hinger de Stääne",
+  "startDate": "2026-12-02",
+  "endDate": "2026-12-02",
+  "location": {
+   "name": "Scheune"
+  },
+  "offers": [
+   {
+    "price": "25€",
+    "priceCurrency": "EUR"
+   }
+  ],
+  "url": "https://buergerzentrum-nippes.de/events/de-knippschaff-hinger-de-staeaene/?occurrence=2026-12-02",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
   "quelle": "https://www.buergerzentrum-nippes.de"
  }
 ]

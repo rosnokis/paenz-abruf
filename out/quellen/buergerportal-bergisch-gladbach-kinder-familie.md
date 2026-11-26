@@ -33,13 +33,11 @@ Atelierhaus Grube Weiß
 Autohaus Gieraths
 AWO Bildungswerk
 ★ AWO Familienzentrum „Kunterbunt“
-Bachufer der Brücker Aue
 ★ Barber‘s Puppentheater
 Basement 16
 BASt Bundesanstalt für Straßen- und Verkehrswesen
 Begegnungsstätte Mittendrin
 Belkaw Arena
-Bensberg Schloßstr.
 Bensberger Bank
 Bergischer Naturschutzverein (RBN)
 Bergisches Museum für Bergbau, Handwerk und Gewerbe
@@ -64,7 +62,6 @@ Büro Die Linke
 Bus- und S-Bahnhof
 cabra azul
 Café Amelie
-Café Buchmühle
 Cafe Extrablatt
 Cafe Leichtsinn
 Café Richtig
@@ -77,13 +74,10 @@ CDU Kreisgeschäftsstelle
 Cineplex
 Clemenshaus
 Clubheim TTC Bärbroich
-Conrad's Couch
-Cornelia Schwöppe
 Coworking GL
 DBG Dietrich-Bonhoeffer-Gymnasium
 Die Kette e.V.
 Diepeschrather Mühle
-DIVERSE
 DJK-SSV Ommerborn Sand eV
 ★ Dorea Familie
 Dorfplatz Sand
@@ -137,7 +131,6 @@ Fußgängerzone Bergisch Gladbach
 Galerie Schröder und Dörr
 Garage hinter dem Stadthaus
 Garten der Begegnung
-Garten der Begegnung (hinter dem Pfarrhaus der Kirche)
 Garten der Begegnung, an der Herz-Jesu-Kirche Schildgen
 Gartencenter Selbach
 Gartensiedlung Gronauer Wald
@@ -173,9 +166,7 @@ Handwerkstatt
 Hans-Hachenberg-Platz
 Hansen Wirtshaus & Hotel
 Hauptstr. 245, 51465 GL
-Hauptstr. bei der Post („Trotzenburgplatz“)
 Hauptstraße vor dem LoewenCenter
-Haus Buchmühle, Raum 116
 Hebborner Hof
 Heilig-Geist-Kirche
 Hermann-Löns-Forum
@@ -390,7 +381,6 @@ Treffpunkt: Marktplatz Refrath
 Treffpunkt: Pforte Zanders-Areal An der Gohrsmühle 25
 Treffpunkt: Strundequelle in Herrenstrunden
 Trotzenburgplatz
-Trotzenburgplatz, Hauptstraße 159
 TS 79
 TuS Schildgen
 Ufo Jugendkulturhaus
@@ -509,6 +499,8 @@ Chor „à tempo“
 ChorSand und Pop&Soul Chor Dellbrück
 Christlich-ökologische Wohngenossenschaft (CÖW)
 Cineplex Bensberg
+Conrad's Couch
+Cornelia Schwöppe
 Cross - Kath. Zentrum für junge Menschen in Gronau
 CVJM
 Das Esszimmer im TBG

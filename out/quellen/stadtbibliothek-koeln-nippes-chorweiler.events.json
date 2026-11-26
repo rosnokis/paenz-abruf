@@ -63,13 +63,6 @@
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
-  "name": "Bücherbabys – die literarische Krabbelgruppe",
-  "endDate": "2026-11-28T00:00:00+01:00",
-  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-516",
-  "kinder": true,
-  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
- },
- {
   "name": "LeseWelten",
   "endDate": "2026-11-28T00:00:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-540",
@@ -438,6 +431,13 @@
   "endDate": "2026-12-17T17:30:00+01:00",
   "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/bilderbuchkino-54",
   "kinder": true,
+  "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
+ },
+ {
+  "name": "Winterliche Druckwerkstatt",
+  "endDate": "2026-12-17T17:30:00+01:00",
+  "url": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/winterliche-druckwerkstatt",
+  "kinder": false,
   "quelle": "https://www.stadt-koeln.de/artikel/73374/index.html"
  },
  {
