@@ -1,0 +1,275 @@
+{
+ "stand": "2026-11-26T11:18",
+ "anfragen": 25,
+ "wetter_fehler": null,
+ "quellen": [
+  {
+   "id": "familienforum-koeln",
+   "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469",
+   "abgerufen_um": "2026-11-26T11:18",
+   "letzter_erfolg": "2026-11-26T11:18",
+   "sha256": "956c3f4097adf6b4595a7ade57d11bf48915ab319a0e9b7afdbf281a3d8249e8",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469",
+     "http_status": 200,
+     "bytes": 96470,
+     "zeilen": 137,
+     "termine": 0
+    },
+    {
+     "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=466",
+     "http_status": 200,
+     "bytes": 54781,
+     "zeilen": 32,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 151251,
+   "status": "ok",
+   "zeilen": 169,
+   "termine": 0
+  },
+  {
+   "id": "bildungswerk-erzdioezese-koeln",
+   "url": "https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488",
+   "abgerufen_um": "2026-11-26T11:18",
+   "letzter_erfolg": "2026-11-26T11:18",
+   "sha256": "df46c3a4d69329318eff931dde0d4b4ca221b336d865f401504597e3464d901c",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488",
+     "http_status": 200,
+     "bytes": 95785,
+     "zeilen": 163,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 95785,
+   "status": "ok",
+   "zeilen": 163,
+   "termine": 0
+  },
+  {
+   "id": "fbs-koeln",
+   "url": "https://www.fbs-koeln.org/",
+   "abgerufen_um": "2026-11-26T11:18",
+   "letzter_erfolg": "2026-11-26T11:18",
+   "sha256": "f7af688f24e4aa228b4c82c42bc8adef8d9f89588967227860a559146ca55e82",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.fbs-koeln.org/",
+     "http_status": 200,
+     "bytes": 70027,
+     "zeilen": 72,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 70027,
+   "status": "ok",
+   "zeilen": 72,
+   "termine": 0
+  },
+  {
+   "id": "fib-familienbildung",
+   "url": "https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php",
+   "abgerufen_um": "2026-11-26T11:18",
+   "letzter_erfolg": "2026-11-26T11:18",
+   "sha256": "289ce4d0fcf909e3d628b948c2beb04764f230d76af1f6cff1512f6b70b125c1",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php",
+     "http_status": 200,
+     "bytes": 96780,
+     "zeilen": 142,
+     "termine": 0
+    },
+    {
+     "url": "https://www.fibev.de/kurse-und-angebote/familie-und-co/",
+     "http_status": 200,
+     "bytes": 184108,
+     "zeilen": 398,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 280888,
+   "status": "ok",
+   "zeilen": 540,
+   "termine": 0
+  },
+  {
+   "id": "drk-familienbildungswerk",
+   "url": "https://www.drk-koeln.de/fileadmin/Dokumente/fb4/FBW/Kursprogramm_Familienbildungswerk_2026.pdf",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": "2026-11-26T11:19",
+   "sha256": "74a3ccccc0be74855e8e46ce56940f18a4211ca15abd3beee33cc199a0f7f845",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.drk-koeln.de/fileadmin/Dokumente/fb4/FBW/Kursprogramm_Familienbildungswerk_2026.pdf",
+     "http_status": 200,
+     "bytes": 1765532,
+     "zeilen": 432,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 1765532,
+   "status": "ok",
+   "zeilen": 432,
+   "termine": 0
+  },
+  {
+   "id": "fidelio-koeln",
+   "url": "https://www.fidelio-koeln.de/kinderkurse/",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": null,
+   "sha256": null,
+   "geaendert": false,
+   "fehler": "https://www.fidelio-koeln.de/kinderkurse/: HTTP 503",
+   "urls": [
+    {
+     "url": "https://www.fidelio-koeln.de/kinderkurse/",
+     "http_status": 503,
+     "bytes": 6090,
+     "zeilen": 0,
+     "termine": 0,
+     "fehler": "HTTP 503"
+    }
+   ],
+   "http_status": 503,
+   "bytes": 6090,
+   "status": "fehler",
+   "fehler_seit": "2026-11-26",
+   "fehler_tage": 1
+  },
+  {
+   "id": "familienbegleitung-koeln",
+   "url": "https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": null,
+   "sha256": null,
+   "geaendert": false,
+   "fehler": "https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/: gesperrt (HTTP 403)",
+   "urls": [
+    {
+     "url": "https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/",
+     "http_status": 403,
+     "bytes": 4547,
+     "zeilen": 0,
+     "termine": 0,
+     "fehler": "gesperrt (HTTP 403)",
+     "blocked": true
+    }
+   ],
+   "http_status": 403,
+   "bytes": 4547,
+   "status": "blocked",
+   "fehler_seit": "2026-11-26",
+   "fehler_tage": 1
+  },
+  {
+   "id": "rheinische-musikschule",
+   "url": "https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": "2026-11-26T11:19",
+   "sha256": "91ed7eaf74205c271ba9cbd8e2d4e79413c13cc6841687a60999530afc9dc146",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/",
+     "http_status": 200,
+     "bytes": 80856,
+     "zeilen": 15,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 80856,
+   "status": "ok",
+   "zeilen": 15,
+   "termine": 0
+  },
+  {
+   "id": "kindaling-eltern-kind",
+   "url": "https://www.kindaling.de/eltern-kind-kurse/koeln",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": "2026-11-26T11:19",
+   "sha256": "8df8d3c0ee702a465671ec7804a589d0f366feca3e0458922b4a87dca1724954",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.kindaling.de/eltern-kind-kurse/koeln",
+     "http_status": 200,
+     "bytes": 431202,
+     "zeilen": 19,
+     "termine": 0
+    },
+    {
+     "url": "https://www.kindaling.de/eltern-kind-kurse/koeln?page=2",
+     "http_status": 200,
+     "bytes": 432972,
+     "zeilen": 19,
+     "termine": 0
+    },
+    {
+     "url": "https://www.kindaling.de/kinderturnen-babyturnen/koeln?view=list",
+     "http_status": 200,
+     "bytes": 397914,
+     "zeilen": 19,
+     "termine": 0
+    },
+    {
+     "url": "https://www.kindaling.de/kinderkurse/koeln",
+     "http_status": 200,
+     "bytes": 431265,
+     "zeilen": 19,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 1693353,
+   "status": "ok",
+   "zeilen": 76,
+   "termine": 0
+  },
+  {
+   "id": "koelnbaeder-kurse",
+   "url": "https://www.koelnbaeder.de/",
+   "abgerufen_um": "2026-11-26T11:19",
+   "letzter_erfolg": "2026-11-26T11:19",
+   "sha256": "87174ecb7af98536df9a9fb17dc5d13685b4dc850bec23dd849809bc5aeafb3a",
+   "geaendert": true,
+   "fehler": null,
+   "urls": [
+    {
+     "url": "https://www.koelnbaeder.de/",
+     "http_status": 200,
+     "bytes": 339302,
+     "zeilen": 55,
+     "termine": 0
+    }
+   ],
+   "http_status": 200,
+   "bytes": 339302,
+   "status": "ok",
+   "zeilen": 55,
+   "termine": 0
+  }
+ ]
+}
