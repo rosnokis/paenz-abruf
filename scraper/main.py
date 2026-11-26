@@ -138,7 +138,8 @@ def fetch_one(f: Fetcher, url: str, opts: dict, ignore) -> Section:
             sec.lines, h = extract.pdf_to_lines(r.content, ignore)
             sec.hints += h
         else:
-            sec.lines, sec.events, h = extract.html_to_lines(r.content, r.final_url, opts.get("selector"), ignore)
+            sec.lines, sec.events, h = extract.html_to_lines(r.content, r.final_url, opts.get("selector"), ignore,
+                                                                 bool(opts.get("doppelt")))
             sec.hints += h
         if opts.get("ab") or opts.get("bis"):
             sec.lines, h = extract.cut(sec.lines, opts.get("ab"), opts.get("bis"))
@@ -201,7 +202,7 @@ def nippes_candidates(f: Fetcher, src: dict, today: date) -> list[str]:
 def process(f: Fetcher, src: dict, today: date, old_md: str) -> tuple[list[Section], str | None]:
     """Return sections (in order) and an optional source-level hint."""
     ignore = compile_ignore(src)
-    base_opts = {k: src[k] for k in ("selector", "js", "js_klick", "js_klick_max", "typ", "ab", "bis",
+    base_opts = {k: src[k] for k in ("selector", "js", "js_klick", "js_klick_max", "typ", "ab", "bis", "doppelt",
                                      "folge_pdf") if k in src}
     per_url = ("selector", "ab", "bis", "folge_pdf")
     hint = None

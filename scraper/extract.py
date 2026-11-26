@@ -134,7 +134,7 @@ def drop_session_params(line: str) -> str:
     return SESSION_PARAM.sub(lambda m: m.group(1) if m.group(2) else "", line)
 
 
-def normalize_lines(text: str, ignore: list[re.Pattern] | None = None) -> list[str]:
+def normalize_lines(text: str, ignore: list[re.Pattern] | None = None, doppelt: bool = False) -> list[str]:
     lines, seen = [], set()
     for raw in text.split("\n"):
         line = " ".join(raw.split())
@@ -149,7 +149,7 @@ def normalize_lines(text: str, ignore: list[re.Pattern] | None = None) -> list[s
             line = line[:MAX_LINE].rstrip() + " …"
         if ignore and any(p.search(line) for p in ignore):
             continue
-        if line in seen:
+        if line in seen and not doppelt:  # doppelt: Kurslisten wiederholen Ort/Preis je Kurs
             continue
         seen.add(line)
         lines.append(mark(line))
@@ -176,7 +176,7 @@ def cut(lines: list[str], ab: str | None, bis: str | None) -> tuple[list[str], l
 
 
 def html_to_lines(html: bytes | str, base_url: str, selector: str | None = None,
-                  ignore: list[re.Pattern] | None = None) -> tuple[list[str], list[dict], list[str]]:
+                  ignore: list[re.Pattern] | None = None, doppelt: bool = False) -> tuple[list[str], list[dict], list[str]]:
     """Return (lines, events, hints)."""
     soup = BeautifulSoup(html, "lxml")
     hints: list[str] = []
@@ -206,7 +206,7 @@ def html_to_lines(html: bytes | str, base_url: str, selector: str | None = None,
         for r in nodes:
             _render(r, base, pieces)
             pieces.append("\n")
-        return normalize_lines("".join(pieces), ignore)
+        return normalize_lines("".join(pieces), ignore, doppelt)
 
     lines = render(roots)
     body = soup.body or soup

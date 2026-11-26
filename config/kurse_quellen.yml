@@ -2,6 +2,7 @@
 # Gleiches Format wie quellen.yml; wird vom Workflow kurse.yml wöchentlich nach out/kurse/ abgerufen.
 quellen:
 - id: familienforum-koeln
+  doppelt: true
   name: FamilienForum Köln (kath. Familienbildung)
   group: Kurse
   url: https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469
@@ -14,6 +15,7 @@ quellen:
   - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=470
   - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=472
 - id: bildungswerk-erzdioezese-koeln
+  doppelt: true
   name: Bildungswerk der Erzdiözese Köln
   group: Kurse
   url: https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488
