@@ -22,7 +22,8 @@ class AdresseTest(unittest.TestCase):
 
     def test_intern_gesperrt(self):
         for a in ["127.0.0.1", "10.1.2.3", "192.168.0.5", "172.16.0.1", "169.254.169.254",
-                  "100.64.0.1", "0.0.0.0", "::1", "fe80::1%eth0", "fd00::1", "::ffff:10.0.0.1"]:
+                  "100.64.0.1", "0.0.0.0", "::1", "fe80::1%eth0", "fd00::1", "::ffff:10.0.0.1",
+                  "168.63.129.16", "64:ff9b::a9fe:a9fe", "64:ff9b:1::a00:1"]:
             self.assertIsNotNone(self.check("https://x.de/", [a]), a)
 
     def test_eine_interne_adresse_reicht(self):
@@ -71,6 +72,14 @@ class _Handler(http.server.BaseHTTPRequestHandler):
             body = (b'<html><body><main><p>Puppentheater</p>'
                     b'<script>try { new WebSocket("ws://" + location.host + "/ws-test"); } catch (e) {}</script>'
                     b'</main></body></html>')
+            self.send_response(200); self.send_header("Content-Type", "text/html"); self.end_headers(); self.wfile.write(body)
+        elif path in ("/popup", "/worker", "/beacon"):
+            intern = f"http://localhost:{port}"
+            js = {"/popup": f'window.open("{intern}/geheim-popup");',
+                  "/worker": "new Worker(URL.createObjectURL(new Blob(['fetch(\\'" + intern + "/geheim-worker\\')'],"
+                             "{type: 'text/javascript'})));",
+                  "/beacon": f'navigator.sendBeacon("{intern}/geheim-beacon", "x");'}[path]
+            body = f"<html><body><main><p>Kinderkonzert</p><script>{js}</script></main></body></html>".encode()
             self.send_response(200); self.send_header("Content-Type", "text/html"); self.end_headers(); self.wfile.write(body)
         elif path == "/ws-test":
             self.send_response(404); self.end_headers()
@@ -156,6 +165,16 @@ class WeiterleitungTest(unittest.TestCase):
         self.assertIn(b"Puppentheater", r.content)
         time.sleep(1)
         self.assertNotIn(("127.0.0.1", "/ws-test"), _Handler.hits)
+
+    def test_browser_popup_worker_beacon_gesperrt(self):
+        # Ein Popup (window.open) ist eine neue Seite. Die Route muss auch dort gelten.
+        self._browser_oder_skip()
+        for seite, ziel in (("/popup", "/geheim-popup"), ("/worker", "/geheim-worker"), ("/beacon", "/geheim-beacon")):
+            r = self.f.render(self.base + seite)
+            self.assertIsNone(r.error, seite)
+            self.assertIn(b"Kinderkonzert", r.content)
+            time.sleep(1)
+            self.assertNotIn(("localhost", ziel), _Handler.hits, seite)
 
     def test_browser_laedt_nichts_internes(self):
         self._browser_oder_skip()

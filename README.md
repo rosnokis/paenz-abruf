@@ -60,7 +60,7 @@ Optionale Felder:
 Lokal testen (Python 3.12):
 
 ```bash
-pip install -r requirements.txt
+pip install --require-hashes -r requirements.lock
 python -m scraper.main --nur mein-theater --ohne-wetter
 ```
 
@@ -85,9 +85,17 @@ ausverkaufte und buchbare Termine, lautet der Status `teilweise`.
 ```bash
 python -m scraper.pflege ticket https://… --note "Titel, Datum" --bis 2026-12-06 [--js]
 python -m scraper.pflege quelle --name "Name" --url https://… [--group "…"] [--note "…"] [--harvest] [--js]
+python -m scraper.pflege vorschlaege vorschlaege.json --liste        # Vorschläge nummeriert anzeigen
+python -m scraper.pflege vorschlaege vorschlaege.json [--ohne t2 q1] # Vorschläge eintragen
 python -m scraper.pflege aufraeumen   # abgelaufene Ticketseiten entfernen
 python -m scraper.pflege pruefe       # beide Dateien prüfen
 ```
+
+**Vorschläge des Morgenlaufs** (`vorschlaege.json` auf der ALT-Seite) trägt eine Sitzung nur mit
+`pflege vorschlaege <Datei>` ein. Das Werkzeug liest die Datei selbst. Setzen Sie nie `note`, `name` oder
+`url` aus der Datei in einen Shell-Befehl ein: Der Text stammt indirekt aus fremden Webseiten, und die
+Shell wertet z. B. `$(…)` aus, bevor das Werkzeug prüfen kann. Unpassende Einträge lassen Sie mit
+`--ohne <Kennung>` aus. Vorschläge älter als 7 Tage lehnt das Werkzeug ab.
 
 Das Werkzeug erzwingt: nur https, keine Platzhalter-Adressen, keine Dubletten, kurze Notizen ohne
 Adressen, höchstens 6 Ticketseiten und 4 Quellen pro Tag. Die nächtliche Action prüft die Konfiguration
@@ -108,7 +116,7 @@ python -m unittest discover -s tests -v
 ```
 
 `tests/test_fetch.py` prüft die Sperre interner Adressen mit einem lokalen Testserver. Die Browser-Tests darin
-laufen nur, wenn Playwright installiert ist (`pip install -r requirements-js.txt`), sonst überspringt sie der Test.
+laufen nur, wenn Playwright installiert ist (`pip install --require-hashes -r requirements-js.lock`), sonst überspringt sie der Test.
 
 Die Tests arbeiten mit einem Attrappen-Abruf in einem Temp-Ordner (`--root`), nie in `config/` oder
 `out/`. Der echte Abruf weigert sich, Platzhalter-Adressen (`.example`, `localhost` …) abzurufen, und
@@ -141,16 +149,23 @@ Wenn trotzdem zu viel Rauschen in `out/quellen/<id>.md` steht:
 - **Keine internen Adressen (SSRF):** Vor jeder Anfrage prüft `scraper/fetch.py` (`address_problem`) das Schema
   und alle DNS-Adressen des Hosts. Erlaubt sind nur `http(s)` und nur öffentliche Adressen. Gesperrt sind
   Loopback, private Netze, Link-Local (z. B. der Metadaten-Dienst `169.254.169.254`), Carrier-NAT, IPv6 ULA
-  und IPv4-mapped IPv6. Eine gesperrte Adresse steht als `gesperrt: …` in `out/status.json`.
+  IPv4-mapped IPv6, NAT64 (`64:ff9b::/96`, `64:ff9b:1::/48`) und der Azure WireServer `168.63.129.16`
+  (GitHub-Runner laufen auf Azure). Eine gesperrte Adresse steht als `gesperrt: …` in `out/status.json`.
 - **Weiterleitungen:** Der Fetcher folgt Weiterleitungen selbst und prüft jede einzeln, höchstens 5.
-  Im Browser (Playwright) läuft jede Anfrage durch dieselbe Prüfung. Weiterleitungen der Hauptseite folgt
-  `render()` selbst, Frames folgen keinen Weiterleitungen. WebSockets und Service Worker sind im Browser
-  gesperrt, weil sie an der Prüfung vorbeilaufen würden.
+  Im Browser (Playwright) läuft jede Anfrage durch dieselbe Prüfung. Die Route liegt auf dem
+  Browser-Kontext, nicht nur auf der Seite. Popups (`window.open`, `target=_blank`) lädt der Browser deshalb
+  nicht. Weiterleitungen der Hauptseite folgt `render()` selbst, Frames folgen keinen Weiterleitungen.
+  WebSockets und Service Worker sind im Browser gesperrt, weil sie an der Prüfung vorbeilaufen würden.
 - **DNS-Fehler:** Lässt sich ein Name nicht auflösen, lädt der Fetcher nichts. Das Ergebnis speichert er
   nicht, der nächste Versuch prüft die Adresse neu.
-- **Token nur beim Push:** Alle Workflows checken mit `persist-credentials: false` aus. Den Token mit
-  Schreibrecht setzt erst der Schritt „Ergebnis committen“. Während Playwright fremde Seiten lädt,
-  liegt kein Token im Checkout.
+- **Token nur im eigenen Job:** `abruf.yml` und `kurse.yml` haben zwei Jobs. Der Job `abruf` bzw. `kurse`
+  lädt fremde Seiten und hat nur Leserecht. Er übergibt `out/` und die Commit-Nachricht als Artifact. Der Job
+  `commit` läuft auf einem frischen Runner, übernimmt nur diese Dateien und hat als einziger Schreibrecht.
+  Code, der beim Abruf läuft, erreicht den Token so nicht, auch nicht über Git-Hooks, `GITHUB_ENV` oder
+  `GITHUB_PATH`. Alle Checkouts nutzen `persist-credentials: false`, Git läuft mit `core.hooksPath=/dev/null`.
+- **Pakete nur mit Hash:** Die Workflows installieren Python-Pakete nur aus `requirements.lock` bzw.
+  `requirements-js.lock` mit `--require-hashes`, auch die indirekten Abhängigkeiten. Nach einer Änderung an
+  `requirements*.txt` erzeugen Sie die Lock-Dateien neu (Befehl steht in der ersten Zeile der Lock-Datei).
 - **Bekannte Grenze:** Zwischen Prüfung und Verbindung löst das System den Namen erneut auf (DNS-Rebinding).
   Auf GitHub-Runnern gibt es kaum interne Ziele.
 
@@ -174,10 +189,13 @@ Verhalten:
 - **Gruppen fest über die ID:** Beim ersten Treffer merkt sich der Sammler die feste ID jeder Gruppe aus
   `GRUPPEN` (`data/status.json`, Feld `gruppen`). Danach zählt nur die ID. Eine fremde Gruppe mit gleichem
   Namen oder eine umbenannte Gruppe liest er nicht mit. Haben beim ersten Start zwei Gruppen denselben
-  Namen, wertet er keine davon aus und schreibt eine Warnung ins Log. Neu zuordnen: Feld `gruppen` in
-  `data/status.json` löschen und den Container neu starten.
-- **Dateigröße:** Bilder und PDFs lädt der Sammler nur bis `MAX_DATEI_MB` (Standard 15 MB). Größere Dateien
-  stehen nur als Hinweis in der Mail.
+  Namen, wertet er keine davon aus und schreibt eine Warnung ins Log. Die Zuordnung bleibt auch dann
+  gemerkt, wenn die Gruppe zeitweise fehlt (verlassen, entfernt). Eine gleichnamige Gruppe übernimmt er
+  auch dann nicht. Neu zuordnen: Feld `gruppen` in `data/status.json` löschen und den Container neu starten.
+- **Dateigröße und Anzahl:** Bilder und PDFs lädt der Sammler nur bis `MAX_DATEI_MB` (Standard 15 MB) und
+  höchstens `MAX_DATEIEN_TAG` Dateien je Gruppe und Tag (Standard 20). Weitere Dateien stehen nur als
+  Hinweis in der Mail.
+- **Basisimage:** `Dockerfile` pinnt `node` per Digest.
 - **Ohne root:** Der Container startet als root, übergibt `data/` an den Benutzer `node` (uid 1000) und
   läuft danach nur mit dessen Rechten. `docker-compose.yml` entfernt alle Capabilities außer den nötigen
   und setzt `no-new-privileges`.

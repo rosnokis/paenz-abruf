@@ -47,3 +47,20 @@ test('Gruppen: fest über die ID, fremde Gruppe gleichen Namens wird ignoriert',
   assert.deepEqual(r.neu, {});
   assert.match(r.warnungen[0], /2 Gruppen/);
 });
+test('Gruppen: gemerkte Zuordnung bleibt, auch wenn die Gruppe zeitweise fehlt', () => {
+  const { gruppenZuordnen } = mod;
+  let gemerkt = gruppenZuordnen([['Kita Eltern', 'echt@g.us']], ['Kita Eltern'], {}).merken;
+  // echte Gruppe fehlt (verlassen, entfernt), fremde Gruppe gleichen Namens taucht auf
+  let r = gruppenZuordnen([['Kita Eltern', 'fremd@g.us']], ['Kita Eltern'], gemerkt);
+  assert.deepEqual(r.neu, {});
+  gemerkt = r.merken;
+  // nächste Verbindung: die fremde Gruppe wird weiterhin nicht übernommen
+  r = gruppenZuordnen([['Kita Eltern', 'fremd@g.us']], ['Kita Eltern'], gemerkt);
+  assert.deepEqual(r.neu, {});
+  assert.deepEqual(r.merken, { 'echt@g.us': 'Kita Eltern' });
+});
+test('Dateien je Gruppe und Tag werden gezählt', () => {
+  const { dateienHeute } = mod;
+  const l = [{ gruppe: 'A', tag: '2026-11-26', datei: 'x' }, { gruppe: 'A', tag: '2026-11-26' }, { gruppe: 'B', tag: '2026-11-26', datei: 'y' }];
+  assert.equal(dateienHeute(l, 'A', '2026-11-26'), 1);
+});

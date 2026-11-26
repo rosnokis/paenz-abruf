@@ -155,6 +155,26 @@ class Pflege(unittest.TestCase):
         self.assertEqual([t["url"] for t in pflege.load_tickets(self.root)], [TICKET])
         self.assertEqual(self.call("pruefe"), 0)
 
+    def test_vorschlaege_ohne_shell(self):
+        # Text aus vorschlaege.json erreicht nie eine Shell: das Werkzeug liest die Datei selbst.
+        heute = pflege.today().isoformat()
+        datei = self.root / "vorschlaege.json"
+        datei.write_text(json.dumps({"stand": heute, "tickets": [
+            {"url": TICKET, "note": "Rabe, 15.11.", "bis": self.bis, "am": heute},
+            {"url": TICKET + "/b", "note": 'x"; $(touch /tmp/boese) "', "bis": self.bis, "am": heute},
+            {"url": "https://buehne-attrappe.koeln/$(id)", "note": "ok", "bis": self.bis, "am": heute},
+            {"url": TICKET + "/alt", "note": "alt", "bis": self.bis, "am": "2020-01-01"}],
+            "quellen": [{"url": "https://neu-attrappe.koeln/termine", "name": "Neues Theater", "gruppe": "Erfunden",
+                         "note": "Kindertheater", "am": heute}]}), encoding="utf-8")
+        self.assertEqual(self.call("vorschlaege", str(datei), "--liste"), 0)
+        self.assertEqual(self.call("vorschlaege", str(datei), "--ohne", "q1"), 0)
+        self.assertEqual([t["url"] for t in pflege.load_tickets(self.root)], ["https://buehne-attrappe.koeln/alt", TICKET])
+        self.assertEqual(self.call("vorschlaege", str(datei)), 0)
+        neu = pflege.load_sources(self.root)[-1]
+        self.assertEqual((neu["id"], neu["group"]), ("neues-theater", "Übersichten"))
+        datei.write_text("kein json", encoding="utf-8")
+        self.assertEqual(self.call("vorschlaege", str(datei)), 1)
+
     def test_tageslimit(self):
         for i in range(pflege.MAX_TICKETS_TAG):
             self.assertEqual(self.call("ticket", f"{TICKET}/{i}", "--note", "n", "--bis", self.bis), 0)
