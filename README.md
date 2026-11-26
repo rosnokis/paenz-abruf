@@ -144,7 +144,10 @@ Wenn trotzdem zu viel Rauschen in `out/quellen/<id>.md` steht:
   und IPv4-mapped IPv6. Eine gesperrte Adresse steht als `gesperrt: …` in `out/status.json`.
 - **Weiterleitungen:** Der Fetcher folgt Weiterleitungen selbst und prüft jede einzeln, höchstens 5.
   Im Browser (Playwright) läuft jede Anfrage durch dieselbe Prüfung. Weiterleitungen der Hauptseite folgt
-  `render()` selbst, Frames folgen keinen Weiterleitungen.
+  `render()` selbst, Frames folgen keinen Weiterleitungen. WebSockets und Service Worker sind im Browser
+  gesperrt, weil sie an der Prüfung vorbeilaufen würden.
+- **DNS-Fehler:** Lässt sich ein Name nicht auflösen, lädt der Fetcher nichts. Das Ergebnis speichert er
+  nicht, der nächste Versuch prüft die Adresse neu.
 - **Token nur beim Push:** Alle Workflows checken mit `persist-credentials: false` aus. Den Token mit
   Schreibrecht setzt erst der Schritt „Ergebnis committen“. Während Playwright fremde Seiten lädt,
   liegt kein Token im Checkout.

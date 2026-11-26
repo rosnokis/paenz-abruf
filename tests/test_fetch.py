@@ -4,7 +4,9 @@ Runs offline with a local test server. 127.0.0.1 stands in for a public host,
 "localhost" for an internal one (the real check is replaced only for that).
 """
 import http.server
+import socket
 import threading
+import time
 import unittest
 from unittest import mock
 
@@ -31,6 +33,26 @@ class AdresseTest(unittest.TestCase):
             self.assertIsNotNone(fetch.address_problem(u, resolve=lambda h, p: ["93.184.216.34"]), u)
 
 
+class DnsFehlerTest(unittest.TestCase):
+    def test_dns_fehler_sperrt_und_wird_nicht_gemerkt(self):
+        antworten = [socket.gaierror("SERVFAIL"), ["127.0.0.1"]]
+
+        def flaky(host, port):
+            a = antworten.pop(0)
+            if isinstance(a, Exception):
+                raise a
+            return a
+        with mock.patch.object(fetch, "_resolve", flaky):
+            f = fetch.Fetcher()
+            erst = f._address_problem("http://boese-attrappe.koeln/a")
+            dann = f._address_problem("http://boese-attrappe.koeln/b")
+        self.assertTrue(erst and erst.startswith("Netzwerkfehler"), erst)
+        self.assertIn("interne Adresse", dann or "")
+
+    def test_leere_dns_antwort_sperrt(self):
+        self.assertIsNotNone(fetch.address_problem("https://x.de/", resolve=lambda h, p: []))
+
+
 class _Handler(http.server.BaseHTTPRequestHandler):
     hits: dict = {}
 
@@ -45,6 +67,13 @@ class _Handler(http.server.BaseHTTPRequestHandler):
             self.send_response(301); self.send_header("Location", "/ziel"); self.end_headers()
         elif path == "/schleife":
             self.send_response(302); self.send_header("Location", "/schleife"); self.end_headers()
+        elif path == "/ws-seite":
+            body = (b'<html><body><main><p>Puppentheater</p>'
+                    b'<script>try { new WebSocket("ws://" + location.host + "/ws-test"); } catch (e) {}</script>'
+                    b'</main></body></html>')
+            self.send_response(200); self.send_header("Content-Type", "text/html"); self.end_headers(); self.wfile.write(body)
+        elif path == "/ws-test":
+            self.send_response(404); self.end_headers()
         elif path == "/seite":
             body = (f'<html><body><main><p>Kinderkonzert am Sonntag</p>'
                     f'<iframe src="http://localhost:{port}/geheim"></iframe>'
@@ -108,8 +137,28 @@ class WeiterleitungTest(unittest.TestCase):
         self.assertIn("gesperrt", r.error or "")
         self.assertEqual(_Handler.hits, {})
 
-    @unittest.skipUnless(__import__("importlib").util.find_spec("playwright"), "Playwright nicht installiert")
+    def _browser_oder_skip(self):
+        try:
+            from playwright.sync_api import sync_playwright
+        except ImportError:
+            self.skipTest("Playwright nicht installiert")
+        try:
+            with sync_playwright() as p:
+                p.chromium.launch().close()
+        except Exception as exc:
+            self.skipTest(f"Browser startet nicht: {type(exc).__name__}")
+
+    def test_browser_oeffnet_keine_websockets(self):
+        self._browser_oder_skip()
+        time.sleep(0)
+        r = self.f.render(self.base + "/ws-seite")
+        self.assertIsNone(r.error)
+        self.assertIn(b"Puppentheater", r.content)
+        time.sleep(1)
+        self.assertNotIn(("127.0.0.1", "/ws-test"), _Handler.hits)
+
     def test_browser_laedt_nichts_internes(self):
+        self._browser_oder_skip()
         r = self.f.render(self.base + "/seite")
         self.assertIsNone(r.error)
         self.assertIn(b"Kinderkonzert", r.content)
