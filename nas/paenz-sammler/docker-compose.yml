@@ -1,0 +1,13 @@
+services:
+  paenz-sammler:
+    build: .
+    image: paenz-sammler:1
+    container_name: paenz-sammler
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./data:/data
+    mem_limit: 512m
+    logging:
+      driver: json-file
+      options: { max-size: "2m", max-file: "3" }
