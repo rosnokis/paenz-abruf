@@ -1,14 +1,14 @@
 {
- "stand": "2026-11-26T11:20",
+ "stand": "2026-11-26T11:22",
  "anfragen": 31,
  "wetter_fehler": null,
  "quellen": [
   {
    "id": "familienforum-koeln",
    "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469",
-   "abgerufen_um": "2026-11-26T11:20",
-   "letzter_erfolg": "2026-11-26T11:20",
-   "sha256": "d67c6bb1959dcccb95abc56504a754ee3fa78efd5a9c451c70bae19cb0719fb5",
+   "abgerufen_um": "2026-11-26T11:22",
+   "letzter_erfolg": "2026-11-26T11:22",
+   "sha256": "dedabc5d3fc7aeb920e55228b84044e6e4c2820a76c5be611b0fe043d4f984b1",
    "geaendert": true,
    "fehler": null,
    "urls": [
@@ -16,88 +16,88 @@
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469",
      "http_status": 200,
      "bytes": 96470,
-     "zeilen": 137,
+     "zeilen": 334,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=517",
      "http_status": 200,
      "bytes": 91830,
-     "zeilen": 126,
+     "zeilen": 310,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=518",
      "http_status": 200,
      "bytes": 77036,
-     "zeilen": 92,
+     "zeilen": 218,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=519",
      "http_status": 200,
      "bytes": 97318,
-     "zeilen": 148,
+     "zeilen": 342,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=468",
      "http_status": 200,
      "bytes": 97489,
-     "zeilen": 131,
+     "zeilen": 341,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=470",
      "http_status": 200,
      "bytes": 87123,
-     "zeilen": 105,
+     "zeilen": 273,
      "termine": 0
     },
     {
      "url": "https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=472",
      "http_status": 200,
      "bytes": 93199,
-     "zeilen": 144,
+     "zeilen": 313,
      "termine": 0
     }
    ],
    "http_status": 200,
    "bytes": 640465,
    "status": "ok",
-   "zeilen": 883,
+   "zeilen": 2131,
    "termine": 0
   },
   {
    "id": "bildungswerk-erzdioezese-koeln",
    "url": "https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488",
-   "abgerufen_um": "2026-11-26T11:20",
-   "letzter_erfolg": "2026-11-26T11:20",
-   "sha256": "df46c3a4d69329318eff931dde0d4b4ca221b336d865f401504597e3464d901c",
-   "geaendert": false,
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
+   "sha256": "a1363c7c56c141e9ba0b6d445b3ab17b1c663c2060588c453c42237b60288776",
+   "geaendert": true,
    "fehler": null,
    "urls": [
     {
      "url": "https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488",
      "http_status": 200,
      "bytes": 95785,
-     "zeilen": 163,
+     "zeilen": 364,
      "termine": 0
     }
    ],
    "http_status": 200,
    "bytes": 95785,
    "status": "ok",
-   "zeilen": 163,
+   "zeilen": 364,
    "termine": 0
   },
   {
    "id": "fbs-koeln",
    "url": "https://www.fbs-koeln.org/kurse/eltern-kinder-familien",
-   "abgerufen_um": "2026-11-26T11:20",
-   "letzter_erfolg": "2026-11-26T11:20",
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
    "sha256": "57ea5041690b8eefc7c74c3bc08f9c509b28ee590ff31d96d9a306737961d57c",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -131,10 +131,10 @@
   {
    "id": "fib-familienbildung",
    "url": "https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php",
-   "abgerufen_um": "2026-11-26T11:21",
-   "letzter_erfolg": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
    "sha256": "2f997f3383a22b89709ddff3c37fd52c421679e1ef9ccf84bd73f1775de88e0e",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -189,8 +189,8 @@
   {
    "id": "drk-familienbildungswerk",
    "url": "https://www.drk-koeln.de/fileadmin/Dokumente/fb4/FBW/Kursprogramm_Familienbildungswerk_2026.pdf",
-   "abgerufen_um": "2026-11-26T11:21",
-   "letzter_erfolg": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
    "sha256": "74a3ccccc0be74855e8e46ce56940f18a4211ca15abd3beee33cc199a0f7f845",
    "geaendert": false,
    "fehler": null,
@@ -212,7 +212,7 @@
   {
    "id": "fidelio-koeln",
    "url": "https://www.fidelio-koeln.de/kinderkurse/",
-   "abgerufen_um": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
@@ -236,7 +236,7 @@
   {
    "id": "familienbegleitung-koeln",
    "url": "https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/",
-   "abgerufen_um": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
    "letzter_erfolg": null,
    "sha256": null,
    "geaendert": false,
@@ -245,7 +245,7 @@
     {
      "url": "https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/",
      "http_status": 403,
-     "bytes": 4547,
+     "bytes": 4550,
      "zeilen": 0,
      "termine": 0,
      "fehler": "gesperrt (HTTP 403)",
@@ -253,7 +253,7 @@
     }
    ],
    "http_status": 403,
-   "bytes": 4547,
+   "bytes": 4550,
    "status": "blocked",
    "fehler_seit": "2026-11-26",
    "fehler_tage": 1
@@ -261,10 +261,10 @@
   {
    "id": "rheinische-musikschule",
    "url": "https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/unterricht-ensembles-choere",
-   "abgerufen_um": "2026-11-26T11:21",
-   "letzter_erfolg": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
    "sha256": "85700afac8a1cf83bfa13447fecfad1c5174896e0ea26d2aa213a2d98f57c494",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
@@ -284,10 +284,10 @@
   {
    "id": "koelnbaeder-kurse",
    "url": "https://koelnbaeder.de/sicher-schwimmen",
-   "abgerufen_um": "2026-11-26T11:21",
-   "letzter_erfolg": "2026-11-26T11:21",
+   "abgerufen_um": "2026-11-26T11:23",
+   "letzter_erfolg": "2026-11-26T11:23",
    "sha256": "5f70d1733a8a88b0b37ea84f6354b690357ed396d608cd2d53c9b0ee5e8e9007",
-   "geaendert": true,
+   "geaendert": false,
    "fehler": null,
    "urls": [
     {
