@@ -35,7 +35,7 @@ def _resolve(host: str, port: int) -> list[str]:
     return [info[4][0] for info in socket.getaddrinfo(host, port, proto=socket.IPPROTO_TCP)]
 
 
-def address_problem(url: str, resolve=_resolve) -> str | None:
+def address_problem(url: str, resolve=None) -> str | None:
     """None if the URL may be fetched, else the reason.
 
     Only http(s) and only hosts whose every address is public. This blocks requests to the runner
@@ -52,11 +52,13 @@ def address_problem(url: str, resolve=_resolve) -> str | None:
     except ValueError:
         return "ungültiger Port"
     try:
-        addrs = resolve(host, port)
+        addrs = (resolve or _resolve)(host, port)
     except (OSError, UnicodeError):
-        return None  # the request itself reports the DNS error
+        addrs = []
     if not addrs:
-        return None
+        # No request without a checked address. "Netzwerkfehler" keeps the usual retry; the
+        # Fetcher does not cache this result, so the next attempt resolves and checks again.
+        return "Netzwerkfehler: DNS (Name nicht auflösbar)"
     for a in addrs:
         try:
             ip = ipaddress.ip_address(a.split("%")[0])
@@ -103,9 +105,12 @@ class Fetcher:
     def _address_problem(self, url: str) -> str | None:
         p = urlsplit(url)
         key = f"{p.scheme}://{p.netloc}"
-        if key not in self._host_ok:
-            self._host_ok[key] = address_problem(url)
-        return self._host_ok[key]
+        if key in self._host_ok:
+            return self._host_ok[key]
+        problem = address_problem(url)
+        if not (problem or "").startswith("Netzwerkfehler"):
+            self._host_ok[key] = problem  # never cache a DNS failure as a result
+        return problem
 
     # ------------------------------------------------------------------ helpers
     def _wait(self, host: str, extra: float = 0.0) -> None:
@@ -130,7 +135,7 @@ class Fetcher:
         res = Response(url=url, final_url=url)
         problem = self._address_problem(url)
         if problem:
-            res.error = f"gesperrt: {problem}"
+            res.error = problem if problem.startswith("Netzwerkfehler") else f"gesperrt: {problem}"
             return res
         host = urlsplit(url).netloc
         rp = self._robots.get(_origin(url), (None, None))[0]
@@ -268,9 +273,13 @@ class Fetcher:
             self._browser = self._pw.chromium.launch()
         self._wait(urlsplit(url).netloc)
         self.requests += 1
-        ctx = self._browser.new_context(user_agent=USER_AGENT, locale="de-DE",
-                                        accept_downloads=False, java_script_enabled=True)
+        # Service workers and WebSockets would bypass page.route() and could reach internal
+        # addresses. Event pages need neither, so both are blocked.
+        ctx = self._browser.new_context(user_agent=USER_AGENT, locale="de-DE", accept_downloads=False,
+                                        java_script_enabled=True, service_workers="block")
         page = ctx.new_page()
+        # A WebSocket route that never calls connect_to_server() opens no connection.
+        page.route_web_socket("**/*", lambda ws: None)
         redirect: dict[str, str | None] = {"ziel": None}
 
         def _route(route):
