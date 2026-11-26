@@ -512,3 +512,15 @@ quellen:
   url: https://www.maerchenwald-altenberg.de
   note: Winterzauber-Weihnachtsmarkt mit Basteln und Nikolaus an Adventswochenenden.
   seit: '2026-11-25'
+- id: koelner-seilbahn
+  name: Kölner Seilbahn
+  group: Draußen & Höfe
+  url: https://www.koelner-seilbahn.de/fahrten.html
+  note: Fahrzeiten, Preise und Sonderfahrten wie die Adventsfahrten.
+  seit: '2026-11-26'
+- id: porzer-rheinkirchen-katholische-gemeinden-porz
+  name: Porzer Rheinkirchen (Katholische Gemeinden Porz)
+  group: Übersichten
+  url: https://www.porzer-rheinkirchen.de/
+  note: Pfarrnachrichten und regelmäßige Angebote für Kinder von 0 bis 6 Jahren.
+  seit: '2026-11-26'
