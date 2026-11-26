@@ -3,6 +3,8 @@ morning run may change this repository.
 
   python -m scraper.pflege ticket URL --note "Titel, Datum" --bis JJJJ-MM-TT [--js]
   python -m scraper.pflege quelle --name "Name" --url URL [--group "Gruppe"] [--note "..."] [--harvest] [--js]
+  python -m scraper.pflege vorschlaege DATEI [--liste] [--ohne t1 q2 ...]
+                                           # enters tickets/sources from vorschlaege.json directly
   python -m scraper.pflege aufraeumen      # removes expired ticket pages
   python -m scraper.pflege pruefe          # checks both files, exit code 1 on problems
 
@@ -13,6 +15,7 @@ config/tickets.yml and config/quellen.yml is ever written.
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 import unicodedata
@@ -31,13 +34,15 @@ MAX_TICKETS_TAG = 6
 MAX_QUELLEN_TAG = 4
 MAX_NOTE = 140
 GROUPS_DEFAULT = "Übersichten"
+GROUPS = ("Übersichten", "Musik & Bühne", "Köln-Nord & Veedel", "Draußen & Höfe")
+MAX_VORSCHLAG_TAGE = 7
 TICKET_HEAD = """\
 # Ticket- und Anmeldeseiten, die jede Nacht auf Verfügbarkeit geprüft werden (Ergebnis: out/tickets.json).
 # Nur Seiten zu EINEM Termin eintragen (sonst ist das Stichwort "ausverkauft" nicht eindeutig).
 # Felder: url (Pflicht), note (frei), bis (letzter Termin, JJJJ-MM-TT; danach wird die Seite nicht mehr geprüft),
 # js: true (Seite braucht JavaScript), seit (Tag der Aufnahme). Pflege per Werkzeug: python -m scraper.pflege
 """
-URL_OK = re.compile(r"^https://[A-Za-z0-9.-]+\.[A-Za-z]{2,}(/[^\s\"'<>\\^`{|}]*)?$")
+URL_OK = re.compile(r"^https://[A-Za-z0-9.-]+\.[A-Za-z]{2,}(/[^\s\"'<>\\^`{|}$]*)?$")
 TEXT_BAD = re.compile(r"[\x00-\x1f<>{}`$\\]|https?://|@")
 
 
@@ -158,6 +163,59 @@ def cmd_quelle(root: Path, a) -> str:
     return f"Quelle aufgenommen: {sid} ({url})"
 
 
+# ----------------------------------------------------------------------- vorschlaege.json
+def load_vorschlaege(path: Path) -> list[tuple[str, dict]]:
+    """[(kennung, eintrag)] with kennung t1, t2 ... for tickets and q1, q2 ... for sources."""
+    try:
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        raise Problem(f"vorschlaege.json nicht lesbar: {type(exc).__name__}")
+    if not isinstance(data, dict):
+        raise Problem("vorschlaege.json: kein Objekt")
+    out = []
+    for key, prefix in (("tickets", "t"), ("quellen", "q")):
+        items = data.get(key) or []
+        if not isinstance(items, list):
+            raise Problem(f"vorschlaege.json: {key} ist keine Liste")
+        out += [(f"{prefix}{i}", e) for i, e in enumerate(items, 1) if isinstance(e, dict)]
+    return out
+
+
+def cmd_vorschlaege(root: Path, a) -> str:
+    """Enters the suggestions from the file itself, so no session ever builds shell arguments
+    from their text. Every entry passes the same checks as the single commands."""
+    entries = load_vorschlaege(a.datei)
+    if a.liste:
+        return "\n".join(f"{k}: {str(e.get('url', ''))[:120]} | {str(e.get('note') or e.get('name') or '')[:80]}"
+                         for k, e in entries) or "keine Vorschläge"
+    ohne = set(a.ohne or [])
+    lines = []
+    for k, e in entries:
+        if k in ohne:
+            lines.append(f"{k}: ausgelassen")
+            continue
+        try:
+            try:
+                am = date.fromisoformat(str(e.get("am", ""))[:10])
+            except ValueError:
+                raise Problem("am fehlt oder ist kein Datum")
+            if (today() - am).days > MAX_VORSCHLAG_TAGE:
+                raise Problem(f"älter als {MAX_VORSCHLAG_TAGE} Tage")
+            if k.startswith("t"):
+                ns = argparse.Namespace(url=str(e.get("url", "")), note=str(e.get("note", "")), bis=str(e.get("bis", "")),
+                                        js=False)
+                msg = cmd_ticket(root, ns)
+            else:
+                gruppe = str(e.get("gruppe") or GROUPS_DEFAULT)
+                ns = argparse.Namespace(url=str(e.get("url", "")), name=str(e.get("name", "")), note=str(e.get("note", "")),
+                                        group=gruppe if gruppe in GROUPS else GROUPS_DEFAULT, harvest=False, js=False)
+                msg = cmd_quelle(root, ns)
+            lines.append(f"{k}: {msg}")
+        except Problem as exc:
+            lines.append(f"{k}: abgelehnt – {exc}")
+    return "\n".join(lines) or "keine Vorschläge"
+
+
 # ----------------------------------------------------------------------- check
 def cmd_pruefe(root: Path, a) -> str:
     probs: list[str] = []
@@ -213,12 +271,17 @@ def main(argv=None) -> int:
     q.add_argument("--note")
     q.add_argument("--harvest", action="store_true")
     q.add_argument("--js", action="store_true")
+    v = sub.add_parser("vorschlaege")
+    v.add_argument("datei")
+    v.add_argument("--liste", action="store_true", help="nur nummeriert anzeigen, nichts eintragen")
+    v.add_argument("--ohne", nargs="*", metavar="KENNUNG", help="Einträge auslassen, z. B. t2 q1")
     sub.add_parser("aufraeumen")
     sub.add_parser("pruefe")
     a = ap.parse_args(argv)
     root = Path(a.root).resolve() if a.root else ROOT
     try:
-        print({"ticket": cmd_ticket, "quelle": cmd_quelle, "aufraeumen": cmd_aufraeumen, "pruefe": cmd_pruefe}[a.cmd](root, a))
+        print({"ticket": cmd_ticket, "quelle": cmd_quelle, "vorschlaege": cmd_vorschlaege,
+               "aufraeumen": cmd_aufraeumen, "pruefe": cmd_pruefe}[a.cmd](root, a))
     except Problem as exc:
         print(f"FEHLER: {exc}", file=sys.stderr)
         return 1

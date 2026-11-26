@@ -31,6 +31,11 @@ CHALLENGE_MARKERS = (b"cf-chl", b"challenge-platform", b"Just a moment...", b"ca
                      b"Attention Required! | Cloudflare", b"_Incapsula_Resource")
 
 
+# Public addresses that still reach the runner's host: the Azure WireServer on GitHub runners and
+# NAT64 prefixes, which can map to internal IPv4 addresses.
+BLOCKED_NETS = tuple(ipaddress.ip_network(n) for n in ("168.63.129.16/32", "64:ff9b::/96", "64:ff9b:1::/48"))
+
+
 def _resolve(host: str, port: int) -> list[str]:
     return [info[4][0] for info in socket.getaddrinfo(host, port, proto=socket.IPPROTO_TCP)]
 
@@ -66,7 +71,7 @@ def address_problem(url: str, resolve=None) -> str | None:
             return f"unbekannte Adresse ({a})"
         if ip.version == 6 and ip.ipv4_mapped:
             ip = ip.ipv4_mapped
-        if not ip.is_global or ip.is_multicast:
+        if not ip.is_global or ip.is_multicast or any(ip in n for n in BLOCKED_NETS if n.version == ip.version):
             return f"interne Adresse nicht erlaubt ({host} -> {ip})"
     return None
 
@@ -273,17 +278,25 @@ class Fetcher:
             self._browser = self._pw.chromium.launch()
         self._wait(urlsplit(url).netloc)
         self.requests += 1
-        # Service workers and WebSockets would bypass page.route() and could reach internal
-        # addresses. Event pages need neither, so both are blocked.
+        # Service workers and WebSockets would bypass the route and could reach internal
+        # addresses. Event pages need neither, so both are blocked. Routes sit on the context,
+        # so they also cover popups (window.open, target=_blank).
         ctx = self._browser.new_context(user_agent=USER_AGENT, locale="de-DE", accept_downloads=False,
                                         java_script_enabled=True, service_workers="block")
-        page = ctx.new_page()
         # A WebSocket route that never calls connect_to_server() opens no connection.
-        page.route_web_socket("**/*", lambda ws: None)
+        ctx.route_web_socket("**/*", lambda ws: None)
+        page = ctx.new_page()
         redirect: dict[str, str | None] = {"ziel": None}
 
         def _route(route):
             req = route.request
+            try:
+                fremd = req.frame.page != page
+            except Exception:  # navigation of a new popup: its frame does not exist yet
+                fremd = req.is_navigation_request()
+            if fremd:
+                route.abort()  # popups are not needed for the text
+                return
             if req.resource_type in ("image", "media", "font") or self._address_problem(req.url):
                 route.abort()  # no media; no requests to internal addresses
                 return
@@ -308,7 +321,7 @@ class Fetcher:
             # Redirects of sub-requests (fetch, scripts, ...) are requested anew by the browser
             # and pass this check again.
             route.fulfill(response=resp)
-        page.route("**/*", _route)
+        ctx.route("**/*", _route)
         try:
             target, resp = url, None
             for hop in range(MAX_REDIRECTS + 1):

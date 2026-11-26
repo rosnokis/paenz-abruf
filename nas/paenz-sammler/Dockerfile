@@ -1,4 +1,5 @@
-FROM node:22.21.1-alpine3.22
+# Basisimage per Digest gepinnt (Tag 22.21.1-alpine3.22). Aktualisieren: Digest neu abfragen und hier eintragen.
+FROM node:22.21.1-alpine3.22@sha256:b2358485e3e33bc3a33114d2b1bdb18cdbe4df01bd2b257198eb51beb1f026c5
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force

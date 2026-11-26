@@ -17,6 +17,8 @@ const MAX_MB = Number(E.MAX_MB || 18);
 // Größte Einzeldatei, die der Sammler lädt. Größere Dateien kommen nur als Hinweis in die Mail.
 const MAX_DATEI_MB = Number(E.MAX_DATEI_MB || 15);
 const AUFBEWAHREN_TAGE = Number(E.AUFBEWAHREN_TAGE || 30);
+// Höchstens so viele Dateien lädt der Sammler je Gruppe und Tag. Weitere stehen nur als Hinweis in der Mail.
+const MAX_DATEIEN_TAG = Number(E.MAX_DATEIEN_TAG || 20);
 const EINGANG = path.join(DATEN, 'eingang'), LISTE = path.join(DATEN, 'eingang.jsonl'), STATUS = path.join(DATEN, 'status.json');
 // ---------- Rechte abgeben ----------
 // Im Container startet der Sammler als root. Er übergibt den Datenordner an SAMMLER_UID/GID und
@@ -42,6 +44,7 @@ const status = Object.assign({ gesendetAm: null, abgemeldetGemeldet: false, grup
 const sichern = () => fs.writeFileSync(STATUS, JSON.stringify(status, null, 1));
 const eintraege = () => fs.existsSync(LISTE) ? fs.readFileSync(LISTE, 'utf8').split('\n').filter(Boolean).map(l => JSON.parse(l)) : [];
 const gesehen = new Set(eintraege().map(e => e.id));
+const geladen = new Map(); // "gruppe|tag" -> Anzahl geladener Dateien
 const heute = () => new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
 const uhr = d => d.toLocaleTimeString('de-DE', { timeZone: 'Europe/Berlin', hour: '2-digit', minute: '2-digit' });
 
@@ -66,6 +69,10 @@ const mailer = () => nodemailer.createTransport({ host: 'smtp.gmail.com', port: 
 async function mail(betreff, text, anhaenge = []) {
   await mailer().sendMail({ from: `Pänz-Sammler <${SMTP_USER}>`, to: MAIL_AN, subject: betreff, text, attachments: anhaenge });
   log('Mail gesendet:', betreff);
+}
+// Zählt die geladenen Dateien je Gruppe und Tag (für MAX_DATEIEN_TAG).
+export function dateienHeute(liste, gruppe, tag) {
+  return liste.filter(e => e.datei && e.gruppe === gruppe && e.tag === tag).length;
 }
 export function teile(liste, maxBytes) {
   const out = []; let cur = [], size = 0;
@@ -111,10 +118,12 @@ function zeitplan() {
 // ---------- Gruppen ----------
 // Gruppen werden beim ersten Treffer über ihre feste ID (JID) gemerkt (status.json, Feld "gruppen").
 // Danach zählt nur noch die ID. Eine fremde Gruppe mit gleichem Namen oder eine umbenannte Gruppe
-// wird so nie mitgelesen. Neu zuordnen: Feld "gruppen" in data/status.json löschen, Container neu starten.
+// wird so nie mitgelesen. Die Zuordnung bleibt gemerkt, auch wenn die Gruppe zeitweise fehlt.
+// Neu zuordnen: Feld "gruppen" in data/status.json löschen, Container neu starten.
 export function gruppenZuordnen(konto, namen, gemerkt) {
   // konto: [[name, jid], ...] aller Gruppen des Kontos; namen: GRUPPEN; gemerkt: {jid: name}
-  const neu = {}, warnungen = [];
+  // neu: die jetzt ausgewerteten Gruppen; merken: was in status.json bleibt (nie kleiner als gemerkt)
+  const neu = {}, merken = { ...gemerkt }, warnungen = [];
   const imKonto = new Set(konto.map(([, id]) => id));
   for (const name of namen) {
     const alt = Object.entries(gemerkt).find(([, n]) => n === name);
@@ -124,11 +133,11 @@ export function gruppenZuordnen(konto, namen, gemerkt) {
       continue;
     }
     const treffer = konto.filter(([n]) => n === name);
-    if (treffer.length === 1) neu[treffer[0][1]] = name;
+    if (treffer.length === 1) { neu[treffer[0][1]] = name; merken[treffer[0][1]] = name; }
     else if (treffer.length > 1) warnungen.push(`${name}: ${treffer.length} Gruppen mit diesem Namen, keine wird ausgewertet`);
     else warnungen.push(`${name}: nicht gefunden`);
   }
-  return { neu, warnungen };
+  return { neu, merken, warnungen };
 }
 
 // ---------- WhatsApp ----------
@@ -149,9 +158,9 @@ async function start() {
       const alle = await sock.groupFetchAllParticipating();
       const namen = Object.values(alle).map(g => [g.subject, g.id]);
       log('Gruppen des Kontos:', namen.map(n => n[0]).join(' | ') || '(keine)');
-      const { neu, warnungen } = gruppenZuordnen(namen, GRUPPEN, status.gruppen || {});
+      const { neu, merken, warnungen } = gruppenZuordnen(namen, GRUPPEN, status.gruppen || {});
       for (const [id, n] of Object.entries(neu)) if (!(status.gruppen || {})[id]) log('Gruppe fest zugeordnet:', n, id);
-      status.gruppen = neu; sichern();
+      status.gruppen = merken; sichern();
       gruppenJids = new Map(Object.entries(neu));
       log('Ausgewertet:', [...gruppenJids.values()].join(' | ') || '(keine)', warnungen.length ? '– ' + warnungen.join(' | ') : '');
     }
@@ -175,7 +184,12 @@ async function start() {
       const ts = Number(m.messageTimestamp || Date.now() / 1000) * 1000, d = new Date(ts);
       const tag = d.toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
       const e = { id, gruppe: gruppenJids.get(jid), ts, tag, uhr: uhr(d), art: a.art, text: a.text.slice(0, 1500) };
-      if (a.art !== 'text' && a.bytes > MAX_DATEI_MB * 1024 * 1024) {
+      const zk = e.gruppe + '|' + tag;
+      if (a.art !== 'text' && !geladen.has(zk)) geladen.set(zk, dateienHeute(eintraege(), e.gruppe, tag));
+      if (a.art !== 'text' && geladen.get(zk) >= MAX_DATEIEN_TAG) {
+        log('Tagesgrenze erreicht, Datei nicht geladen:', e.gruppe);
+        e.text = (e.text + ` [Datei nicht geladen: mehr als ${MAX_DATEIEN_TAG} Dateien heute in dieser Gruppe]`).trim();
+      } else if (a.art !== 'text' && a.bytes > MAX_DATEI_MB * 1024 * 1024) {
         log('Datei zu groß, nicht geladen:', e.gruppe, Math.round(a.bytes / 1048576) + ' MB');
         e.text = (e.text + ` [Datei zu groß (${Math.round(a.bytes / 1048576)} MB), nicht geladen]`).trim();
       } else if (a.art !== 'text') {
@@ -184,6 +198,7 @@ async function start() {
           fs.mkdirSync(path.join(EINGANG, tag), { recursive: true });
           e.datei = path.join(EINGANG, tag, `${uhr(d).replace(':', '')}-${id.slice(-6)}.${a.endung}`);
           fs.writeFileSync(e.datei, buf);
+          geladen.set(zk, geladen.get(zk) + 1);
         } catch (err) { log('Bild nicht ladbar:', err.message); e.text = (e.text + ' [Bild nicht ladbar]').trim(); }
       }
       fs.appendFileSync(LISTE, JSON.stringify(e) + '\n');
