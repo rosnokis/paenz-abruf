@@ -31,6 +31,8 @@ jobs:
         run: >
           python -m scraper.main --config config/kurse_quellen.yml --ausgabe out/kurse
           --ohne-wetter --ohne-extras --commit-msg-file "$RUNNER_TEMP/commit-msg.txt"
+      - name: Kursliste bauen
+        run: python -m scraper.kurse
       - name: Ergebnis committen
         run: |
           git config user.name "github-actions[bot]"
