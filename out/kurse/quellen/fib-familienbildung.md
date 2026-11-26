@@ -12,6 +12,7 @@ PEKiP® Gruppenleiterin
 Ludwig, Vanessa
 PEKiP-Gruppenleiterin
 Lamina, Katherine
+PEKiP-Gruppenleiterin
 Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – April/Mai'26 Babys
 130,00 €
@@ -25,14 +26,20 @@ Kursstart: 21.08.2026
 Fr. 09:00 – 10:30 Uhr
 Katherine Lamina
 PK-41-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Okt/Nov'25 Babys
 70,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19401)
+Mülheim, Lädchen
+Lädchen
 Buchheimer Str.12/Formesstr.70
 51063 Köln − Mülheim
+Kursstart: 21.08.2026
 21.08., 28.08., 04.09., 11.09., 18.09., 25.09., 02.10.
 Fr. 10:45 – 12:15 Uhr
+Katherine Lamina
 PK-42-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – März/April'26 Babys
 140,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19397)
@@ -45,24 +52,59 @@ Kursstart: 02.09.2026
 Mi. 09:00 – 10:30 Uhr
 Vanessa Ludwig
 PK-39-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Apr/Mai'26 Babys
+140,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19399)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10., 04.11., 11.11., 18.11., 25.11., 02.12., 09.12., 16.12.
 Mi. 10:45 – 12:15 Uhr
+Vanessa Ludwig
 PK-40-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Jan/Feb'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19390)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 07.09.2026
 07.09., 14.09., 21.09., 28.09., 05.10., 12.10., 02.11., 09.11., 16.11., 23.11., 30.11., 07.12., 14.12.
 Mo. 09:00 – 10:30 Uhr
 Cordelia Remmert
 PK-33-K
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – April/Mai'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19391)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 07.09.2026
+07.09., 14.09., 21.09., 28.09., 05.10., 12.10., 02.11., 09.11., 16.11., 23.11., 30.11., 07.12., 14.12.
 Mo. 10:30 – 12:00 Uhr
+Cordelia Remmert
 PK-34-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Juni/Juli'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19393)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 07.09.2026
+07.09., 14.09., 21.09., 28.09., 05.10., 12.10., 02.11., 09.11., 16.11., 23.11., 30.11., 07.12., 14.12.
 Mo. 15:30 – 17:00 Uhr
+Cordelia Remmert
 PK-35-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Jun/Juli'26 Babys
 60,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19386)
@@ -73,54 +115,144 @@ Sattlerweg 8
 Kursstart: 08.09.2026
 08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
 Di. 09:00 – 10:30 Uhr
+Vanessa Ludwig
 PK-30-B
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Okt/Nov'25 Babys
 80,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19387)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 08.09.2026
 08.09., 15.09., 22.09., 29.09., 06.10., 13.10., 03.11., 10.11.
 Di. 10:45 – 12:15 Uhr
+Vanessa Ludwig
 PK-31-B
 Bereits begonnen
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Dez'25/Jan'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19394)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 08.09.2026
 08.09., 15.09., 22.09., 29.09., 06.10., 13.10., 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
 Di. 12:15 – 13:45 Uhr
+Cordelia Remmert
 PK-36-K
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Jan/Feb'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19388)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10., 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
 Di. 13:30 – 15:00 Uhr
+Vanessa Ludwig
 PK-32-B
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – März/April'26 Babys
+130,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19395)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10., 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
 Di. 14:00 – 15:30 Uhr
+Cordelia Remmert
 PK-37-K
+Bereits begonnen
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Okt/Nov'25 Babys
+60,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19396)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
 Di. 15:30 – 17:00 Uhr
+Cordelia Remmert
 PK-38-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – April/Mail'26 Babys
 110,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19720)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 23.09.2026
 23.09., 30.09., 07.10., 14.10., 04.11., 11.11., 18.11., 25.11., 02.12., 09.12., 16.12.
+Mi. 09:00 – 10:30 Uhr
+Cordelia Remmert
 PK-47-K
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – August/September'26 Babys
 50,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19406)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str.12/Formesstr.70
+51063 Köln − Mülheim
 Kursstart: 30.10.2026
 30.10., 06.11., 20.11., 27.11., 04.12.
+Fr. 10:45 – 12:15 Uhr
+Katherine Lamina
 PK-46-K
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Juni/Juli'26 Babys
+70,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19402)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 03.11.2026
 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
+Di. 09:00 – 10:30 Uhr
+Vanessa Ludwig
 PK-43-B
+Ausgebucht
 ★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – Juli/August'26 Babys
+70,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19405)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 03.11.2026
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
+Di. 15:30 – 17:00 Uhr
+Cordelia Remmert
 PK-45-K
+Ausgebucht
+★ PEKiP - Eltern-Kind-Gruppen im 1. Lebensjahr – August/September'26 Babys
+50,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19404)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 17.11.2026
 17.11., 24.11., 01.12., 08.12., 15.12.
+Di. 10:45 – 12:15 Uhr
+Vanessa Ludwig
 PK-44-B
 Legende
 Genügend Plätze frei
 Nur noch wenige Plätze frei
+Bereits begonnen
 Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
 Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
 Zuschuss der Krankenkasse möglich
 Ermäßigungen und Zuschüsse
@@ -134,10 +266,12 @@ Ingenhoff, Sonja, Corona, Christiane,
 ★ Für Mamas und ihre Babys von 3 bis 12 Monaten
 ★ Erlebe beim "Fit mit Kinderwagen" eine harmonische Kombination aus Bewegung und gezieltem Training....
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/willkommen-von-anfang-an/nach-der-geburt/fit-mit-kinderwagen.php)
+★ FB Angebot der FiB Familienbildung
 Müller-Mohaupt, Gisela
 Stillzeit
 Du suchst den Austausch mit stillenden Müttern und wünschst dir eine kompetente Ansprechpartnerin für Fragen rund ums Stillen?In unserem offenen...
 [Zum Kurs](https://www.fibev.de/kurse-und-angebote/willkommen-von-anfang-an/nach-der-geburt/offener-stilltreff.php)
+★ FB Angebot der FiB Familienbildung
 Müller-Mohaupt, Gisela, Albiez, Cornelia,
 ★ Offener Eltern-Kind-Treff
 ★ Für Eltern mit Kindern von 1 - 2 Jahren
@@ -169,48 +303,129 @@ Kursstart: 02.09.2026
 Mi. 09:15 – 10:15 Uhr
 Cornelia Albiez
 MK-16-B
+Bereits begonnen
+★ Musikspielmäuse – ab 1 Jahr
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19425)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10.
 Mi. 10:15 – 11:15 Uhr
+Cornelia Albiez
 MK-17-B
+Bereits begonnen
+★ Musikspielmäuse – ab 1 Jahr
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19421)
 Dellbrück, Leskanpark
 Leskanpark
 Waltherstr. 49-59, Haus 31
 51069 Köln
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10.
 Mi. 14:00 – 15:00 Uhr
 Cordelia Remmert
 MK-15-K
 Storniert
+★ Musikspielmäuse – ab 1 Jahr
 77,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19419)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 23.09.2026
 Mi., –16.12. 09:00 – 10:00 Uhr
+Cordelia Remmert
 storniert
 MK-13-K
+Storniert
+★ Musikspielmäuse – ab 1 Jahr
+77,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19420)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 23.09.2026
 Mi., –16.12. 10:00 – 11:00 Uhr
+Cordelia Remmert
+storniert
 MK-14-K
+Storniert
+★ Musikspielmäuse – ab 1 Jahr
 42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19426)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 04.11.2026
 Mi., –09.12. 09:00 – 10:00 Uhr
+Cordelia Remmert
+storniert
 MK-18-K
+Bereits begonnen
+★ Musikspielmäuse – ab 1 Jahr
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19436)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 04.11.2026
 04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 09:15 – 10:15 Uhr
+Cornelia Albiez
 MK-21-B
+Storniert
+★ Musikspielmäuse – ab 1 Jahr
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19429)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 04.11.2026
 Mi., –09.12. 10:00 – 11:00 Uhr
+Cordelia Remmert
+storniert
 MK-19-K
+Bereits begonnen
+★ Musikspielmäuse – ab 1 Jahr
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19438)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 04.11.2026
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 10:15 – 11:15 Uhr
+Cornelia Albiez
 MK-22-B
 Ausgebucht
+★ Musikspielmäuse – ab 1 Jahr
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19432)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 04.11.2026
 04.11., 11.11., 18.11., 25.11., 02.12., 09.12., 16.12.
+Mi. 14:00 – 15:00 Uhr
+Cordelia Remmert
 MK-20-K
 Legende
 Genügend Plätze frei
 Nur noch wenige Plätze frei
+Bereits begonnen
 Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
 Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
 Zuschuss der Krankenkasse möglich
 Ermäßigungen und Zuschüsse
@@ -235,6 +450,7 @@ Lehrkraft für musikalische Erziehung
 Schüller-Standt, Verena
 Musikwissenschaftlerin
 Barbara Ruthmann
+Musikpädagogin
 alle anzeigen
 Bereits begonnen
 ★ Musikzwerge – 1 - 3 Jahre
@@ -250,9 +466,21 @@ Mi. 15:15 – 16:00 Uhr
 Yalda Ebtehaj
 MZ-37-B
 Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19435)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 02.09.2026
+02.09., 09.09., 16.09., 23.09., 30.09., 07.10., 14.10.
 Mi. 16:00 – 16:45 Uhr
+Yalda Ebtehaj
 MZ-38-K
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19430)
 Bensberg, Sattlerweg
 Sattlerweg
@@ -263,19 +491,60 @@ Kursstart: 03.09.2026
 Do. 15:15 – 16:00 Uhr
 Eva Augusiak
 MZ-34-B
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19431)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
 Do. 16:00 – 16:45 Uhr
+Eva Augusiak
 MZ-35-B
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19439)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
 Do. 16:05 – 16:50 Uhr
 ★ Martina Wingold
 MZ-40-K
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19433)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
 Do. 16:45 – 17:30 Uhr
+Eva Augusiak
 MZ-36-B
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+49,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19440)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 03.09.2026
+03.09., 10.09., 17.09., 24.09., 01.10., 08.10., 15.10.
 Do. 16:55 – 17:40 Uhr
+★ Martina Wingold
 MZ-41-K
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
 42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19447)
 Mülheim, Lädchen
@@ -287,10 +556,22 @@ Kursstart: 08.09.2026
 Di. 09:30 – 10:15 Uhr
 Verena Schüller-Standt
 MZ-44-K
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19448)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str. 12
+51063 Köln
+Kursstart: 08.09.2026
+08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
 Di. 10:20 – 11:05 Uhr
+Verena Schüller-Standt
 MZ-45-K
 Storniert
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19443)
 Brück, kugelrund
 kugelrund
@@ -298,76 +579,275 @@ Olpener Str. 978
 51109 Köln − Brück
 Kursstart: 09.09.2026
 Mi., –14.10. 09:30 – 10:15 Uhr
+Verena Schüller-Standt
 storniert
 MZ-42-K
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19445)
+Brück, kugelrund
+kugelrund
+Olpener Str. 978
+51109 Köln − Brück
+Kursstart: 09.09.2026
 Mi., –14.10. 10:20 – 11:05 Uhr
+Verena Schüller-Standt
+storniert
 MZ-43-K
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
 35,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19437)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 17.09.2026
 Do., –15.10. 15:15 – 16:00 Uhr
+★ Martina Wingold
+storniert
 MZ-39-K
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
 77,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19423)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 22.09.2026
 Di., –15.12. 15:30 – 16:15 Uhr
+★ Martina Wingold
+storniert
 MZ-30-B
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+77,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19424)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 22.09.2026
 Di., –15.12. 16:20 – 17:05 Uhr
+★ Martina Wingold
+storniert
 MZ-31-B
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
 56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19427)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 07.10.2026
 Mi., –09.12. 15:15 – 16:00 Uhr
+Barbara Ruthmann
+storniert
 MZ-32-B
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19428)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 07.10.2026
 Mi., –09.12. 16:00 – 16:45 Uhr
+Barbara Ruthmann
+storniert
 MZ-33-B
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19461)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str. 12
+51063 Köln
 Kursstart: 03.11.2026
 03.11., 10.11., 17.11., 24.11., 01.12., 08.12.
+Di. 09:30 – 10:15 Uhr
+Verena Schüller-Standt
 MZ-58-K
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19462)
+Mülheim, Lädchen
+Lädchen
+Buchheimer Str. 12
+51063 Köln
+Kursstart: 03.11.2026
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12.
+Di. 10:20 – 11:05 Uhr
+Verena Schüller-Standt
 MZ-59-K
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19449)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.11.2026
 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
 Di. 15:30 – 16:15 Uhr
+★ Martina Wingold
 MZ-46-B
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19450)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 03.11.2026
+03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
 Di. 16:20 – 17:05 Uhr
+★ Martina Wingold
 MZ-47-B
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19459)
+Brück, kugelrund
+kugelrund
+Olpener Str. 978
+51109 Köln − Brück
 Kursstart: 04.11.2026
 Mi., –09.12. 09:30 – 10:15 Uhr
+Verena Schüller-Standt
+storniert
 MZ-56-K
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19460)
+Brück, kugelrund
+kugelrund
+Olpener Str. 978
+51109 Köln − Brück
+Kursstart: 04.11.2026
 04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
 Mi. 10:20 – 11:05 Uhr
+Verena Schüller-Standt
 MZ-57-K
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19454)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 04.11.2026
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 15:15 – 16:00 Uhr
+Yalda Ebtehaj
 MZ-51-K
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19455)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 04.11.2026
+04.11., 11.11., 18.11., 25.11., 02.12., 09.12.
+Mi. 16:00 – 16:45 Uhr
+Yalda Ebtehaj
 MZ-52-K
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19456)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 05.11.2026
 Do., –10.12. 15:15 – 16:00 Uhr
+★ Martina Wingold
+storniert
 MZ-53-K
+Storniert
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19451)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 05.11.2026
+Do., –10.12. 15:15 – 16:00 Uhr
+Eva Augusiak
+storniert
 MZ-48-B
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19452)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 05.11.2026
 05.11., 12.11., 19.11., 26.11., 03.12., 10.12.
+Do. 16:00 – 16:45 Uhr
+Eva Augusiak
 MZ-49-B
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19457)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 05.11.2026
+05.11., 12.11., 19.11., 26.11., 03.12., 10.12.
+Do. 16:05 – 16:50 Uhr
+★ Martina Wingold
 MZ-54-K
+Bereits begonnen
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19453)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 05.11.2026
+05.11., 12.11., 19.11., 26.11., 03.12., 10.12.
+Do. 16:45 – 17:30 Uhr
+Eva Augusiak
 MZ-50-B
+Ausgebucht
+★ Musikzwerge – 1 - 3 Jahre
+42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19458)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
+Kursstart: 05.11.2026
+05.11., 12.11., 19.11., 26.11., 03.12., 10.12.
+Do. 16:55 – 17:40 Uhr
+★ Martina Wingold
 MZ-55-K
 Legende
 Genügend Plätze frei
 Nur noch wenige Plätze frei
+Bereits begonnen
 Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
 Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
 Zuschuss der Krankenkasse möglich
 Ermäßigungen und Zuschüsse
@@ -397,10 +877,18 @@ Mi., –14.10. 16:45 – 17:30 Uhr
 Yalda Ebtehaj
 storniert
 MZ-60-K
+Storniert
+★ Musik-Riesen – 4 - 5 Jahre
 42,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19464)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 04.11.2026
 Mi., –09.12. 16:45 – 17:30 Uhr
+Yalda Ebtehaj
+storniert
 MZ-61-K
 Legende
 Genügend Plätze frei
@@ -440,9 +928,14 @@ Kursstart: 03.09.2026
 Do. 09:15 – 10:45 Uhr
 Cordelia Remmert
 KK-16-B
+Bereits begonnen
 ★ Spiel & Spaß für junge Familien – 1-2 Jahre
 48,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19389)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 07.09.2026
 07.09., 14.09., 21.09., 28.09., 05.10., 12.10.
 Mo. 10:30 – 12:00 Uhr
@@ -450,11 +943,20 @@ Katrin Neumann
 KK-12-B
 Storniert
 ★ Spiel & Spaß für junge Familien – 1-3 Jahre
+48,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19413)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 07.09.2026
 Mo., –12.10. 15:00 – 16:30 Uhr
 Christine Speck
 storniert
 KK-17-B
+Bereits begonnen
+★ Spiel & Spaß für junge Familien – 1-2 Jahre
+48,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19392)
 Dellbrück, Leskanpark
 Leskanpark
@@ -463,25 +965,68 @@ Waltherstr. 49-59, Haus 31
 Kursstart: 08.09.2026
 08.09., 15.09., 22.09., 29.09., 06.10., 13.10.
 Di. 09:00 – 10:30 Uhr
+Katrin Neumann
 KK-13-K
+Bereits begonnen
+★ Spiel & Spaß für junge Familien – 1-2 Jahre
+56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19398)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 02.11.2026
 02.11., 09.11., 16.11., 23.11., 30.11., 07.12., 14.12.
+Mo. 10:30 – 12:00 Uhr
+Katrin Neumann
 KK-14-B
+Storniert
+★ Spiel & Spaß für junge Familien – 1-3 Jahre
+56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19417)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
+Kursstart: 02.11.2026
 Mo., –14.12. 15:00 – 16:30 Uhr
+Christine Speck
+storniert
 KK-19-B
 Ausgebucht
+★ Spiel & Spaß für junge Familien – 1-2 Jahre
+56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19403)
+Dellbrück, Leskanpark
+Leskanpark
+Waltherstr. 49-59, Haus 31
+51069 Köln
 Kursstart: 03.11.2026
 03.11., 10.11., 17.11., 24.11., 01.12., 08.12., 15.12.
+Di. 09:00 – 10:30 Uhr
+Katrin Neumann
 KK-15-K
+Ausgebucht
+★ Spiel & Spaß für junge Familien – ab 1 Jahr
+56,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19415)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 05.11.2026
 05.11., 12.11., 19.11., 26.11., 03.12., 10.12., 17.12.
+Do. 09:15 – 10:45 Uhr
+Cordelia Remmert
 KK-18-B
+Bereits begonnen
+★ Spiel & Spaß für junge Familien – 1-3 Jahre
 40,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19731)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 11.11.2026
 11.11., 18.11., 25.11., 02.12., 09.12.
 Mi. 11:20 – 12:50 Uhr
@@ -490,7 +1035,9 @@ KK-23-B
 Legende
 Genügend Plätze frei
 Nur noch wenige Plätze frei
+Bereits begonnen
 Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
+Ausgebucht
 Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
 Zuschuss der Krankenkasse möglich
 Ermäßigungen und Zuschüsse
@@ -504,6 +1051,7 @@ Rafi, Yvonne
 ★ Kurs für Eltern und Kinder von 3-4 Jahren
 ★ Die Kindermassage bietet dir und deinem Kind eine wohltuende gemeinsame Auszeit vom Alltag. In den...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/kindermassage.php)
+★ FB Angebot der FiB Familienbildung
 Müller-Mohaupt, Gisela, Albiez, Cornelia,
 ★ Offener Eltern-Kind-Treff
 ★ Für Eltern mit Kindern von 1 - 2 Jahren
@@ -537,6 +1085,7 @@ Valeska Krabbe
 storniert
 BM-11-B
 Bereits begonnen
+★ Babymassage – 2 - 5 Monate
 65,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19603)
 Mülheim, Lädchen
@@ -548,6 +1097,9 @@ Kursstart: 18.09.2026
 Fr. 14:45 – 16:15 Uhr
 Hung-Sung Wang
 BM-12-K
+Storniert
+★ Babymassage – 2 - 5 Monate
+65,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19594)
 Bensberg, Sattlerweg
 Sattlerweg
@@ -555,11 +1107,25 @@ Sattlerweg 8
 51429 Bergisch Gladbach
 Kursstart: 21.09.2026
 Mo., –02.11. 14:45 – 16:15 Uhr
+Hung-Sung Wang
+storniert
 BM-09-B
+Storniert
+★ Babymassage – 2 - 5 Monate
+65,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19596)
+Bensberg, Sattlerweg
+Sattlerweg
+Sattlerweg 8
+51429 Bergisch Gladbach
 Kursstart: 09.11.2026
 Mo., –07.12. 14:45 – 16:15 Uhr
+Hung-Sung Wang
+storniert
 BM-10-B
+Storniert
+★ Babymassage – 2 - 5 Monate
+65,00 €
 [Anmelden](https://www.fibev.de/kurse-und-angebote/anmeldung.php?kv_idku=19593)
 Dellbrück, Leskanpark
 Leskanpark
@@ -567,10 +1133,13 @@ Waltherstr. 49-59, Haus 31
 51069 Köln
 Kursstart: 20.11.2026
 Fr., –18.12. 14:00 – 15:30 Uhr
+Hung-Sung Wang
+storniert
 BM-08-K
 Legende
 Genügend Plätze frei
 Nur noch wenige Plätze frei
+Bereits begonnen
 Es sind noch Plätze frei, ein späterer Einstieg ist möglich.
 Ausgebucht
 Melden Sie sich gerne telefonisch bei uns! Sobald ein Platz frei wird, oder ein Zusatzkurs zustande kommt werden wir Sie benachrichtigen.
@@ -585,10 +1154,13 @@ Hardt, Johanna, Remmert, Cordelia, Müller-Mohaupt, Gisela, Holz-Schöttler, Bri
 ★ Elterntreff - "Die Fibys"
 ★ Offener Treff für Eltern und Babys In unseren offenen Treffs für Eltern mit Babys im ersten Lebensjahr hast du die Möglichkeit, in gemütlicher...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/elternstart/elterncafe-die-fibys.php)
+★ FB Angebot der FiB Familienbildung
+Wang, Hung-Sung
 ★ Väter-Babymassage
 ★ Für Väter und Babys von 3-5 Monaten
 Unter der Woche bist du oft bei der Arbeit und hast nur wenig Zeit für innige Kuschelmomente. Nimm dir bewusst...
 ★ [Zum Kurs](https://www.fibev.de/kurse-und-angebote/familie-und-co/vaeterangebote/vaeter-babymassage.php)
+★ FB Angebot der FiB Familienbildung
 Rafi, Yvonne
 ★ Berührung mit Respekt - Kindermassage
 ★ Kurs für Eltern und Kinder von 3-4 Jahren

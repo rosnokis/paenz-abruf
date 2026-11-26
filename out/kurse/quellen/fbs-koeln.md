@@ -2,6 +2,7 @@
 
 ## Quelle: https://www.fbs-koeln.org/kurse/eltern-kinder-familien
 ★ Eltern Kinder Familien
+★ Eltern Kinder Familien
 ★ [Krabbelgruppen](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/krabbelgruppen/kategorie/Krabbelgruppen/473)
 ★ [Spielgruppen und kleiner Kindergarten](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/spielgruppen-und-kleiner-kindergarten/kategorie/Spielgruppen+und+kleiner+Kindergarten/474)
 ★ [Musik-, Tanz- und Turnkurse](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kategorie/Musik-+Tanz-+und+Turnkurse/475)
@@ -136,15 +137,22 @@ fbs umsEck Spielzimmer
 ★ [Babyzeit (Kinder geboren 04 - 06/26)](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Babyzeit-Kinder-geboren-04-0626/262F20512)
 Fr. 20.11.2026,
 9.30 Uhr
+fbs umsEck Studio eins
 262F20512
 ★ [Babyzeit (Kinder geboren 07 - Mitte 08/26)](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Babyzeit-Kinder-geboren-07-Mitte-0826/262F20241)
 Di. 24.11.2026,
+11.15 Uhr
+fbs umsEck Studio eins
 262F20241
 ★ [Eltern-Kind-Spielgruppe für Eltern mit Kindern von 1-3 Jahren - Schnupperkurs](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Eltern-Kind-Spielgruppe-fuer-Eltern-mit-Kindern-von-1-3-Jahren-Schnupperkurs/262F2066)
 Mi. 25.11.2026,
+9.30 Uhr
+fbs umsEck Spielzimmer
 262F2066
 ★ [Babyzeit (Kinder geboren 06 - Mitte 07/26)](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Babyzeit-Kinder-geboren-06-Mitte-0726/262F20441)
 Do. 26.11.2026,
+11.15 Uhr
+fbs umsEck Studio eins
 262F20441
 ★ [KinderKochWerkstatt: Adventsbäckerei für Eltern und Kinder ab 3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/KinderKochWerkstatt-Adventsbaeckerei-fuer-Eltern-und-Kinder-ab-3-Jahren/262F2403)
 Sa. 28.11.2026,
@@ -152,13 +160,19 @@ Sa. 28.11.2026,
 EKV Casino
 262F2403
 ★ [Advent, Advent, ein Lichtlein brennt - Eltern-Kind-Adventskranzwerkstatt ab 5 J](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Advent-Advent-ein-Lichtlein-brennt-Eltern-Kind-Adventskranzwerkstatt-ab-5-J/262F2214)
+Sa. 28.11.2026,
 12.30 Uhr
+fbs umsEck Spielzimmer
 262F2214
 ★ [KinderKochWerkstatt: Adventsbäckerei für Eltern und Kinder ab 3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/KinderKochWerkstatt-Adventsbaeckerei-fuer-Eltern-und-Kinder-ab-3-Jahren/262F2404)
+Sa. 28.11.2026,
 14.00 Uhr
+EKV Casino
 262F2404
 ★ [Advent, Advent, ein Lichtlein brennt - Eltern-Kind-Adventskranzwerkstatt ab 3 J](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Advent-Advent-ein-Lichtlein-brennt-Eltern-Kind-Adventskranzwerkstatt-ab-3-J/262F2215)
+Sa. 28.11.2026,
 15.45 Uhr
+fbs umsEck Spielzimmer
 262F2215
 ★ [Online: Achtsames Trockenwerden](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Online-Achtsames-Trockenwerden/262F91601)
 Di. 01.12.2026,
@@ -167,48 +181,77 @@ Online3
 262F91601
 ★ [Online: Advent, Advent, die Stimmung brennt!](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Online-Advent-Advent-die-Stimmung-brennt/262F91801)
 Do. 03.12.2026,
+19.00 Uhr
+Online3
 262F91801
 ★ [Online: Babyschlaf](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Online-Babyschlaf/262F2603)
 Sa. 05.12.2026,
+10.00 Uhr
+Online3
 262F2603
 ★ [Morgen kommt der Nikolaus - Eltern-Kind-Nikolauswerkstatt ab 5 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Morgen-kommt-der-Nikolaus-Eltern-Kind-Nikolauswerkstatt-ab-5-Jahren/262F2216)
+Sa. 05.12.2026,
+12.30 Uhr
+fbs umsEck Spielzimmer
 262F2216
 ★ [Morgen kommt der Nikolaus - Eltern-Kind-Nikolauswerkstatt ab 3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Morgen-kommt-der-Nikolaus-Eltern-Kind-Nikolauswerkstatt-ab-3-Jahren/262F2217)
+Sa. 05.12.2026,
+15.45 Uhr
+fbs umsEck Spielzimmer
 262F2217
 ★ [Online: Partizipation – gelebte Demokratie im Familienalltag](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Online-Partizipation-gelebte-Demokratie-im-Familienalltag/262F91001)
 Di. 08.12.2026,
+19.00 Uhr
+Online3
 262F91001
 ★ [Babyzeit (Kinder geboren 07- 08/26)](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Babyzeit-Kinder-geboren-07--0826/262F20471)
 Do. 10.12.2026,
+9.30 Uhr
 fbs umsEck Studio drei
 262F20471
 ★ [Babyzeit (Kinder geboren Ende 03-05/26)](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Babyzeit-Kinder-geboren-Ende-03-0526/262F2056)
 Fr. 11.12.2026,
+9.30 Uhr
+fbs umsEck Studio drei
 262F2056
 ★ [Der kleine Kindergarten für Eltern mit Kindern ab 1,5 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Der-kleine-Kindergarten-fuer-Eltern-mit-Kindern-ab-15-Jahren/271F2073)
 Do. 07.01.2027,
 9.15 Uhr
+fbs umsEck Spielzimmer
 271F2073
 ★ [Der kleine Kindergarten für Eltern mit Kinder ab 1,5 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Der-kleine-Kindergarten-fuer-Eltern-mit-Kinder-ab-15-Jahren/271F91523)
+Do. 07.01.2027,
+9.15 Uhr
 CSH Turnraum
 271F91523
 ★ [Klangkäfer Mini - Musikkurs für Eltern mit Kindern von 1 1/2 bis 3 Jahr](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Klangkaefer-Mini-Musikkurs-fuer-Eltern-mit-Kindern-von-1-12-bis-3-Jahr/271F2125)
+Do. 07.01.2027,
 15.00 Uhr
 fbs umsEck Saal
 271F2125
 ★ [Klangkäfer Maxi - Musikkurs für Eltern mit Kindern von 2 bis 6 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Klangkaefer-Maxi-Musikkurs-fuer-Eltern-mit-Kindern-von-2-bis-6-Jahren/271F2131)
+Do. 07.01.2027,
+16.00 Uhr
+fbs umsEck Saal
 271F2131
 ★ [Eltern-Kind-Spielgruppe für Eltern mit Kindern von 1-3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Eltern-Kind-Spielgruppe-fuer-Eltern-mit-Kindern-von-1-3-Jahren/271F91522)
 Fr. 08.01.2027,
+9.15 Uhr
 CSH Großer Saal
 271F91522
 ★ [Eltern-Kind-Spielgruppe für Eltern mit Kindern von 1-3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Eltern-Kind-Spielgruppe-fuer-Eltern-mit-Kindern-von-1-3-Jahren/271F2062)
+Fr. 08.01.2027,
+9.30 Uhr
+fbs umsEck Spielzimmer
 271F2062
 ★ [Der kleine Kindergarten für Eltern mit Kindern ab 1,5 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/kurs/Der-kleine-Kindergarten-fuer-Eltern-mit-Kindern-ab-15-Jahren/271F2071)
 Mo. 11.01.2027,
+9.15 Uhr
+fbs umsEck Spielzimmer
 271F2071
 
 ## Quelle: https://www.fbs-koeln.org/kurse/schwanger-baby
+★ Schwanger Baby
 ★ Schwanger Baby
 ★ [Rund um die Geburt](https://www.fbs-koeln.org/kurse/schwanger-baby/rund-um-die-geburt/kategorie/Rund+um+die+Geburt/461)
 ★ [Eltern-Kind-Kurse im 1. Lebensjahr](https://www.fbs-koeln.org/kurse/schwanger-baby/eltern-kind-kurse-im-1-lebensjahr/kategorie/Eltern-Kind-Kurse+im+1+Lebensjahr/462)
@@ -334,12 +377,17 @@ fbs umsEck Studio eins
 ★ [Babyzeit (Kinder geboren 04 - 06/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-04-0626/262F20512)
 Fr. 20.11.2026,
 9.30 Uhr
+fbs umsEck Studio eins
 262F20512
 ★ [Babyzeit (Kinder geboren 07 - Mitte 08/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-07-Mitte-0826/262F20241)
 Di. 24.11.2026,
+11.15 Uhr
+fbs umsEck Studio eins
 262F20241
 ★ [Babyzeit (Kinder geboren 06 - Mitte 07/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-06-Mitte-0726/262F20441)
 Do. 26.11.2026,
+11.15 Uhr
+fbs umsEck Studio eins
 262F20441
 ★ [Online: Babyschlaf](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Online-Babyschlaf/262F2603)
 Sa. 05.12.2026,
@@ -348,57 +396,103 @@ Online3
 262F2603
 ★ [Babyzeit (Kinder geboren 07- 08/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-07--0826/262F20471)
 Do. 10.12.2026,
+9.30 Uhr
 fbs umsEck Studio drei
 262F20471
 ★ [Babyzeit (Kinder geboren Ende 03-05/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-Ende-03-0526/262F2056)
 Fr. 11.12.2026,
+9.30 Uhr
+fbs umsEck Studio drei
 262F2056
 ★ [Babyzeit (Kinder geboren 08 - 09/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-08-0926/271F20101)
 Mo. 11.01.2027,
+9.30 Uhr
+fbs umsEck Studio eins
 271F20101
 ★ [Babyzeit (Kinder geboren 04- 06/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-04--0626/271F20111)
+Mo. 11.01.2027,
+9.30 Uhr
+fbs umsEck Studio drei
 271F20111
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2111)
+Mo. 11.01.2027,
+9.30 Uhr
 fbs umsEck Saal
 271F2111
 ★ [Offener Treff für Väter mit Kindern im 1. Lebensjahr](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Offener-Treff-fuer-Vaeter-mit-Kindern-im-1-Lebensjahr/271F2001)
+Mo. 11.01.2027,
+11.15 Uhr
+fbs umsEck Studio eins
 271F2001
 ★ [Elternstart NRW (Kinder geboren 09 - 10/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Elternstart-NRW-Kinder-geboren-09-1026/271F20115)
+Mo. 11.01.2027,
+11.15 Uhr
+fbs umsEck Studio drei
 271F20115
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2113)
+Mo. 11.01.2027,
 11.30 Uhr
+fbs umsEck Saal
 271F2113
 ★ [Babyzeit (Kinder geboren Mitte 02- 03/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-Mitte-02--0326/271F20121)
+Mo. 11.01.2027,
 13.30 Uhr
+fbs umsEck Studio drei
 271F20121
 ★ [Yoga für Schwangere](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Yoga-fuer-Schwangere/271F1041)
+Mo. 11.01.2027,
 18.40 Uhr
+fbs umsEck Saal
 271F1041
 ★ [Elternstart NRW (Kinder geboren 08-0926)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Elternstart-NRW-Kinder-geboren-08-0926/271F20211)
 Di. 12.01.2027,
+9.30 Uhr
+fbs umsEck Studio eins
 271F20211
 ★ [Babyzeit (Kinder geboren 05 - 06/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-05-0626/271F20205)
+Di. 12.01.2027,
+11.15 Uhr
+fbs umsEck Studio drei
 271F20205
 ★ [Babyzeit (Kinder geboren 03-04/2026)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-03-042026/271F20311)
 Mi. 13.01.2027,
+9.30 Uhr
+fbs umsEck Studio drei
 271F20311
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2115)
+Mi. 13.01.2027,
+9.30 Uhr
+fbs umsEck Saal
 271F2115
 ★ [Babyzeit (Kinder geboren 07-08/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-07-0826/271F20315)
+Mi. 13.01.2027,
+11.15 Uhr
+fbs umsEck Studio drei
 271F20315
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2117)
+Mi. 13.01.2027,
+11.30 Uhr
+fbs umsEck Saal
 271F2117
 ★ [Elternstart NRW (Kinder geboren Mitte 09 - Mitte 11/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Elternstart-NRW-Kinder-geboren-Mitte-09-Mitte-1126/271F20401)
 Do. 14.01.2027,
+9.30 Uhr
+fbs umsEck Studio eins
 271F20401
 ★ [Babyzeit (Kinder geboren 04-05/26)](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Babyzeit-Kinder-geboren-04-0526/271F20415)
+Do. 14.01.2027,
+11.15 Uhr
+fbs umsEck Studio drei
 271F20415
 ★ [Elternstart NRW](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Elternstart-NRW/271F8101)
+Do. 14.01.2027,
 14.00 Uhr
 "Wolke 14"
 271F8101
 ★ [Elternstart NRW](https://www.fbs-koeln.org/kurse/schwanger-baby/kurs/Elternstart-NRW/271F8102)
+Do. 14.01.2027,
 15.45 Uhr
+"Wolke 14"
 271F8102
 
 ## Quelle: https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse
@@ -523,26 +617,42 @@ Do. 07.01.2027,
 fbs umsEck Saal
 271F2125
 ★ [Klangkäfer Maxi - Musikkurs für Eltern mit Kindern von 2 bis 6 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Klangkaefer-Maxi-Musikkurs-fuer-Eltern-mit-Kindern-von-2-bis-6-Jahren/271F2131)
+Do. 07.01.2027,
 16.00 Uhr
+fbs umsEck Saal
 271F2131
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2111)
 Mo. 11.01.2027,
 9.30 Uhr
+fbs umsEck Saal
 271F2111
 ★ [Musikgarten für Eltern mit Kindern von 1,5 bis 3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Musikgarten-fuer-Eltern-mit-Kindern-von-15-bis-3-Jahren/271F2121)
+Mo. 11.01.2027,
 10.30 Uhr
+fbs umsEck Saal
 271F2121
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2113)
+Mo. 11.01.2027,
 11.30 Uhr
+fbs umsEck Saal
 271F2113
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2115)
 Mi. 13.01.2027,
+9.30 Uhr
+fbs umsEck Saal
 271F2115
 ★ [Musikgarten für Eltern mit Kindern von 1,5 bis 3 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Musikgarten-fuer-Eltern-mit-Kindern-von-15-bis-3-Jahren/271F2123)
+Mi. 13.01.2027,
+10.30 Uhr
+fbs umsEck Saal
 271F2123
 ★ [Baby-Musikgarten mit Kindern ab 6 Monaten](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Baby-Musikgarten-mit-Kindern-ab-6-Monaten/271F2117)
+Mi. 13.01.2027,
+11.30 Uhr
+fbs umsEck Saal
 271F2117
 ★ [Rumba Kids - Kindertanz mit Yarisbel für Mütter und Kinder von 4-6 Jahren](https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse/kurs/Rumba-Kids-Kindertanz-mit-Yarisbel-fuer-Muetter-und-Kinder-von-4-6-Jahren/271F91526)
 Fr. 15.01.2027,
+16.00 Uhr
 CSH Großer Saal
 271F91526
