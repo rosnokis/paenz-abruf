@@ -7,7 +7,12 @@ quellen:
   url: https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469
   note: Eltern-Kind-Kurse an mehreren Standorten (Agnesviertel, Südstadt, Vogelsang …).
   urls:
-  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=466
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=517
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=518
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=519
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=468
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=470
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=472
 - id: bildungswerk-erzdioezese-koeln
   name: Bildungswerk der Erzdiözese Köln
   group: Kurse
@@ -16,15 +21,22 @@ quellen:
 - id: fbs-koeln
   name: Ev. Familienbildungsstätte Köln (fbs)
   group: Kurse
-  url: https://www.fbs-koeln.org/
+  url: https://www.fbs-koeln.org/kurse/eltern-kinder-familien
   note: Musikgarten, Babykurse, Eltern-Kind-Gruppen.
+  urls:
+  - https://www.fbs-koeln.org/kurse/schwanger-baby
+  - https://www.fbs-koeln.org/kurse/eltern-kinder-familien/musik-tanz-und-turnkurse
 - id: fib-familienbildung
   name: FiB e.V. Familienbildung
   group: Kurse
   url: https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php
   note: PEKiP u. a., Kurse nach Geburtsmonat.
   urls:
-  - https://www.fibev.de/kurse-und-angebote/familie-und-co/
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikspielmaeuse.php
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musikzwerge.php
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/musik_riesen.php
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/kinder-von-1-bis-3-jahren/spiel-und-spass-fuer-junge-familien.php
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/babymassage.php
 - id: drk-familienbildungswerk
   name: DRK Köln Familienbildungswerk
   group: Kurse
@@ -44,19 +56,10 @@ quellen:
 - id: rheinische-musikschule
   name: Rheinische Musikschule Köln
   group: Kurse
-  url: https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/
+  url: https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/unterricht-ensembles-choere
   note: Musikzwerge ab 6 Monaten, Musikalische Früherziehung ab 4.
-- id: kindaling-eltern-kind
-  name: Kindaling Köln (Eltern-Kind-Kurse)
-  group: Kurse
-  url: https://www.kindaling.de/eltern-kind-kurse/koeln
-  note: Übersichtsportal mit Buchung; Babyturnen und Kinderkurse.
-  urls:
-  - https://www.kindaling.de/eltern-kind-kurse/koeln?page=2
-  - https://www.kindaling.de/kinderturnen-babyturnen/koeln?view=list
-  - https://www.kindaling.de/kinderkurse/koeln
 - id: koelnbaeder-kurse
   name: KölnBäder Kurse
   group: Kurse
-  url: https://www.koelnbaeder.de/
+  url: https://koelnbaeder.de/sicher-schwimmen
   note: Babyschwimmen, Wassergewöhnung, Seepferdchen.
