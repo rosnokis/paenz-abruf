@@ -64,7 +64,6 @@ Bürgerzentrum Engelshof e. V.
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9568)
 27.06.2027
 ★ [PhilharmonieVeedel Pänz](https://www.koelner-philharmonie.de/en/events/philharmonieveedel-paenz/9569)
-Bitte warte einen Moment...
 
 ## Quelle: https://www.koelner-philharmonie.de/en/events?tags=26
 Concerts

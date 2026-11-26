@@ -1,5 +1,5 @@
 URL: https://www.oper.koeln/en/productions/der-konig-verschenkt-was/623
-ABGERUFEN: 2026-11-26T20:03
+ABGERUFEN: 2026-11-26T20:22
 VON: tickets.yml
 
 Der König verschenkt was
