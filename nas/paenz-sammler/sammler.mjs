@@ -18,6 +18,21 @@ const MAX_MB = Number(E.MAX_MB || 18);
 const MAX_DATEI_MB = Number(E.MAX_DATEI_MB || 15);
 const AUFBEWAHREN_TAGE = Number(E.AUFBEWAHREN_TAGE || 30);
 const EINGANG = path.join(DATEN, 'eingang'), LISTE = path.join(DATEN, 'eingang.jsonl'), STATUS = path.join(DATEN, 'status.json');
+// ---------- Rechte abgeben ----------
+// Im Container startet der Sammler als root. Er übergibt den Datenordner an SAMMLER_UID/GID und
+// wechselt dann zu diesem Benutzer. Ab hier hat der Prozess keine root-Rechte mehr.
+export function rechteAbgeben(ordner, uid, gid) {
+  if (!Number.isInteger(uid) || !Number.isInteger(gid) || typeof process.getuid !== 'function' || process.getuid() !== 0) return false;
+  fs.mkdirSync(ordner, { recursive: true });
+  const besitz = p => { fs.lchownSync(p, uid, gid); if (fs.lstatSync(p).isDirectory()) for (const n of fs.readdirSync(p)) besitz(path.join(p, n)); };
+  besitz(ordner);
+  process.setgroups([gid]); process.setgid(gid); process.setuid(uid);
+  return true;
+}
+if (E.SAMMLER_UID && !E.SAMMLER_KEIN_START) {
+  rechteAbgeben(DATEN, Number(E.SAMMLER_UID), Number(E.SAMMLER_GID || E.SAMMLER_UID));
+  if (process.getuid?.() === 0) { console.error('Rechte konnten nicht abgegeben werden, Abbruch.'); process.exit(1); }
+}
 fs.mkdirSync(EINGANG, { recursive: true });
 const log = (...a) => console.log(new Date().toLocaleString('de-DE', { timeZone: 'Europe/Berlin' }), ...a);
 

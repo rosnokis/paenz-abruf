@@ -8,6 +8,11 @@ services:
     volumes:
       - ./data:/data
     mem_limit: 512m
+    # Nur die Rechte, die der Start für chown und den Wechsel zu "node" braucht.
+    cap_drop: [ALL]
+    cap_add: [CHOWN, DAC_OVERRIDE, FOWNER, SETUID, SETGID]
+    security_opt:
+      - no-new-privileges:true
     logging:
       driver: json-file
       options: { max-size: "2m", max-file: "3" }
