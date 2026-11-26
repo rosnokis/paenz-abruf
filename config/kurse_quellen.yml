@@ -1,0 +1,62 @@
+# Kursanbieter für die Kursübersicht (buchbare Kurse 0–6 Jahre, ganz Köln).
+# Gleiches Format wie quellen.yml; wird vom Workflow kurse.yml wöchentlich nach out/kurse/ abgerufen.
+quellen:
+- id: familienforum-koeln
+  name: FamilienForum Köln (kath. Familienbildung)
+  group: Kurse
+  url: https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=469
+  note: Eltern-Kind-Kurse an mehreren Standorten (Agnesviertel, Südstadt, Vogelsang …).
+  urls:
+  - https://programm.familienbildung-koeln.de/webbasys/index.php?kathaupt=1&katid=466
+- id: bildungswerk-erzdioezese-koeln
+  name: Bildungswerk der Erzdiözese Köln
+  group: Kurse
+  url: https://programm.bildungswerk-ev.de/bw-koeln/webbasys/index.php?kathaupt=1&katid=488
+  note: Eltern-Kind-Kurse, Anmeldung teils per Telefon/Mail.
+- id: fbs-koeln
+  name: Ev. Familienbildungsstätte Köln (fbs)
+  group: Kurse
+  url: https://www.fbs-koeln.org/
+  note: Musikgarten, Babykurse, Eltern-Kind-Gruppen.
+- id: fib-familienbildung
+  name: FiB e.V. Familienbildung
+  group: Kurse
+  url: https://www.fibev.de/kurse-und-angebote/familie-und-co/erstes-lebensjahr/pekip.php
+  note: PEKiP u. a., Kurse nach Geburtsmonat.
+  urls:
+  - https://www.fibev.de/kurse-und-angebote/familie-und-co/
+- id: drk-familienbildungswerk
+  name: DRK Köln Familienbildungswerk
+  group: Kurse
+  url: https://www.drk-koeln.de/fileadmin/Dokumente/fb4/FBW/Kursprogramm_Familienbildungswerk_2026.pdf
+  note: Jahresprogramm als PDF (PEKiP, Eltern-Kind-Kurse).
+  typ: pdf
+- id: fidelio-koeln
+  name: Fidelio Köln
+  group: Kurse
+  url: https://www.fidelio-koeln.de/kinderkurse/
+  note: PEKiP, Babymassage, Musikgarten (Lindenthal).
+- id: familienbegleitung-koeln
+  name: Familienbegleitung Köln
+  group: Kurse
+  url: https://www.familienbegleitung.com/kurse-vortr%C3%A4ge/
+  note: FABEL-Babykurse, Musikgarten.
+- id: rheinische-musikschule
+  name: Rheinische Musikschule Köln
+  group: Kurse
+  url: https://www.stadt-koeln.de/leben-in-koeln/rheinische-musikschule/
+  note: Musikzwerge ab 6 Monaten, Musikalische Früherziehung ab 4.
+- id: kindaling-eltern-kind
+  name: Kindaling Köln (Eltern-Kind-Kurse)
+  group: Kurse
+  url: https://www.kindaling.de/eltern-kind-kurse/koeln
+  note: Übersichtsportal mit Buchung; Babyturnen und Kinderkurse.
+  urls:
+  - https://www.kindaling.de/eltern-kind-kurse/koeln?page=2
+  - https://www.kindaling.de/kinderturnen-babyturnen/koeln?view=list
+  - https://www.kindaling.de/kinderkurse/koeln
+- id: koelnbaeder-kurse
+  name: KölnBäder Kurse
+  group: Kurse
+  url: https://www.koelnbaeder.de/
+  note: Babyschwimmen, Wassergewöhnung, Seepferdchen.

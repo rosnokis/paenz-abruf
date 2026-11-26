@@ -378,13 +378,16 @@ def main(argv=None) -> int:
     ap.add_argument("--ohne-wetter", action="store_true")
     ap.add_argument("--ohne-extras", action="store_true", help="keine Detailseiten/Tickets/Kandidaten")
     ap.add_argument("--root", help="Arbeitsordner mit config/ und out/ (für Tests; Standard: das Repo)")
+    ap.add_argument("--config", default="config/quellen.yml", help="Quellenliste relativ zum Arbeitsordner")
+    ap.add_argument("--ausgabe", default="out", help="Ausgabeordner relativ zum Arbeitsordner")
     args = ap.parse_args(argv)
     return run(args, Fetcher())
 
 
 def run(args, f, stand: datetime | None = None) -> int:
     root = Path(args.root).resolve() if args.root else ROOT
-    CONFIG, OUT = root / "config" / "quellen.yml", root / "out"
+    CONFIG = root / (getattr(args, "config", None) or "config/quellen.yml")
+    OUT = root / (getattr(args, "ausgabe", None) or "out")
     QDIR = OUT / "quellen"
 
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
