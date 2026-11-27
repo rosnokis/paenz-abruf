@@ -2,7 +2,7 @@
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 296 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 295 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe Nov - Dez 28 - 23 „Peppa feiert Weihnachten“ – Tanztheater Clowneske ab 3 Jahr 20 Events Alte Wursterei, Köln (DE)](https://eventfrog.de/de/p/gruppen/peppa-feiert-weihnachten-tanztheater-clowneske-ab-3-jahr-7391967514643714747.html)
 ★ [Nov 28 Räuber, Schätze und geheime Orte vor über 200 Jahren in Köln Samstag, 28. November, 14:30 Chlodwigpl. 19, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/raeuber-schaetze-und-geheime-orte-vor-ueber-200-jahren-in-koeln-koeln-7529126816621021576.html)
 ★ [Nov 28 Pokémon-TCG x Dads Do Hair – Familien-Workshop Samstag, 28. November, 18:30 Impact - Café und Bar, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/pokemon-tcg-x-dads-do-hair-familien-workshop-koeln-7530951952827446758.html)
@@ -39,22 +39,24 @@ Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Ve
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/heute.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 296 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
-★ [Eventgruppe bis Okt 14 Workshop: Offener Kreativraum für Kinder ab 1 Jahr 46 Events Tante Astrid, Köln (DE)](https://eventfrog.de/de/p/gruppen/offener-kreativraum-7517243338380019529.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 295 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/morgen.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 296 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 295 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Eventgruppe Nov - Dez 28 - 23 „Peppa feiert Weihnachten“ – Tanztheater Clowneske ab 3 Jahr 20 Events Alte Wursterei, Köln (DE)](https://eventfrog.de/de/p/gruppen/peppa-feiert-weihnachten-tanztheater-clowneske-ab-3-jahr-7391967514643714747.html)
+★ [Nov 28 Räuber, Schätze und geheime Orte vor über 200 Jahren in Köln Samstag, 28. November, 14:30 Chlodwigpl. 19, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/raeuber-schaetze-und-geheime-orte-vor-ueber-200-jahren-in-koeln-koeln-7529126816621021576.html)
+★ [Nov 28 Pokémon-TCG x Dads Do Hair – Familien-Workshop Samstag, 28. November, 18:30 Impact - Café und Bar, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/pokemon-tcg-x-dads-do-hair-familien-workshop-koeln-7530951952827446758.html)
 Fehlt dein Event?
 Erfasse deinen Event mit wenigen Klicks hier und profitiere von zusätzlichen Vermarktungsmöglichkeiten.
 [Event eintragen](https://eventfrog.de/de/cockpitv3/create-event-step1)
 
 ## Quelle: https://eventfrog.de/de/events/koeln/veranstaltungen-kinder-familien/wochenende.html
 [Erfasse deinen Event](https://eventfrog.de/de/cockpitv3/create-event)
-★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 296 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
+★ [Tickets Eventgruppe bis Sep 17 Familien-Schatzsuche Köln: Rätsel-Tour Altstadt 295 Events Altstadt Köln, Köln (DE)](https://eventfrog.de/de/p/gruppen/familien-schatzsuche-koeln-raetsel-tour-altstadt-7507181188680837705.html)
 ★ [Eventgruppe Nov - Dez 28 - 23 „Peppa feiert Weihnachten“ – Tanztheater Clowneske ab 3 Jahr 20 Events Alte Wursterei, Köln (DE)](https://eventfrog.de/de/p/gruppen/peppa-feiert-weihnachten-tanztheater-clowneske-ab-3-jahr-7391967514643714747.html)
 ★ [Nov 28 Räuber, Schätze und geheime Orte vor über 200 Jahren in Köln Samstag, 28. November, 14:30 Chlodwigpl. 19, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/raeuber-schaetze-und-geheime-orte-vor-ueber-200-jahren-in-koeln-koeln-7529126816621021576.html)
 ★ [Nov 28 Pokémon-TCG x Dads Do Hair – Familien-Workshop Samstag, 28. November, 18:30 Impact - Café und Bar, Köln (DE)](https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/pokemon-tcg-x-dads-do-hair-familien-workshop-koeln-7530951952827446758.html)

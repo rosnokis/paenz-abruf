@@ -18,8 +18,8 @@ Sonntag, 29. November
 ★ [9:30 Familiencafé im Curious Kids Frechen-Königsdorf](https://www.kindaling.de/sonstige-veranstaltungen/familiencafe-im-curious-kids/frechen-koenigsdorf)
 ★ [11:00 Der große Kinderflohmarkt in Köln Köln Ehrenfeld](https://www.kindaling.de/flohmaerkte/der-grosse-kinderflohmarkt-in-koeln/koeln-ehrenfeld)
 ★ [14:00 On Air – Licht! Kamera! Action! Bonn](https://www.kindaling.de/kindertheater-shows/on-air-licht-kamera-action/bonn)
-★ [15:00 Improvisationstheater für Kinder: Das improvisierte Märchen! Pulheim](https://www.kindaling.de/kindertheater-shows/improvisationstheater-fuer-kinder-das-improvisierte-maerchen/pulheim)
 ★ [15:00 Lars - der kleine Eisbär Solingen](https://www.kindaling.de/kindertheater-shows/lars-der-kleine-eisbaer/solingen)
+★ [15:00 Improvisationstheater für Kinder: Das improvisierte Märchen! Pulheim](https://www.kindaling.de/kindertheater-shows/improvisationstheater-fuer-kinder-das-improvisierte-maerchen/pulheim)
 ★ [15:30 Keksdosenkonzerte- Hänsel und Gretel Köln Ehrenfeld](https://www.kindaling.de/kinderkonzerte/keksdosenkonzerte-haensel-und-gretel/koeln-ehrenfeld)
 Dienstag, 01. Dezember
 ★ [15:30 KinderHausMusik - Singen im Advent Köln Kalk](https://www.kindaling.de/kreatives/kinderhausmusik-singen-im-advent/koeln-kalk)

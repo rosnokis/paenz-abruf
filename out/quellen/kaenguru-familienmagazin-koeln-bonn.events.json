@@ -1,37 +1,28 @@
 [
  {
-  "name": "Jobmesse im Klarissenkloster",
+  "name": "Adventsbasar",
   "location": {
-   "name": "Köln"
+   "name": "Solingen"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jobmesse-im-klarissenkloster/2026-11-26",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-6/2026-11-27",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "MINT-Basteln im Advent",
+  "name": "KinderTreff",
   "location": {
-   "name": "Bonn"
+   "name": "Hennef"
   },
-  "url": "https://www.kaenguru-online.de/kalender/literatur/mint-basteln-im-advent/2026-11-26",
-  "kinder": false,
+  "url": "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-27",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Messe der Kölner Berufskollegs 2026",
+  "name": "Kreativer Freitag",
   "location": {
-   "name": "Köln"
+   "name": "Linnich"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/messe-der-koelner-berufskollegs-2026/2026-11-26",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Mit dem Nachtwächter durch Bonn",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuehrung/mit-dem-nachtwaechter-durch-bonn/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/museum/kreativer-freitag/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -40,43 +31,61 @@
   "location": {
    "name": "Siegburg"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Stockpuppen Hänneschen und Bärbelchen",
+  "name": "Steinofenbrot",
   "location": {
-   "name": "Köln"
+   "name": "Königswinter"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/stockpuppen-haenneschen-und-baerbelchen/2026-11-26",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/museum/steinofenbrot/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Regenbogenfisch“",
+  "name": "Weihnachtsmarkt",
   "location": {
-   "name": "Köln"
+   "name": "Düsseldorf"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/weihnachtsmarkt-2/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Regenbogenfisch“",
+  "name": "„Dear Evan Hansen\"",
   "location": {
    "name": "Bonn"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/dear-evan-hansen/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-2/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Der Regenbogenfisch“",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -85,16 +94,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der zerbrochne Krug\"",
+  "name": "„Die kleine Eidechse\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/der-zerbrochne-krug/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -103,16 +112,25 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Jugend ohne Gott“",
+  "name": "„Festtagsspaß mit Peppa\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jugend-ohne-gott/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„INTO IT\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/theater/into-it/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -121,34 +139,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Mission Laika\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/mission-laika/2026-11-26",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Pettersson und Findus - Ein Feuerwerk für den Fuchs\"",
+  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/theater/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs/2026-11-26",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Pippi Langstrumpf\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -157,16 +157,7 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-26",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wie verhext“",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-3/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
@@ -175,7 +166,16 @@
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-2/2026-11-26",
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-27",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Wie verhext“",
+  "location": {
+   "name": "Bonn"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

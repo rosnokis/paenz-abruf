@@ -6,17 +6,12 @@
 ★ Hier findet ihr Termine für Babys, Kleinkinder, Familien und Schwangere in Köln, Bonn und der Region. Die Bandbreite reicht von Elternthemen vor der Geburt bis zu Veranstaltungen, die ihr mit euren Babys und Kleinkindern besuchen könnt.
 ★ Möchtet ihr erfahren wo ihr schöne [Baby-Geschäfte in Köln und Bonn](https://www.kaenguru-online.de/themen/rund-ums-baby/shoppen-fuers-baby-geschaefte-in-koeln-und-bonn) findet? Dann schaut doch mal bei unserem Artikel dazu vorbei.
 ★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
-★ [Dr. Mama / Dr. Papa](https://www.kaenguru-online.de/kalender/fuer-minis/dr-mama-dr-papa/2026-11-26)
-★ Elternnachmittag
-26.11.2026
-17:30 - 19:30 Uhr
-★ Kindernöte e.V.
-Köln
 ★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
 Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
 27.11.2026
 11:00 Uhr
 Horizont Theater
+Köln
 ★ [„Die Stoffmarie"](https://www.kaenguru-online.de/kalender/fuer-minis/die-stoffmarie/2026-11-27)
 ★ Das Ensemble Nicopoulos spielt für Kinder ab 2 Jahren.
 16:00 Uhr
@@ -60,6 +55,7 @@ COMEDIA Theater
 ★ [Bilderbuchkino](https://www.kaenguru-online.de/kalender/fuer-minis/bilderbuchkino/2026-12-01)
 ★ Bilderbuchkino für Kinder von 3 bis 6 Jahren
 16:00 - 17:00 Uhr
+★ Kindernöte e.V.
 ★ [Museumsflöhe](https://www.kaenguru-online.de/kalender/fuer-minis/museumsfloehe/2026-12-02)
 ★ Mit Kleinkindern ins Museum Morsbroich
 02.12.2026
@@ -74,3 +70,5 @@ Freies Werkstatt Theater
 Freunde des Wallraf-Richartz-Museum und des Museum Ludwig
 ★ [PhilharmonieVeedel Baby „Funkelzeit"](https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-2/2026-12-02)
 Bürgerzentrum Ehrenfeld / BÜZE
+★ [BabyBühne](https://www.kaenguru-online.de/kalender/fuer-minis/babybuehne/2026-12-03)
+03.12.2026

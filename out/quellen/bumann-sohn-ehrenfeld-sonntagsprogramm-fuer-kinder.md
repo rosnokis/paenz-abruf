@@ -1,29 +1,14 @@
 # Bumann & Sohn (Ehrenfeld) – Sonntagsprogramm für Kinder (bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder)
 
 ## Quelle: https://www.bumannundsohn.de/programm
-[Nov 26 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
-[Party](https://www.bumannundsohn.de/programm?category=Party), [Event](https://www.bumannundsohn.de/programm?category=Event)
-[Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
-Thursday, November 26, 2026
-6:30 PM
-10:00 PM
-18:30
-22:00
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Gl%C3%BChwein%20BINGO&dates=20261126T173000Z/20261126T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo?format=ical)
-DONNERSTAG / 26.11.26 / 18:30 - 22:00
-Bringt gerne eure eigenen Stifte mit – so seid ihr bestens vorbereitet.
-★ Teilnahme ab 18 Jahren.
-[RESERVIERUNG](https://t.rausgegangen.de/tickets/bingo-177)
-Auch ohne Reservierung dürft ihr mitspielen.
-Eintritt ist frei.
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 [Nov 27 4:30 PM 16:30](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
 [Event](https://www.bumannundsohn.de/programm?category=Event)
 [Whipped Up - The Queer Art Magazine](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
 Friday, November 27, 2026
 4:30 PM
+10:00 PM
 16:30
+22:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Whipped%20Up%20-%20The%20Queer%20Art%20Magazine&dates=20261127T153000Z/20261127T210000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine?format=ical)
 FREITAG / 27.11.26 / 16:30 - 22:00
@@ -132,13 +117,18 @@ COLIGUNS
 [TICKETS](https://www.eventim.de/event/coilguns-bumann-sohn-21774651/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/02/coliguns)
 [Dec 3 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/12/03/gluhweinbingo)
+[Party](https://www.bumannundsohn.de/programm?category=Party), [Event](https://www.bumannundsohn.de/programm?category=Event)
 [Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/12/03/gluhweinbingo)
 Thursday, December 3, 2026
+6:30 PM
+18:30
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Gl%C3%BChwein%20BINGO&dates=20261203T173000Z/20261203T210000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/12/03/gluhweinbingo?format=ical)
 DONNERSTAG / 03.12.26 / 18:30 - 22:00
 ★ Bringt gerne eure eigenen Tassen & Stifte mit – so seid ihr bestens vorbereitet. Für Tassen von uns verlangen wir 2,50€ Pfand pro Tasse. Teilnahme ab 18 Jahren.
 [RESERVIERUNG](https://t.rausgegangen.de/tickets/gluhwein-bingo-7)
+Auch ohne Reservierung dürft ihr mitspielen.
+Eintritt ist frei.
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/03/gluhweinbingo)
 [Dec 4 to Dec 5](https://www.bumannundsohn.de/programm/2026/12/04/crush)
 [PARTY // CRUSH](https://www.bumannundsohn.de/programm/2026/12/04/crush)
@@ -384,6 +374,16 @@ DJs: Rubimental & Meskla
 MUSIC: R&B x AFRO x POP x SINGALONGS x HITSx HYMNEN
 [TICKETS](https://t.rausgegangen.de/tickets/silvester-party-liberte-die-schonste-party-der-welt-1)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/31/silvesterparty-liberte)
+[Nov 26 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
+[Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
+Thursday, November 26, 2026
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Gl%C3%BChwein%20BINGO&dates=20261126T173000Z/20261126T210000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo?format=ical)
+DONNERSTAG / 26.11.26 / 18:30 - 22:00
+Bringt gerne eure eigenen Stifte mit – so seid ihr bestens vorbereitet.
+★ Teilnahme ab 18 Jahren.
+[RESERVIERUNG](https://t.rausgegangen.de/tickets/bingo-177)
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 [Nov 25 9:00 PM 21:00](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
 [Champions League](https://www.bumannundsohn.de/programm/2026/11/25/championsleague)
 Wednesday, November 25, 2026
@@ -662,13 +662,3 @@ w/ DANNY BLUE
 [GOOD TIX](https://www.getgoodtix.com/event/the-clockworks)
 [TICKET i/O](https://popanz.ticket.io/GMopY8pZ/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/02/theclockworks)
-[Nov 1 2:00 PM 14:00](https://www.bumannundsohn.de/programm/2026/11/01/union-1-fc-koeln)
-[Union - 1. FC Köln](https://www.bumannundsohn.de/programm/2026/11/01/union-1-fc-koeln)
-Sunday, November 1, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Union%20-%201.%20FC%20K%C3%B6ln&dates=20261101T130000Z/20261101T163000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/01/union-1-fc-koeln?format=ical)
-SONNTAG / 01.11.26 / 14:00 - 17:30
-Union - 1. FC Köln (Anstoß: 15:30 Uhr)
-Backyard öffnet um 14 Uhr
-[RESERVIERUNG](https://t.rausgegangen.de/tickets/1-bundesliga-union-1-fc-koln)
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/01/union-1-fc-koeln)

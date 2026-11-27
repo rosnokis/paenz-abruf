@@ -2,42 +2,34 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-10-2026-klavierabend-1-1/)
-26.11.2026
-19:00
-Uhr
-Konzertsaal
-Aachen
-Klavierabend
-[„Vom Lieben und Leiden“ - Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-vom-lieben-und-leiden-gesangsabend/)
-Köln
-„Vom Lieben und Leiden“ - Gesangsabend
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-klavierabend/)
-19:30
-Konzertsaal Wuppertal
-Wuppertal
-[Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/26-11-2026-neurotime-soll-nicht-zermahlen-werden-oder-wenn-stadtkoerper-erinnerung-saeen/)
-Kammermusiksaal
-Oh, Boy! Kreaturen sollen nicht zermahlen werden. Oder: Wenn Stadtkörper unmaskiert Erinnerung säen
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1-1/)
 27.11.2026
+19:30
+Uhr
+Konzertsaal Wuppertal
+Wuppertal
 Kammer­musik­abend
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/27-11-2026-kammermusikabend/)
+Kammermusiksaal
+Köln
 [Klaviermatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-klaviermatinee/)
 28.11.2026
 11:00
 Klaviermatinee
 [Cello Klassenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-cello-klassenabend/)
+19:00
 Cello Klassenabend
 [Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
 Gitarrenabend
 Fällt leider aus.
 [FESTLICHES BLÄSERKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-festliches-blaeserkonzert/)
+Konzertsaal
 FESTLICHES BLÄSERKONZERT
 [Herzensangelegenheit](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-11-2025-herzensangelegenheit-1/)
 29.11.2026
 Herzensangelegenheit
 [Trompetenmatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-trompetenabend/)
+Aachen
 Trompetenmatinee
 [Fagottnachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-fagottnachmittag/)
 15:00
@@ -46,6 +38,7 @@ Fagottnachmittag
 17:00
 Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-klavierabend/)
+Klavierabend
 Dezember 2026
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-lunchtime-konzerte-in-st-kunibert/)
 01.12.2026

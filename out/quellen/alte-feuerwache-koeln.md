@@ -25,26 +25,7 @@ SA
 23
 24
 25
-DO 26.11.
-[Frauen, TINAQ+ und Queers QUEER BIPOC SPACE 18:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/queer-bipoc-space-9/)
-[Kultur A.TONAL.THEATER: Plädoyer für die unglückliche Liebe 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/a-tonal-theater-plaedoyer-fuer-die-unglueckliche-liebe/)
-[DO 26.11. Activ lernen | Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-41/)
-★ [DO 26.11. Sprachförderung 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/sprachfoerderung-7/)
-★ [DO 26.11. Offener Kindertreff 15:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/off-4/)
-[DO 26.11. Lernförderung 15:00 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/lernfoerderung-17/)
-[DO 26.11. DAKO | BeratungsCafé 15:30 Offener Treff | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/cafefamilia-3/)
-[DO 26.11. Saz spielen lernen 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/saz-spielen-lernen-5/)
-[DO 26.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-17/)
-[DO 26.11. Gitarre Lernen 17:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/gitarre-lernen-8/)
-[DO 26.11. Good Vibes | Chor 17:40 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/chor-good-vibes-9/)
-[DO 26.11. DJ-Angebot 18:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/dj-angebot-4/)
-[DO 26.11. Himmel un Ääd | Angehörige von Bipolar Erkrankten 18:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/himmel-un-aad-angehoerige-von-bipolar-erkrankten-3/)
-[DO 26.11. SHGD Hansaring | Selbsthilfe Depressionen 18:00 Alte Feuerwache Köln](https://altefeuerwachekoeln.de/programm/shgd-hansaring-selbsthilfe-depressionen-9/)
-[DO 26.11. Brasilianische Tänze | Samba de Gafieira 19:00 Kleines Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/brassilianische-tanze-samba-de-gafieira-9/)
-[DO 26.11. Der Chor der Donnerstags probt 19:15 Großes Forum | Südtrakt](https://altefeuerwachekoeln.de/programm/der-chor-der-donnerstags-probt-9/)
-[DO 26.11. Antons Erben | Improvisationstheater 19:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/antons-erben-improvisationstheater-9/)
-[DO 26.11. Anonyme Alkoholiker | lesbisch/schwul 19:30 Versammlungsraum | Branddirektion](https://altefeuerwachekoeln.de/programm/anonyme-alkoholiker-lesbisch-schwul-9/)
-[DO 26.11. Folklore Balkan-Tänze 20:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/folklore-balkan-taenze-9/)
+26
 FR 27.11.
 [Frauen, TINAQ+ und Queers Psychologische Beratung 09:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-9/)
 [Jugend Write & Sing Your Song 17:00 · Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/write-sing-your-song-6/)

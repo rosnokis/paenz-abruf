@@ -99,6 +99,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },
  {
+  "name": "„Der König verschenkt was\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-09",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender/musik"
+ },
+ {
   "name": "„Die chinesische Nachtigall\"",
   "location": {
    "name": "Hürth"
@@ -122,15 +131,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/musik"
- },
- {
-  "name": "„Marla, die Maifliege\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/musik"
  },

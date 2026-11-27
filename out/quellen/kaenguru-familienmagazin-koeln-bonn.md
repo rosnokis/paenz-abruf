@@ -5,90 +5,100 @@
 Was ist los in Köln, Bonn und der Region? Schaut auch mal in unsere ausgewählten [Wochenend-Tipps mit Kids](https://www.kaenguru-online.de/themen/ausflug/sechs-tipps-fuer-das-wochenende).
 Informiert euch vor eurem Besuch, ob ihr euch anmelden oder Tickets reservieren müsst!
 Viel Vergnügen!
-© Yan Krukau/Pexels
-[MINT-Basteln im Advent MINT-Bastelaktion von 6 bis 8 Jahren 26.11.2026, 16:00 Uhr Haus der Bildung / Zentralbibliothek Bonn, 53111 Bonn](https://www.kaenguru-online.de/kalender/literatur/mint-basteln-im-advent/2026-11-26)
+© Andrea Piacquadio/Pexels
+★ [20 Jahre ARD-Kinderradionacht 2026 Fünf Stunden Radio rund um Freundschaft mit Geschichten, Hörspiel, Musik und Mitmachaktionen 27.11.2026, 20:03 Uhr bis 01:00 Uhr Radio bundesweit](https://www.kaenguru-online.de/kalender/dies-und-das/20-jahre-ard-kinderradionacht-2026/2026-11-27)
 Veranstaltung suchen
 Onlineangebot
 [Theater](https://www.kaenguru-online.de/kalender/theater)
-[„Der Zauber von Oz"](https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-26)
+[„Der Zauber von Oz"](https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-27)
 ★ Fantastisches Theaterstück nach dem Kinderbuchklassiker „Der Zauberer von Oz“
-26.11.2026
+27.11.2026
 09:00 Uhr
 11:00 Uhr
 COMEDIA Theater
 Köln
 [Für Teenager](https://www.kaenguru-online.de/kalender/fuer-teenager)
-[Messe der Kölner Berufskollegs 2026](https://www.kaenguru-online.de/kalender/fuer-teenager/messe-der-koelner-berufskollegs-2026/2026-11-26)
-★ Bildungsmesse für Jugendliche und Eltern zu Ausbildung, Studium und Schulabschlüssen
-09:00 - 15:30 Uhr
-KOMED Köln
-[„Jugend ohne Gott“](https://www.kaenguru-online.de/kalender/fuer-teenager/jugend-ohne-gott/2026-11-26)
-Nach dem Roman von Ödön von Horváth
-09:30 Uhr
-12:00 Uhr
-[„Der zerbrochne Krug"](https://www.kaenguru-online.de/kalender/fuer-teenager/der-zerbrochne-krug/2026-11-26)
-Schauspiel nach Heinrich von Kleist für Jugendliche
-Horizont Theater
-[„Mission Laika"](https://www.kaenguru-online.de/kalender/theater/mission-laika/2026-11-26)
-★ Ein Weltraumabenteuer zwischen Dokutheater und Infotainment für Kinder ab 6 Jahren
+[„Dear Evan Hansen"](https://www.kaenguru-online.de/kalender/fuer-teenager/dear-evan-hansen/2026-11-27)
+Das Musical verbindet eine ganze Reihe hochaktueller und ernster Themen, die Jugendliche und junge Erwachsene heute mehr denn je beschäftigen
 10:00 Uhr
-Theater Marabu Bonn
-Bonn
-[„Pettersson und Findus - Ein Feuerwerk für den Fuchs"](https://www.kaenguru-online.de/kalender/theater/pettersson-und-findus-ein-feuerwerk-fuer-den-fuchs/2026-11-26)
-★ Ein wunderbares Stück über Freundschaft, Einfallsreichtum und das Leben in der Natur für Kinder ab 3 Jahren
-KKT Kölner Künstler:innen Theater
-[„Pippi Langstrumpf"](https://www.kaenguru-online.de/kalender/theater/pippi-langstrumpf-2/2026-11-26)
-★ Das Buch „Pippi Langstrumpf" war auf Anhieb ein Erfolg und machte Astrid Lindgren zur beliebtesten Kinderbuchautorin der Welt
+19:30 Uhr
 Junges Theater Bonn
-[Jobmesse im Klarissenkloster](https://www.kaenguru-online.de/kalender/fuer-teenager/jobmesse-im-klarissenkloster/2026-11-26)
-Dein Sprung in die Arbeitswelt
-10:00 - 15:00 Uhr
-Caritas der Stadt Köln e.V.
+Bonn
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
 ★ Eine Insektenoper als mobile Produktion für KiTas
 10:30 Uhr
 ★ Kinderoper Köln
+★ [Für Minis](https://www.kaenguru-online.de/kalender/fuer-minis)
+★ [„Die kleine Eidechse"](https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27)
+Auf einer griechischen Insel verirrt sich eine kleine Eidechse in einen Transporter
+Horizont Theater
 [Feste und Märkte](https://www.kaenguru-online.de/kalender/feste-und-maerkte)
-[Mittelalterlicher Markt zur Weihnachtszeit](https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-26)
+[Mittelalterlicher Markt zur Weihnachtszeit](https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-27)
 ★ Mittelalterlicher Weihnachtsmarkt mit Gaukler:innen, Musik und Karussell für die ganze Familie
-11:00 - 20:00 Uhr
+11:00 - 21:00 Uhr
 Mittelalterlicher Markt Siegburg
 Siegburg
-★ [Stockpuppen Hänneschen und Bärbelchen](https://www.kaenguru-online.de/kalender/feste-und-maerkte/stockpuppen-haenneschen-und-baerbelchen/2026-11-26)
-★ Lebensgroße Stockpuppen des Hänneschen-Theaters auf dem Weihnachtsmarkt Heinzels Wintermärchen
-14:00 - 16:00 Uhr
-★ Weihnachtsmarkt Heinzel Wintermärchen
+★ [Adventsbasar](https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-6/2026-11-27)
+Weihnachtlicher Adventsmarkt auf Schloss Burg an diesem Wochenende
+11:00 - 20:00 Uhr
+Schloss Burg a.d. Wupper
+Solingen
+[„INTO IT"](https://www.kaenguru-online.de/kalender/theater/into-it/2026-11-27)
+★ Interaktives Tanztheater über Nähe, Begegnung und Bewegung für Jugendliche ab 10 Jahren
+ehrenfeldstudios
 [Kino](https://www.kaenguru-online.de/kalender/kino)
-[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-26)
+[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-2/2026-11-27)
+Der Regenbogenfisch ist mit seinen schillernden Schuppen der schönste Fisch im ganzen Ozean
+13:30 Uhr
+Cinenova
+[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext-3/2026-11-27)
 ★ Familiengeheimnisse, Hexenzauber und eine Reise, die alles verändert
+13:45 Uhr
+16:00 Uhr
+18:20 Uhr
+Metropolis
+[Museum](https://www.kaenguru-online.de/kalender/museum)
+[Steinofenbrot](https://www.kaenguru-online.de/kalender/museum/steinofenbrot/2026-11-27)
+Steinofenbrot aus dem „Königswinterer Ofen"
+14:00 - 15:30 Uhr
+Siebengebirgsmuseum
+Königswinter
+[Weihnachtsmarkt](https://www.kaenguru-online.de/kalender/feste-und-maerkte/weihnachtsmarkt-2/2026-11-27)
+Besinnliche Vorweihnachtszeit auf dem Schlossvorplatz
+14:00 - 21:00 Uhr
+Stiftung Schloss und Park Benrath
+Düsseldorf
+[„Festtagsspaß mit Peppa"](https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-27)
+★ Ein festliches Kinoabenteuer, in dem Peppa Wutz und ihre Familie Evies erstes Weihnachtsfest feiern
+14:10 Uhr
+Rex am Ring
+[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-27)
+14:15 Uhr
+[Literatur](https://www.kaenguru-online.de/kalender/literatur)
+★ [KinderTreff](https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-27)
+Geschichten hören, Bilder betrachten, miteinander reden, malen, basteln, singen, spielen
+14:30 - 15:30 Uhr
+Stadtbibliothek Hennef
+Hennef
+[„Shaun das Schaf - Spuk im Kürbisfeld“](https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-27)
+Am Halloween-Abend auf der Mossy Bottom Farm verwandelt sich die Aufregung in Bestürzung, als der tollpatschige Farmer das Kürbisfeld ruiniert
+14:30 Uhr
+[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-27)
 14:40 Uhr
 Filmpalast Cineplex Köln
-[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-26)
+[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-27)
 14:45 Uhr
 17:15 Uhr
 WOKI
-[„E Leech zom Chressfess"](https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-26)
+[Kreativer Freitag](https://www.kaenguru-online.de/kalender/museum/kreativer-freitag/2026-11-27)
+★ Workshop für Eltern und ihre Kinder, Großeltern und Enkel sowie Paten und Patenkinder
+15:00 - 17:00 Uhr
+Glasmalerei-Museum Linnich
+Linnich
+[„E Leech zom Chressfess"](https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-27)
 ★ Das Weihnachtsmärchen für die ganze Familie
 15:00 Uhr
 17:30 Uhr
 ★ Hänneschen Puppenspiele
-[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch/2026-11-26)
-Der Regenbogenfisch ist mit seinen schillernden Schuppen der schönste Fisch im ganzen Ozean
-Weisshaus Kino
-[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-26)
-[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-4/2026-11-26)
-[„Wie verhext“](https://www.kaenguru-online.de/kalender/kino/wie-verhext-2/2026-11-26)
-15:40 Uhr
-18:00 Uhr
-Rex am Ring
-[Führung](https://www.kaenguru-online.de/kalender/fuehrung)
-[Mit dem Nachtwächter durch Bonn](https://www.kaenguru-online.de/kalender/fuehrung/mit-dem-nachtwaechter-durch-bonn/2026-11-26)
-Ein Spaziergang durch die dunkleren und wilderen Tage der Bonner Stadtgeschichte
-16:00 Uhr
-19:00 Uhr
-StattReisen Bonn
-[Literatur](https://www.kaenguru-online.de/kalender/literatur)
-[MINT-Basteln im Advent](https://www.kaenguru-online.de/kalender/literatur/mint-basteln-im-advent/2026-11-26)
-MINT-Bastelaktion von 6 bis 8 Jahren
-Haus der Bildung / Zentralbibliothek Bonn
+[„Der Regenbogenfisch“](https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-27)

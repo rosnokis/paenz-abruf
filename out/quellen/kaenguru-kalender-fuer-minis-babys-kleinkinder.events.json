@@ -9,21 +9,21 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "BabyBühne",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/babybuehne/2026-12-03",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "Bilderbuchkino",
   "location": {
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/bilderbuchkino/2026-12-01",
   "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "Dr. Mama / Dr. Papa",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/dr-mama-dr-papa/2026-11-26",
-  "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {

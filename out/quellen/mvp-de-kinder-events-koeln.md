@@ -54,42 +54,36 @@ Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-[random. Kölner Jugendtheaterpreis 2025](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
-★ Theater, Musical, Bühne & Comedy, Veranstaltung, Kinderfreundliches Event
-Klüngelpütz Kabarett &Theater, Köln
-Donnerstag, 26. November 2026 und Freitag, 9. April 2027 - Klüngelpütz Kabarett &Theater - Köln - random. Kölner Jugendtheaterpreis 2025 - Kristina Geßner, Olexandra...
-26.11.26 - 09.04.27
-(heute)
-ab
-24 €
-[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/random-koelner-jugendtheaterpreis-2025/)
 ★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
 ★ Puppenspiele der Stadt Köln, KÖLN
 ★ bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech zom Chressfess | Puppenspiele...
-26.11. bis 20.12.26
+27.11. bis 20.12.26
+(heute)
+ab
 17,50 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
+★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
+Senftöpfchen-Theater, Köln
+★ Samstag, 28. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
+28.11.26 - 30.01.27
+(morgen)
+18,70 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-27&checkout=2026-12-01&q=koeln&label=ms4)
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-28&checkout=2026-12-02&q=koeln&label=ms4)
 freie Objekte in Köln bei casamundo.de
 Deine Reisedaten:
-27.11. bis 01.12.26
+28.11. bis 02.12.26
 ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-27&checkout=2026-12-01&q=koeln&label=ms4)
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-28&checkout=2026-12-02&q=koeln&label=ms4)
 Hier ist noch ein Plätzchen frei
 So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
 aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
 Anzeigen zu einer Pause.
 [Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
 Anzeigen finanzieren dieses Portal.
-★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
-Senftöpfchen-Theater, Köln
-★ Samstag, 28. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
-28.11.26 - 30.01.27
-18,70 €
-[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ [Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater im Walzwerk, Pulheim
@@ -105,10 +99,6 @@ LVR-Kulturzentrum Abtei Brauweiler - Kaisersaal, Pulheim
 7,20 €
 ★ [zum Konzert](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/kinderkonzert-das-schaefchen-und-der-stern-zauberhaftes-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2589737)
-[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
-Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
-Regional. Flexibel. Günstig.
-[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 [Yakari - Freunde fürs Leben - HÜRTH](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/yakari-freunde-fuers-leben-buergerhaus-huerth-huerth/)
 ★ Kinderfreundliches Event
 Bürgerhaus Hürth, HÜRTH
@@ -116,6 +106,10 @@ Bürgerhaus Hürth, HÜRTH
 32 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/yakari-freunde-fuers-leben-buergerhaus-huerth-huerth/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/21691828/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+[Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
+Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
+Regional. Flexibel. Günstig.
+[Jetzt registrieren](https://www.manet-marketing.de/mein-mvp/)
 ★ [Familienkonzert »Jauchzet, frohlocket!« mit Bachs Weihnachtsoratorium](https://www.mvp.de/koeln/veranstaltungen/familienkonzert-jauchzet-frohlocket-mit-bachs-weihnachtsoratorium/)
 Kölner Philharmonie, KÖLN
 ★ Sonntag, 29. November 2026 und Sonntag, 29. November 2026 - Kölner Philharmonie - Familienkonzert »Jauchzet, frohlocket!« mit Bachs Weihnachtsoratorium -...
@@ -308,6 +302,13 @@ Freitag, 5. Februar 2027 - Dorint Hotel an der Messe - KÖLN - KölleAlarm - Die
 11.02.2027
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/philharmonieveedel-paenz-so-bin-ich-fuer-kinder-ab-2-jahren-buergerzentrum/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/22319360/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+[TKKG - Das Geheimnis der Siegelringe - Live-Hörspiel 2027 - KÖLN](https://www.mvp.de/koeln/veranstaltungen/tkkg-das-geheimnis-der-siegelringe-live-hoerspiel-2027-koeln/)
+★ Open-Air / Erlebnisshow, Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
+Stadthalle Köln, KÖLN
+Donnerstag, 11. Februar 2027 und Freitag, 12. Februar 2027 - Stadthalle Köln - TKKG - Das Geheimnis der Siegelringe - Live-Hörspiel 2027
+11.02. bis 12.02.27
+48,50 €
+[zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/tkkg-das-geheimnis-der-siegelringe-live-hoerspiel-2027-koeln/)
 Karte schließen
 vorherige Seite
 Suchen während ich die Karte bewege

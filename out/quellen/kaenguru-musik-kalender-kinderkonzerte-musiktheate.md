@@ -6,14 +6,12 @@
 ★ Familienkonzerte, Kinderoper oder Events bei denen ihr gleich selbst musiziert — hier findet ihr unsere zukünftigen Termine rund um die Musik in Köln, Bonn und der Region. Musik begleitet uns und unsere Kinder auf vielfältige Weise im Leben, weitere interessante Artikel gibt es in unserer [Themenwelt Musik](https://www.kaenguru-online.de/tag/musik.html).
 ★ Musikveranstaltungen für Kinder in Köln, Bonn & der Region
 [Musik](https://www.kaenguru-online.de/kalender/musik)
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-26)
+[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
 ★ Eine Insektenoper als mobile Produktion für KiTas
-26.11.2026
+27.11.2026
 10:30 Uhr
 ★ Kinderoper Köln
 Köln
-[„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27)
-27.11.2026
 ★ [Kinder singen hier & jetzt](https://www.kaenguru-online.de/kalender/musik/kinder-singen-hier-jetzt-1/2026-11-28)
 ★ Offenes Chorsingen einmal im Monat für Kinder ab dem ersten Schuljahr
 28.11.2026
@@ -27,8 +25,8 @@ Pulheim
 [„Jauchzet, frohlocket"](https://www.kaenguru-online.de/kalender/musik/jauchzet-frohlocket-1/2026-11-29)
 ★ Bachs Weihnachtsoratorium für die ganze Familie – Familienkonzert für Kinder von 6 bis 10 Jahren
 29.11.2026
-14:00 Uhr
 11:00 Uhr
+14:00 Uhr
 Philharmonie
 [„Alles Brahms"](https://www.kaenguru-online.de/kalender/musik/alles-brahms/2026-11-29)
 ★ Familienkonzert mit Werken von Johannes Brahms für Kinder ab 8 Jahren
@@ -42,8 +40,8 @@ Bonn
 11:30 Uhr
 ★ [KinderHausMusik: Singen im Advent](https://www.kaenguru-online.de/kalender/musik/kinderhausmusik-singen-im-advent/2026-12-01)
 ★ Kinder können Musik und Instrumente auf vielfältige Art und Weise kennenlernen
-16:30 Uhr
 15:30 Uhr
+16:30 Uhr
 Bürgerhaus Kalk
 [„Marla, die Maifliege"](https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-12-02)
 02.12.2026
@@ -79,3 +77,5 @@ Düsseldorf
 11:00 - 18:00 Uhr
 Hochschule für Musik und Tanz
 [„Die chinesische Nachtigall"](https://www.kaenguru-online.de/kalender/musik/die-chinesische-nachtigall-3/2026-12-06)
+[„Der König verschenkt was"](https://www.kaenguru-online.de/kalender/musik/der-koenig-verschenkt-was/2026-12-09)
+09.12.2026
