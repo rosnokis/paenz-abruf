@@ -524,3 +524,21 @@ quellen:
   url: https://www.porzer-rheinkirchen.de/
   note: Pfarrnachrichten und regelmäßige Angebote für Kinder von 0 bis 6 Jahren.
   seit: '2026-11-26'
+- id: bauspielplatz-merheim
+  name: Bauspielplatz Merheim
+  group: Köln-Nord & Veedel
+  url: https://bauspielplatz-merheim.de/veranstaltungskalender/
+  note: Veranstaltungskalender mit Familienangeboten und Weihnachtsmarkt
+  seit: '2026-11-27'
+- id: buergerzentrum-engelshof-porz-westhoven
+  name: Bürgerzentrum Engelshof (Porz-Westhoven)
+  group: Köln-Nord & Veedel
+  url: https://engelshof.net/familienangebote/
+  note: Familienangebote, Eltern-Kind-Café und Konzerte für Kleine
+  seit: '2026-11-27'
+- id: katholische-familienbildung-koeln
+  name: Katholische Familienbildung Köln
+  group: Köln-Nord & Veedel
+  url: https://www.familienbildung-koeln.de/
+  note: Familiencafés, Eltern-Kind-Kurse und Familiennachmittage für 0 bis 6 Jahre.
+  seit: '2026-11-27'
