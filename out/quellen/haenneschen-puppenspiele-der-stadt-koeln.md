@@ -3,21 +3,20 @@
 ## Quelle: https://www.haenneschen.de/spillplan/programmuebersicht/
 Spillplan
 Wählen Sie einen Monat:
-Fr.
-27. Nov. 2026
+Sa.
+28. Nov. 2026
 Hänneschen Theater | 15:00 Uhr, 17:30 Uhr
 E Leech zom Chressfess
 ★ [Kaate](https://www.koelnticket.de/city/koeln-9/venue/puppenspiele-der-stadt-koeln-4881/?affiliate=5HT)
 ★ Ein Weihnachtsmärchen von Heike Huhmann
 [Mehr](https://www.haenneschen.de/spillplan/auffuehrung/e-leech-zom-chressfess/)
-Sa.
-28. Nov. 2026
 So.
 29. Nov. 2026
 Mi.
 02. Dez. 2026
 Do.
 03. Dez. 2026
+Fr.
 04. Dez. 2026
 05. Dez. 2026
 06. Dez. 2026

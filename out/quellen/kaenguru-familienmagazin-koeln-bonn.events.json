@@ -1,29 +1,137 @@
 [
  {
+  "name": "Advent für alle Sinne",
+  "location": {
+   "name": "Mechernich-Kommern"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/advent-fuer-alle-sinne/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
   "name": "Adventsbasar",
   "location": {
-   "name": "Solingen"
+   "name": "Bergisch Gladbach"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-6/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/adventsbasar-1/2026-11-28",
   "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "KinderTreff",
+  "name": "Adventsbäckerei",
   "location": {
-   "name": "Hennef"
+   "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/literatur/kindertreff/2026-11-27",
-  "kinder": true,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "Kreativer Freitag",
-  "location": {
-   "name": "Linnich"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/museum/kreativer-freitag/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/adventsbaeckerei-1/2026-11-28",
   "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Adventsfahrten mit der Kölner Seilbahn",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/adventsfahrten-mit-der-koelner-seilbahn/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Carrerabahn-Rennen",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/dies-und-das/carrerabahn-rennen/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Die Olchis – Das große Weltraumabenteuer",
+  "location": {
+   "name": "Erkrath"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/die-olchis-das-grosse-weltraumabenteuer/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Die große Schoko-Schule",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-grosse-schoko-schule/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Die kleine Schoko-Schule",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/die-kleine-schoko-schule-1/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familienbacktag an der Gymnicher Mühle",
+  "location": {
+   "name": "Erftstadt"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/natur-und-umwelt/familienbacktag-an-der-gymnicher-muehle/2026-11-28",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Familiensauna-Tag",
+  "location": {
+   "name": "Troisdorf"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/sport/familiensauna-tag/2026-11-28",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Figuren-Werkstatt",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/museum/figuren-werkstatt/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "JUBi - Die Jugendbildungsmesse",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/jubi-die-jugendbildungsmesse-2/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Kinderflohmarkt",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/kinderflohmarkt-203/2026-11-28",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Kindersachen-Flohmarkt",
+  "location": {
+   "name": "Lohmar"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/1-kindersachen-flohmarkt/2026-11-28",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "Kindersachen-Flohmarkt",
+  "location": {
+   "name": "Mechernich"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/maerkte/3-kindersachen-flohmarkt/2026-11-28",
+  "kinder": true,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
@@ -31,151 +139,43 @@
   "location": {
    "name": "Siegburg"
   },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/mittelalterlicher-markt-zur-weihnachtszeit/2026-11-28",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Steinofenbrot",
+  "name": "Romantischer Weihnachtsmarkt",
   "location": {
-   "name": "Königswinter"
+   "name": "Rösrath"
   },
-  "url": "https://www.kaenguru-online.de/kalender/museum/steinofenbrot/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/romantischer-weihnachtsmarkt-2/2026-11-28",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "Weihnachtsmarkt",
-  "location": {
-   "name": "Düsseldorf"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/weihnachtsmarkt-2/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Dear Evan Hansen\"",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/dear-evan-hansen/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
+  "name": "Tag der offenen Tür",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-2/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-teenager/tag-der-offenen-tur/2026-11-28",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  },
  {
-  "name": "„Der Regenbogenfisch“",
+  "name": "Traditioneller Hennefer Weihnachtsmarkt",
+  "location": {
+   "name": "Hennef"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/feste-und-maerkte/traditioneller-hennefer-weihnachtsmarkt/2026-11-28",
+  "kinder": false,
+  "quelle": "https://www.kaenguru-online.de/kalender"
+ },
+ {
+  "name": "„Die Kuh Swantje\"",
   "location": {
    "name": "Köln"
   },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-5/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Regenbogenfisch“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/der-regenbogenfisch-1/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Der Zauber von Oz\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/der-zauber-von-oz/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Die kleine Eidechse\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„E Leech zom Chressfess\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/e-leech-zom-chressfess/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Festtagsspaß mit Peppa\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/festtagsspass-mit-peppa-1/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„INTO IT\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/theater/into-it/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Marla, die Maifliege\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/musik/marla-die-maifliege/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Shaun das Schaf - Spuk im Kürbisfeld“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/shaun-das-schaf-spuk-im-kuerbisfeld-6/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wie verhext“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-3/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wie verhext“",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender"
- },
- {
-  "name": "„Wie verhext“",
-  "location": {
-   "name": "Bonn"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/kino/wie-verhext-1/2026-11-27",
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender"
  }

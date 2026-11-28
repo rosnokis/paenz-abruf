@@ -1,35 +1,20 @@
 # Bumann & Sohn (Ehrenfeld) – Sonntagsprogramm für Kinder (bumann-sohn-ehrenfeld-sonntagsprogramm-fuer-kinder)
 
 ## Quelle: https://www.bumannundsohn.de/programm
-[Nov 27 4:30 PM 16:30](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
-[Event](https://www.bumannundsohn.de/programm?category=Event)
-[Whipped Up - The Queer Art Magazine](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
-Friday, November 27, 2026
-4:30 PM
-10:00 PM
-16:30
-22:00
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Whipped%20Up%20-%20The%20Queer%20Art%20Magazine&dates=20261127T153000Z/20261127T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine?format=ical)
-FREITAG / 27.11.26 / 16:30 - 22:00
-Whipped Up - The Queer Art Magazine
-Release Event
-Einlass: 16:30
-Beginn: 17:00
-[TICKETS](https://rausgegangen.de/en/events/whipped-up-magazin-release-event-0/)
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
 [Nov 27 to Nov 28](https://www.bumannundsohn.de/programm/2026/11/27/shade)
 [Party](https://www.bumannundsohn.de/programm?category=Party), [DJ](https://www.bumannundsohn.de/programm?category=DJ)
 [PARTY // SHADE](https://www.bumannundsohn.de/programm/2026/11/27/shade)
 Fri, Nov 27, 2026
+10:00 PM
+22:00
 Sat, Nov 28, 2026
 5:00 AM
 05:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=PARTY%20%2F%2F%20SHADE&dates=20261127T210000Z/20261128T040000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/11/27/shade?format=ical)
 FREITAG / 27.11.26 / 22:00 - 05:00
-DJs: PETE HAIR & STRICTLY JOHNNY
-MUSIC: HIP HOP x RnB x AFROBEATS x HOUSE
+DJs: LEO (Cupidon) & STRICTLY JOHNNY (Shade)
+MUSIC: HIP HOP x RnB x WORLD CLUB MUSIC x HOUSE
 FREE ENTRY
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/27/shade)
 [Nov 28 2:00 PM 14:00](https://www.bumannundsohn.de/programm/2026/11/28/extasia)
@@ -96,6 +81,7 @@ Kiel - 1. FC Köln (Anstoß: 18:00 Uhr)
 [RESERVIERUNG](https://t.rausgegangen.de/tickets/dfb-pokal-kiel-1-fc-koln)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/1/dfbpokalachtelfinalekielkoeln)
 [Dec 1 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/12/01/loveatfirstslidequeeredition)
+[Event](https://www.bumannundsohn.de/programm?category=Event)
 [Love at first slide - Queer Edition](https://www.bumannundsohn.de/programm/2026/12/01/loveatfirstslidequeeredition)
 7:00 PM
 11:30 PM
@@ -108,12 +94,12 @@ Power Point Dating by Rausgegangen
 [TICKETS](https://rausgegangen.de/events/queer-love-at-first-slide-koln-power-point-dating-by-rausgeg-0/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/01/loveatfirstslidequeeredition)
 [Dec 2 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/12/02/coliguns)
-[Concert: COLIGUNS](https://www.bumannundsohn.de/programm/2026/12/02/coliguns)
+[Concert: COILGUNS](https://www.bumannundsohn.de/programm/2026/12/02/coliguns)
 Wednesday, December 2, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concert%3A%20COLIGUNS&dates=20261202T180000Z/20261202T210000Z)
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concert%3A%20COILGUNS&dates=20261202T180000Z/20261202T210000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/12/02/coliguns?format=ical)
 MITTWOCH / 02.12.26 / 19:00 - 22:00
-COLIGUNS
+COILGUNS
 [TICKETS](https://www.eventim.de/event/coilguns-bumann-sohn-21774651/)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/02/coliguns)
 [Dec 3 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/12/03/gluhweinbingo)
@@ -184,7 +170,9 @@ SONNTAG / 06.12.26 / 14:30 - 15:30
 ★ [View Event →](https://www.bumannundsohn.de/programm/2026/12/06/dernikolauskommtaufdenehrenfelderweihnachtsmarkt)
 [Dec 6 4:30 PM 16:30](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly)
 [XMAS DAYDRINKING - SINGLES ONLY](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly)
+4:30 PM
 9:00 PM
+16:30
 21:00
 [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=XMAS%20DAYDRINKING%20-%20SINGLES%20ONLY&dates=20261206T153000Z/20261206T200000Z)
 [ICS](https://www.bumannundsohn.de/programm/2026/12/6/xmasdaydrinkingsinglesonly?format=ical)
@@ -374,6 +362,18 @@ DJs: Rubimental & Meskla
 MUSIC: R&B x AFRO x POP x SINGALONGS x HITSx HYMNEN
 [TICKETS](https://t.rausgegangen.de/tickets/silvester-party-liberte-die-schonste-party-der-welt-1)
 [View Event →](https://www.bumannundsohn.de/programm/2026/12/31/silvesterparty-liberte)
+[Nov 27 4:30 PM 16:30](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
+[Whipped Up - The Queer Art Magazine](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
+Friday, November 27, 2026
+[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Whipped%20Up%20-%20The%20Queer%20Art%20Magazine&dates=20261127T153000Z/20261127T210000Z)
+[ICS](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine?format=ical)
+FREITAG / 27.11.26 / 16:30 - 22:00
+Whipped Up - The Queer Art Magazine
+Release Event
+Einlass: 16:30
+Beginn: 17:00
+[TICKETS](https://rausgegangen.de/en/events/whipped-up-magazin-release-event-0/)
+[View Event →](https://www.bumannundsohn.de/programm/2026/11/27/whipped-up-the-queer-art-magazine)
 [Nov 26 6:30 PM 18:30](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 [Glühwein BINGO](https://www.bumannundsohn.de/programm/2026/11/26/gluehweinbingo)
 Thursday, November 26, 2026
@@ -651,14 +651,3 @@ DIENSTAG / 03.11.26 / 18.45 - 23:00
 18:45 - Galatasaray - Stuttgart
 21:00 - Atl. Madrid - Bayern
 [View Event →](https://www.bumannundsohn.de/programm/2026/11/3/championsleague)
-[Nov 2 7:00 PM 19:00](https://www.bumannundsohn.de/programm/2026/11/02/theclockworks)
-[Concert: THE CLOCKWORKS](https://www.bumannundsohn.de/programm/2026/11/02/theclockworks)
-Monday, November 2, 2026
-[Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concert%3A%20THE%20CLOCKWORKS&dates=20261102T180000Z/20261102T210000Z)
-[ICS](https://www.bumannundsohn.de/programm/2026/11/02/theclockworks?format=ical)
-MONTAG / 02.11.26 / 19:00 - 22:00
-THE CLOCKWORKS (London UK, V2)
-w/ DANNY BLUE
-[GOOD TIX](https://www.getgoodtix.com/event/the-clockworks)
-[TICKET i/O](https://popanz.ticket.io/GMopY8pZ/)
-[View Event →](https://www.bumannundsohn.de/programm/2026/11/02/theclockworks)

@@ -11,17 +11,6 @@
   "quelle": "https://klugev.de"
  },
  {
-  "name": "Stöckchen besetzt - pack mit an!",
-  "startDate": "2026-11-27T09:00:00+01:00",
-  "endDate": "2026-11-27T16:00:00+01:00",
-  "location": {
-   "name": "Stöckchen besetzt - pack mit an!",
-   "address": "Stöckchen besetzt - pack mit an!"
-  },
-  "kinder": false,
-  "quelle": "https://klugev.de"
- },
- {
   "name": "Offene Fahrradwerkstatt",
   "startDate": "2026-11-28T12:00:00+01:00",
   "endDate": "2026-11-28T17:00:00+01:00",

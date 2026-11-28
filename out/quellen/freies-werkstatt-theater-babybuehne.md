@@ -34,16 +34,13 @@ Fr [27](https://www.fwt-koeln.de/spielplan/tag/2026/11/27)
 Sa [28](https://www.fwt-koeln.de/spielplan/tag/2026/11/28)
 So [29](https://www.fwt-koeln.de/spielplan/tag/2026/11/29)
 Mo [30](https://www.fwt-koeln.de/spielplan/tag/2026/11/30)
-26.11.2026
-Do, 20:00 Uhr
-Grenzerfahrungen und Lebensläufe | Theater-Performance von Emel Aydoğdu | Dieser außergewöhnlich sinnliche Theaterabend macht das Unsagbare spürbar, lässt Raum für zutiefst persönliche Erinnerungen und zeigt, wie intensiv uns familiäre Bande prägen, halten und bewegen. Die tief emotionale Musik und der kurdisch-türkische Gesang entstehen live auf der Bühne. Nominiert für den Kurt-Hackenberg-Preis für politisches Theater 2026
-[Zugang über Stufen](https://www.fwt-koeln.de/spielplan/zugang-ueber-stufen?tx_calendarize_calendar%5BendDate%5D=2026-12-26&tx_calendarize_calendar%5BstartDate%5D=2026-11-26&cHash=dec376a0d82dbd605fe9b47d688484c7)
-[Tickets](https://tickets.qultor.de/event/touch-the-line/touch-the-line-2026-11-26-2000)
 27.11.2026
 Fr, 10:00 Uhr
 Wege in und durch die freie Szene in schwierigen Zeiten Fishbowl & World Café im Rahmen des flukks+ Netzwerktreffens #2 am Freitag, 27. November 2026, 10–12 Uhr im FWT: Köln. Kommt vorbei! Eintritt frei
 28.11.2026
 Sa, 20:00 Uhr
+Grenzerfahrungen und Lebensläufe | Theater-Performance von Emel Aydoğdu | Dieser außergewöhnlich sinnliche Theaterabend macht das Unsagbare spürbar, lässt Raum für zutiefst persönliche Erinnerungen und zeigt, wie intensiv uns familiäre Bande prägen, halten und bewegen. Die tief emotionale Musik und der kurdisch-türkische Gesang entstehen live auf der Bühne. Nominiert für den Kurt-Hackenberg-Preis für politisches Theater 2026
+[Zugang über Stufen](https://www.fwt-koeln.de/spielplan/zugang-ueber-stufen?tx_calendarize_calendar%5BendDate%5D=2026-12-27&tx_calendarize_calendar%5BstartDate%5D=2026-11-27&cHash=f9d7b6072fa9577d7d2e6a25b0f61e6b)
 [Tickets](https://tickets.qultor.de/event/touch-the-line/touch-the-line-2026-11-28-2000)
 29.11.2026
 So, 18:00 Uhr
@@ -51,4 +48,10 @@ So, 18:00 Uhr
 30.11.2026
 Mo, 19:00 Uhr
 Wir öffnen das Foyer ab November immer Montag abends. An den ersten drei Montagen im Monat treffen sich abwechselnd politisch aktive Gruppen im Foyer, um hier zu arbeiten und zu diskutieren. Am letzten Montag im Monat von 19:00 bis 21:00 Uhr wird es eine OPEN STAGE geben.
+02.12.2026
+Mi, 11:00 Uhr
+★ Theater für die Allerkleinsten | Babys erforschen ihre Umwelt mit allen Sinnen. Kunst spielend erfahren: Für Babys im Alter von 0-14 Monaten und ihre Eltern. Koproduktion wehrli-theater/andrea bleikamp & FWT
+Seit 12 Jahren auf der FWT-Bühne!
+[Für die Allerkleinsten](https://www.fwt-koeln.de/spielplan/fuer-die-allerkleinsten?tx_calendarize_calendar%5BendDate%5D=2026-12-27&tx_calendarize_calendar%5BstartDate%5D=2026-11-27&cHash=f9d7b6072fa9577d7d2e6a25b0f61e6b)
+★ [Tickets](https://tickets.qultor.de/event/babybuehne/babybuehne-2026-12-02-1100)
 [Gesamter Spielplan](https://www.fwt-koeln.de/spielplan)

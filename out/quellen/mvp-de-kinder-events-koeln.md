@@ -49,41 +49,20 @@ bis 50 €
 ab 200 €
 ★ Kinder-Events in Köln
 Link kopiert!
-1 - 40 von 89
+1 - 40 von 90
 Veranstaltungen
 angezeigt
 ★ [nächste Seite](https://www.mvp.de/koeln/veranstaltungen/veranstaltung-fuer-kinder/?from=40)
 Dein Kartenauschnitt wurde verändert. Aktualisiere für neue Ergebnisse
-★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
-★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
-★ Puppenspiele der Stadt Köln, KÖLN
-★ bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech zom Chressfess | Puppenspiele...
-27.11. bis 20.12.26
-(heute)
-ab
-17,50 €
-★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 ★ [Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
 ★ Kinderfreundliches Event, Theater, Musical, Bühne & Comedy
 Senftöpfchen-Theater, Köln
 ★ Samstag, 28. November 2026 bis Samstag, 30. Januar 2027 - Senftöpfchen-Theater - Köln - Engel&Esel-Produktionen - Fridolino Al(l)aaf - Für Menschen ab 4 Jahren
 28.11.26 - 30.01.27
-(morgen)
+(heute)
+ab
 18,70 €
 [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/engel-esel-produktionen-al-l-aaf-fridolino-entdeckt-den/)
-Anzeige
-[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-28&checkout=2026-12-02&q=koeln&label=ms4)
-freie Objekte in Köln bei casamundo.de
-Deine Reisedaten:
-28.11. bis 02.12.26
-ändern
-[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-28&checkout=2026-12-02&q=koeln&label=ms4)
-Hier ist noch ein Plätzchen frei
-So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
-aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
-Anzeigen zu einer Pause.
-[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
-Anzeigen finanzieren dieses Portal.
 ★ [Frau Holle - Seifenblasen Figurentheater Familienprogramm - Frau Holle](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 ★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event
 Theater im Walzwerk, Pulheim
@@ -92,6 +71,19 @@ Theater im Walzwerk, Pulheim
 14,75 €
 ★ [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/frau-holle-seifenblasen-figurentheater-familienprogramm-frau-pulheim/)
 [Tickets kaufen](https://mvp.reservix.de/p/reservix/event/2618717)
+Anzeige
+[Ferienwohnungen & Ferienhäuser](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-29&checkout=2026-12-03&q=koeln&label=ms4)
+freie Objekte in Köln bei casamundo.de
+Deine Reisedaten:
+29.11. bis 03.12.26
+ändern
+[Finden](https://link.m-vp.de/suchbox?src=casamundo&checkin=2026-11-29&checkout=2026-12-03&q=koeln&label=ms4)
+Hier ist noch ein Plätzchen frei
+So leer wie der Strand im November. Eigentlich stünde hier eine Anzeige
+aber dein Adblocker oder deine Cookie-Einstellungen zwingen unsere
+Anzeigen zu einer Pause.
+[Diesen Platz mieten](https://www.manet-marketing.de/kontakt/)
+Anzeigen finanzieren dieses Portal.
 ★ [Kinderkonzert „Das Schäfchen und der Stern“ - Zauberhaftes Schauspiel und Streicherklang](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/kinderkonzert-das-schaefchen-und-der-stern-zauberhaftes-pulheim/)
 ★ Konzert - Klassik, Kinderfreundliches Event
 LVR-Kulturzentrum Abtei Brauweiler - Kaisersaal, Pulheim
@@ -106,6 +98,13 @@ Bürgerhaus Hürth, HÜRTH
 32 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/yakari-freunde-fuers-leben-buergerhaus-huerth-huerth/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/21691828/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
+★ [Weihnachtsmärchen: 'E Leech zom Chressfess](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
+★ Theater, Musical, Bühne & Comedy, Kinderfreundliches Event, Sonstiges Event
+★ Puppenspiele der Stadt Köln, KÖLN
+★ bis Sonntag, 20. Dezember 2026 - Puppenspiele der Stadt Köln - Weihnachtsmärchen: 'E Leech zom Chressfess - Weihnachtsmärchen: 'E Leech zom Chressfess | Puppenspiele...
+28.11. bis 20.12.26
+17,50 €
+★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/weihnachtsmaerchen-e-leech-zom-chressfess-koeln/)
 [Eigenen Eintrag inserieren](https://www.manet-marketing.de/mein-mvp/)
 Nutzen Sie die Reichweite unserer Portale für Ihre Vermarktung.
 Regional. Flexibel. Günstig.
@@ -114,6 +113,7 @@ Regional. Flexibel. Günstig.
 Kölner Philharmonie, KÖLN
 ★ Sonntag, 29. November 2026 und Sonntag, 29. November 2026 - Kölner Philharmonie - Familienkonzert »Jauchzet, frohlocket!« mit Bachs Weihnachtsoratorium -...
 29.11.2026
+(morgen)
 18 €
 ★ [zur Veranstaltung](https://www.mvp.de/koeln/veranstaltungen/familienkonzert-jauchzet-frohlocket-mit-bachs-weihnachtsoratorium/)
 [Große Musik für kleine Ohren - Das Schäfchen und der Stern - Kulturkirche Brüggen](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/grosse-musik-fuer-kleine-ohren-das-schaefchen-und-der-stern-kerpen/)
@@ -217,7 +217,7 @@ Sonntag, 13. Dezember 2026 und Sonntag, 13. Dezember 2026 - Theater am Tanzbrunn
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/aladin-das-musical-theater-am-tanzbrunnen-koeln-deutz/)
 [Pippi Langstrumpf - HÜRTH](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/pippi-langstrumpf-buergerhaus-huerth-huerth/)
 Sonntag, 13. Dezember 2026 - Bürgerhaus Hürth - Pippi Langstrumpf - Pippi Langstrumpf - Bürgerhaus Hürth
-24,50 €
+23,50 €
 [zur Veranstaltung](https://www.mvp.de/nordrhein-westfalen/veranstaltungen/pippi-langstrumpf-buergerhaus-huerth-huerth/)
 [Tickets kaufen](https://www.eventim.de/noapp/event/20914613/?affiliate=MMQ&utm_source=MMQ&utm_medium=dp&utm_campaign=manetmarketing)
 ★ [Kokosnuss feiert Weihnachten - Familientag](https://www.mvp.de/koeln/veranstaltungen/kokosnuss-feiert-weihnachten-familientag-brunosaal-koeln-klettenberg/)

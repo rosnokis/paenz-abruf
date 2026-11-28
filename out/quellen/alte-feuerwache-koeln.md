@@ -26,15 +26,7 @@ SA
 24
 25
 26
-FR 27.11.
-[Frauen, TINAQ+ und Queers Psychologische Beratung 09:00 · M*Treff | Steigeturm](https://altefeuerwachekoeln.de/programm/psychologische-beratung-9/)
-[Jugend Write & Sing Your Song 17:00 · Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/write-sing-your-song-6/)
-[Kultur A.TONAL.THEATER: Plädoyer für die unglückliche Liebe 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/a-tonal-theater-plaedoyer-fuer-die-unglueckliche-liebe-2/)
-[FR 27.11. Activ lernen | Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-42/)
-★ [FR 27.11. Offener Kindertreff 14:00 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/offener-kindertreff-4/)
-[FR 27.11. Studio Beats/Texte/Gesang 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/studio-beats-texte-gesang-12/)
-[FR 27.11. Offener Jugendtreff 16:00 Jugendbereich | Funkleitzentrale](https://altefeuerwachekoeln.de/programm/offener-jugendtreff-18/)
-[FR 27.11. Spieleautoren KAK 18:00 Raum 4 | Branddirektion](https://altefeuerwachekoeln.de/programm/spieleautoren-2/)
+27
 SA 28.11.
 [Kultur COMPUTING MUSIC XIV– Karlsruhe – Köln 15:00 · Halle](https://altefeuerwachekoeln.de/programm/computing-music-xiv-karlsruhe-koeln/)
 [Kultur A.TONAL.THEATER: Plädoyer für die unglückliche Liebe 20:00 · Bühne | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/a-tonal-theater-plaedoyer-fuer-die-unglueckliche-liebe-3/)
@@ -48,8 +40,8 @@ SO 29.11.
 [SO 29.11. Narcotics Anonymous | persisch 14:30 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/narcotics-anonymous-persisch-8/)
 [SO 29.11. Narcotics Anonymous 18:30 Raum 4 | Steigeturm](https://altefeuerwachekoeln.de/programm/narcotics-anonymous-2/)
 MO 30.11.
+★ [Kinder & Familie Eltern-Kind-Treff 09:30 · Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-treff-5/)
 [MO 30.11. Activ lernen | Sprachschule 09:00 Clubraum | Branddirektion](https://altefeuerwachekoeln.de/programm/activ-lernen-sprachschule-43/)
-★ [MO 30.11. Eltern-Kind-Treff 09:30 Kinder- und Familienbereich | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/eltern-kind-treff-5/)
 [MO 30.11. The Green Room | psycholgoische Beratung für Künstler*innen 09:30 Konferenzraum | Steigeturm](https://altefeuerwachekoeln.de/programm/the-green-room-psycholgoische-beratung-fuer-kuenstlerinnen-9/)
 [MO 30.11. TPSK | Seniorensport 10:00 Großes Forum | Südtrackt](https://altefeuerwachekoeln.de/programm/tpsk-seniorensport-9/)
 [MO 30.11. YOGA - Back to Basics 10:15 Theaterproberaum | Mannschaftshaus](https://altefeuerwachekoeln.de/programm/yoga-back-to-basics-8/)

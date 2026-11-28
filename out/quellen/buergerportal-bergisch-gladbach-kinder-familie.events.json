@@ -123,6 +123,15 @@
   "quelle": "https://in-gl.de/event-type/kinder-familie/"
  },
  {
+  "name": "Eintrittsfreier Museums-Tag für Alle!",
+  "startDate": "2026-12-4T11:00+1:00",
+  "endDate": "2026-12-4T18:00+1:00",
+  "url": "https://in-gl.de/events/eintrittsfreier-museums-tag-fuer-alle-17/",
+  "eventStatus": "EventScheduled",
+  "kinder": false,
+  "quelle": "https://in-gl.de/event-type/kinder-familie/"
+ },
+ {
   "name": "Nikolaus-Turnen und Parkour",
   "startDate": "2026-12-6T10:00+1:00",
   "endDate": "2026-12-6T12:45+1:00",

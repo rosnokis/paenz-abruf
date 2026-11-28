@@ -3,22 +3,16 @@
 ## Quelle: https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/
 ★ Veranstaltungskalender Familie & Kinder in Leverkusen.
 ★ Finde die besten Events und Tickets für Familie & Kinder.
-50 kommende Veranstaltungen in dieser Kategorie
+49 kommende Veranstaltungen in dieser Kategorie
 Große Abenteuer für kleine Entdecker in ganz Leverkusen
 ★ Das Beste für die Kleinen! Vom Puppentheater über Kinderfeste bis hin zu Ferienangeboten – wir zeigen dir die familienfreundlichsten Events in Leverkusen.
 Aktuell laufend (0)
 Veranstaltungen
-(50)
-27
+(49)
+29
 Nov
 [Advent & Weihnachten](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/advent-weihnachten/)
 ★ [Familie & Kinder](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/familie-kinder/)
-[Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
-Fr
-15:30 Uhr
-[Basteln im Advent für Groß und Klein](https://lust-auf-leverkusen.de/veranstaltung/basteln-im-advent-fuer-gross-und-klein/)
-[Petruskirche](https://lust-auf-leverkusen.de/veranstaltungsort/petruskirche/)
-29
 So
 15:00 Uhr
 ★ [Weihnachtskonzert. Leverkusener Kinder- und Jugendchor.](https://lust-auf-leverkusen.de/veranstaltung/weihnachtskonzert-leverkusener-kinder-und-jugendchor/)
@@ -32,6 +26,7 @@ Ausverkauft
 [Forum Leverkusen](https://lust-auf-leverkusen.de/veranstaltungsort/forum/)
 11:00 Uhr
 [Olaf, der Elch](https://lust-auf-leverkusen.de/veranstaltung/olaf-der-elch/2026-12-01-11-00/)
+[Kostenlos](https://lust-auf-leverkusen.de/veranstaltungen/?kostenlos=1)
 16:30 Uhr
 ★ [Die Schlossgespenster. Der Kunstklub für Kinder.](https://lust-auf-leverkusen.de/veranstaltung/schlossgespenster/2026-12-01-16-30/)
 [Museum Morsbroich](https://lust-auf-leverkusen.de/veranstaltungsort/schloss-morsbroich/)
@@ -51,11 +46,11 @@ Do
 14:30 Uhr
 [In der Weihnachtsbäckerei](https://lust-auf-leverkusen.de/veranstaltung/in-der-weihnachtsbaeckerei/)
 ★ [Städtische Tageseinrichtung für Kinder](https://lust-auf-leverkusen.de/veranstaltungsort/staedtische-tageseinrichtung-fuer-kinder/)
-[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
-[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-12-03-16-00/)
 [Essen & Trinken](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/essen-trinken/)
 ★ [Umzugsparty. Kinder- und Jugendtreff LA.](https://lust-auf-leverkusen.de/veranstaltung/umzugsparty-kinder-und-jugendtreff-la/)
 ★ [Kinder- und Jugendtreff "Treff L.A."](https://lust-auf-leverkusen.de/veranstaltungsort/kinder-und-jugendtreff-treff-l-a/)
+[Lesungen & Literatur](https://lust-auf-leverkusen.de/veranstaltungen/kategorie/lesungen-literatur/)
+[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-12-03-16-00/)
 06
 [Tickets](https://leverkusen-kultur.reservix.de/p/reservix/event/2518438)
 [Der satanarchäolügenialkohöllische Wunschpunsch](https://lust-auf-leverkusen.de/veranstaltung/der-satanarchaeoluegenialkohoellische-wunschpunsch/)
@@ -71,3 +66,4 @@ Mo
 ★ [Die Museumsflöhe. Mit Kleinkindern ins Museum Morsbroich.](https://lust-auf-leverkusen.de/veranstaltung/museumsfloehe/2026-12-09-09-30/)
 10
 [Fledermaus-Basteln](https://lust-auf-leverkusen.de/veranstaltung/fledermaus-basteln/)
+[Lesen verleiht Flügel](https://lust-auf-leverkusen.de/veranstaltung/lesen-verleiht-fluegel-2026-12-10-16-00/)

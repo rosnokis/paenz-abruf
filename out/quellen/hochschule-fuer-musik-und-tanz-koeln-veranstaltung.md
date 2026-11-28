@@ -2,26 +2,23 @@
 
 ## Quelle: https://www.hfmt-koeln.de/aktuelles/veranstaltungen/
 November 2026
-[Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-11-2023-violinabend-1-1-1-1-1-1-1-1-1-1-1/)
-27.11.2026
-19:30
-Uhr
-Konzertsaal Wuppertal
-Wuppertal
-Kammer­musik­abend
-[Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/27-11-2026-kammermusikabend/)
-Kammermusiksaal
-Köln
-[Klaviermatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-klaviermatinee/)
+[Klaviermatinee - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-klaviermatinee/)
 28.11.2026
 11:00
+Uhr
+Kammermusiksaal
+Köln
 Klaviermatinee
+Fällt leider aus.
 [Cello Klassenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-cello-klassenabend/)
 19:00
+Raum 114
 Cello Klassenabend
 [Gitarrenabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1/)
+19:30
+Konzertsaal Wuppertal
+Wuppertal
 Gitarrenabend
-Fällt leider aus.
 [FESTLICHES BLÄSERKONZERT](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-11-2026-festliches-blaeserkonzert/)
 Konzertsaal
 FESTLICHES BLÄSERKONZERT
@@ -31,13 +28,13 @@ Herzensangelegenheit
 [Trompetenmatinee](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-trompetenabend/)
 Aachen
 Trompetenmatinee
-[Fagottnachmittag](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-fagottnachmittag/)
+[Fagottnachmittag - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-fagottnachmittag/)
 15:00
 Fagottnachmittag
 [Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-jahreskonzert-erstes-koelner-akkordeon-orchester-1935-e-v/)
 17:00
 Jahreskonzert - Erstes Kölner Akkordeon-Orchester 1935 e. V
-[Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-klavierabend/)
+[Klavierabend - Fällt leider aus.](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-11-2026-klavierabend/)
 Klavierabend
 Dezember 2026
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/01-12-2026-lunchtime-konzerte-in-st-kunibert/)
@@ -79,6 +76,8 @@ Konzertsaal Neubau
 Winterfest
 [Winterfest](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2026-winterfest/)
 06.12.2026
+[LA BOHÈME](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/06-12-2026-la-boheme/)
+LA BOHÈME
 [Gesangsabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/07-12-2026-gesangsabend/)
 07.12.2026
 Gesangsabend
@@ -91,6 +90,7 @@ Combo-Doppelkonzert
 [Lunchtime-Konzerte in St. Kunibert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-lunchtime-konzerte-in-st-kunibert/)
 08.12.2026
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-kammermusikabend/)
+Kammer­musik­abend
 [Klassenabend Historische Violine und Viola](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-klassenabend-historische-violine-und-viola/)
 Klassenabend Historische Violine und Viola
 [Klassenabend der Posaunenklasse](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-12-2026-klassenabend-der-posaunenklasse/)
@@ -115,6 +115,9 @@ Die Zauberflöte - W. A. Mozart
 Cello Matinée
 [Kontrabassabend der Klasse Róbert Grondžel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-kontrabassabend-der-klasse-robert-grondzel/)
 Kontrabassabend der Klasse Róbert Grondžel
+[Bodies / Between / Beyond](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-bodies-/-between-/-beyond/)
+Studiotheater ZZT
+Bodies / Between / Beyond
 [Violinabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/12-12-2026-violinabend/)
 Violinabend
 [Die Zauberflöte - W. A. Mozart](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-12-2026-die-zauberfloete-w-a-mozart/)
@@ -167,8 +170,11 @@ Weihnachtssingen Vorchor
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/23-01-2024-klavierabend-4-1-2-1-2-1/)
 [Björk Revisited](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/16-12-2026-bjoerk-revisited/)
 Björk Revisited
-[High-D Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
+[tanz.tausch: The Container](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-tanztausch-the-container/)
 17.12.2026
+Tanzfaktur Köln
+tanz.tausch: The Container
+[High-D Big Band Konzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-big-band-konzert/)
 High-D Big Band Konzert
 [Heimspiel](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/17-12-2026-heimspiel/)
 Heimspiel
@@ -214,10 +220,14 @@ Januar 2027
 [Klassenabend Master Neue Musik](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/08-01-2027-klassenabend-master-neue-musik/)
 08.01.2027
 Klassenabend Master Neue Musik
-[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1-1/)
+[JOIN US](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/09-01-2027-join-us/)
 09.01.2027
-[Neujahrskonzert des Fördervereins](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-01-2027-neujahrskonzert-des-foerdervereins/)
+08:45
+JOIN US
+[Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-01-2024-gitarrenabend-1-2-1-1-1/)
+[JOIN US](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-01-2027-join-us/)
 10.01.2027
+[Neujahrskonzert des Fördervereins](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-01-2027-neujahrskonzert-des-foerdervereins/)
 Neujahrskonzert des Fördervereins
 [Violaabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/10-01-2027-bratschenabend/)
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/11-01-2027-klavierabend/)
@@ -320,12 +330,16 @@ KOMPASS #10
 29.01.2027
 Klassenabend des Kammerchores
 [Kammer­musik­abend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/31-01-2024-kammermusikabend-2-2/)
+[SOLOEDITION’27](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-01-2027-soloedition27/)
+SOLOEDITION’27
 [Semesterkonzert des Electronic Ensemble](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/30-01-2027-semesterkonzert-des-electronic-ensemble/)
 30.01.2027
 11:44
 Semesterkonzert des Electronic Ensemble
+[SOLOEDITION’27](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/30-01-2027-soloedition27/)
 [Klavierabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/30-01-2027-klavierabend/)
 [Gitarrenabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/03-02-2024-gitarrenabend-1-1-1-2-1-1/)
+[SOLOEDITION’27](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/30-01-2027-soloedition27-1/)
 [Jazzabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/29-01-2024-jazzabend-2-1-1-1-1/)
 31.01.2027
 Jazzabend
@@ -344,6 +358,10 @@ Violinenmatinee
 [Saxophonabend](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/14-02-2027-saxophonabend/)
 14.02.2027
 Saxophonabend
+[Internationale Tagung: „Figurations and Fantasies of Freedom in the Performing Arts“](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/18-02-2027-internationale-tagung-figurations-and-fantasies-of-freedom-in-the-performing-arts/)
+18.02.2027
+10:00
+Internationale Tagung: „Figurations and Fantasies of Freedom in the Performing Arts“
 [Lions-Musikpreis 2027: Preisträgerkonzert](https://www.hfmt-koeln.de/aktuelles/veranstaltungen/28-02-2027-lions-musikpreis-2027-preistraegerkonzert/)
 28.02.2027
 Lions-Musikpreis 2027: Preisträgerkonzert

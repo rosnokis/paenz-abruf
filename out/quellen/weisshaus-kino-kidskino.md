@@ -13,18 +13,13 @@ Film wählen
 Spielzeit wählen
 Home
 Heute im Programm:
-[20:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F5B581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[19:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F7B581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[15:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FBB370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[17:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F6B581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[17:15](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FCB370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
-[15:15](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FDB370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[17:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F7B370000023FBCFQYG%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [20:00](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F7A581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
+[19:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FDA581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[17:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FBA581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B)
+[14:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2FFF381000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true%2C%0Arb%3A+%26apos%3B1%26apos%3B%2C%0Alang%3A+%26apos%3Bde%26apos%3B%2C%0Amode%3A+%26apos%3Bwidget%26apos%3B%2C%0AshowId%3A+%26apos%3B%26apos%3B), [15:30](https://www.weisshaus-kino.de/ticket?l=*kinoheld*%0AcinemaPath%3A+%26apos%3Bkino%2Fkoeln%2Fweisshaus-kino-koeln%2Fvorstellung%2F3D581000023MHWBOTF%26apos%3B%2C%0Atarget%3A+%26apos%3Bself%26apos%3B%2C%0AnoChange%3A+true …
 Heute im Programm
 FROM INSIDE OUT – Die Architektur von Peter...
 Wild Horse Nine
-Heimsuchung - Eine...
-Block 10
-Leica – Ein Jahrhundert in...
 Der Regenbogenfisch
 [KidsKino Preview Das NEINhorn](https://www.weisshaus-kino.de/event/128320)
 KidsKino Preview

@@ -34,6 +34,10 @@ Philharmonie
 ★ Veedel Baby
 Funkelzeit
 ★ [Mehr erfahren](https://comedia-koeln.de/programm/unsere-gaeste/philharmonieveedel-baby-funkelzeit/)
+6+
+Emil und die Detektive
+Die Kölner Fassung für drei Spieler nach Erich Kästner
+[Mehr erfahren](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/emil-und-die-detektive/)
 Willkommen
 Willkommen in der HALLE
 Ausstellung
@@ -50,12 +54,6 @@ Köln und NRW
 [Mehr erfahren](https://comedia-koeln.de/ueber-uns/comedia-in-der-suedstadt/profil/)
 Die nächsten Termine
 27.11.
-Fr 09:00 Uhr
-[Der Zauber von Oz »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/der-zauber-von-oz/)
-★ von Sergej Gößner, für alle ab 5 Jahren
-Comedia Theater (Roter Saal)
-[Tickets](https://comedia-koeln.de/schulvorstellungen/)
-Fr 11:00 Uhr
 Fr 17:00 Uhr
 [Das Haus vom Klaus »](https://comedia-koeln.de/magazin/das-haus-vom-klaus/)
 Weihnachtszauber im Winterdorf der Halle der COMEDIA (drinnen/draußen)
@@ -63,10 +61,6 @@ bis 22:00 Uhr
 Fr 18:00 Uhr
 [Fortsetzung Antragstellung-Workshop mit Ulrike Seybold »](https://comedia-koeln.de/ueber-uns/510-comedia-in-koeln-muelheim/lab-freitag-in-der-510-comedia/)
 In der 510 Comedia in Köln- Mühlheim
-Fr 19:30 Uhr
-Relaxed Performance
-[WeArtHere! Dress to impress - Wie politisch ist Mode? »](https://comedia-koeln.de/programm/unsere-gaeste/wearthere/)
-[Tickets](https://api.qultor.de/wearthere-dress-to-impress-wie-politisch-ist-mode/wearthere-dress-to-impress-wie-politisch-ist-mode-2026-11-27-1930/tickets)
 28.11.
 Sa 15:00 Uhr
 Sa 19:00 Uhr
@@ -80,6 +74,7 @@ Comedia Theater (Grüner Saal)
 [Tickets](https://api.qultor.de/jugend-ohne-gott/jugend-ohne-gott-2026-11-28-1930/tickets)
 Sa 20:00 Uhr
 [Helene Bockhorst: LEBEFRAU »](https://comedia-koeln.de/programm/unsere-gaeste/helene-bockhorst-lebefrau/)
+Comedia Theater (Roter Saal)
 [Tickets](https://api.qultor.de/helene-bockhorst-lebefrau/helene-bockhorst-lebefrau-2026-11-28-2000/tickets)
 29.11.
 So 12:00 Uhr
@@ -102,8 +97,6 @@ Di 14:00 Uhr
 2.12.
 Mi 11:00 Uhr
 [Emil und die Detektive »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/emil-und-die-detektive/)
-Die Kölner Fassung für drei Spieler nach Erich Kästner
-6+
 [Tickets »](https://comedia-koeln.de/schulvorstellungen/)
 3.12.
 Do 09:00 Uhr
@@ -111,8 +104,12 @@ Do 09:00 Uhr
 Do 11:00 Uhr
 [Was für ein Chaos »](https://comedia-koeln.de/programm/unsere-stuecke/unsere-produktionen/was-fuer-ein-chaos/)
 eine Stückentwicklung von Manuel Moser und Ensemble, eine Produktion des theaterkohlenpott, Herne
+[Tickets](https://comedia-koeln.de/schulvorstellungen/)
 Do 19:00 Uhr
 [Netzlehrer Bob Blume: FUN FACTS »](https://comedia-koeln.de/programm/unsere-gaeste/fun-facts-mit-netzlehrer-bob-blume/)
 [Tickets](https://api.qultor.de/netzlehrer-bob-blume-fun-facts/netzlehrer-bob-blume-fun-facts-2026-10-08-1900/tickets)
+4.12.
+Fr 09:00 Uhr
+Fr 11:00 Uhr
 Programme wählen
 [Alle Termine anzeigen](https://comedia-koeln.de/buehne/termine/)

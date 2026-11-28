@@ -27,6 +27,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "Frühstückstreff für Schwangere und frisch gebackene Eltern",
+  "location": {
+   "name": "Hennef"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/fruehstueckstreff-fuer-schwangere-und-frisch-gebackene-eltern/2026-12-04",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "KUNST+KIND: Mit Baby unterwegs ins Museum Schnütgen",
   "location": {
    "name": "Köln"
@@ -63,6 +72,15 @@
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },
  {
+  "name": "PhilharmonieVeedel Baby „Funkelzeit\"",
+  "location": {
+   "name": "Köln"
+  },
+  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/philharmonieveedel-baby-funkelzeit-3/2026-12-03",
+  "kinder": true,
+  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
+ },
+ {
   "name": "„BlubberBlasen SeifenZauber\"",
   "location": {
    "name": "Köln"
@@ -95,24 +113,6 @@
    "name": "Köln"
   },
   "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kuh-swantje/2026-11-28",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die Stoffmarie\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-stoffmarie/2026-11-27",
-  "kinder": false,
-  "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
- },
- {
-  "name": "„Die kleine Eidechse\"",
-  "location": {
-   "name": "Köln"
-  },
-  "url": "https://www.kaenguru-online.de/kalender/fuer-minis/die-kleine-eidechse/2026-11-27",
   "kinder": false,
   "quelle": "https://www.kaenguru-online.de/kalender/fuer-minis"
  },

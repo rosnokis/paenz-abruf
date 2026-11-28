@@ -4,19 +4,19 @@
 Previous
 Next
 Aktuelle Termine
-27. Nov. 2026
-★ Fr.., 15:30 Uhr | [Zeit für Kinder: Weihnachten zum Mitmachen!](https://www.lutherkirche-nippes.de/termin/weihnachtsstueck-2026/)
-Gemeindehaus
-★ Fest | Gottesdienst Gemeinsam | Theater | Zeit für Kinder
-Fr.., 16:00 Uhr | [Offenes Trauercafé](https://www.lutherkirche-nippes.de/termin/trauercafe-2611/)
-Café Fink
-Dialog
 29. Nov. 2026
 So.., 08:55 Uhr | [Sonntagskirche im WDR 4](https://www.lutherkirche-nippes.de/termin/kirche-wdr4-261129/)
 WDR4 | Radio
 Dialog | Online
 ★ So.., 11:00 Uhr | [Gottesdienst für Kinder](https://www.lutherkirche-nippes.de/termin/kindergottesdienst-2611/)
+Gemeindehaus
 ★ Gottesdienst | Gottesdienste für Kinder | Zeit für Kinder
+So.., 11:00 Uhr | [Gottesdienst zum ersten Advent](https://www.lutherkirche-nippes.de/termin/gottesdienst-261129/)
+Lutherkirche Nippes
+Gottesdienst
+30. Nov. 2026
+Mo.., 19:30 Uhr | [Zeit für Stille](https://www.lutherkirche-nippes.de/termin/zeitfuerstille-2611/)
+Entspannen | Freizeit
 [Alle Termine](https://www.lutherkirche-nippes.de/termine/)
 [Gottes­dienste](https://www.lutherkirche-nippes.de/lutherkirche/gottesdienste/)
 Podcasts unserer Gemeinde

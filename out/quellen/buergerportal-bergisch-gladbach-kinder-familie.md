@@ -33,13 +33,11 @@ Atelierhaus Grube Weiß
 Autohaus Gieraths
 AWO Bildungswerk
 ★ AWO Familienzentrum „Kunterbunt“
-Bachufer der Brücker Aue
 ★ Barber‘s Puppentheater
 Basement 16
 BASt Bundesanstalt für Straßen- und Verkehrswesen
 Begegnungsstätte Mittendrin
 Belkaw Arena
-Bensberg Schloßstr.
 Bensberger Bank
 Bergischer Naturschutzverein (RBN)
 Bergisches Museum für Bergbau, Handwerk und Gewerbe
@@ -64,7 +62,6 @@ Büro Die Linke
 Bus- und S-Bahnhof
 cabra azul
 Café Amelie
-Café Buchmühle
 Cafe Extrablatt
 Cafe Leichtsinn
 Café Richtig
@@ -77,13 +74,10 @@ CDU Kreisgeschäftsstelle
 Cineplex
 Clemenshaus
 Clubheim TTC Bärbroich
-Conrad's Couch
-Cornelia Schwöppe
 Coworking GL
 DBG Dietrich-Bonhoeffer-Gymnasium
 Die Kette e.V.
 Diepeschrather Mühle
-DIVERSE
 DJK-SSV Ommerborn Sand eV
 ★ Dorea Familie
 Dorfplatz Sand
@@ -137,7 +131,6 @@ Fußgängerzone Bergisch Gladbach
 Galerie Schröder und Dörr
 Garage hinter dem Stadthaus
 Garten der Begegnung
-Garten der Begegnung (hinter dem Pfarrhaus der Kirche)
 Garten der Begegnung, an der Herz-Jesu-Kirche Schildgen
 Gartencenter Selbach
 Gartensiedlung Gronauer Wald
@@ -173,9 +166,7 @@ Handwerkstatt
 Hans-Hachenberg-Platz
 Hansen Wirtshaus & Hotel
 Hauptstr. 245, 51465 GL
-Hauptstr. bei der Post („Trotzenburgplatz“)
 Hauptstraße vor dem LoewenCenter
-Haus Buchmühle, Raum 116
 Hebborner Hof
 Heilig-Geist-Kirche
 Hermann-Löns-Forum
@@ -390,7 +381,6 @@ Treffpunkt: Marktplatz Refrath
 Treffpunkt: Pforte Zanders-Areal An der Gohrsmühle 25
 Treffpunkt: Strundequelle in Herrenstrunden
 Trotzenburgplatz
-Trotzenburgplatz, Hauptstraße 159
 TS 79
 TuS Schildgen
 Ufo Jugendkulturhaus
@@ -509,6 +499,8 @@ Chor „à tempo“
 ChorSand und Pop&Soul Chor Dellbrück
 Christlich-ökologische Wohngenossenschaft (CÖW)
 Cineplex Bensberg
+Conrad's Couch
+Cornelia Schwöppe
 Cross - Kath. Zentrum für junge Menschen in Gronau
 CVJM
 Das Esszimmer im TBG
@@ -977,6 +969,9 @@ Vorsortierte Spielzeugbörse.
 ★ [Kalender](https://in-gl.de/export-events/381860_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Spielzeugb%C3%B6rse&dates=20261121T150000Z/20261121T180000Z&ctz=Europe/Berlin&details=Spielzeugb%C3%B6rse&location=Kita+Heilige+Drei+K%C3%B6nigeHebborner+Kirchweg+1%2C+Bergisch+Gladbach)
 ★ [24 Nov 19:00 Welche weiterführende Schule passt zu meinem Kind? Kostenfreier Online-Impulsvortrag](https://in-gl.de/?p=384026)
 Dezember
+04 Dez 10:00 17:00 Eintrittsfreier Museums-Tag für Alle!
+4. Dezember 2026 10:00 - 17:00 (GMT+00:00)
+[Kalender](https://in-gl.de/export-events/385355_0/) [GoogleCal](https://www.google.com/calendar/event?action=TEMPLATE&text=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&dates=20261204T100000Z/20261204T170000Z&ctz=Africa/Abidjan&details=Eintrittsfreier+Museums-Tag+f%C3%BCr+Alle%21&location=Papiermuseum+Alte+Dombach)
 TS 79 Langemarckweg 24, Bergisch Gladbach
 ★ 06 Dez 10:00 12:45 Nikolaus-Turnen und Parkour
 Kostenfreies Angebot für Kids von 5 – 12 Jahren.Unter folgendem Link läuft die Anmeldung für das Turnen: https://www.ts79.de/de/sportangebot/kids-und-junge-leute/ferienangebote/
